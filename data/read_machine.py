@@ -1,6 +1,7 @@
 import csv
 from collections import Counter
 import pandas as pd
+from data.read_human import *
 
 def read_sentiment(fname):
     '''data = []
@@ -32,9 +33,9 @@ def get_splitted_data(task="sentiment"):
 
     if task == "sentiment":
         # create train, dev and test splits with this structure
-        human_data = read_human_csv.get_data("human/sentiment/sentiment_human_control.csv", task="sentiment")
+        human_data = get_human_data("data/human/sentiment-analysis/control.csv", task="sentiment")
 
-        with open("machine/sst/datasetSplit.txt") as f:
+        with open("data/machine/sentiment-analysis/split.txt") as f:
             splits = [line.split(',')[1] for line in f.read().splitlines()]
         f.close()
 
@@ -74,31 +75,30 @@ def make_new_splits(train, dev, test):
     sent_info = dict()
 
     # 1: read the original sentences (starts from 1)
-    with open("machine/sst/datasetSentences.txt") as f:
+    with open("data/machine/sentiment-analysis/sentences.txt") as f:
         sents = [line.split('\t')[1] for line in f.read().splitlines()]
     f.close()
 
     # 2: get the splits each sentence belongs
-    with open("machine/sst/datasetSplit.txt") as f:
+    with open("data/machine/sentiment-analysis/split.txt") as f:
         splits = [line.split(',')[1] for line in f.read().splitlines()]
     f.close()
 
     # 3: get the labels for each sentence in the original splits
-    with open("machine/sst/train/dlabels.txt") as f:
+    with open("data/machine/sentiment-analysis/train/dlabels.txt") as f:
         train_labs = [line[-1] for line in f.read().splitlines()]
     f.close()
-    with open("machine/sst/dev/dlabels.txt") as f:
+
+    with open("data/machine/sentiment-analysis/dev/dlabels.txt") as f:
         dev_labs = [line[-1] for line in f.read().splitlines()]
     f.close()
-    with open("machine/sst/test/dlabels.txt") as f:
+    with open("data/machine/sentiment-analysis/test/dlabels.txt") as f:
         test_labs = [line[-1] for line in f.read().splitlines()]
     f.close()
     print("debug")
 
 
-def get_machine_data(config):
-    file_name = config['data']['machine']
-    task = config['data']['type']
+def get_machine_data(file_name, task):
     data = []
     if task == "sentiment":
         data = read_sentiment(file_name)
@@ -107,8 +107,7 @@ def get_machine_data(config):
     return data
 
 
-
 #if __name__ == '__main__':
-    #train, dev, test = get_splitted_data(task="sentiment")
-    #make_new_splits(train, dev, test)
+#    train, dev, test = get_splitted_data(task="sentiment")
+#    make_new_splits(train, dev, test)
 

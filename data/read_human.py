@@ -51,11 +51,8 @@ def read_snli(fname):
                              'pupil':row[17], 'accuracy': row[30], 'IRT_p1': row[31], 'IRT_p4': row[32]})
     return data
 
-def get_human_data(config):
-    file_name = config['data']['human']
-    task = config['data']['type']
+def get_human_data(file_name, task):
     data = []
-
     if task == "sentiment":
         data = read_sentiment(file_name)
     elif task == "re":

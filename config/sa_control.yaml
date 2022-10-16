@@ -16,6 +16,6 @@ correlation:
     dir: results/sentiment-analysis/
     heatmap:
       name:  control_heatmap.png
-      title: fixation correlations
+      title: correlations
     excel:
       name:  control_correlations.xlsx

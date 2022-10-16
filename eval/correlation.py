@@ -30,23 +30,26 @@ def main():
     cols_human   = config['correlation']['columns']['human']
     cols_machine = config['correlation']['columns']['machine']
     method_corr  = config['correlation']['method']
-    type_corr  = config['correlation']['type']
+    type_corr    = config['correlation']['type']
+    file_human   = config['data']['human']
+    file_machine = config['data']['machine']
+    task = config['data']['type']
+    
     if type_corr == 'human':
         cols_corr =  cols_human
-        data_corr   = get_human_data(config)
+        data_corr   = get_human_data(file_human, task)
     elif type_corr == 'machine':
         cols_corr =  cols_machine  
-        data_corr = get_machine_data(config)
+        data_corr = get_machine_data(file_machine, task)
     elif type_corr == 'human+machine':
         cols_corr =  cols_human + cols_machine
-        data_human   = get_human_data(config)
-        data_machine = get_machine_data(config)
+        data_human   = get_human_data(file_human, task)
+        data_machine = get_machine_data(file_machine, task)
         data_corr    = pd.concat([data_human, data_machine], axis=1)
     else:
         print('correlation type should be (1) human+machine, (2) human or (3) machine.')
         return
   
-    
     # correlate with specified method
     corr         = correlate(data_corr, cols_corr, method_corr)
     
