@@ -1,0 +1,21 @@
+data:
+  type: sentiment
+  human: data/human/sentiment-analysis/all.csv
+  machine: data/machine/sentiment-analysis/all.csv
+
+correlation:
+  type: human+machine 
+  method: spearman
+  columns:
+    human:
+      - flesch_readability_ease_score 
+      - mean_of_fixations
+    machine:
+      - BERT_SOFTMAX_ENTROPY  
+  results:
+    dir: results/sentiment-analysis/
+    heatmap:
+      name:  all_heatmap.png
+      title: fixation correlations
+    excel:
+      name:  all_correlations.xlsx
