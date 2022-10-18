@@ -1,0 +1,91 @@
+snli_id,sentence_1,sentence_2,label,item_difficulty,average_accuracy,flesch_score_textstat,mean_grade_level_textstat,number_of_words,number_of_characters
+1947351225.jpg#0r1c,A little boy is opening gifts surrounded by a group of children and adults.,The boy is being punished,contradiction,-1.75982247491244,0.8391393442622951,78.75,6.0,19,101
+3626964430.jpg#0r1e,"People playing cricket in the park, pine trees in the back.","People are playing sports in the park, near the pine trees",entailment,-2.1790869834078,0.8862704918032787,94.15,5.0,22,118
+4576144189.jpg#3r1e,Some people hanging out on a large backyard deck.,people hanging out on deck,entailment,-3.13717793250355,0.951844262295082,81.29,3.0,14,76
+507370108.jpg#3r1n,A group of dancers are performing.,The audience is silent.,neutral,-1.98210490343004,0.8657786885245902,83.32,3.0,10,58
+3361210233.jpg#0r1n,A large brown and white dog is carrying a stick through a white and snowy area.,A puppy is playing fetch with a stick.,neutral,-0.280871833963571,0.5655737704918032,93.14,4.0,24,118
+3512127856.jpg#2r1n,A little girl in pink stands in a yellow hallway.,The girl is standing outside her apartment.,neutral,-1.40847862599424,0.7889344262295082,79.77,4.0,17,93
+6775386430.jpg#1r1n,A young boy in a sweatshirt is doodling on a piece of paper.,The class pictures are on display.,contradiction,0.962349262458267,0.2899590163934426,87.21,4.0,19,95
+3433982387.jpg#1r1n,A young girl in a white dress watches bubbles while a woman and girl toddler observe.,A girl is watching bubbles.,entailment,-3.76147309861573,0.9733606557377049,86.2,4.0,21,113
+358127240.jpg#4r1n,a toddler playing with a toy car next to a dog.,A toddler plays with toy cars while his dog sleeps.,neutral,-1.17515875979249,0.75,103.12,2.0,21,99
+4919196839.jpg#0r1e,A man in and a woman are holding their towels at the beach.,People are at the beach,entailment,-3.42068383007488,0.9631147540983607,96.18,4.0,18,83
+2550027486.jpg#3r1n,Man and woman crossing the street at dusk.,A husband and a wife are enjoying a leisurely stroll in the evening.,neutral,-1.33186925978517,0.7766393442622951,86.2,6.0,21,111
+5635975939.jpg#3r1c,A woman singing into a microphone while a man plays drums in the background.,They are playing a PlayStation.,contradiction,0.327321146263317,0.42520491803278687,78.75,6.0,19,108
+4900546628.jpg#2r1n,"Two men in front of a projector screen, one at a microphone.",Three men about to present their best idea yet in front of their company.,neutral,-1.19853076001311,0.7540983606557377,92.12,6.0,26,134
+7786624414.jpg#2r1c,A cyclist is optimistic as he rushes through the air while on his BMX bike at a bicycle event.,A snowboarder flies through the air,contradiction,-0.911334779346956,0.7008196721311475,84.17,5.0,25,130
+2731171552.jpg#1r1c,A boy in a blue and white shirt is pointing up and a second boy in a white shirt shields his eyes.,Two boys puch each other on swings.,contradiction,0.131191355265525,0.4702868852459016,99.06,3.0,29,134
+2895548671.jpg#2r1n,A group of people in dark clothing are crossing a crosswalk.,A group of people in dark clothing are crossing a crosswalk to get to the store,neutral,-1.61501394452806,0.819672131147541,83.15,6.0,27,140
+4937760948.jpg#4r1e,A girl is holding a camera and making a hand gesture.,A girl holds a camera.,entailment,-3.98274862480943,0.9784836065573771,88.74,3.0,16,76
+75204250.jpg#2r1n,A man posing with a antique sewing machine.,He is a sewer.,neutral,-1.88410835880238,0.8545081967213115,90.77,2.0,12,58
+2916012955.jpg#4r1n,Five people standing by a gate.,Five fat people standing by a gate.,neutral,-2.07720861227919,0.8760245901639344,90.26,3.0,13,67
+2496713113.jpg#3r1c,Man sweeping trash outside a large statue.,A man is on vacation.,contradiction,0.0384307516550445,0.4918032786885246,82.31,3.0,12,64
+4351734575.jpg#0r1e,A man wearing an orange suit with his face painted white is holding a guitar above his shoulder.,There is one man in this picture.,entailment,0.763229378915494,0.32991803278688525,84.17,5.0,25,130
+7067778185.jpg#2r1e,Two men and a woman are inspecting the front tire of a bicycle.,There are a group of people near a bike.,entailment,-1.93676687534496,0.860655737704918,85.69,6.0,22,104
+4923755473.jpg#1r1n,This path leads up to the apple market entrance.,This road goes up to apple market entrance,entailment,-1.1234469428653,0.7407786885245902,79.77,4.0,17,91
+956164675.jpg#2r1e,A single runner is watched by onlookers in a race.,A man is running in a race.,entailment,-0.523092234344364,0.6198770491803278,88.23,6.0,17,78
+3590653633.jpg#4r1c,Two rodeo clowns are on the dirt.,Two circus clowns were riding bicycles.,contradiction,0.622663278953605,0.35963114754098363,90.26,3.0,13,73
+3469609037.jpg#1r1n,A boy does a skateboarding trick in the air while holding the board with his left hand.,A sad boy does a skateboarding trick in the air while holding the board with his left hand.,neutral,-1.62233102085706,0.8206967213114754,87.55,6.0,35,179
+87938334.jpg#1r1e,A young boy in a beige jacket laughs as he reaches for a teal balloon.,The boy plays with the balloon.,entailment,-0.704480583986331,0.6588114754098361,94.66,3.0,21,102
+3309042087.jpg#4r1n,A scene of snow and water.,a snow and water scene at sunset,neutral,-1.46801469540934,0.798155737704918,98.72,0.0,13,59
+7060264119.jpg#2r1c,"A group of people are gathered in a crowd, some of which are holding spears.",A crowd of people are holding swords,contradiction,0.0516687497760844,0.4887295081967213,94.15,5.0,22,113
+3386694897.jpg#3r1e,A man prepares food in a shanty kitchen.,A man is fixing a meal.,entailment,-2.18969460684385,0.8872950819672131,98.21,0.0,14,64
+4291704682.jpg#3r1n,There are two people sweeping a sidewalk in this picture.,The man is clearing leaves from the sidewalk.,neutral,-0.985463268499332,0.7151639344262295,87.72,4.0,18,103
+2178095150.jpg#2r1c,The dogs ran around the dirt racetrack.,Dogs are humping each other.,contradiction,-0.900907428898312,0.6987704918032787,90.77,2.0,12,68
+3543378438.jpg#1r1c,"A man is sitting in front of a harpsichord, and a woman is preparing to sing.",a boy covers his ears,contradiction,1.39643765267491,0.21311475409836064,86.2,4.0,21,99
+2858757067.jpg#3r1e,Two people dressed in red and white wait at the horse track with a horse.,The people at the track are outdoors.,entailment,0.264525073991547,0.4395491803278688,102.61,5.0,22,111
+4573386995.jpg#1r1c,A person is standing next to a wooden fence with flowering trees nearby.,The bare tree branches rattle in the wind.,contradiction,-0.0674811522588409,0.5163934426229508,77.74,5.0,21,115
+4829253619.jpg#4r1c,An old woman in a cowboy hat smokes a cigarette.,The old lady is ten feet tall.,contradiction,0.81807490871417,0.31864754098360654,88.23,4.0,17,79
+3163477256.jpg#4r1n,Two soccer players are playing soccer.,Two people play a game.,entailment,-2.89137864966534,0.9395491803278688,74.35,4.0,11,62
+31648340.jpg#1r1n,A wielder works on wielding a beam into place while other workers set beams.,The wielder is working on a building.,neutral,-0.0012751313475036,0.5010245901639344,77.74,5.0,21,114
+2965189317.jpg#2r1n,A man is popping balloons inside a cubicle using a handmade tool.,A man is popping balloons inside a cubicle using a handmade knife.,neutral,-0.560624190550773,0.6280737704918032,59.3,8.0,24,132
+3600403707.jpg#2r1c,a man wearing a gray shirt waving in the middle of a plant nursery,The man does not have a way to get home.,neutral,-1.57888802055219,0.8145491803278688,80.96,8.0,24,107
+430292291.jpg#2r1c,People were watching the tournament in the stadium.,The people are sitting outside on the grass.,contradiction,0.408824906704733,0.4067622950819672,63.36,7.0,16,96
+2983889345.jpg#4r1n,Two soccer players on the field running into each other.,There are two people colliding and falling.,neutral,0.413382406226253,0.4057377049180328,71.31,6.0,17,100
+2760167.jpg#4r1c,Nine men wearing tuxedos sing.,Nine woman wearing dresses sing.,contradiction,0.0560820192002633,0.48770491803278687,74.86,2.0,10,63
+4676792744.jpg#2r1c,A man and woman walking away from a crowded street fair.,There are a group of men walking together.,contradiction,-0.178193431683451,0.5420081967213115,87.21,4.0,19,99
+168728234.jpg#2r1n,"A man on stilts in a purple, yellow and white costume.",A man is performing on stilts.,entailment,-1.11777276144397,0.7397540983606558,88.23,4.0,17,85
+2970162432.jpg#0r1e,A young woman with glasses sits at the end of a row of seats and speaks into a microphone.,A young woman wearing glasses,entailment,-1.96380355838005,0.8637295081967213,84.68,6.0,24,120
+218854747.jpg#3r1n,Two friends walk down the street with a stuffed animal.,Two friends are walking on the sidewalk.,entailment,0.622663278953605,0.35963114754098363,96.69,5.0,17,96
+2979997455.jpg#0r1n,Two men and one woman are dressed in costume hats.,the people are swingers,neutral,-1.7282607601362,0.8350409836065574,98.21,3.0,14,74
+4360937435.jpg#3r1n,People judge a gray and white dog in a show.,A dog is being judged for first place in a show.,neutral,-0.155993395303353,0.5368852459016393,103.12,1.0,21,93
+2959165388.jpg#4r1e,Eight people are sitting on a long boat on a sunny day.,Morning ride on boat,neutral,-1.48150739238539,0.8002049180327869,88.74,3.0,16,76
+4910374312.jpg#4r1e,A picture of two little boys holding books.,A picture of children with books.,entailment,-3.57789458369205,0.9682377049180327,81.29,4.0,14,77
+4520820052.jpg#1r1c,"A woman in her early fifties walks by herself in the subway, another woman is not far behind.",back in the fifties a woman could walk by herself in the subway.,contradiction,1.27196847630062,0.2336065573770492,72.66,6.0,31,158
+3574847368.jpg#0r1c,"A man is standing in what appears to be a parking lot and shaving his face, while his dog looks at the ground near his feet.",A women is walking with a man,contradiction,-0.312349806842799,0.5727459016393442,88.57,7.0,33,154
+408627152.jpg#3r1c,A white dog with a life vest accompanies a man in a boat.,man eats carrot,contradiction,0.570644860260245,0.3709016393442623,88.74,6.0,16,73
+3873342570.jpg#2r1c,A young girl in a pink shirt sitting on a dock viewing a body of water.,An old woman viewing a body of water.,contradiction,-0.880167433535095,0.694672131147541,84.68,5.0,24,109
+5975778602.jpg#1r1e,A bunch of happy children having fun swimming and one boy is showing off his talent with a back flip.,Kids are having fun,entailment,-2.98760413222505,0.944672131147541,84.68,5.0,24,121
+6156372684.jpg#1r1c,"Two cyclists, in yellow, are competing in a race.",A Mustang and a Corvette are competing in a drag race.,contradiction,-0.854450581047999,0.6895491803278688,78.25,5.0,20,104
+339800370.jpg#0r1c,The backside of a woman leaning against the guard rail of a passenger boat looking out at the open ocean.,The woman is driving her car on the highway.,contradiction,-1.94572484912156,0.8616803278688525,82.14,6.0,29,150
+152979089.jpg#4r1c,A police vehicle in an urban area.,A cop car in a suburban area,contradiction,-0.499787915845116,0.6147540983606558,81.29,4.0,14,63
+2849864963.jpg#0r1n,6 men in work jumpsuits and 1 man in an orange jumpsuit are walking next to green and red loading docks.,All 7 men are best friends.,neutral,-2.65694733849449,0.9252049180327869,91.61,4.0,27,132
+4758348295.jpg#2r1e,This man is walking past a wall that has art on it.,A man walks past a wall mural.,entailment,-0.366621650232289,0.5850409836065574,104.13,0.0,19,82
+3655773435.jpg#0r1n,A black dog has just jumped into a swimming pool.,A dog jumped into a pool to cool off.,neutral,-0.758668173306616,0.6700819672131147,95.67,4.0,19,87
+3933863527.jpg#3r1c,A ballerina in a black dress and tights dances in front of a concrete wall.,a man dancing,contradiction,0.011959754254919,0.4979508196721312,87.72,4.0,18,89
+6659698.jpg#3r1e,there is a lady standing and six people laying on a gym floor.,There are seven people in the gym.,entailment,-1.43470648885698,0.7930327868852459,86.71,4.0,20,97
+2908391335.jpg#4r1e,A couple is back to back in formal attire.,Two people are facing away from each other.,entailment,-2.10700785310403,0.8790983606557377,79.77,4.0,17,86
+3427852996.jpg#4r1e,A biker pops a wheelie along side the colorful wall.,A person is riding a bike near a wall.,entailment,-2.70352518053176,0.9282786885245902,87.21,4.0,19,91
+4717499333.jpg#4r1e,A street vendor selling cupcakes.,There is a person outside in this picture,entailment,0.0340185723949659,0.492827868852459,73.34,5.0,13,75
+2175758177.jpg#1r1n,An infant napping in it's crib in pajamas.,A baby is sleeping in a crib with its blanket.,neutral,-1.18681378985158,0.7520491803278688,79.26,4.0,18,89
+3456488632.jpg#2r1e,A couple kissing in front of a black Mercedes Benz limousine,A couple kissing in front of a car,entailment,-3.39174982677674,0.9620901639344263,77.57,7.0,19,95
+961664774.jpg#2r1e,A group of people in blue pants and shirts in motion.,There are people moving.,entailment,-2.83717654997039,0.9364754098360656,89.24,3.0,15,78
+2775461796.jpg#2r1c,A father and children ride bikes in city street.,A woman and her daughters ride their bikes.,contradiction,-0.439699398931061,0.6014344262295082,96.69,6.0,17,92
+8089660385.jpg#3r1n,a poor looking person with white cream smeared around his eyes sitting on a backpack.,A dirty man with some product under his eyes is sitting on a pillow.,contradiction,-0.289853084965219,0.5676229508196722,82.14,6.0,29,154
+248698033.jpg#2r1n,A man sleeping on a chair with a newspaper on his chest.,the man is a farmer,neutral,-2.12722732671896,0.8811475409836066,96.69,5.0,17,76
+3011809448.jpg#3r1n,A boy in a gray hoodie and black cap holds up an American flag.,A person is holding an American flag.,entailment,-4.08591834540005,0.9805327868852459,86.2,4.0,21,101
+26720379.jpg#4r1n,A young boy asleep in a stroller.,A young boy is taking his afternoon nap.,neutral,-0.636687418573376,0.6444672131147541,97.7,3.0,15,74
+7712223846.jpg#1r1e,"Neck and neck to the finish line, every competitor has been training for this race.",The competitors have trained very hard and are all very close to the finish line.,entailment,-1.70498516167454,0.8319672131147541,81.63,8.0,30,165
+8040947572.jpg#2r1c,A football team wearing purple and white trying to stop the runner with the ball.,Lacrosse players celebrate a victory.,contradiction,-0.651111325149481,0.6475409836065574,69.79,6.0,20,119
+4637341301.jpg#3r1n,Many small sailboats sitting at a dock., Many small sailboats docked.,entailment,-2.48626802365118,0.9129098360655737,91.27,2.0,11,69
+3060969260.jpg#3r1n,One biker is running with their bike while another is riding around them.,The people are part of a club,neutral,-1.99134124411896,0.8668032786885246,86.71,4.0,20,103
+2800531753.jpg#0r1n,A person wearing an orange shirt with a backpack on looking across a segment of lush green trees.,A person is meditating and looking at the peaceful lush green trees.,neutral,-1.45461985942309,0.7961065573770492,73.17,7.0,30,166
+3611694228.jpg#3r1n,Two men fight in a ring while spectators look on.,Boxers fight as the crowd screams.,neutral,-0.371163703629936,0.5860655737704918,97.2,5.0,16,84
+8025717431.jpg#3r1c,Girls playing soccer competitively in the grass.,Nobody is playing soccer.,contradiction,-3.45038996410637,0.9641393442622951,48.97,8.0,11,74
+2258951972.jpg#4r1n,Two gray dogs running in green grass.,Two gray dogs are running.,entailment,-3.98274862480943,0.9784836065573771,99.23,2.0,12,64
+7671851684.jpg#0r1e,"Five men in red shirts, in a line, on a basketball court, four with hands on their hearts, and same four looking upward.",A team of basketball players are on the court.,entailment,-0.187083774929628,0.5440573770491803,89.08,8.0,32,167
+3208999896.jpg#4r1c,"A bride, a groom, 3 guys, and 3 women.",The unrelated people wander aimlessly.,contradiction,0.206578423229741,0.45286885245901637,64.37,4.0,14,77
+3381788544.jpg#0r1c,"A group of asian women in sports attire, and one woman in the center is wearing a baseball cap.",Men are playing with a dog,contradiction,-0.622316841093204,0.6413934426229508,84.17,5.0,25,122
+3070485870.jpg#3r1n,A snowboarder is jumping over a snow slope.,A girl jumps her green snowboard over a slope.,neutral,-0.885338307049123,0.6956967213114754,96.69,6.0,17,90
+4788967880.jpg#0r1n,a group of people on a dock lowering into the water a boat with teal and purple decorations.,The group was getting ready to go fishing on the boat.,neutral,-1.6896493595599,0.8299180327868853,73.68,7.0,29,147
+4831683216.jpg#0r1c,A young girl in a bathing suit drinking a beverage in a green bottle.,The girl is drinking milk from a sippy cup.,contradiction,0.52387985779839,0.38114754098360654,85.18,6.0,23,113
+3030015033.jpg#2r1n,Two people are sitting at a table outside of a building.,Two people are sitting eating lunch,neutral,-1.83320293410174,0.8483606557377049,71.31,4.0,17,92
