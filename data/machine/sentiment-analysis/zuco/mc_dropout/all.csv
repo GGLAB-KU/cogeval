@@ -1,0 +1,398 @@
+,sstb_id,zuco_id,content,control_id,sstb_label,pred_confidence,gold_confidence,uncertainty
+0,38,383.0,"cantet perfectly captures the hotel lobbies, two-lane highways, and roadside cafes that permeate vincent's days",,1,0.6643111,0.306866,1.0624632416279531
+1,81,359.0,gollum's `performance' is incredible!,,1,0.9715185,0.022527162,0.20778580563894591
+2,86,206.0,"it's the best film of the year so far, the benchmark against which all other best picture contenders should be measured.",,1,0.9243463,0.067471,0.4240749924801644
+3,94,255.0,"the movie is a blast of educational energy, as bouncy animation and catchy songs escort you through the entire 85 minutes.",,1,0.8992243,0.08799317,0.5267471301970661
+4,105,189.0,... a roller-coaster ride of a movie,25.0,1,0.9334415,0.9334415,0.405675858534234
+5,139,396.0,a classy item by a legend who may have nothing left to prove but still has the chops and drive to show how its done.,,1,0.5998205,0.34711236,1.1969762043299326
+6,155,93.0,it is intensely personal and yet -- unlike quills -- deftly shows us the temper of the times.,,1,0.5515166,0.34084052,1.3489023244404459
+7,219,299.0,it won't bust your gut -- and it's not intended to -- it's merely a blandly cinematic surgical examination of what makes a joke a joke.,,0,0.55629826,0.319047,1.3709688164333749
+8,252,347.0,remarkably accessible and affecting.,,1,0.8287166,0.12942256,0.798048515058928
+9,262,50.0,i like the new footage and still love the old stuff.,,1,0.9578902,0.03426332,0.2810964632612709
+10,290,381.0,it's solid and affecting and exactly as thought-provoking as it should be.,41.0,1,0.8533128,0.121462084,0.698621002033204
+11,342,178.0,this bold and lyrical first feature from raja amari expands the pat notion that middle-aged women just wanna have fun into a rousing treatise of sensual empowerment.,,1,0.798189,0.18124333,0.8214031571068193
+12,344,336.0,girls gone wild and gone civil again,,0,0.7475719,0.21052563,0.9787951438357291
+13,349,162.0,... always remains movingly genuine.,21.0,1,0.7676789,0.19623066,0.9267857843969817
+14,371,69.0,an intriguing and entertaining introduction to johnson.,,1,0.973389,0.0221078,0.19455457836879203
+15,384,121.0,"celebrated at sundance, this slight comedy of manners has winning performances and a glossy, glib charm that's hard to beat.",,1,0.49827045,0.49827045,1.4321815694590692
+16,406,308.0,"often gruelling and heartbreaking to witness, but seldahl and wollter's sterling performances raise this far above the level of the usual maudlin disease movie.",,1,0.4369522,0.40763825,1.4670701419957493
+17,408,182.0,"the stunning, dreamlike visuals will impress even those viewers who have little patience for euro-film pretension.",24.0,1,0.71159154,0.23650308,1.0627786578096354
+18,456,153.0,an inspiring and heart-affecting film about the desperate attempts of vietnamese refugees living in u.s. relocation camps to keep their hopes alive in 1975.,,1,0.75258136,0.18605472,1.0071048640289542
+19,478,109.0,"only an epic documentary could get it all down, and spike lee's jim brown: all american at long last gives its subject a movie worthy of his talents.",14.0,1,0.6018973,0.33589727,1.2187531635301339
+20,677,312.0,ford deserves to be remembered at oscar time for crafting this wonderful portrait of a conflicted soldier.,,1,0.8087481,0.16453844,0.8156576466981201
+21,726,18.0,a work of astonishing delicacy and force.,3.0,1,0.87533504,0.10311369,0.6254303453055186
+22,768,363.0,"not as distinctive or even as humorous as its needs to be to stand out, but it has clearly been made with affection and care.",,0,0.6699345,0.06768073,1.1565743839545433
+23,793,342.0,"so young, so smart, such talent, such a wise ***.",,1,0.7103318,0.22403292,1.0919206880417114
+24,840,225.0,"``13 conversations'' holds its goodwill close, but is relatively slow to come to the point.",,0,0.53957045,0.279939,1.4402895195513454
+25,882,17.0,the film often achieves a mesmerizing poetry.,2.0,1,0.6632355,0.3005255,1.0876002258780613
+26,884,324.0,it's neither as romantic nor as thrilling as it should be.,38.0,-1,0.44478232,0.19112457,1.5068775903297567
+27,904,386.0,a richly imagined and admirably mature work from a gifted director who definitely has something on his mind.,,1,0.9476179,0.041439664,0.33516103687566023
+28,907,208.0,it never fails to engage us.,,1,0.46372786,0.4020481,1.431513416860467
+29,944,160.0,"there is a refreshing absence of cynicism in stuart little 2 -- quite a rarity, even in the family film market.",,1,0.4960236,0.3780222,1.4087561565503477
+30,974,260.0,"... a cute and sometimes side-splittingly funny blend of legally blonde and drop dead gorgeous, starring piper perabo in what could be her breakthrough role.",,1,0.88157046,0.10472596,0.5860470061885388
+31,984,80.0,"novak manages to capture a cruelly hilarious vein of black comedy in the situation with his cast of non-actors and a gritty, no-budget approach.",,1,0.4703547,0.4703547,1.517344626443918
+32,990,291.0,the way coppola professes his love for movies -- both colorful pop junk and the classics that unequivocally qualify as art -- is giddily entertaining.,,1,0.8940431,0.08899533,0.5548292313518743
+33,999,360.0,"... a haunting vision, with images that seem more like disturbing hallucinations.",,-1,0.8278413,0.019048106,0.7490172931938465
+34,1029,230.0,genuinely touching because it's realistic about all kinds of love.,,1,0.921848,0.062098432,0.4528902556756008
+35,1059,194.0,"this is cool, slick stuff, ready to quench the thirst of an audience that misses the summer blockbusters.",,1,0.5284352,0.414149,1.2496639493350084
+36,1134,173.0,the film serves as a valuable time capsule to remind us of the devastating horror suffered by an entire people.,,0,0.4301482,0.28842252,1.5556651127785657
+37,1147,221.0,"not only is undercover brother as funny, if not more so, than both austin powers films, but it's also one of the smarter, savvier spoofs to come along in some time.",31.0,1,0.7458855,0.21676078,0.9707801503662442
+38,1151,286.0,"the inhospitability of the land emphasizes the spare precision of the narratives and helps to give them an atavistic power, as if they were tales that had been handed down since the beginning of time.",,0,0.58967227,0.09314799,1.2937572913198423
+39,1175,9.0,"ultimately feels emp11111ty and unsatisfying, like swallowing a communion wafer without the wine.",,-1,0.75171745,0.048489057,0.9854270528269753
+40,1183,60.0,one of the best films of the year with its exploration of the obstacles to happiness faced by five contemporary individuals... a psychological masterpiece.,,1,0.88717806,0.096692115,0.5751556458790361
+41,1211,40.0,"beautifully observed, miraculously unsentimental comedy-drama.",,1,0.80371284,0.16440567,0.8400786671726863
+42,1228,282.0,the second coming of harry potter is a film far superior to its predecessor.,,1,0.6534177,0.27749336,1.1807305511467807
+43,1301,375.0,"warm water under a red bridge is a quirky and poignant japanese film that explores the fascinating connections between women, water, nature, and sexuality.",,1,0.8447622,0.13302353,0.714740634928936
+44,1330,185.0,"for the most part, it's a work of incendiary genius, steering clear of knee-jerk reactions and quick solutions.",,1,0.4539585,0.45138234,1.3571685845628414
+45,1368,332.0,griffiths proves she's that rare luminary who continually raises the standard of her profession.,,1,0.780687,0.18294339,0.9010449690596942
+46,1371,384.0,"an important movie, a reminder of the power of film to move us and to make us examine our values.",,1,0.8133154,0.16998331,0.7756311784582389
+47,1381,103.0,"creepy, authentic and dark.",,0,0.7360458,0.7360458,0.9855619732165771
+48,1389,139.0,and i've decided to leave a light on every night from now on.,,0,0.93421614,0.030520726,0.4155265948190285
+49,1393,106.0,"the film is a contrivance, as artificial as the video games japanese teens play in a nightclub sequence, but it's an enjoyable one.",,0,0.771979,0.031313572,0.9061586152091236
+50,1465,84.0,but it's too long and too convoluted and it ends in a muddle.,12.0,-1,0.93801963,0.00829069,0.37044069796040247
+51,1471,38.0,"the movie is for fans who can't stop loving anime, and the fanatical excess built into it.",,0,0.48370463,0.11792173,1.3994716731435188
+52,1475,307.0,a strangely compelling and brilliantly acted psychological drama.,,1,0.9252021,0.061093677,0.43496983543834705
+53,1489,159.0,"for those who pride themselves on sophisticated, discerning taste, this might not seem like the proper cup of tea, however it is almost guaranteed that even the stuffiest cinema goers will laugh their 1*** off for an hour-and-a-half.",,1,0.419947,0.419947,1.530210476572314
+54,1523,262.0,few films capture so perfectly the hopes and dreams of little boys on baseball fields as well as the grown men who sit in the stands.,,1,0.53061426,0.40860733,1.2582838057875776
+55,1527,198.0,"while it regards 1967 as the key turning point of the 20th century, and returns again and again to images of dissidents in the streets, it's alarmingly current.",,0,0.5858944,0.5858944,1.2339191956224944
+56,1531,67.0,"stephen rea, aidan quinn, and alan bates play desmond's legal eagles, and when joined by brosnan, the sight of this grandiloquent quartet lolling in pretty irish settings is a pleasant enough thing, `tis.",,1,0.8573154,0.119608656,0.6823200994234626
+57,1532,171.0,"director of photography benoit delhomme shot the movie in delicious colors, and the costumes and sets are grand.",,1,0.89521205,0.08753966,0.5516014179648184
+58,1565,211.0,"more romantic, more emotional and ultimately more satisfying than the teary-eyed original.",,1,0.7358633,0.21467622,1.016681975916226
+59,1632,37.0,"featuring a dangerously seductive performance from the great daniel auteuil, ``sade'' covers the same period as kaufmann's ``quills'' with more unsettlingly realistic results.",,1,0.46568027,0.46568027,1.5149590550938001
+60,1648,344.0,a thinly veiled look at different aspects of chinese life clashing with each other.,,0,0.6007743,0.34820586,1.190614910039819
+61,1656,226.0,"not the kind of film that will appeal to a mainstream american audience, but there is a certain charm about the film that makes it a suitable entry into the fest circuit.",,1,0.70761865,0.23765762,1.07512993584665
+62,1685,351.0,"shamelessly resorting to pee-related sight gags that might even cause tom green a grimace; still, myer's energy and the silliness of it all eventually prevail.",,0,0.6719564,0.6719564,1.1591230808490047
+63,1688,24.0,"this version moves beyond the original's nostalgia for the communal film experiences of yesteryear to a deeper realization of cinema's inability to stand in for true, lived experience.",,0,0.44563228,0.44563228,1.439966708115676
+64,1691,158.0,allen's funniest and most likeable movie in years.,20.0,1,0.95836174,0.033894747,0.27860785280545475
+65,1743,21.0,"but if you've paid a matinee price and bought a big tub of popcorn, there's guilty fun to be had here.",,0,0.5381919,0.07862173,1.2997821015535427
+66,1770,252.0,the quirky drama touches the heart and the funnybone thanks to the energetic and always surprising performance by rachel griffiths.,,1,0.9387642,0.05218836,0.3693284861572727
+67,1777,237.0,"measured against practically any like-themed film other than its oscar-sweeping franchise predecessor the silence of the lambs, red dragon rates as an exceptional thriller.",,1,0.8147839,0.15521084,0.8097229553734717
+68,1784,303.0,a solid piece of journalistic work that draws a picture of a man for whom political expedience became a deadly foreign policy.,,0,0.47779125,0.21225567,1.5075225252704922
+69,1827,98.0,"... creates a visceral sense of its characters' lives and conflicted emotions that carries it far above... what could have been a melodramatic, lifetime channel-style anthology.",,0,0.47628784,0.3511277,1.4772890071447158
+70,1893,31.0,"same song, second verse, coulda been better, but it coulda been worse.",6.0,0,0.5814281,0.2672559,1.3758836506384067
+71,1936,272.0,the pianist is polanski's best film.,35.0,1,0.85175353,0.12566055,0.6967103607734436
+72,1940,83.0,"high crimes knows the mistakes that bad movies make and is determined not to make them, and maybe that is nobility of a sort.",,0,0.5501197,0.5501197,1.3922112535546947
+73,1954,116.0,"i thought the relationships were wonderful, the comedy was funny, and the love `real'.",,1,0.9596774,0.033642318,0.269886032138755
+74,1984,261.0,"this method almost never fails him, and it works superbly here.",,1,0.8105399,0.14948343,0.8411843436350833
+75,2023,273.0,maybe thomas wolfe was right: you can't go home again.,,0,0.662449,0.18474653,1.2578233222398925
+76,2044,259.0,"the real charm of this trifle is the deadpan comic face of its star, jean reno, who resembles sly stallone in a hot sake half-sleep.",,0,0.5159478,0.10965282,1.372913080301379
+77,2081,281.0,"alain choquart's camera barely stops moving, portraying both the turmoil of the time and giving conduct a perpetual sense of urgency, which, for a film that takes nearly three hours to unspool, is both funny and irritating.",,0,0.5297647,0.22484486,1.4670297260727965
+78,2082,35.0,mostly martha could have used a little trimming -- 10 or 15 minutes could be cut and no one would notice -- but it's a pleasurable trifle.,,0,0.63675153,0.07183765,1.205953698704971
+79,2100,354.0,"bogdanovich taps deep into the hearst mystique, entertainingly reenacting a historic scandal.",,1,0.51257426,0.42367014,1.272321803672929
+80,2109,244.0,"it would be disingenuous to call reno a great film, but you can say that about most of the flicks moving in and out of the multiplex.",,0,0.4862605,0.1317197,1.4213668704161886
+81,2130,318.0,"methodical, measured, and gently tedious in its comedy, secret ballot is a purposefully reductive movie -- which may be why it's so successful at lodging itself in the brain.",,1,0.5780937,0.31243464,1.3308018383677387
+82,2146,114.0,"just about the best straight-up, old-school horror film of the last 15 years.",,1,0.86995554,0.115410365,0.6235586151205159
+83,2223,263.0,steers has an unexpectedly adamant streak of warm-blooded empathy for all his disparate manhattan denizens -- especially the a**holes.,,0,0.39043793,0.39043793,1.5585686958730824
+84,2254,107.0,"at its worst the screenplay is callow, but at its best it is a young artist's thoughtful consideration of fatherhood.",,0,0.5044004,0.28251308,1.4885050277033847
+85,2260,297.0,norton holds the film together.,,0,0.9275683,0.019217905,0.4353902470283812
+86,2263,294.0,a creaky staircase gothic.,,0,0.49090472,0.4832283,1.1473107964397944
+87,2268,176.0,isabelle huppert excels as the enigmatic mika and anna mouglalis is a stunning new young talent in one of chabrol's most intense psychological mysteries.,,1,0.86956346,0.10852756,0.6438130979039542
+88,2270,390.0,wedding feels a bit anachronistic.,,-1,0.8996314,0.016878147,0.5357520988005801
+89,2295,284.0,"the film just might turn on many people to opera, in general, an art form at once visceral and spiritual, wonderfully vulgar and sublimely lofty -- and as emotionally grand as life.",,1,0.6394731,0.29455137,1.1906542940668665
+90,2345,243.0,"pacino and williams seem to keep upping the ante on each other, just as their characters do in the film.",,1,0.77898943,0.77898943,0.9642320829172936
+91,2347,164.0,the cast is top-notch and i predict there will be plenty of female audience members drooling over michael idemoto as michael.,,1,0.56745857,0.36785716,1.2501172956026827
+92,2361,127.0,the simplicity of the way home has few equals this side of aesop.,,0,0.43922013,0.13405922,1.4342770060771817
+93,2366,10.0,exudes the fizz of a busby berkeley musical and the visceral excitement of a sports extravaganza.,,1,0.6949574,0.25088745,1.0931652404946801
+94,2384,380.0,"but the talented cast alone will keep you watching, as will the fight scenes.",40.0,1,0.6938332,0.26964834,1.050133719396273
+95,2401,88.0,"one of the finest, most humane and important holocaust movies ever made.",,1,0.9265698,0.05997754,0.4290451191074487
+96,2407,265.0,the most compelling performance of the year adds substantial depth to this shocking testament to anti-semitism and neo-fascism.,,1,0.46138462,0.38987765,1.4535966771618551
+97,2436,120.0,"ultimate x is a ride, basically the kind of greatest-hits reel that might come with a subscription to espn the magazine.",,0,0.87622863,0.014364016,0.604207385219409
+98,2456,268.0,"a work of extraordinary journalism, but it is also a work of deft and subtle poetry.",33.0,1,0.69842035,0.22430077,1.1308191220745833
+99,2458,108.0,at 78 minutes it just zings along with vibrance and warmth.,,1,0.60084814,0.34521347,1.198506763931286
+100,2486,95.0,"... a solid, well-formed satire.",,1,0.67857397,0.28415486,1.072302885031767
+101,2520,179.0,photographed with melancholy richness and eloquently performed yet also decidedly uncinematic.,,0,0.52442014,0.52442014,1.3716378289452311
+102,2561,39.0,"the ring is worth a look, if you don't demand much more than a few cheap thrills from your halloween entertainment.",,0,0.6045112,0.054572664,1.1972166360758387
+103,2564,232.0,"armed with a game supporting cast, from the pitch-perfect forster to the always hilarious meara and levy, like mike shoots and scores, doing its namesake proud.",,1,0.873582,0.10958904,0.6190767902346939
+104,2581,289.0,"hard, endearing, caring, warm.",,1,0.4899394,0.38642576,1.4072444290492636
+105,2594,357.0,"devos and cassel have tremendous chemistry -- their sexual and romantic tension, while never really vocalized, is palpable.",,1,0.72971094,0.21715274,1.0351510208097323
+106,2643,197.0,"for veggietales fans, this is more appetizing than a side dish of asparagus.",,1,0.8247631,0.14726986,0.7805301902593914
+107,2703,209.0,"denis forges out of the theories of class - based rage and sisterly obsession a razor-sided tuning fork that rings with cultural, sexual and social discord.",,0,0.7305485,0.7305485,0.9937049217783039
+108,2742,199.0,a truly wonderful tale combined with stunning animation.,29.0,1,0.979741,0.014765759,0.1599726508986002
+109,2817,204.0,a portrait of an artist.,,0,0.9453022,0.014992153,0.35237121176051334
+110,2871,203.0,"while tattoo borrows heavily from both seven and the silence of the lambs, it manages to maintain both a level of sophisticated intrigue and human-scale characters that suck the audience in.",,1,0.512883,0.512883,1.4411484009097542
+111,2925,285.0,"the delicious trimmings... arrive early and stay late, filling nearly every minute... with a lighthearted glow, some impudent snickers, and a glorious dose of humankind's liberating ability to triumph over a scrooge or two.",,1,0.7408204,0.22203045,0.9791740216155799
+112,2953,168.0,it's anchored by splendid performances from an honored screen veteran and a sparkling newcomer who instantly transform themselves into a believable mother/daughter pair.,,1,0.96557665,0.027390266,0.24125659619757586
+113,2969,393.0,"every individual will see the movie through the prism of his or her own beliefs and prejudices, but the one thing most will take away is the sense that peace is possible.",,1,0.49850088,0.49850088,1.3924599404678422
+114,2974,247.0,narc is a no-bull throwback to 1970s action films.,,1,0.8122117,0.8122117,0.8845499410327914
+115,2986,191.0,audiard successfully maintains suspense on different levels throughout a film that is both gripping and compelling.,,1,0.8954503,0.08753934,0.5502423680620379
+116,3002,238.0,"the movie has no respect for laws, political correctness or common decency, but it displays something more important: respect for its flawed, crazy people.",,0,0.44699317,0.31721565,1.5362047598854862
+117,3043,348.0,"the climactic events are so well realized that you may forget all about the original conflict, just like the movie does.",,0,0.5344693,0.10475906,1.354678103795697
+118,3089,115.0,"gosling creates a staggeringly compelling character, a young man whose sharp intellect is at the very root of his contradictory, self-hating, self-destructive ways.",,1,0.44095787,0.44095787,1.5479401680497609
+119,3172,267.0,a biopic about crane's life in the classic tradition but evolves into what has become of us all in the era of video.,,0,0.91010225,0.01873947,0.5025191172524307
+120,3174,138.0,"thanks to a small star with big heart, this family film sequel is plenty of fun for all.",,1,0.92233944,0.06386175,0.44630108437309407
+121,3188,146.0,"the fun of the movie is the chance it affords to watch jackson, who also served as executive producer, take his smooth, shrewd, powerful act abroad.",,1,0.79694694,0.1731438,0.8504408798611468
+122,3229,401.0,"it's a head-turner -- thoughtfully written, beautifully read and, finally, deeply humanizing.",45.0,1,0.9025418,0.08272238,0.5206119500971744
+123,3273,30.0,it's all a rather shapeless good time...,,0,0.5772174,0.054927565,1.2183081584210265
+124,3422,77.0,"whatever heartwarming scene the impressively discreet filmmakers may have expected to record with their mini dv, they show a remarkable ability to document both sides of this emotional car-wreck.",,1,0.8054222,0.15701789,0.8486670508001478
+125,3440,241.0,the film is darkly funny in its observation of just how much more grueling and time-consuming the illusion of work is than actual work.,,1,0.73426676,0.20598236,1.0396056294410552
+126,3545,135.0,"a fiercely clever and subtle film, capturing the precarious balance between the extravagant confidence of the exiled aristocracy and the cruel earnestness of the victorious revolutionaries.",,1,0.50332654,0.36164466,1.4192250844736685
+127,3570,329.0,"this is an extraordinary film, not least because it is japanese and yet feels universal.",,1,0.85454863,0.116759084,0.7025437113210711
+128,3576,63.0,"qutting may be a flawed film, but it is nothing if not sincere.",,0,0.5827517,0.5827517,1.3184148739306703
+129,3577,6.0,"beautifully crafted, engaging filmmaking that should attract upscale audiences hungry for quality and a nostalgic, twisty yarn that will keep them guessing.",,1,0.8205293,0.15381846,0.7851406151723962
+130,3600,372.0,"while this gentle and affecting melodrama will have luvvies in raptures, it's far too slight and introspective to appeal to anything wider than a niche audience.",,0,0.4574468,0.21293151,1.519075975790154
+131,3611,373.0,griffin & co. manage to be spectacularly outrageous.,,1,0.72583574,0.22225174,1.0393208261712263
+132,3712,68.0,"it's a powerful though flawed movie, guaranteed to put a lump in your throat while reaffirming washington as possibly the best actor working in movies today.",,1,0.45731968,0.45731968,1.3865473489138298
+133,3731,54.0,it depends on how well flatulence gags fit into your holiday concept.,,0,0.70524454,0.039620496,1.0426283105212946
+134,3744,32.0,i love the robust middle of this picture.,,1,0.9672104,0.025533736,0.23319656477139628
+135,3755,306.0,samuel beckett applied to the iranian voting process.,,0,0.9474062,0.026160996,0.3499074527977468
+136,3798,41.0,"what makes how i killed my father compelling, besides its terrific performances, is fontaine's willingness to wander into the dark areas of parent-child relationships without flinching.",,1,0.66386205,0.24608263,1.2029106376806047
+137,3804,399.0,its engaging simplicity is driven by appealing leads.,,1,0.8944727,0.09204594,0.544446595723624
+138,3811,358.0,"as a girl-meets-girl romantic comedy, kissing jessica steinis quirky, charming and often hilarious.",,1,0.93040687,0.056867085,0.41216523690357765
+139,3842,212.0,"like the best of godard's movies... it is visually ravishing, penetrating, impenetrable.",,1,0.8611439,0.113034844,0.6774537643259739
+140,3850,92.0,features one of the most affecting depictions of a love affair ever committed to film.,,1,0.6599263,0.24278808,1.2185746455385384
+141,3906,333.0,"the asylum material is gripping, as are the scenes of jia with his family.",,1,0.76942146,0.19214837,0.9289005690633162
+142,3911,12.0,"ryan gosling is, in a word, brilliant as the conflicted daniel.",,1,0.63215256,0.2990947,1.204641471078888
+143,3936,309.0,"this enthralling documentary... is at once playful and haunting, an in-depth portrait of an iconoclastic artist who was fundamentally unknowable even to his closest friends.",,1,0.6159849,0.28918433,1.2704982716258306
+144,3956,129.0,"dong shows how intolerance has the power to deform families, then tear them apart.",,0,0.5725158,0.5725158,1.2943758269236705
+145,3974,91.0,"angel presents events partly from the perspective of aurelie and christelle, and infuses the film with the sensibility of a particularly nightmarish fairytale.",,1,0.5399023,0.39216,1.2732776832464245
+146,3981,100.0,just how these families interact may surprise you.,,0,0.67871296,0.037308376,1.0722371876591374
+147,4010,190.0,"a colorful, vibrant introduction to a universal human impulse, lushly photographed and beautifully recorded.",26.0,1,0.943303,0.04941622,0.3455488319834366
+148,4033,79.0,"it has fun with the quirks of family life, but it also treats the subject with fondness and respect.",,1,0.7678238,0.18814795,0.9444722222377366
+149,4062,367.0,"this odd, poetic road movie, spiked by jolts of pop music, pretty much takes place in morton's ever-watchful gaze -- and it's a tribute to the actress, and to her inventive director, that the journey is such a mesmerizing one.",,1,0.61847764,0.30815044,1.2285742328076545
+150,4067,26.0,"a first-class, thoroughly involving b movie that effectively combines two surefire, beloved genres -- the prison flick and the fight film.",,1,0.8653347,0.116812825,0.6461059276095945
+151,4077,339.0,`enigma' is the kind of engaging historical drama that hollywood appears to have given up on in favor of sentimental war movies in the vein of `we were soldiers.',,0,0.49604955,0.09757391,1.357245288825126
+152,4146,57.0,"sparkling, often hilarious romantic jealousy comedy... attal looks so much like a young robert deniro that it seems the film should instead be called `my husband is travis bickle'.",,1,0.6893455,0.26597363,1.0785112007539381
+153,4173,216.0,"in xxx, diesel is that rare creature -- an action hero with table manners, and one who proves that elegance is more than tattoo deep.",,1,0.68796635,0.26330477,1.090545858730714
+154,4202,184.0,"impresses as a skillfully assembled, highly polished and professional adaptation... just about as chilling and unsettling as `manhunter' was.",,1,0.69698286,0.2481946,1.0916329610668178
+155,4212,134.0,"a miraculous movie, i'm going home is so slight, yet overflows with wisdom and emotion.",17.0,1,0.546641,0.37063092,1.3044773999047483
+156,4232,22.0,"there's not much to fatale, outside of its stylish surprises... but that's ok.",4.0,0,0.47021732,0.07734625,1.3151652617426175
+157,4282,177.0,a small movie with a big impact.,23.0,1,0.5443243,0.42860112,1.1424750742541594
+158,4285,277.0,"like rudy yellow lodge, eyre needs to take a good sweat to clarify his cinematic vision before his next creation and remember the lessons of the trickster spider.",,-1,0.4862967,0.46101126,1.2445454016800293
+159,4317,155.0,the immersive powers of the giant screen and its hyper-realistic images are put to perfect use in the breathtakingly beautiful outer-space documentary space station 3d.,,1,0.9539124,0.037158895,0.3022252628460331
+160,4335,242.0,"in some ways, lagaan is quintessential bollywood.",,0,0.5173213,0.06607717,1.2771829792908918
+161,4465,202.0,"it's a hoot watching the rock chomp on jumbo ants, pull an arrow out of his back, and leap unscathed through raging fire!",,1,0.4680132,0.4680132,1.5183698150257114
+162,4466,325.0,returning director rob minkoff... and screenwriter bruce joel rubin... have done a fine job of updating white's dry wit to a new age.,,1,0.89283836,0.09396924,0.5489717172418007
+163,4468,61.0,"a strong script, powerful direction and splendid production design allows us to be transported into the life of wladyslaw szpilman, who is not only a pianist, but a good human being.",10.0,1,0.9259701,0.06030804,0.43198851618564027
+164,4537,34.0,the soundtrack alone is worth the price of admission.,7.0,1,0.7386428,0.21644108,1.001789310247412
+165,4591,353.0,"most haunting about ``fence'' is its conclusion, when we hear the ultimate fate of these girls and realize, much to our dismay, that this really did happen.",,1,0.6822945,0.2574459,1.1245114863715389
+166,4596,391.0,"an action/thriller of the finest kind, evoking memories of day of the jackal, the french connection, and heat.",,1,0.7594646,0.21764842,0.904995410550013
+167,4649,248.0,intriguing and downright intoxicating.,,1,0.9387763,0.04483027,0.3836029601875604
+168,4672,334.0,"... by the time it's done with us, mira nair's new movie has its audience giddy with the delight of discovery, of having been immersed in a foreign culture only to find that human nature is pretty much the same all over.",,1,0.706731,0.24430092,1.0637464901773659
+169,4704,166.0,this is one of those war movies that focuses on human interaction rather than battle and action sequences... and it's all the stronger because of it.,,1,0.5700246,0.3533445,1.2765419139598007
+170,4786,311.0,"at its best when the guarded, resentful betty and the manipulative yet needy margot are front and center.",,0,0.4319136,0.17916048,1.4974519091665697
+171,4801,97.0,read my lips is to be viewed and treasured for its extraordinary intelligence and originality as well as its lyrical variations on the game of love.,,1,0.9195007,0.06860429,0.4525750114765693
+172,4806,224.0,it's a funny little movie with clever dialogue and likeable characters.,,1,0.96344936,0.030695815,0.24944724844708577
+173,4864,346.0,its vision of that awkward age when sex threatens to overwhelm everything else is acute enough to make everyone who has been there squirm with recognition.,,0,0.59018385,0.59018385,1.256958507480029
+174,4956,201.0,``simone'' is a fun and funky look into an artificial creation in a world that thrives on artificiality.,,1,0.91616786,0.07024528,0.4691294165136825
+175,5032,405.0,martyr gets royally screwed and comes back for more.,,0,0.91968614,0.91968614,0.4488009381947104
+176,5047,110.0,"as quiet, patient and tenacious as mr. lopez himself, who approaches his difficult, endless work with remarkable serenity and discipline.",,1,0.62145877,0.26601025,1.28933974494978
+177,5053,113.0,jeffs has created a breathtakingly assured and stylish work of spare dialogue and acute expressiveness.,,1,0.9467138,0.042706836,0.33850788375494456
+178,5137,389.0,but what's nice is that there's a casual intelligence that permeates the script.,42.0,1,0.8707024,0.10861443,0.6375130294375478
+179,5209,128.0,exceptionally well acted by diane lane and richard gere.,15.0,1,0.8867755,0.09961043,0.5695803552990284
+180,5211,251.0,"in addition to scoring high for originality of plot -- putting together familiar themes of family, forgiveness and love in a new way -- lilo & stitch has a number of other assets to commend it to movie audiences both innocent and jaded.",,1,0.5671349,0.36191547,1.2655369161137404
+181,5213,319.0,one of the most exciting action films to come out of china in recent years.,,1,0.92291623,0.06719999,0.43441089182304293
+182,5304,119.0,"elegantly produced and expressively performed, the six musical numbers crystallize key plot moments into minutely detailed wonders of dreamlike ecstasy.",,1,0.87831116,0.104982674,0.6044208586847925
+183,5310,298.0,"a breathtaking adventure for all ages, spirit tells its poignant and uplifting story in a stunning fusion of music and images.",,1,0.9741529,0.020538444,0.19205128489415843
+184,5313,65.0,... something appears to have been lost in the translation this time.,,-1,0.56319284,0.023557728,1.1207422286039042
+185,5401,123.0,that haynes can both maintain and dismantle the facades that his genre and his character construct is a wonderous accomplishment of veracity and narrative grace.,,1,0.79810685,0.16122903,0.8720198870302052
+186,5424,133.0,"it's like an old warner bros. costumer jived with sex -- this could be the movie errol flynn always wanted to make, though bette davis, cast as joan, would have killed him.",,0,0.5549581,0.5549581,1.270374960065162
+187,5425,131.0,it's a great american adventure and a wonderful film to bring to imax.,,1,0.9801281,0.015242748,0.15628253739710937
+188,5455,287.0,even more baffling is that it's funny.,,0,0.69010806,0.066636525,1.1257746989421262
+189,5565,249.0,"the wonderful combination of the sweetness and the extraordinary technical accomplishments of the first film are maintained, but its overall impact falls a little flat with a storyline that never quite delivers the original magic.",,0,0.49299812,0.09991829,1.3628935430447624
+190,5596,331.0,"if borstal boy isn't especially realistic, it is an engaging nostalgia piece.",,0,0.62200534,0.061372656,1.1985053020787537
+191,5603,29.0,another best of the year selection.,,1,0.787465,0.20239969,0.8050647192835271
+192,5626,233.0,it will guarantee to have you leaving the theater with a smile on your face.,32.0,1,0.69019175,0.29447025,0.9810311762709218
+193,5679,151.0,mazel tov to a film about a family's joyous life acting on the yiddish stage.,,1,0.7113794,0.2687985,0.9711170643792844
+194,5706,361.0,"as a remake, it's a pale imitation.",,-1,0.7112788,0.15270641,1.1550881098857868
+195,5838,220.0,"it never is, not fully.",,0,0.88557166,0.08299201,0.6101843842761696
+196,5849,377.0,it just doesn't have much else... especially in a moral sense.,,0,0.58152235,0.29837584,1.3426419839663888
+197,5860,142.0,exactly what you'd expect from a guy named kaos.,,0,0.7669584,0.032358605,0.9187261614295978
+198,5923,288.0,"parker should be commended for taking a fresh approach to familiar material, but his determination to remain true to the original text leads him to adopt a somewhat mannered tone... that ultimately dulls the human tragedy at the story's core.",,0,0.44250494,0.32485443,1.5368823715298858
+199,5998,388.0,"... jones, despite a definitely distinctive screen presence, just isn't able to muster for a movie that, its title notwithstanding, should have been a lot nastier if it wanted to fully capitalize on its lead's specific gifts.",,0,0.5183628,0.16712134,1.4475982662650622
+200,6029,33.0,"that's not vintage spielberg and that, finally, is minimally satisfying.",,0,0.4890577,0.16128032,1.4592937744543366
+201,6075,327.0,"if you already like this sort of thing, this is that sort of thing all over again.",,0,0.56743807,0.019888217,1.1032219260038827
+202,6086,266.0,"labute can't avoid a fatal mistake in the modern era: he's changed the male academic from a lower-class brit to an american, a choice that upsets the novel's exquisite balance and shreds the fabric of the film.",,0,0.7505042,0.7505042,0.9904892761637966
+203,6091,320.0,adam sandler's eight crazy nights grows on you -- like a rash.,,-1,0.7470037,0.026255896,0.9376495844866836
+204,6132,213.0,the cumulative effect of the movie is repulsive and depressing.,,-1,0.902396,0.016792446,0.5260036062017235
+205,6138,355.0,"peralta's mythmaking could have used some informed, adult hindsight.",,0,0.6415126,0.06654172,1.1895704594011292
+206,6147,150.0,mr. soderbergh's direction and visual style struck me as unusually and unimpressively fussy and pretentious.,,-1,0.8671049,0.021123212,0.6492858438283852
+207,6173,86.0,... a bland murder-on-campus yawner.,,-1,0.48787683,0.060225476,1.2671200164149325
+208,6208,258.0,"although the sequel has all the outward elements of the original, the first film's lovely flakiness is gone, replaced by the forced funniness found in the dullest kiddie flicks.",,-1,0.49814454,0.305343,1.4846852930277217
+209,6226,279.0,"circuit queens won't learn a thing, they'll be too busy cursing the film's strategically placed white sheets.",,0,0.7857165,0.7857165,0.8585739394204491
+210,6252,379.0,"viewed as a comedy, a romance, a fairy tale, or a drama, there's nothing remotely triumphant about this motion picture.",,0,0.4832674,0.31416598,1.4984007374513797
+211,6285,99.0,reeks of rot and hack work from start to finish.,,0,0.8723915,0.8723915,0.6197749538058713
+212,6291,387.0,"the art direction is often exquisite, and the anthropomorphic animal characters are beautifully realized through clever makeup design, leaving one to hope that the eventual dvd release will offer subtitles and the original italian-language soundtrack.",,1,0.8903607,0.093234,0.565587821054911
+213,6302,165.0,kirshner and monroe seem to be in a contest to see who can out-bad-act the other.,,-1,0.59022844,0.05018918,1.1962024543837007
+214,6304,104.0,a lame romantic comedy about an unsympathetic character and someone who would not likely be so stupid as to get involved with her.,,-1,0.9022311,0.016409736,0.5257011317145185
+215,6331,234.0,"the misery of these people becomes just another voyeuristic spectacle, to be consumed and forgotten.",,-1,0.9273359,0.011899257,0.42252697663974825
+216,6406,264.0,"the emperor's club is one of those films that possesses all the good intentions in the world, but...",,0,0.5839121,0.05877055,1.2240349227207816
+217,6430,352.0,"we never truly come to care about the main characters and whether or not they'll wind up together, and michele's spiritual quest is neither amusing nor dramatic enough to sustain interest.",,-1,0.4707169,0.20032115,1.5040264619437531
+218,6534,45.0,crush could be the worst film a man has made about women since valley of the dolls.,,-1,0.9544406,0.00805994,0.2978992972375555
+219,6543,58.0,"i did go back and check out the last 10 minutes, but these were more repulsive than the first 30 or 40 minutes.",,-1,0.44615602,0.14534228,1.4515211905312428
+220,6558,321.0,"the film feels formulaic, its plot and pacing typical hollywood war-movie stuff, while the performances elicit more of a sense of deja vu than awe.",,-1,0.4226943,0.4101653,1.483844985795606
+221,6575,301.0,a movie so bad that it quickly enters the pantheon of wreckage that includes battlefield earth and showgirls.,,-1,0.93282795,0.008782232,0.39286143121844613
+222,6600,74.0,"it is supremely unfunny and unentertaining to watch middle-age and older men drink to excess, piss on trees, b.s. one another and put on a show in drag.",11.0,-1,0.8740798,0.022012088,0.6303314208984815
+223,6684,280.0,"a lot of talent is wasted in this crass, low-wattage endeavor.",36.0,-1,0.8341978,0.026382634,0.7528318683899835
+224,6725,126.0,"i was feeling this movie until it veered off too far into the exxon zone, and left me behind at the station looking for a return ticket to realism.",,-1,0.60641253,0.08184219,1.2573562173601491
+225,6747,314.0,"it's a bizarre curiosity memorable mainly for the way it fritters away its potentially interesting subject matter via a banal script, unimpressive acting and indifferent direction.",,0,0.5254954,0.26524276,1.467853007022477
+226,6756,210.0,the movie slides downhill as soon as macho action conventions assert themselves.,,-1,0.6961811,0.13267848,1.1862063067676016
+227,6773,87.0,in comparison to his earlier films it seems a disappointingly thin slice of lower-class london life; despite the title... amounts to surprisingly little.,,-1,0.8569724,0.02600674,0.6899533773993575
+228,6792,137.0,anemic chronicle of money grubbing new yorkers and their serial loveless hook ups.,,0,0.46621495,0.42654142,1.383029615773082
+229,6825,124.0,"some elements of it really blow the big one, but other parts are decent.",,0,0.47417212,0.07805789,1.316695391387344
+230,6844,304.0,"the doofus-on-the-loose banter of welcome to collinwood has a cocky, after-hours loopiness to it.",,0,0.4878828,0.14821729,1.4440795012284091
+231,6964,254.0,bad and baffling from the get-go.,,-1,0.95271647,0.008632521,0.3071641316265231
+232,6972,292.0,both the crime story and the love story are unusual.,,0,0.4740213,0.10665859,1.3806780109965093
+233,6983,81.0,"since lee is a sentimentalist, the film is more worshipful than your random e!",,0,0.65847695,0.07282088,1.1815913243143492
+234,7124,274.0,"the director, with his fake backdrops and stately pacing, never settles on a consistent tone.",,-1,0.6042628,0.0436482,1.1665905675494679
+235,7132,240.0,"after seeing the film, i can tell you that there's no other reason why anyone should bother remembering it.",,-1,0.6401137,0.12972027,1.2819810372759877
+236,7216,256.0,the original wasn't a good movie but this remake makes it look like a masterpiece!,,-1,0.47843948,0.16571644,1.469052586012245
+237,7218,270.0,gere gives a good performance in a film that doesn't merit it.,,0,0.5003475,0.12829116,1.410623544173416
+238,7221,25.0,"there's no palpable chemistry between lopez and male lead ralph fiennes, plus the script by working girl scribe kevin wade is workmanlike in the extreme.",,-1,0.4829766,0.2751796,1.5146355557275273
+239,7291,85.0,this thing works on no level whatsoever for me.,,-1,0.7186498,0.06923286,1.083769656295394
+240,7308,118.0,feels less like a cousin to blade runner than like a bottom-feeder sequel in the escape from new york series.,,-1,0.47358045,0.09091879,1.3474594759910323
+241,7452,101.0,"the movie is what happens when you blow up small potatoes to 10 times their natural size, and it ain't pretty.",,-1,0.8803234,0.01589531,0.59606202890057
+242,7464,90.0,"the twist that ends the movie is the one with the most emotional resonance, but twists are getting irritating, and this is the kind of material where the filmmakers should be very careful about raising eyebrows.",,0,0.5891148,0.5891148,1.2508802966332355
+243,7495,136.0,"it's as if you're watching a movie that was made in 1978 but not released then because it was so weak, and it has been unearthed and released now, when it has become even weaker.",,-1,0.89408743,0.01430468,0.5479552997752015
+244,7513,253.0,"at its worst, it implodes in a series of very bad special effects.",,-1,0.96008795,0.006924254,0.26845505049225105
+245,7529,73.0,if only the story about a multi-million dollar con bothered to include the con.,,0,0.51081634,0.42377764,1.2772793755667002
+246,7535,257.0,"to my taste, the film's comic characters come perilously close to being amoses and andys for a new generation.",,0,0.48771492,0.308389,1.4963663546743236
+247,7542,215.0,"a very long movie, dull in stretches, with entirely too much focus on meal preparation and igloo construction.",,-1,0.5668477,0.046656318,1.2006031464539784
+248,7616,223.0,"with the exception of some fleetingly amusing improvisations by cedric the entertainer as perry's boss, there isn't a redeeming moment here.",,-1,0.49283713,0.29815668,1.4956515947773377
+249,7638,296.0,"if you're a wwf fan, or you related to the people who watched the robots getting butchered in a.i., you'll probably like rollerball.",,0,0.5957416,0.033864394,1.1412848683188632
+250,7699,172.0,the only entertainment you'll derive from this choppy and sloppy affair will be from unintentional giggles -- several of them.,,-1,0.47675818,0.13905391,1.4355082298747084
+251,7706,269.0,... think of it as american pie on valium.,,0,0.945617,0.021488305,0.35737582090929565
+252,7709,44.0,"... a plotline that's as lumpy as two-day old porridge... the filmmakers' paws, sad to say, were all over this ``un-bear-able'' project!",8.0,-1,0.9103711,0.012153768,0.4865515600157241
+253,7733,161.0,there are plot holes big enough for shamu the killer whale to swim through.,,-1,0.8909661,0.026038134,0.5834644717075201
+254,7741,156.0,it's everything you don't go to the movies for.,,-1,0.9239289,0.036133423,0.4641153913147655
+255,7757,111.0,"instead of hiding pinocchio from critics, miramax should have hidden it from everyone.",,-1,0.7907182,0.09857018,0.9488810834839302
+256,7898,192.0,even horror fans will most likely not find what they're seeking with trouble every day; the movie lacks both thrills and humor.,,-1,0.69482046,0.06588207,1.1172001599180592
+257,7908,222.0,it should be mentioned that the set design and interiors of the haunted vessel are more than effectively creepy and moodily lit.,,1,0.44419003,0.39882833,1.4682963782964011
+258,7912,56.0,the film seems a dead weight.,,-1,0.8544046,0.01477464,0.6676698433010396
+259,7937,337.0,to say analyze that is de niro's best film since meet the parents sums up the sad state of his recent career.,,0,0.64880216,0.18414591,1.2857307750127496
+260,7988,20.0,"for the most part, the ingredients are there.",,0,0.94393766,0.02542443,0.3673232114438751
+261,8001,181.0,"after that, it just gets stupid and maudlin.",,-1,0.9299027,0.008640988,0.40404765578285307
+262,8032,228.0,the movie is virtually without context -- journalistic or historical.,,-1,0.7063083,0.046440583,1.058412276278205
+263,8056,48.0,the movie will reach far beyond its core demographic.,,1,0.8523962,0.8523962,0.6925151449752844
+264,8089,313.0,"that is essentially what's missing from blackboards -- the sense of something bigger, some ultimate point.",,0,0.69258887,0.18197158,1.1900315448880923
+265,8123,300.0,largely a for-fans artifact.,,0,0.78653175,0.100990854,0.9610823066580667
+266,8144,310.0,"i didn't laugh at the ongoing efforts of cube, and his skinny buddy mike epps, to make like laurel and hardy'n the hood.",,-1,0.40554404,0.19103484,1.512592401835277
+267,8239,356.0,"``my god, i'm behaving like an idiot!''",,0,0.9233309,0.9233309,0.43763096599081
+268,8254,275.0,"why he was given free reign over this project -- he wrote, directed, starred and produced -- is beyond me.",,-1,0.56279945,0.29703236,1.3842733083127963
+269,8292,117.0,better at putting you to sleep than a sound machine.,,-1,0.7751179,0.7751179,0.8858318137209974
+270,8301,43.0,bullock's complete lack of focus and ability quickly derails the film.1,,-1,0.8543356,0.01957451,0.6818148143952276
+271,8367,49.0,how did it ever get made?,,-1,0.9502165,0.021638136,0.3346449599360837
+272,8380,293.0,it's never a good sign when a film's star spends the entirety of the film in a coma.,37.0,-1,0.9156411,0.012811216,0.46919253414654916
+273,8457,205.0,"as written by michael berg and michael j. wilson from a story by wilson, this relentless, all-wise-guys-all-the-time approach tries way too hard and gets tiring in no time at all.",,-1,0.7615636,0.039855607,0.9476888137568237
+274,8480,385.0,"too much of this well-acted but dangerously slow thriller feels like a preamble to a bigger, more complicated story, one that never materializes.",,-1,0.5624471,0.07892607,1.2866522580560724
+275,8508,47.0,flaccid drama and exasperatingly slow journey.,,-1,0.72948647,0.05338912,1.0360562514925487
+276,8510,89.0,"suffers from rambling, repetitive dialogue and the visual drabness endemic to digital video.",,-1,0.9427683,0.0085403565,0.35114721123432274
+277,8585,62.0,"but here's the real damn: it isn't funny, either.",,-1,0.884504,0.018786298,0.5902641927703458
+278,8610,23.0,"the acting is stiff, the story lacks all trace of wit, the sets look like they were borrowed from gilligan's island -- and the cgi scooby might well be the worst special-effects creation of the year.",,-1,0.8772316,0.021057894,0.6184386916043301
+279,8649,149.0,aaliyah rarely dampens her diva persona enough to spark genuine chemistry with townsend.,,0,0.5090925,0.21824484,1.4863086372692156
+280,8681,186.0,"it's badly acted, blandly directed, and could have been scripted by someone who just graduated from elementary school.",,-1,0.91272974,0.010454197,0.473437108965506
+281,8720,398.0,the sort of movie that gives tastelessness a bad rap.,,-1,0.8748704,0.015465346,0.6114488867166383
+282,8770,75.0,"only a few minutes elapse before the daddy of all slashers arrives, still with the boiler suit and white mask, which look remarkably clean for a guy who has been mass-murdering since 1978 but has never been seen doing laundry.",,0,0.46885362,0.21040484,1.5116906967968033
+283,8801,315.0,"while obviously an extremely personal work, it remains inextricably stuck in an emotionally unavailable rut.",,0,0.89730966,0.89730966,0.5447213380083773
+284,8863,271.0,"the movie is as far as you can get from racy, to the point where it almost stops the blood flow to your brain; it has a dull, costumey feel.",34.0,-1,0.8114854,0.020154128,0.7908250717400391
+285,8919,72.0,`how many more voyages can this limping but dearly-loved franchise survive?',,0,0.5011082,0.1105412,1.3806659722109489
+286,8921,400.0,"fans of the tv series will be disappointed, and everyone else will be slightly bored.",44.0,0,0.94371617,0.94371617,0.3467897728007372
+287,8954,76.0,"showtime is one of the hapless victims of the arrogant ``if we put together a wry white man and a chatty black man and give them guns, the movie will be funny'' syndrome.",,-1,0.54051054,0.29391554,1.4285432764800663
+288,8974,52.0,could the country bears really be as bad as its trailers?,,-1,0.8456868,0.020105444,0.7066722408463583
+289,9027,169.0,an atonal estrogen opera that demonizes feminism while gifting the most sympathetic male of the piece with a nice vomit bath at his wedding.,,-1,0.49681616,0.49681616,1.339133451897462
+290,9033,59.0,"a lousy movie that's not merely unwatchable, but also unlistenable.",,-1,0.7840442,0.04413025,0.9104783894421702
+291,9049,66.0,"like a documentary version of fight club, shorn of social insight, intellectual pretension and cinematic interest.",,0,0.61109954,0.18833216,1.3527089024433179
+292,9066,55.0,"the stupidest, most insulting movie of 2002's first quarter.",9.0,-1,0.94746494,0.0081457365,0.3297643932742362
+293,9080,322.0,"... pitiful, slapdash disaster.",,-1,0.9587981,0.008077561,0.2771921776148775
+294,9104,371.0,"a gratingly unfunny groaner littered with zero-dimensional, unlikable characters and hackneyed, threadbare comic setups.",,-1,0.92059344,0.013273543,0.4517912865365875
+295,9119,227.0,"you come away wishing, though, that the movie spent a lot less time trying to make a credible case for reports from the afterlife and a lot more time on the romantic urgency that's at the center of the story.",,0,0.49927044,0.109531924,1.3794857412694028
+296,9188,148.0,"cox offers plenty of glimpses at existing photos, but there are no movies of nijinsky, so instead the director treats us to an aimless hodgepodge.",,-1,0.6442446,0.1505845,1.2887930121026874
+297,9282,323.0,"as it stands, there's some fine sex onscreen, and some tense arguing, but not a whole lot more.",,0,0.5242088,0.10140375,1.3539225840104567
+298,9284,395.0,the picture doesn't know it's a comedy.,,0,0.86272126,0.088168815,0.7062179056784414
+299,9285,130.0,"a stupid, derivative horror film that substitutes extreme gore for suspense.",16.0,-1,0.9140622,0.012220604,0.4734648411679576
+300,9325,188.0,"despite its raucous intent, xxx is as conventional as a nike ad and as rebellious as spring break.",,0,0.5061578,0.32652736,1.4560367670122967
+301,9330,369.0,"an amateurish, quasi-improvised acting exercise shot on ugly digital video.",39.0,-1,0.60152286,0.05739091,1.2070212810102021
+302,9348,364.0,a generic family comedy unlikely to be appreciated by anyone outside the under-10 set.,,-1,0.5043524,0.30460998,1.4766528433191741
+303,9355,374.0,"a profoundly stupid affair, populating its hackneyed and meanspirited storyline with cardboard characters and performers who value cash above credibility.",,-1,0.81967604,0.03087379,0.7998843438655631
+304,9366,317.0,"the good is very, very good... the rest runs from mildly unimpressive to despairingly awful.",,0,0.6817856,0.18217847,1.2158000494321686
+305,9396,152.0,... would be a total loss if not for two supporting performances taking place at the movie's edges.,,0,0.80144083,0.80144083,0.8487851168899652
+306,9429,144.0,"for those for whom the name woody allen was once a guarantee of something fresh, sometimes funny, and usually genuinely worthwhile, hollywood ending is a depressing experience.",,-1,0.59269637,0.16632366,1.3724396120635536
+307,9435,338.0,"like being trapped inside a huge video game, where exciting, inane images keep popping past your head and the same illogical things keep happening over and over again.",,0,0.7872948,0.7872948,0.8516154353752144
+308,9439,70.0,everything was as superficial as the forced new jersey lowbrow accent uma had.,,-1,0.77872807,0.024381736,0.8732266892913095
+309,9453,183.0,"plods along, minus the twisted humor and eye-popping visuals that have made miike... a cult hero.",,0,0.4417979,0.1587059,1.4709638292112832
+310,9491,229.0,"after sitting through this sloppy, made-for-movie comedy special, it makes me wonder if lawrence hates criticism so much that he refuses to evaluate his own work.",,-1,0.92462033,0.011858622,0.4330138767500843
+311,9500,154.0,"loud, chaotic and largely unfunny.",,-1,0.906999,0.011068063,0.49537418401366073
+312,9506,7.0,"bread, my sweet has so many flaws it would be easy for critics to shred it.",,-1,0.61508423,0.07112972,1.2272053368981122
+313,9509,16.0,"frida is certainly no disaster, but neither is it the kahlo movie frida fans have been looking for.",,0,0.4115161,0.2412316,1.5519198465907262
+314,9516,276.0,"if you enjoy being rewarded by a script that assumes you aren't very bright, then blood work is for you.",,-1,0.5393315,0.5393315,1.2816903865960296
+315,9518,15.0,the film's stagecrafts are intimate and therefore bolder than the otherwise calculated artifice that defines and overwhelms the film's production design.,,0,0.5315833,0.101380624,1.3501185857473477
+316,9599,36.0,"for the rest of us, sitting through dahmer's two hours amounts to little more than punishment.",,-1,0.63254404,0.04504388,1.1459271100222777
+317,9600,246.0,narc can only remind us of brilliant crime dramas without becoming one itself.,,0,0.52882415,0.078769356,1.3044330283808256
+318,9620,302.0,"if you're over 25, have an iq over 90, and have a driver's license, you should be able to find better entertainment.",,-1,0.68149835,0.68149835,1.0243528321013344
+319,9642,235.0,"a thoroughly awful movie -- dumb, narratively chaotic, visually sloppy... a weird amalgam of `the thing' and a geriatric `scream.'",,-1,0.9408746,0.009027757,0.3604155282719704
+320,9644,200.0,"nothing sticks, really, except a lingering creepiness one feels from being dragged through a sad, sordid universe of guns, drugs, avarice and damaged dreams.",,-1,0.9539834,0.009629903,0.3032850414384811
+321,9703,207.0,this is one of the biggest disappointments of the year.,30.0,-1,0.96339625,0.008296641,0.25476110389995077
+322,9725,53.0,"at times, the movie looks genuinely pretty.",,1,0.87436056,0.10643723,0.6228625583368114
+323,9730,132.0,it's 51 times better than this.,,0,0.78804004,0.024285417,0.8540675640112163
+324,9731,219.0,"it's difficult to conceive of anyone who has reached puberty actually finding the characters in slackers or their antics amusing, let alone funny.",,-1,0.52630794,0.20358486,1.464933085576128
+325,9760,5.0,presents a good case while failing to provide a reason for us to care beyond the very basic dictums of human decency.,,0,0.4477767,0.16890047,1.4826734399779284
+326,9768,365.0,"an amalgam of the fugitive, blade runner, and total recall, only without much energy or tension.",,0,0.7534545,0.16548492,1.031020685466611
+327,9824,145.0,bella is the picture of health with boundless energy until a few days before she dies.,,0,0.47177225,0.11926116,1.4047387278175179
+328,9830,340.0,the rock has a great presence but one battle after another is not the same as one battle followed by killer cgi effects.,,0,0.5942105,0.068852626,1.240825072976565
+329,9852,147.0,what should have been a cutting hollywood satire is instead about as fresh as last week's issue of variety.,,-1,0.5958413,0.2709075,1.3429829395717243
+330,9857,19.0,"the movie's plot is almost entirely witless and inane, carrying every gag two or three times beyond its limit to sustain a laugh.",,-1,0.508736,0.06644003,1.2806077558088482
+331,9885,196.0,"a loud, ugly, irritating movie without any of its satirical salvos hitting a discernible target.",28.0,-1,0.93418044,0.011759328,0.39469450830266734
+332,9902,368.0,"co-writer/director jonathan parker's attempts to fashion a brazil-like, hyper-real satire fall dreadfully short.",,-1,0.85872144,0.01899847,0.6680475172023344
+333,9917,105.0,"rob schneider's infantile cross-dressing routines fill the hot chick, the latest gimmick from this unimaginative comedian.",,-1,0.43459368,0.13248423,1.4317254714689809
+334,9920,27.0,the film is so bad it doesn't improve upon the experience of staring at a blank screen.,5.0,-1,0.9549278,0.007911826,0.29529102985240147
+335,9982,96.0,deserves high marks for political courage but barely gets by on its artistic merits.,,0,0.4826692,0.1324616,1.4237190771320392
+336,10011,382.0,"thanks largely to williams, all the interesting developments are processed in 60 minutes -- the rest is just an overexposed waste of film.",,-1,0.49656716,0.49656716,1.3051543236185443
+337,10023,64.0,it's a fanboy `what if?',,0,0.8304471,0.025914177,0.7612779363738561
+338,10032,236.0,"one of those staggeringly well-produced, joylessly extravagant pictures that keep whooshing you from one visual marvel to the next, hastily, emptily.",,0,0.68982685,0.058376633,1.1097825481863464
+339,10035,305.0,it's the funniest american comedy since graffiti bridge.,,1,0.87896156,0.10200826,0.6083053448285053
+340,10041,163.0,"stitch is a bad mannered, ugly and destructive little ****.",,-1,0.9618252,0.0075445795,0.2612379920292755
+341,10061,231.0,"for all the complications, it's all surprisingly predictable.",,0,0.38755006,0.2516659,1.5615512190043452
+342,10064,278.0,but his showboating wise-cracker stock persona sure is getting old.,,0,0.58614874,0.2574897,1.3743224781251995
+343,10065,14.0,"if deuces wild had been tweaked up a notch it would have become a camp adventure, one of those movies that's so bad it starts to become good.",,0,0.5992479,0.2939567,1.3065695688524943
+344,10098,349.0,distinctly sub-par... more likely to drown a viewer in boredom than to send any shivers down his spine.,,-1,0.6366475,0.051025115,1.1581230017342374
+345,10176,402.0,"bray is completely at sea; with nothing but a savage garden music video on his resume, he has no clue about making a movie.",,-1,0.6022177,0.055338405,1.2011170306147563
+346,10223,350.0,godard's ode to tackling life's wonderment is a rambling and incoherent manifesto about the vagueness of topical excess... in praise of love remains a ponderous and pretentious endeavor that's unfocused and tediously exasperating.,,-1,0.6015384,0.07777697,1.2538316049133666
+347,10256,376.0,it isn't that stealing harvard is a horrible movie -- if only it were that grand a failure!,,-1,0.9270948,0.014233691,0.4286030806990686
+348,10267,167.0,"like life on the island, the movie grows boring despite the scenery.",22.0,-1,0.9166524,0.011310845,0.461614806566883
+349,10283,122.0,"apparently, romantic comedy with a fresh point of view just doesn't figure in the present hollywood program.",,-1,0.5378624,0.123898625,1.3834654198103682
+350,10357,143.0,"if legendary shlockmeister ed wood had ever made a movie about a vampire, it probably would look a lot like this alarming production, adapted from anne rice's novel the vampire chronicles.",19.0,0,0.48744622,0.27348477,1.5104307518965823
+351,10394,170.0,"even by the intentionally low standards of frat-boy humor, sorority boys is a bowser.",,-1,0.42578316,0.2223291,1.5369958800794552
+352,10507,51.0,"it briefly flirts with player masochism, but the point of real interest -- audience sadism -- is evaded completely.",,0,0.67547476,0.67547476,1.1002498938143226
+353,10544,343.0,"the problem is that for the most part, the film is deadly dull.",,-1,0.9325434,0.010212785,0.39773305478244875
+354,10558,290.0,"i have no problem with ``difficult'' movies, or movies that ask the audience to meet them halfway and connect the dots instead of having things all spelled out.",,0,0.3861931,0.34103888,1.5706169404792765
+355,10598,217.0,i'm not sure which will take longer to heal: the welt on johnny knoxville's stomach from a riot-control projectile or my own tortured psyche.,,-1,0.79190075,0.029214185,0.8596234635473393
+356,10599,218.0,"while serving sara does have a long way to go before it reaches the level of crudity in the latest austin powers extravaganza, there's nothing here to match that movie's intermittent moments of inspiration.",,0,0.518783,0.19587654,1.4681309309862711
+357,10613,378.0,those unfamiliar with mormon traditions may find the singles ward occasionally bewildering.,,0,0.7401444,0.7401444,1.0001931392647543
+358,10629,394.0,"feels slight, as if it were an extended short, albeit one made by the smartest kids in class.",,0,0.49350747,0.36027333,1.4390188257354455
+359,10637,94.0,"even as i valiantly struggled to remain interested, or at least conscious, i could feel my eyelids... getting... very... heavy...",13.0,-1,0.689221,0.034806915,1.051298643881892
+360,10693,335.0,... about as exciting to watch as two last-place basketball teams playing one another on the final day of the season.,,-1,0.7695296,0.7695296,0.9031566580383132
+361,10739,341.0,visually sumptuous but intellectually stultifying.,,0,0.42461354,0.21543851,1.532462933350664
+362,10758,102.0,"even a hardened voyeur would require the patience of job to get through this interminable, shapeless documentary about the swinging subculture.",,-1,0.54651606,0.1656147,1.4231603914907114
+363,10774,193.0,after that it becomes long and tedious like a classroom play in a college history course.,27.0,-1,0.60990256,0.1507671,1.3403289033036094
+364,10799,71.0,"despite the holes in the story and the somewhat predictable plot, moments of the movie caused me to jump in my chair...",,0,0.49534932,0.38949895,1.39095457632484
+365,10816,239.0,"in a strange way, egoyan has done too much.",,0,0.7976612,0.7976612,0.8413589060257091
+366,10833,11.0,the film rehashes several old themes and is capped with pointless extremes -- it's insanely violent and very graphic.,,-1,0.9088534,0.013594383,0.4956758415832741
+367,10839,28.0,weiss and speck never make a convincing case for the relevance of these two 20th-century footnotes.,,0,0.51549083,0.3467821,1.4165629650209632
+368,10893,397.0,"starts out mediocre, spirals downward, and thuds to the bottom of the pool with an utterly incompetent conclusion.",43.0,-1,0.88324994,0.016306907,0.5880564084855572
+369,10918,214.0,"feels like nothing quite so much as a middle-aged moviemaker's attempt to surround himself with beautiful, half-naked women.",,0,0.54081655,0.18844694,1.4436756859641833
+370,10920,392.0,"this picture is murder by numbers, and as easy to be bored by as your abc's, despite a few whopping shootouts.",,-1,0.47727698,0.14711423,1.4466939814868254
+371,10966,175.0,attal pushes too hard to make this a comedy or serious drama.,,-1,0.7852668,0.03171422,0.8801389300034621
+372,10997,8.0,"slow, silly and unintentionally hilarious.",1.0,0,0.45818585,0.3008459,1.5319801780496922
+373,11002,283.0,this stuck pig of a movie flails limply between bizarre comedy and pallid horror.,,-1,0.7981833,0.026032412,0.837486716641533
+374,11010,125.0,"no french people were harmed during the making of this movie, but they were insulted and the audience was put through torture for an hour and a half.",,-1,0.87260246,0.017772343,0.6245223199046256
+375,11063,362.0,adults will certainly want to spend their time in the theater thinking up grocery lists and ways to tell their kids how not to act like pinocchio.,,0,0.7388884,0.19583638,1.0402491885205838
+376,11141,42.0,"this hastily mounted production exists only to capitalize on hopkins' inclination to play hannibal lecter again, even though harris has no immediate inclination to provide a fourth book.",,-1,0.69767374,0.09429916,1.1548091540260874
+377,11191,82.0,"the movie is almost completely lacking in suspense, surprise and consistent emotional conviction.",,-1,0.46586752,0.18256092,1.491520743486264
+378,11192,140.0,festers in just such a dungpile that you'd swear you were watching monkeys flinging their feces at you.,,-1,0.5201982,0.06530516,1.2742077654222905
+379,11255,404.0,men in black ii achieves ultimate insignificance -- it's the sci-fi comedy spectacle as whiffle-ball epic.,,-1,0.5424591,0.5424591,1.32118345064426
+380,11257,78.0,"a zombie movie in every sense of the word -- mindless, lifeless, meandering, loud, painful, obnoxious.",,-1,0.9109373,0.012909552,0.4865087363356592
+381,11314,187.0,"the sort of picture in which, whenever one of the characters has some serious soul searching to do, they go to a picture-perfect beach during sunset.",,-1,0.6383147,0.6383147,1.0747029029245574
+382,11315,330.0,"aptly named, this shimmering, beautifully costumed and filmed production doesn't work for me.",,0,0.46031922,0.30216092,1.5295342407891215
+383,11318,366.0,"everything its title implies, a standard-issue crime drama spat out from the tinseltown assembly line.",,0,0.71112126,0.23009905,1.0778101994690212
+384,11327,112.0,what a great shame that such a talented director as chen kaige has chosen to make his english-language debut with a film so poorly plotted and scripted.,,-1,0.5076697,0.07563104,1.3044951141177872
+385,11353,316.0,"a dim-witted and lazy spin-off of the animal planet documentary series, crocodile hunter is entertainment opportunism at its most glaring.",,-1,0.5943041,0.087474905,1.2793021495148231
+386,11358,403.0,"it's not a particularly good film, but neither is it a monsterous one.",46.0,0,0.8907995,0.8907995,0.5759894607660818
+387,11376,157.0,"harris is supposed to be the star of the story, but comes across as pretty dull and wooden.",,0,0.681097,0.681097,1.1016222293768823
+388,11399,245.0,"some movies can get by without being funny simply by structuring the scenes as if they were jokes: a setup, delivery and payoff.",,0,0.5597338,0.23975234,1.4274200577872813
+389,11411,328.0,an awful movie that will only satisfy the most emotionally malleable of filmgoers.,,-1,0.81484497,0.027439484,0.8033018111208579
+390,11439,195.0,"blade ii has a brilliant director and charismatic star, but it suffers from rampant vampire devaluation.",,0,0.61182404,0.2316918,1.341210658354583
+391,11504,326.0,"the venezuelans say things like ``si, pretty much'' and ``por favor, go home'' when talking to americans.",,0,0.8918452,0.038323738,0.595761833183489
+392,11563,174.0,"a bittersweet contemporary comedy about benevolent deception, which, while it may not rival the filmmaker's period pieces, is still very much worth seeing.",,1,0.5378423,0.3649012,1.3389344679704138
+393,11604,370.0,"``the kid stays in the picture'' is a great story, terrifically told by the man who wrote it but this cliff notes edition is a cheat.",,0,0.5363727,0.0798482,1.303457370802481
+394,11627,345.0,an exhilarating experience.,,1,0.9249366,0.062590525,0.4332463113027254
+395,11661,46.0,"reassuring, retro uplifter.",,1,0.9216558,0.066422746,0.4445186131838892
+396,11783,141.0,under-rehearsed and lifeless,18.0,-1,0.86831415,0.013375184,0.6244558486100672

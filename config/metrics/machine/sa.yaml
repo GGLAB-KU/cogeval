@@ -1,0 +1,15 @@
+data:
+  type: sentiment
+  file: data/human/sentiment-analysis/zuco/all.csv
+metrics:
+  - pred_confidence
+  - gold_confidence
+  - uncertainty  
+model: 
+  name: Souvikcmsa/BERT_sentiment_analysis
+  calibration: 
+    method: mc_dropout
+    num_iters: 5
+results:
+    dir: data/machine/sentiment-analysis/zuco/mc_dropout
+    file: all.csv
