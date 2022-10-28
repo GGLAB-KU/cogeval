@@ -7,4 +7,4 @@ Before running any experiment, to configure module imports, execute the followin
 
 ### **Sample correlation:**
     python eval/correlation.py <config_file>
-    python eval/correlation.py config/sa_control.yaml 
+    python eval/correlation.py config/correlation/sa_control.yaml 
