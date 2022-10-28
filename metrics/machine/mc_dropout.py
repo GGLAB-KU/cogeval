@@ -96,6 +96,6 @@ def main():
 if __name__=="__main__":
     # specify parameters in .yaml file under ./config/metrics directory 
     # usage: python mc_dropout.py <config_file>
-    # e.g. : python mc_dropout.py config/metrics/sa_all.yaml
+    # e.g. : python mc_dropout.py config/metrics/machine/sa-machine_1.yaml 
     main()
     

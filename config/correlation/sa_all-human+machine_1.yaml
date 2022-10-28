@@ -1,0 +1,25 @@
+data:
+  type: sentiment
+  human: data/human/sentiment-analysis/zuco/all.csv
+  machine: data/machine/sentiment-analysis/zuco/machine_1/mc_dropout/all.csv
+
+correlation:
+  type: human+machine
+  method: spearman
+  columns:
+    human:
+      - mean_of_fixations
+      - max_of_fixations
+      - mean_of_trts
+      - mean_of_omissionRates
+    machine:
+      - pred_confidence
+      - gold_confidence
+      - uncertainty
+  results:
+    dir: results/correlation/sentiment-analysis/zuco/human+machine_1/
+    heatmap:
+      name:  all_heatmap.png
+      title: human+machine_1 correlations
+    excel:
+      name:  all_correlations.xlsx
