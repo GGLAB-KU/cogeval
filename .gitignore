@@ -2,4 +2,4 @@
 __pycache__
 **.code-workspace
 settings.json
-**/*embeddings.csv
+**/*embeddings*.csv
