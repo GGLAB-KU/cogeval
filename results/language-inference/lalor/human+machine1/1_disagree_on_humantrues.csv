@@ -1,0 +1,36 @@
+sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_1_pred,machine_1_confidence,confidence_diff
+68.0,A couple kissing in front of a black Mercedes Benz limousine,A couple kissing in front of a car,entailment,entailment,0.9611054247697032,contradiction,0.4230888436131713,0.5380165811565318
+77.0,Many small sailboats sitting at a dock., Many small sailboats docked.,entailment,entailment,0.9119754350051176,neutral,0.4141395269533781,0.4978359080517395
+47.0,Two men and one woman are dressed in costume hats.,the people are swingers,neutral,neutral,0.834186284544524,contradiction,0.4072757059396081,0.42691057860491594
+29.0,A man prepares food in a shanty kitchen.,A man is fixing a meal.,entailment,entailment,0.8863868986693961,neutral,0.4760349624103034,0.4103519362590927
+64.0,A couple is back to back in formal attire.,Two people are facing away from each other.,entailment,entailment,0.8781985670419652,contradiction,0.4765090499270418,0.4016895171149234
+63.0,there is a lady standing and six people laying on a gym floor.,There are seven people in the gym.,entailment,entailment,0.7922210849539406,contradiction,0.3978086850570453,0.3944123998968953
+15.0,A group of people in dark clothing are crossing a crosswalk.,A group of people in dark clothing are crossing a crosswalk to get to the store,neutral,neutral,0.8188331627430911,entailment,0.4371881449561657,0.38164501778692544
+0.0,A little boy is opening gifts surrounded by a group of children and adults.,The boy is being punished,contradiction,contradiction,0.8382804503582395,neutral,0.4828389175566109,0.3554415328016286
+1.0,"People playing cricket in the park, pine trees in the back.","People are playing sports in the park, near the pine trees",entailment,entailment,0.8853633572159673,neutral,0.5958407344436424,0.2895226227723249
+49.0,Eight people are sitting on a long boat on a sunny day.,Morning ride on boat,neutral,neutral,0.7993858751279427,contradiction,0.5306918606222765,0.2686940145056662
+31.0,The dogs ran around the dirt racetrack.,Dogs are humping each other.,contradiction,contradiction,0.6980552712384852,neutral,0.4414516247272341,0.2566036465112511
+13.0,A cyclist is optimistic as he rushes through the air while on his BMX bike at a bicycle event.,A snowboarder flies through the air,contradiction,contradiction,0.7001023541453428,entailment,0.4639413544231348,0.23616099972220805
+30.0,There are two people sweeping a sidewalk in this picture.,The man is clearing leaves from the sidewalk.,neutral,neutral,0.714431934493347,contradiction,0.498464373543027,0.21596756095032
+75.0,"Neck and neck to the finish line, every competitor has been training for this race.",The competitors have trained very hard and are all very close to the finish line.,entailment,entailment,0.8311156601842374,neutral,0.6183700947097052,0.21274556547453227
+22.0,This path leads up to the apple market entrance.,This road goes up to apple market entrance,entailment,entailment,0.7400204708290685,neutral,0.5489577624975011,0.19106270833156747
+23.0,A single runner is watched by onlookers in a race.,A man is running in a race.,entailment,entailment,0.6192425793244627,contradiction,0.4392694971570496,0.1799730821674131
+60.0,This man is walking past a wall that has art on it.,A man walks past a wall mural.,entailment,entailment,0.5844421699078812,neutral,0.4055218169796667,0.1789203529282145
+86.0,A snowboarder is jumping over a snow slope.,A girl jumps her green snowboard over a slope.,neutral,neutral,0.6949846468781986,contradiction,0.5326580618523872,0.16232658502581143
+76.0,A football team wearing purple and white trying to stop the runner with the ball.,Lacrosse players celebrate a victory.,contradiction,contradiction,0.646878198567042,neutral,0.4857681264086378,0.16111007215840417
+43.0,A man and woman walking away from a crowded street fair.,There are a group of men walking together.,contradiction,contradiction,0.5414534288638689,entailment,0.6973276187501578,0.15587418988628887
+52.0,"A man is standing in what appears to be a parking lot and shaving his face, while his dog looks at the ground near his feet.",A women is walking with a man,contradiction,contradiction,0.5721596724667349,entailment,0.716452402814808,0.1442927303480731
+38.0,A man is popping balloons inside a cubicle using a handmade tool.,A man is popping balloons inside a cubicle using a handmade knife.,neutral,neutral,0.6274309109518935,contradiction,0.7524847597539694,0.12505384880207593
+85.0,"A group of asian women in sports attire, and one woman in the center is wearing a baseball cap.",Men are playing with a dog,contradiction,contradiction,0.6407369498464688,entailment,0.5159314260029637,0.12480552384350507
+8.0,a toddler playing with a toy car next to a dog.,A toddler plays with toy cars while his dog sleeps.,neutral,neutral,0.7492323439099283,contradiction,0.6570340198124424,0.09219832409748596
+83.0,"Five men in red shirts, in a line, on a basketball court, four with hands on their hearts, and same four looking upward.",A team of basketball players are on the court.,entailment,entailment,0.5435005117707267,neutral,0.4617760084974353,0.0817245032732914
+67.0,An infant napping in it's crib in pajamas.,A baby is sleeping in a crib with its blanket.,neutral,neutral,0.7512794268167861,contradiction,0.6702651234210218,0.08101430339576421
+80.0,Two men fight in a ring while spectators look on.,Boxers fight as the crowd screams.,neutral,neutral,0.5854657113613101,contradiction,0.6655524328080751,0.08008672144676499
+62.0,A ballerina in a black dress and tights dances in front of a concrete wall.,a man dancing,contradiction,contradiction,0.4974411463664278,entailment,0.4505865714921878,0.046854574874239996
+54.0,A young girl in a pink shirt sitting on a dock viewing a body of water.,An old woman viewing a body of water.,contradiction,contradiction,0.6939611054247697,entailment,0.6561878057351521,0.03777329968961762
+71.0,a poor looking person with white cream smeared around his eyes sitting on a backpack.,A dirty man with some product under his eyes is sitting on a pillow.,contradiction,contradiction,0.5670419651995906,entailment,0.5969512220826386,0.02990925688304802
+3.0,A group of dancers are performing.,The audience is silent.,neutral,neutral,0.8648925281473899,contradiction,0.885944946594584,0.021052418447194077
+37.0,A wielder works on wielding a beam into place while other workers set beams.,The wielder is working on a building.,neutral,neutral,0.5005117707267144,entailment,0.4873475612660072,0.013164209460707177
+89.0,Two people are sitting at a table outside of a building.,Two people are sitting eating lunch,neutral,neutral,0.8474923234390993,contradiction,0.8391290123611326,0.008363311077966729
+28.0,"A group of people are gathered in a crowd, some of which are holding spears.",A crowd of people are holding swords,contradiction,contradiction,0.4882292732855681,entailment,0.4951059012106747,0.0068766279251066265
+17.0,A man posing with a antique sewing machine.,He is a sewer.,neutral,neutral,0.8536335721596725,contradiction,0.8515755345095083,0.002058037650164213

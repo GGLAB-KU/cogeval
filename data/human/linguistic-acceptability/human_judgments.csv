@@ -1,0 +1,201 @@
+sample_id,domain,source,CoLA_label,source_annotation,annotator1,annotator2,annotator3,annotator4,annotator5,sentence
+0,out,clc95,1,,1,1,0,1,1,"If Sam was going, Sally would know where."
+1,out,clc95,0,*,0,0,0,0,0,"She mailed John a letter, but I don't know to whom."
+2,out,clc95,1,,1,1,1,1,1,I served my guests.
+3,out,clc95,0,*,0,0,0,0,0,"She was bathing, but I couldn't make out who."
+4,out,clc95,0,*,0,0,0,0,0,"John was tall, but I don't know on what occasions."
+5,out,clc95,0,*,0,0,0,0,0,"I know that Meg's attracted to Harry, but they don't know who."
+6,out,clc95,1,,1,0,0,1,1,Everyone relies on someone. It's unclear who.
+7,out,clc95,1,,0,1,1,1,1,"The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint."
+8,out,clc95,1,,1,1,1,1,0,"Everybody gets on well with a certain relative, but often only his therapist knows which one."
+9,out,clc95,0,*,0,0,0,0,0,"He announced he had eaten the asparagus, but we didn't know what."
+10,out,clc95,1,,1,1,1,1,1,She talked to John or Mary but I don't know which.
+11,out,clc95,1,,1,1,1,1,1,She talked to John or Mary but I don't know which one.
+12,out,clc95,1,,1,0,0,1,0,"Meg is attracted to Harry, but they don't know who she is attracted to."
+13,out,clc95,0,*,0,0,0,0,0,What did you leave before they started playing?
+14,out,clc95,1,,1,1,1,1,1,"I think Agnes said that Bill would speak, but I don't remember what about."
+15,out,clc95,0,*,1,1,0,1,1,"Tony sent Mo a picture that he painted, but it's not clear with what."
+16,out,clc95,0,*,0,0,0,0,0,Who did they see someone?
+17,out,c-05,0,*,0,0,0,0,0,The book was by John written.
+18,out,c-05,1,,1,1,1,1,1,The book was seen by Mary.
+19,out,c-05,0,*,0,0,0,0,0,Mary was given by John the book.
+20,out,c-05,1,,1,1,0,1,1,John was believed to be telling the truth by Mary.
+21,out,c-05,1,,1,1,1,1,1,John was believed by Mary to be telling the truth.
+22,out,c-05,1,,1,1,1,1,1,The car was driven by John to Maine.
+23,out,c-05,0,*,1,0,0,0,0,Chocolate eggs were hidden from each other by the children.
+24,out,c-05,1,,0,0,0,0,0,Books were taken from no student and given to Mary.
+25,out,j_71,0,*,1,0,1,1,1,"Bill ate the peaches, but Harry the grapes."
+26,out,j_71,0,*,1,0,0,0,0,Bill ate the peaches and Harry did the grapes.
+27,out,j_71,0,*,0,0,0,0,0,"Because Steve's of a spider's eye had been stolen, I borrowed Fred's diagram of a snake's fang."
+28,out,j_71,1,,1,1,1,1,1,Jerry attempted to blow up the Pentagon.
+29,out,j_71,1,,1,1,1,1,1,"Bill bought a red house, and Max bought one too."
+30,out,s_97,1,,1,1,1,1,1,I know the person whose mother died.
+31,out,s_97,0,*,0,0,0,0,0,Bother you that Kim left!
+32,out,s_97,0,*,0,0,0,1,1,"Mary arranged for, in St. Louis, John to rent a house cheap."
+33,out,s_97,0,*,0,0,0,0,0,I wonder in whom them to place their trust.
+34,out,s_97,0,*,0,0,0,0,0,I wonder whom us to trust.
+35,out,s_97,0,*,0,0,0,0,1,"Jones, that we were talking to last night, always watches football games alone."
+36,out,s_97,1,,1,1,1,1,1,A letter was received that Jones would be upset by.
+37,out,s_97,0,*,0,0,0,0,0,The only person whose kids Dana is willing to put up with was written by John.
+38,out,s_97,0,*,1,0,1,1,1,The book that I like - everyone else in the class hates.
+39,out,s_97,0,*,0,1,0,0,1,"Which book's, author did you meet who you liked?"
+40,out,s_97,1,,1,1,1,1,1,All who lost money in the scam are eligible for the program.
+41,out,s_97,0,*,0,0,0,0,0,Who for Sandy to talk to is still enrolled in the class?
+42,out,s_97,1,,1,1,1,1,1,The only people being added to our group who were at Harvard were students.
+43,out,swb04,0,*,0,0,0,0,0,Leslie told ourselves about us.
+44,out,swb04,1,,1,1,1,1,1,Those pictures of us offended us.
+45,out,swb04,1,,1,1,1,1,1,We admired the pictures of us in the album.
+46,out,swb04,1,,1,1,1,1,1,We admired the pictures of ourselves in the album.
+47,out,swb04,1,,1,1,1,1,1,Max is on the phone now.
+48,out,swb04,0,*,0,0,0,0,0,They lost themselves' books.
+49,out,swb04,0,*,0,0,0,0,0,I noticed the.
+50,out,swb04,1,,1,1,1,1,1,This is my favorite.
+51,out,swb04,1,,1,1,1,1,1,Some people yell at the dogs.
+52,out,swb04,0,*,0,0,0,0,0,The teacher handed the student.
+53,out,swb04,0,*,0,0,0,0,0,The bird sing.
+54,out,swb04,0,*,0,0,0,0,0,I was already aware of fact.
+55,out,swb04,1,,1,1,1,1,1,The guests dined.
+56,out,swb04,1,,1,1,1,1,1,We relied on Leslie.
+57,out,swb04,1,,1,1,1,1,1,Newsweek appeared on the newsstands.
+58,out,swb04,1,,1,1,1,1,1,The book surprised many people.
+59,out,swb04,1,,0,1,1,1,1,The storm arrived while we ate lunch.
+60,out,swb04,1,,1,1,1,1,1,These dogs barked.
+61,out,swb04,0,*,0,0,0,0,0,The cat slept soundly and furry.
+62,out,swb04,1,,1,1,1,1,1,"Chris walks, Pat eats broccoli, and Sandy plays squash."
+63,out,swb04,1,,1,0,1,1,1,Nobody told Susan about herself.
+64,out,swb04,1,,1,1,1,1,1,Protect yourself!
+65,out,swb04,0,*,0,0,0,1,1,the putter of books left.
+66,out,swb04,0,*,0,0,0,0,1,The cat was bitten the mouse.
+67,out,swb04,0,*,0,0,0,0,0,Chris was handed Sandy a note by Pat.
+68,out,swb04,1,,1,1,1,1,1,The patient died.
+69,out,swb04,0,*,0,0,0,0,0,TV puts dumb ideas.
+70,out,swb04,1,,1,1,1,1,1,There is a monster in Loch Ness.
+71,out,swb04,1,,1,1,1,1,1,People are looking through the window.
+72,out,swb04,1,,1,1,1,1,1,It never occurred to Pat that Chris knew the answer.
+73,out,swb04,0,*,1,1,1,1,1,It loved Sandy.
+74,out,swb04,1,,1,1,1,1,1,We forgot our invitations.
+75,out,swb04,1,,0,0,0,0,1,Advantage is taken of every opportunity for improvement.
+76,out,swb04,1,,1,1,1,1,1,The bucket was kicked by Pat.
+77,out,w_80,1,,1,1,1,1,1,John is sad.
+78,out,w_80,1,,1,1,1,1,1,Of whom are you thinking?
+79,out,w_80,1,,1,1,1,1,1,John is sick.
+80,out,w_80,1,,1,1,1,1,1,John tried to leave.
+81,out,w_80,0,*,0,0,0,0,1,John was struck by Bill as pompous.
+82,out,w_80,0,*,1,0,0,1,0,John was promised by Bill to leave.
+83,out,w_80,1,,1,1,1,1,1,They make good cooks.
+84,out,w_80,1,,1,1,1,1,1,I would prefer to leave.
+85,out,w_80,1,,1,1,1,1,1,I would hate for John to leave.
+86,out,w_80,0,*,0,0,0,0,0,It was hated for John to leave.
+87,out,w_80,1,,1,1,1,1,1,to die is no fun.
+88,out,w_80,1,,1,1,1,1,1,That he is here is clear.
+89,out,w_80,0,*,1,0,0,0,1,John believes it sincerely that Bill is here.
+90,out,w_80,0,*,1,0,0,0,0,John believed it that Bill was tardy.
+91,out,w_80,0,*,0,0,0,0,0,It is to give up to leave.
+92,out,w_80,1,,1,1,1,1,1,I bought it to read.
+93,out,w_80,0,*,1,0,0,0,0,I gave Pete the book to impress.
+94,out,w_80,1,,1,1,1,1,1,I presented it to Bill to read.
+95,out,w_80,1,,1,1,1,1,1,I gave a book to Bill to read.
+96,out,w_80,1,,1,1,1,1,1,John made Bill mad at himself.
+97,out,w_80,1,,1,1,1,1,1,The correspondence school made Bill a good typist.
+98,out,w_80,0,*,1,1,1,1,1,John bought a dog for himself to play with.
+99,out,w_80,1,,1,1,1,1,1,John arranged for himself to get the prize.
+100,in,gj04,1,,1,1,1,1,1,The weights made the rope stretch over the pulley.
+101,in,cj99,0,*,1,0,1,1,1,"The more you would want, the less you would eat."
+102,in,cj99,0,*,0,1,0,1,1,"I demand that the more John eat, the more he pays."
+103,in,cj99,1,,1,1,1,1,1,"The higher the stakes, the lower his expectations are."
+104,in,bc01,0,*,1,0,1,1,1,The box contained the ball from the tree.
+105,in,bc01,1,,0,0,0,1,1,"Most people probably consider, even though the courts didn't actually find, Klaus guilty of murder."
+106,in,bc01,1,,1,1,1,1,1,The men will all leave.
+107,in,bc01,0,*,0,0,0,1,0,They represented seriously to the dean Mary as a genuine linguist.
+108,in,bc01,0,*,1,0,0,0,1,Mary intended John to go abroad.
+109,in,bc01,1,,1,1,1,1,1,"Mary will read Fred's story, and Joe will read Holly's."
+110,in,r-67,1,,1,1,1,1,1,Mary saw the boy walking toward the railroad station.
+111,in,r-67,1,,0,0,0,0,0,A proof that the claim had been. made was giver that John had lied.
+112,in,r-67,1,,1,0,0,0,0,He attributed to a short circuit which was caused by an overloaded transducer the fire which destroyed most of my factory.
+113,in,r-67,0,*,0,0,0,0,0,I know a man who Tom drives as drives.
+114,in,r-67,1,,1,1,1,1,1,How sane is Peter?
+115,in,r-67,1,,1,1,1,1,1,Mike talked about politics yesterday to my friends.
+116,in,r-67,0,*,1,1,0,0,0,Here's a knife with which for you to cut up the onions.
+117,in,r-67,1,,1,0,0,1,1,"Sally is tall, and may be blond, and Sheila is short, and definitely is, blond."
+118,in,r-67,1,,0,0,0,1,1,Everybody around here who ever buys anything on credit talks in his sleep.
+119,in,r-67,0,*,0,1,0,1,0,"No writer, and no playwright, meets in Vienna."
+120,in,rhl07,1,,1,1,1,1,1,"We launched the rocket to the moon, but it blew up before it got there."
+121,in,l-93,1,,1,1,1,1,1,The farmer loaded the cart with apples.
+122,in,l-93,1,,1,1,1,1,1,We pulled free.
+123,in,l-93,1,,1,1,1,1,1,Mira condemned Terry for the accident.
+124,in,l-93,1,,1,1,1,0,1,We investigated the area for bombs.
+125,in,l-93,0,*,0,0,0,0,0,The books lifted onto the table.
+126,in,l-93,0,*,0,1,1,0,0,Lora buttered at the toast.
+127,in,l-93,1,,1,1,1,1,1,Susan whispered the news.
+128,in,l-93,0,*,1,1,1,1,1,Cynthia chewed.
+129,in,l-93,1,,1,1,1,1,1,Over the fire there bubbled a fragrant stew.
+130,in,l-93,1,,1,1,1,1,1,Soaring temperatures are predicted for this weekend.
+131,in,l-93,1,,1,1,1,1,1,A wonderful opportunity presented itself to him yesterday.
+132,in,l-93,1,,1,1,1,1,1,Out of the box jumped a little white rabbit.
+133,in,ks08,1,,0,1,0,0,0,did the policeman meet in the park?
+134,in,ks08,1,,1,1,1,1,1,John put old books in the box.
+135,in,ks08,1,,1,1,1,1,1,Sandy removed her ballet shoes.
+136,in,ks08,1,,1,1,1,1,1,Everyone hoped that she would sing.
+137,in,ks08,1,,1,1,1,1,1,This proved a decisive factor.
+138,in,ks08,1,,1,1,1,1,1,John is afraid of Bill.
+139,in,ks08,0,*,0,0,0,0,0,That Fred was unpopular nominated Bill.
+140,in,ks08,1,,1,1,1,1,1,Most of the fruit is rotten.
+141,in,ks08,0,*,0,0,0,0,0,John is easy to please Kim.
+142,in,ks08,0,*,1,0,1,1,1,It tries to leave the country.
+143,in,ks08,0,*,0,0,0,0,0,We expect there to will rain.
+144,in,ks08,1,,1,1,1,1,1,We never found any of the unicorns.
+145,in,ks08,1,,1,1,0,1,1,The bed was slept in.
+146,in,ks08,1,,1,1,1,1,1,the baker from whom I bought these bagels left.
+147,in,ks08,1,,1,1,1,1,1,Which topic did you choose without getting his approval?
+148,in,ks08,1,,1,1,1,1,1,To please John is easy.
+149,in,ks08,1,,1,1,1,1,1,It annoys me that Fido barks.
+150,in,ks08,1,,1,1,1,1,1,It was the peasant girl who got it.
+151,in,kl93,1,,1,1,1,1,1,A sick owl doesn't hunt mice.
+152,in,kl93,1,,0,1,0,0,0,1 gave Mary after the party a book.
+153,in,b_82,0,*,0,0,0,0,0,"Because she's so pleasant, as for Mary I really like her."
+154,in,b_73,1,,1,1,1,1,1,I have much of the manuscript left to type.
+155,in,b_73,0,*,0,0,0,0,0,Any trouble is what I don't want.
+156,in,b_73,1,,1,1,1,1,1,They may grow as high as bamboo.
+157,in,c_13,1,,1,1,1,1,1,They chased the man with the car.
+158,in,c_13,1,,1,1,1,1,1,Heidi thinks that Andy should eat salmon flavored candy bars.
+159,in,c_13,1,,1,1,1,1,1,The manager laughed.
+160,in,c_13,1,,1,1,1,1,1,Who did you think kissed the gorilla?
+161,in,c_13,1,,1,1,1,1,1,There were four men arriving at the station when I pulled up.
+162,in,c_13,1,,1,1,1,1,1,Jean wants Bill to do the Macarena.
+163,in,c_13,0,*,0,0,0,0,0,John thinks that Mary loves himself.
+164,in,d_98,0,*,0,0,0,0,0,"You may pick every flower, but leave a few for Mary."
+165,in,m_02,1,,1,1,1,1,1,The wealthy young man bought that piano for his secret fiancée.
+166,in,m_02,1,,0,0,1,0,0,a tall building.
+167,in,m_02,1,,1,1,1,1,1,Captain Wentworth wrote a letter to Anne Elliott.
+168,in,m_02,1,,0,1,1,0,1,They realised that never had Sir Thomas been so offended.
+169,in,m_02,1,,1,1,1,1,1,Fanny regretted having to talk to Aunt Norris.
+170,in,m_02,1,,0,0,0,0,1,The idea dismayed the Prime Minister that the Dome was dull.
+171,in,m_02,1,,1,1,1,1,1,Harriet admired Mr Knightley.
+172,in,m_02,1,,1,1,1,1,1,Emma made Harriet some food.
+173,in,m_02,1,,1,1,1,1,1,Emma and Harriet were attacked yesterday.
+174,in,sgww85,1,,1,1,1,1,1,I want to try and buy some whiskey.
+175,in,sgww85,0,*,0,0,0,0,0,She goes and buying some whiskey.
+176,in,sks13,1,,1,1,1,1,1,Ann bought a first edition of Richard III for $1000.
+177,in,sks13,1,,1,1,1,1,1,Henri wants to buy which books about cooking?
+178,in,sks13,1,,1,1,1,1,1,I will fix the computer for Carol.
+179,in,sks13,1,,1,1,1,1,1,"Suddenly, there arrived two inspectors from the INS."
+180,in,sks13,1,,1,1,1,1,1,I gave money to the charity.
+181,in,sks13,1,,0,1,1,0,1,I saw even the student.
+182,in,sks13,1,,1,1,1,1,1,Each of the boys fought with some of the other boys.
+183,in,sks13,0,*,0,0,0,0,0,Mary revealed himself to John.
+184,in,sks13,1,,1,1,0,1,1,Henry found that Bill is sad.
+185,in,sks13,1,,1,1,1,1,1,John considers himself proud of Mary.
+186,in,sks13,1,,1,1,1,1,1,Everyone hopes that he will sleep.
+187,in,sks13,1,,1,1,1,1,1,John convinced Bill that Mary should sleep.
+188,in,ad03,0,*,0,0,0,0,0,Anson demonized up the Khyber
+189,in,ad03,1,,1,1,1,1,1,The Peter we all like was at the party
+190,in,ad03,0,*,0,0,0,0,0,What did you ask who Medea gave?
+191,in,ad03,1,,1,1,1,1,1,It's Anson that I like
+192,in,ad03,1,,1,1,1,1,1,Anson believed himself to be handsome.
+193,in,ad03,0,*,0,0,0,0,0,Anson thought that himself was happy.
+194,in,ad03,1,,0,0,0,1,0,I might be not going to the party but washing my hair
+195,in,ad03,1,,1,0,1,1,1,Jason happens to appear to seem to be sick.
+196,in,ad03,0,*,0,0,0,0,0,He can will go
+197,in,ad03,0,*,1,1,0,0,0,I inquired when could we leave.
+198,in,ad03,0,*,0,0,0,0,1,The bookcase ran
+199,in,ad03,0,*,0,0,0,0,0,Anson became a muscle bound.

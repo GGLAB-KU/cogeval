@@ -1,113 +1,94 @@
-import csv
 from collections import Counter
 import pandas as pd
 from data.read_human import *
+import random
 
-def read_sentiment(fname):
-    '''data = []
-    with open(fname) as csvfile:
-        rdr = csv.reader(csvfile, delimiter=',')
-        for row in rdr:
-            if row[0]=='sstb_id':
-                keys = row
-            else:
-                instance = {}
-                for key,value in zip(keys,row):
-                    instance[key] = value
-                data.append(instance)
-    return data'''
+def read_data(fname):
     # easier to use dataframe
     dataframe = pd.read_csv(fname)
     return dataframe
 
+def stamp_sentiment_analysis_data(machinefile, humanfile, outputfile):
+    machine_df = pd.read_csv(machinefile)
+    human_df = pd.read_csv(humanfile)
+    for i, row in machine_df.iterrows():
+        sample_id = int((human_df[human_df.sst_phrase_id == row.sst_phrase_id]).sample_id) 
+        #machine_df.at[i, 'sample_id'] = sample_id
+        machine_df.at[i, 'pred_label'] = row['pred_label'] - 1
+    machine_df[['sample_id']] = machine_df[['sample_id']].astype(int)
+    #machine_df.set_index(machine_df.columns[-1], inplace=True)
+    machine_df.to_csv(outputfile, index=False)
+
+def stamp_multirc_data(machinefile):
+    df = pd.read_csv(machinefile)
+    for i, row in df.iterrows():
+        df.at[i, 'sample_id']= i
+    df[['sample_id']] = df[['sample_id']].astype(int)
+    df.set_index(df.columns[-1], inplace=True)
+    df.to_csv(machinefile)
+
+def stamp_cola_data(machinefile):
+    df = pd.read_csv(machinefile, delimiter=';')
+    breakpoint()
+    for i, row in df.iterrows():
+        df.at[i, 'sample_id']= i
+    df[['sample_id']] = df[['sample_id']].astype(int)
+    df.set_index(df.columns[-1], inplace=True)
+    df.to_csv(machinefile)
+
+def stamp_snli_data(machinefile, humanfile):
+    humandf = pd.read_csv(humanfile)
+    df = pd.read_csv(machinefile)
+    for i, row in df.iterrows():
+        sid = humandf[humandf.snli_id==row['snli_id']].sample_id
+        df.at[i, 'sample_id']= int(sid)
+    df[['sample_id']] = df[['sample_id']].astype(int)
+    df.set_index(df.columns[-1], inplace=True)
+    df.to_csv(machinefile)
+
+def randomize_multirc(file):
+    df = pd.read_csv(file)
+    random_df = pd.DataFrame({'sample_id':[], 'confidence':[], 'pred_label':[]})
+    for i,row in df.iterrows():
+        random_df.at[i, 'sample_id'] = row['sample_id']
+        random_df.at[i, 'confidence'] = 1/2
+        ri = random.randint(0,1)
+        random_df.at[i, 'pred_label'] = ri
+    random_df[['sample_id']] = random_df[['sample_id']].astype(int)
+    random_df[['pred_label']] = random_df[['pred_label']].astype(int)
+    random_df.to_csv('multirc_random.csv',index=False)
 
 
-def get_splitted_data(task="sentiment"):
-    """
-    Get the split info for ZuCo - SSTB
-    """
-    # split meanings: 1: train 2: test 3: dev
-    train_data = []
-    val_data = []
-    test_data = []
-
-    if task == "sentiment":
-        # create train, dev and test splits with this structure
-        human_data = get_human_data("data/human/sentiment-analysis/control.csv", task="sentiment")
-
-        with open("data/machine/sentiment-analysis/split.txt") as f:
-            splits = [line.split(',')[1] for line in f.read().splitlines()]
-        f.close()
-
-        # splits[index] corresponds to the split number of sentence with id index
-        split_lst = []
-        for hum_meas in human_data:
-            split_ind = splits[int(hum_meas["sstb_id"])]
-            split_lst.append(split_ind)
-            if split_ind == '1':
-                train_data.append(hum_meas)
-            elif split_ind == '2':
-                test_data.append(hum_meas)
-            elif split_ind == '3':
-                val_data.append(hum_meas)
-
-        # 32 sentences from training, 12 from test, 2 from validation
-        # print(Counter(split_lst))
-
-    elif task == "re":
-        print("all from validation data. no need to align")
-        # 400 from validation sentences. but there is no model anyway
-    elif task == "qa":
-        print("all from test data. no need to align")
-    else:
-        print("no need to align")
-
-    print("debug")
-    return train_data, val_data, test_data
+def randomize_cola(file):
+    df = pd.read_csv(file)
+    random_df = pd.DataFrame({'sample_id':[], 'confidence':[], 'pred_label':[]})
+    for i,row in df.iterrows():
+        random_df.at[i, 'sample_id'] = row['sample_id']
+        random_df.at[i, 'confidence'] = 1/2
+        ri = random.randint(0,1)
+        random_df.at[i, 'pred_label'] = ri
+    random_df[['sample_id']] = random_df[['sample_id']].astype(int)
+    random_df[['pred_label']] = random_df[['pred_label']].astype(int)
+    random_df.to_csv('cola_random.csv',index=False)
 
 
-def make_new_splits(train, dev, test):
-    # remove the human train, dev from the original train, dev and put them into test
-    # return the train, dev, test files
-
-    sents = []
-
-    sent_info = dict()
-
-    # 1: read the original sentences (starts from 1)
-    with open("data/machine/sentiment-analysis/sentences.txt") as f:
-        sents = [line.split('\t')[1] for line in f.read().splitlines()]
-    f.close()
-
-    # 2: get the splits each sentence belongs
-    with open("data/machine/sentiment-analysis/split.txt") as f:
-        splits = [line.split(',')[1] for line in f.read().splitlines()]
-    f.close()
-
-    # 3: get the labels for each sentence in the original splits
-    with open("data/machine/sentiment-analysis/train/dlabels.txt") as f:
-        train_labs = [line[-1] for line in f.read().splitlines()]
-    f.close()
-
-    with open("data/machine/sentiment-analysis/dev/dlabels.txt") as f:
-        dev_labs = [line[-1] for line in f.read().splitlines()]
-    f.close()
-    with open("data/machine/sentiment-analysis/test/dlabels.txt") as f:
-        test_labs = [line[-1] for line in f.read().splitlines()]
-    f.close()
-    print("debug")
+def randomize_snli(file):
+    df = pd.read_csv(file)
+    random_df = pd.DataFrame({'sample_id':[], 'confidence':[], 'pred_label':[]})
+    for i,row in df.iterrows():
+        random_df.at[i, 'sample_id'] = row['sample_id']
+        random_df.at[i, 'confidence'] = 1/3
+        ri = random.randint(-1,1)
+        if ri == -1:
+            random_df.at[i, 'pred_label'] = 'contradiction'
+        if ri == 0:
+            random_df.at[i, 'pred_label'] = 'neutral'
+        if ri == 1:
+            random_df.at[i, 'pred_label'] = 'entailment'
+    random_df[['sample_id']] = random_df[['sample_id']].astype(int)
+    random_df.to_csv('snli_random.csv',index=False)
 
 
-def get_machine_data(file_name, task):
-    data = []
-    if task == "sentiment":
-        data = read_sentiment(file_name)
-    #elif task == "re":
-    #    data = read_re(file_name)
-    return data
-
-
-#if __name__ == '__main__':
-#    train, dev, test = get_splitted_data(task="sentiment")
-#    make_new_splits(train, dev, test)
-
+if __name__ == '__main__':
+    #stamp_cola_data('data/machine/linguistic-acceptability/RoBERTa/cola_roberta.csv')
+    randomize_cola('data/machine/linguistic-acceptability/RoBERTa/cola_roberta.csv')

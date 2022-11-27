@@ -1,0 +1,21 @@
+data:
+  type: sentiment
+  human: data/human/sentiment-analysis/lalor/sa_lalor_human.csv
+  machine: data/machine/sentiment-analysis/lalor/machine_4/sst-tfidf_lalor.csv
+
+correlation:
+  type: human+machine
+  method: spearman
+  columns:
+    human:
+      - average_accuracy
+    machine:
+      - confidence
+      - uncertainty
+  results:
+    dir: results/correlation/sentiment-analysis/lalor/human+machine_4/
+    heatmap:
+      name: all_heatmap.png
+      title: human+machine_4 correlations of all preds
+    excel:
+      name:  all_correlations.xlsx

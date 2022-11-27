@@ -1,0 +1,5 @@
+sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_2_pred,machine_2_confidence,confidence_diff
+6.0,A young boy in a sweatshirt is doodling on a piece of paper.,The class pictures are on display.,contradiction,neutral,0.6908904810644831,neutral,0.409944721384554,0.28094575967992913
+11.0,A woman singing into a microphone while a man plays drums in the background.,They are playing a PlayStation.,contradiction,neutral,0.5578300921187308,neutral,0.414511600079987,0.1433184920387438
+88.0,A young girl in a bathing suit drinking a beverage in a green bottle.,The girl is drinking milk from a sippy cup.,contradiction,neutral,0.5547594677584442,neutral,0.46957641770245,0.08518305005599419
+19.0,Man sweeping trash outside a large statue.,A man is on vacation.,contradiction,neutral,0.5015353121801432,neutral,0.540013113941414,0.0384778017612708

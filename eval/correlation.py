@@ -37,22 +37,30 @@ def main():
     
     if type_corr == 'human':
         cols_corr =  cols_human
-        data_corr   = get_human_data(file_human, task)
+        data_corr   = get_human_data(file_human)
     elif type_corr == 'machine':
         cols_corr =  cols_machine  
-        data_corr = get_machine_data(file_machine, task)
+        data_corr = get_machine_data(file_machine)
     elif type_corr == 'human+machine':
         cols_corr =  cols_human + cols_machine
-        data_human   = get_human_data(file_human, task)
-        data_machine = get_machine_data(file_machine, task)
+        data_human   = get_human_data(file_human)
+        data_machine = get_machine_data(file_machine)
+        # TODO: fix this workaround, to take machine-only data
+        #data_machine = data_machine[['sample_id','pred_label', 'gold_label', 'pred_confidence', 'gold_confidence', 'uncertainty']]
+        data_machine = data_machine[['sample_id','pred_label', 'three_way_labels', 'confidence', 'uncertainty']]
+        
         data_corr    = pd.concat([data_human, data_machine], axis=1)
+        data_corr = pd.merge(data_human, data_machine, on="sample_id")
     else:
         print('correlation type should be (1) human+machine, (2) human or (3) machine.')
         return
   
+    #drop duplicate columns
+    #data_corr_2 = data_corr.loc[:,~data_corr.T.duplicated(keep='first')]
     # correlate with specified method
     corr         = correlate(data_corr, cols_corr, method_corr)
-    
+    num_samples = len(data_corr)
+    print("# of samples for correlation: %d" % num_samples)
     # save correlation results
     results_dir  = config['correlation']['results']['dir']
     if not os.path.exists(results_dir):
@@ -60,7 +68,7 @@ def main():
     excel_name = results_dir+config['correlation']['results']['excel']['name']
     corr.to_excel(excel_name)
     heatmap_name  = results_dir + config['correlation']['results']['heatmap']['name']
-    heatmap_title = config['correlation']['results']['heatmap']['title']
+    heatmap_title = config['correlation']['results']['heatmap']['title'] + " #samples: " + str(num_samples)
     heatmap      = save_heatmap(corr, heatmap_name, heatmap_title)
 
 

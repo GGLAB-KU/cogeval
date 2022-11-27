@@ -1,0 +1,28 @@
+sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_0_pred,machine_0_confidence,confidence_diff
+16.0,A girl is holding a camera and making a hand gesture.,A girl holds a camera.,entailment,entailment,0.977482088024565,entailment,0.3333333333333333,0.6441487546912317
+50.0,A picture of two little boys holding books.,A picture of children with books.,entailment,entailment,0.9672466734902764,entailment,0.3333333333333333,0.633913340156943
+9.0,A man in and a woman are holding their towels at the beach.,People are at the beach,entailment,entailment,0.962128966223132,entailment,0.3333333333333333,0.6287956328897988
+68.0,A couple kissing in front of a black Mercedes Benz limousine,A couple kissing in front of a car,entailment,entailment,0.9611054247697032,entailment,0.3333333333333333,0.6277720914363698
+2.0,Some people hanging out on a large backyard deck.,people hanging out on deck,entailment,entailment,0.9508700102354144,entailment,0.3333333333333333,0.6175366769020811
+65.0,A biker pops a wheelie along side the colorful wall.,A person is riding a bike near a wall.,entailment,entailment,0.9273285568065508,entailment,0.3333333333333333,0.5939952234732175
+59.0,6 men in work jumpsuits and 1 man in an orange jumpsuit are walking next to green and red loading docks.,All 7 men are best friends.,neutral,neutral,0.924257932446264,neutral,0.3333333333333333,0.5909245991129306
+78.0,One biker is running with their bike while another is riding around them.,The people are part of a club,neutral,neutral,0.8659160696008188,neutral,0.3333333333333333,0.5325827362674855
+45.0,A young woman with glasses sits at the end of a row of seats and speaks into a microphone.,A young woman wearing glasses,entailment,entailment,0.8628454452405322,entailment,0.3333333333333333,0.5295121119071988
+21.0,Two men and a woman are inspecting the front tire of a bicycle.,There are a group of people near a bike.,entailment,entailment,0.8597748208802457,entailment,0.3333333333333333,0.5264414875469123
+47.0,Two men and one woman are dressed in costume hats.,the people are swingers,neutral,neutral,0.834186284544524,neutral,0.3333333333333333,0.5008529512111908
+75.0,"Neck and neck to the finish line, every competitor has been training for this race.",The competitors have trained very hard and are all very close to the finish line.,entailment,entailment,0.8311156601842374,entailment,0.3333333333333333,0.4977823268509041
+87.0,a group of people on a dock lowering into the water a boat with teal and purple decorations.,The group was getting ready to go fishing on the boat.,neutral,neutral,0.8290685772773797,neutral,0.3333333333333333,0.4957352439440464
+25.0,A boy does a skateboarding trick in the air while holding the board with his left hand.,A sad boy does a skateboarding trick in the air while holding the board with his left hand.,neutral,neutral,0.81985670419652,neutral,0.3333333333333333,0.4865233708631867
+39.0,a man wearing a gray shirt waving in the middle of a plant nursery,The man does not have a way to get home.,neutral,neutral,0.8137154554759468,neutral,0.3333333333333333,0.4803821221426135
+49.0,Eight people are sitting on a long boat on a sunny day.,Morning ride on boat,neutral,neutral,0.7993858751279427,neutral,0.3333333333333333,0.46605254179460937
+79.0,A person wearing an orange shirt with a backpack on looking across a segment of lush green trees.,A person is meditating and looking at the peaceful lush green trees.,neutral,neutral,0.7952917093142272,neutral,0.3333333333333333,0.4619583759808939
+8.0,a toddler playing with a toy car next to a dog.,A toddler plays with toy cars while his dog sleeps.,neutral,neutral,0.7492323439099283,neutral,0.3333333333333333,0.415899010576595
+44.0,"A man on stilts in a purple, yellow and white costume.",A man is performing on stilts.,entailment,entailment,0.7389969293756398,entailment,0.3333333333333333,0.40566359604230645
+31.0,The dogs ran around the dirt racetrack.,Dogs are humping each other.,contradiction,contradiction,0.6980552712384852,contradiction,0.3333333333333333,0.3647219379051519
+86.0,A snowboarder is jumping over a snow slope.,A girl jumps her green snowboard over a slope.,neutral,neutral,0.6949846468781986,neutral,0.3333333333333333,0.3616513135448653
+26.0,A young boy in a beige jacket laughs as he reaches for a teal balloon.,The boy plays with the balloon.,entailment,entailment,0.6581371545547595,entailment,0.3333333333333333,0.3248038212214262
+38.0,A man is popping balloons inside a cubicle using a handmade tool.,A man is popping balloons inside a cubicle using a handmade knife.,neutral,neutral,0.6274309109518935,neutral,0.3333333333333333,0.2940975776185602
+58.0,A police vehicle in an urban area.,A cop car in a suburban area,contradiction,contradiction,0.6141248720573184,contradiction,0.3333333333333333,0.28079153872398505
+70.0,A father and children ride bikes in city street.,A woman and her daughters ride their bikes.,contradiction,contradiction,0.6008188331627431,contradiction,0.3333333333333333,0.2674854998294098
+83.0,"Five men in red shirts, in a line, on a basketball court, four with hands on their hearts, and same four looking upward.",A team of basketball players are on the court.,entailment,entailment,0.5435005117707267,entailment,0.3333333333333333,0.21016717843739335
+37.0,A wielder works on wielding a beam into place while other workers set beams.,The wielder is working on a building.,neutral,neutral,0.5005117707267144,neutral,0.3333333333333333,0.16717843739338106

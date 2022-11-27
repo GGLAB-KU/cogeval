@@ -1,0 +1,6 @@
+sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_0_pred,machine_0_confidence,confidence_diff
+6.0,A young boy in a sweatshirt is doodling on a piece of paper.,The class pictures are on display.,contradiction,neutral,0.6908904810644831,entailment,0.3333333333333333,0.3575571477311498
+35.0,An old woman in a cowboy hat smokes a cigarette.,The old lady is ten feet tall.,contradiction,neutral,0.6653019447287615,entailment,0.3333333333333333,0.33196861139542816
+20.0,A man wearing an orange suit with his face painted white is holding a guitar above his shoulder.,There is one man in this picture.,entailment,neutral,0.6264073694984647,contradiction,0.3333333333333333,0.29307403616513134
+41.0,Two soccer players on the field running into each other.,There are two people colliding and falling.,neutral,entailment,0.5568065506653019,contradiction,0.3333333333333333,0.22347321733196862
+88.0,A young girl in a bathing suit drinking a beverage in a green bottle.,The girl is drinking milk from a sippy cup.,contradiction,neutral,0.5547594677584442,entailment,0.3333333333333333,0.2214261344251109

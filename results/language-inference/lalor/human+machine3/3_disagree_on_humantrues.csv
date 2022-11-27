@@ -1,0 +1,9 @@
+sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_3_pred,machine_3_confidence,confidence_diff
+60.0,This man is walking past a wall that has art on it.,A man walks past a wall mural.,entailment,entailment,0.5844421699078812,neutral,0.890540175949434,0.3060980060415528
+83.0,"Five men in red shirts, in a line, on a basketball court, four with hands on their hearts, and same four looking upward.",A team of basketball players are on the court.,entailment,entailment,0.5435005117707267,neutral,0.84658059379027,0.3030800820195433
+37.0,A wielder works on wielding a beam into place while other workers set beams.,The wielder is working on a building.,neutral,neutral,0.5005117707267144,entailment,0.78995088747597,0.2894391167492556
+31.0,The dogs ran around the dirt racetrack.,Dogs are humping each other.,contradiction,contradiction,0.6980552712384852,neutral,0.874641512823065,0.1765862415845798
+12.0,"Two men in front of a projector screen, one at a microphone.",Three men about to present their best idea yet in front of their company.,neutral,neutral,0.7533265097236438,contradiction,0.653372398392704,0.09995411133093979
+23.0,A single runner is watched by onlookers in a race.,A man is running in a race.,entailment,entailment,0.6192425793244627,neutral,0.685270882318269,0.06602830299380635
+30.0,There are two people sweeping a sidewalk in this picture.,The man is clearing leaves from the sidewalk.,neutral,neutral,0.714431934493347,contradiction,0.752788670695856,0.03835673620250901
+44.0,"A man on stilts in a purple, yellow and white costume.",A man is performing on stilts.,entailment,entailment,0.7389969293756398,neutral,0.765604102417051,0.026607173041411247

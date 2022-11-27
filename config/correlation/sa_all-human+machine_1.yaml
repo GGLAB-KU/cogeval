@@ -1,7 +1,7 @@
 data:
   type: sentiment
   human: data/human/sentiment-analysis/zuco/all.csv
-  machine: data/machine/sentiment-analysis/zuco/machine_1/mc_dropout/all.csv
+  machine: data/machine/sentiment-analysis/zuco/machine_2/mc_dropout/all.csv
 
 correlation:
   type: human+machine
@@ -17,9 +17,9 @@ correlation:
       - gold_confidence
       - uncertainty
   results:
-    dir: results/correlation/sentiment-analysis/zuco/human+machine_1/
+    dir: results/correlation/sentiment-analysis/zuco/human+machine_2/
     heatmap:
       name:  all_heatmap.png
-      title: human+machine_1 correlations
+      title: human+machine_2 correlations
     excel:
       name:  all_correlations.xlsx
