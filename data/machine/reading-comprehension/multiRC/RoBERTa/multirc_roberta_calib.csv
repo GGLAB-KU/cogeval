@@ -1,4 +1,4 @@
-sample_id,pid,qid,aid,gold_label,agg_human_conf,agg_human_pred,pred_conf,gold_conf,entropy,pred
+sample_id,pid,qid,aid,gold_label,agg_human_score,agg_human_pred,pred_conf,gold_conf,entropy,pred_label
 0,News/CNN/cnn-3b5bbf3ba31e4775140f05a8b59db55b22ee3e63.txt,0,0,1,0.75,1,0.985415244102478,0.0145847296342253,0.1098451911909247,0
 1,News/CNN/cnn-3b5bbf3ba31e4775140f05a8b59db55b22ee3e63.txt,0,1,0,0.0,0,0.9882899045944212,0.9882899045944212,0.0919278756794302,0
 2,News/CNN/cnn-3b5bbf3ba31e4775140f05a8b59db55b22ee3e63.txt,0,2,0,0.0,0,0.7204172074794769,0.279582767188549,0.8548816882078841,1

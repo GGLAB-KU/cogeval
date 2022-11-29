@@ -1,0 +1,12 @@
+sample_id,sentence,domain,gold_label,agg_human_label,agg_human_confidence,machine_2_pred,machine_2_confidence,confidence_diff
+133,did the policeman meet in the park?,in,1.0,0.0,0.8,0.0,0.9990420937538148,0.19904209375381476
+152,1 gave Mary after the party a book.,in,1.0,0.0,0.8,0.0,0.9989612102508544,0.19896121025085434
+101,"The more you would want, the less you would eat.",in,0.0,1.0,0.8,1.0,0.9989230036735536,0.19892300367355353
+38,The book that I like - everyone else in the class hates.,out,0.0,1.0,0.8,1.0,0.9979572296142578,0.19795722961425777
+104,The box contained the ball from the tree.,in,0.0,1.0,0.8,1.0,0.9975082874298096,0.19750828742980953
+25,"Bill ate the peaches, but Harry the grapes.",out,0.0,1.0,0.8,1.0,0.9962015748023988,0.19620157480239875
+15,"Tony sent Mo a picture that he painted, but it's not clear with what.",out,0.0,1.0,0.8,1.0,0.9929513335227966,0.1929513335227966
+24,Books were taken from no student and given to Mary.,out,1.0,0.0,1.0,0.0,0.9927022457122804,0.0072977542877196155
+128,Cynthia chewed.,in,0.0,1.0,1.0,1.0,0.9977681636810304,0.0022318363189696155
+98,John bought a dog for himself to play with.,out,0.0,1.0,1.0,1.0,0.9987642765045166,0.0012357234954833984
+111,A proof that the claim had been. made was giver that John had lied.,in,1.0,0.0,1.0,0.0,0.9990457892417908,0.0009542107582092285

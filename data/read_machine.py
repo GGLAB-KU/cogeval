@@ -28,8 +28,7 @@ def stamp_multirc_data(machinefile):
     df.to_csv(machinefile)
 
 def stamp_cola_data(machinefile):
-    df = pd.read_csv(machinefile, delimiter=';')
-    breakpoint()
+    df = pd.read_csv(machinefile, delimiter=',')
     for i, row in df.iterrows():
         df.at[i, 'sample_id']= i
     df[['sample_id']] = df[['sample_id']].astype(int)
@@ -48,27 +47,32 @@ def stamp_snli_data(machinefile, humanfile):
 
 def randomize_multirc(file):
     df = pd.read_csv(file)
-    random_df = pd.DataFrame({'sample_id':[], 'confidence':[], 'pred_label':[]})
+    random_df = pd.DataFrame({'sample_id':[], 'confidence':[], 'pred_label':[], 'gold_label': []})
     for i,row in df.iterrows():
         random_df.at[i, 'sample_id'] = row['sample_id']
         random_df.at[i, 'confidence'] = 1/2
         ri = random.randint(0,1)
         random_df.at[i, 'pred_label'] = ri
+        random_df.at[i, 'gold_label'] = row['gold_label']
     random_df[['sample_id']] = random_df[['sample_id']].astype(int)
     random_df[['pred_label']] = random_df[['pred_label']].astype(int)
+    random_df[['gold_label']] = random_df[['gold_label']].astype(int)
     random_df.to_csv('multirc_random.csv',index=False)
 
 
 def randomize_cola(file):
     df = pd.read_csv(file)
-    random_df = pd.DataFrame({'sample_id':[], 'confidence':[], 'pred_label':[]})
+    random_df = pd.DataFrame({'sample_id':[], 'confidence':[], 'pred_label':[], 'CoLA_label': []})
     for i,row in df.iterrows():
         random_df.at[i, 'sample_id'] = row['sample_id']
         random_df.at[i, 'confidence'] = 1/2
         ri = random.randint(0,1)
         random_df.at[i, 'pred_label'] = ri
+        random_df.at[i, 'CoLA_label'] = row['CoLA_label']
+
     random_df[['sample_id']] = random_df[['sample_id']].astype(int)
     random_df[['pred_label']] = random_df[['pred_label']].astype(int)
+    random_df[['CoLA_label']] = random_df[['CoLA_label']].astype(int)
     random_df.to_csv('cola_random.csv',index=False)
 
 
@@ -90,5 +94,6 @@ def randomize_snli(file):
 
 
 if __name__ == '__main__':
-    #stamp_cola_data('data/machine/linguistic-acceptability/RoBERTa/cola_roberta.csv')
+    #stamp_cola_data('data/machine/linguistic-acceptability/DeBERTa/cola_deberta.csv')
     randomize_cola('data/machine/linguistic-acceptability/RoBERTa/cola_roberta.csv')
+    #randomize_multirc('data/machine/reading-comprehension/multiRC/RoBERTa/multirc_roberta_calib.csv')

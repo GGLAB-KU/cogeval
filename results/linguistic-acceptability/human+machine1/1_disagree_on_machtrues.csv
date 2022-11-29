@@ -1,0 +1,11 @@
+sample_id,sentence,domain,gold_label,agg_human_label,agg_human_confidence,machine_1_pred,machine_1_confidence,confidence_diff
+128,Cynthia chewed.,in,0.0,1.0,1.0,0.0,0.5506697291880847,0.44933027081191534
+24,Books were taken from no student and given to Mary.,out,1.0,0.0,1.0,1.0,0.5981491535902024,0.4018508464097976
+12,"Meg is attracted to Harry, but they don't know who she is attracted to.",out,1.0,0.0,0.6,1.0,0.9455337250232696,0.3455337250232696
+73,It loved Sandy.,out,0.0,1.0,1.0,0.0,0.698333798199892,0.30166620180010795
+104,The box contained the ball from the tree.,in,0.0,1.0,0.8,0.0,0.5033483871817589,0.29665161281824115
+166,a tall building.,in,1.0,0.0,0.8,1.0,0.6726680862903595,0.1273319137096406
+142,It tries to leave the country.,in,0.0,1.0,0.8,0.0,0.6828252237290144,0.1171747762709856
+15,"Tony sent Mo a picture that he painted, but it's not clear with what.",out,0.0,1.0,0.8,0.0,0.7706352484226227,0.02936475157737739
+118,Everybody around here who ever buys anything on credit talks in his sleep.,in,1.0,0.0,0.6,1.0,0.5796564784646034,0.020343521535396536
+102,"I demand that the more John eat, the more he pays.",in,0.0,1.0,0.6,0.0,0.6138101637363433,0.013810163736343362

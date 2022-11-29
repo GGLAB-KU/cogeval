@@ -1,4 +1,4 @@
-sample_id,domain,source,CoLA_label,source_annotation,annotator1,annotator2,annotator3,annotator4,annotator5,sentence,pred_conf,gold_conf,entropy,pred
+sample_id,domain,source,gold_label,source_annotation,annotator1,annotator2,annotator3,annotator4,annotator5,sentence,confidence,gold_conf,entropy,pred_label
 0,out,clc95,1,,1,1,0,1,1,"If Sam was going, Sally would know where.",0.7893692564964294,0.7893692564964294,0.7426866499604445,1
 1,out,clc95,0,*,0,0,0,0,0,"She mailed John a letter, but I don't know to whom.",0.7464202752709389,0.7464202752709389,0.81690270565456,0
 2,out,clc95,1,,1,1,1,1,1,I served my guests.,0.9120778185129166,0.9120778185129166,0.4294960320120882,1

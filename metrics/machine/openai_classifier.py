@@ -50,7 +50,6 @@ for (index, row) in human.iterrows():
     out_df[['sample_id']] = out_df[['sample_id']].astype(int)
     out_df[['pred_label']] = out_df[['pred_label']].astype(int)
 
-breakpoint()
 print('# trues: ', true)
 print('# total: ', count)
 out_df.to_csv('classifier.csv')

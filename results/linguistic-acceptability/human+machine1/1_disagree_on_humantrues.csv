@@ -1,0 +1,22 @@
+sample_id,sentence,domain,gold_label,agg_human_label,agg_human_confidence,machine_1_pred,machine_1_confidence,confidence_diff
+61,The cat slept soundly and furry.,out,0.0,0.0,1.0,1.0,0.5660645580291748,0.43393544197082523
+199,Anson became a muscle bound.,in,0.0,0.0,1.0,1.0,0.6306339953094721,0.36936600469052794
+155,Any trouble is what I don't want.,in,0.0,0.0,1.0,1.0,0.6350788694620132,0.3649211305379868
+14,"I think Agnes said that Bill would speak, but I don't remember what about.",out,1.0,1.0,1.0,0.0,0.7471857243776321,0.2528142756223679
+99,John arranged for himself to get the prize.,out,1.0,1.0,1.0,0.0,0.7523047488927841,0.2476952511072159
+119,"No writer, and no playwright, meets in Vienna.",in,0.0,0.0,0.6,1.0,0.784425927400589,0.18442592740058905
+181,I saw even the student.,in,1.0,1.0,0.6,0.0,0.7484543228149414,0.14845432281494142
+23,Chocolate eggs were hidden from each other by the children.,out,0.0,0.0,0.8,1.0,0.9345452058315276,0.13454520583152751
+124,We investigated the area for bombs.,in,1.0,1.0,0.8,0.0,0.6659224197268486,0.13407758027315142
+26,Bill ate the peaches and Harry did the grapes.,out,0.0,0.0,0.8,1.0,0.9269220638275146,0.1269220638275146
+9,"He announced he had eaten the asparagus, but we didn't know what.",out,0.0,0.0,1.0,1.0,0.8843035185337067,0.1156964814662933
+81,John was struck by Bill as pompous.,out,0.0,0.0,0.8,1.0,0.708404294848442,0.09159570515155802
+89,John believes it sincerely that Bill is here.,out,0.0,0.0,0.6,1.0,0.5142820450663567,0.08571795493364331
+82,John was promised by Bill to leave.,out,0.0,0.0,0.6,1.0,0.5283221201598645,0.07167787984013552
+195,Jason happens to appear to seem to be sick.,in,1.0,1.0,0.8,0.0,0.7436115291714668,0.056388470828533266
+197,I inquired when could we leave.,in,0.0,0.0,0.6,1.0,0.6419366443157196,0.04193664431571964
+117,"Sally is tall, and may be blond, and Sheila is short, and definitely is, blond.",in,1.0,1.0,0.6,0.0,0.5647552812099457,0.03524471879005431
+164,"You may pick every flower, but leave a few for Mary.",in,0.0,0.0,1.0,1.0,0.9693515157699584,0.030648484230041628
+184,Henry found that Bill is sad.,in,1.0,1.0,0.8,0.0,0.778000971376896,0.0219990286231041
+63,Nobody told Susan about herself.,out,1.0,1.0,0.8,0.0,0.8119720900058747,0.011972090005874625
+145,The bed was slept in.,in,1.0,1.0,0.8,0.0,0.789493248462677,0.010506751537323056

@@ -1,0 +1,201 @@
+sample_id,sentence,gold_label,machine_0_pred,machine_0_confidence,machine_1_pred,machine_1_confidence,machine_2_pred,machine_2_confidence,agg_human_label,agg_human_confidence,domain
+0,"If Sam was going, Sally would know where.",1.0,1.0,0.5,1.0,0.7893692564964294,1.0,0.9991081357002258,1.0,0.8,out
+1,"She mailed John a letter, but I don't know to whom.",0.0,0.0,0.5,0.0,0.7464202752709389,0.0,0.9976814985275269,0.0,1.0,out
+2,I served my guests.,1.0,1.0,0.5,1.0,0.9120778185129166,1.0,0.9991881251335144,1.0,1.0,out
+3,"She was bathing, but I couldn't make out who.",0.0,1.0,0.5,0.0,0.554916478395462,0.0,0.9986180067062378,0.0,1.0,out
+4,"John was tall, but I don't know on what occasions.",0.0,1.0,0.5,0.0,0.5802423971891403,1.0,0.997516393661499,0.0,1.0,out
+5,"I know that Meg's attracted to Harry, but they don't know who.",0.0,0.0,0.5,0.0,0.5048615249991417,0.0,0.998306155204773,0.0,1.0,out
+6,Everyone relies on someone. It's unclear who.,1.0,1.0,0.5,1.0,0.7853693512082099,1.0,0.999289870262146,1.0,0.6,out
+7,"The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.",1.0,0.0,0.5,1.0,0.7913628053665162,1.0,0.9955910444259644,1.0,0.8,out
+8,"Everybody gets on well with a certain relative, but often only his therapist knows which one.",1.0,1.0,0.5,1.0,0.7757225733995438,1.0,0.9978825449943542,1.0,0.8,out
+9,"He announced he had eaten the asparagus, but we didn't know what.",0.0,1.0,0.5,1.0,0.8843035185337067,1.0,0.9793197512626648,0.0,1.0,out
+10,She talked to John or Mary but I don't know which.,1.0,0.0,0.5,1.0,0.7736991661787033,1.0,0.9964654445648192,1.0,1.0,out
+11,She talked to John or Mary but I don't know which one.,1.0,1.0,0.5,1.0,0.7288441026210785,1.0,0.9962081909179688,1.0,1.0,out
+12,"Meg is attracted to Harry, but they don't know who she is attracted to.",1.0,1.0,0.5,1.0,0.9455337250232696,1.0,0.9130776524543762,0.0,0.6,out
+13,What did you leave before they started playing?,0.0,0.0,0.5,0.0,0.6337805530428886,0.0,0.9963601231575012,0.0,1.0,out
+14,"I think Agnes said that Bill would speak, but I don't remember what about.",1.0,0.0,0.5,0.0,0.7471857243776321,1.0,0.997865617275238,1.0,1.0,out
+15,"Tony sent Mo a picture that he painted, but it's not clear with what.",0.0,0.0,0.5,0.0,0.7706352484226227,1.0,0.9929513335227966,1.0,0.8,out
+16,Who did they see someone?,0.0,0.0,0.5,0.0,0.9025153648853302,0.0,0.9989977478981018,0.0,1.0,out
+17,The book was by John written.,0.0,1.0,0.5,0.0,0.9482362723350524,0.0,0.9875292778015136,0.0,1.0,out
+18,The book was seen by Mary.,1.0,1.0,0.5,1.0,0.7082078671455383,1.0,0.9990022778511048,1.0,1.0,out
+19,Mary was given by John the book.,0.0,1.0,0.5,0.0,0.9110889077186584,0.0,0.999061405658722,0.0,1.0,out
+20,John was believed to be telling the truth by Mary.,1.0,0.0,0.5,1.0,0.8655115246772767,1.0,0.9986984729766846,1.0,0.8,out
+21,John was believed by Mary to be telling the truth.,1.0,1.0,0.5,1.0,0.9324105310440064,1.0,0.9985565543174744,1.0,1.0,out
+22,The car was driven by John to Maine.,1.0,0.0,0.5,1.0,0.9744104027748108,1.0,0.9992456436157228,1.0,1.0,out
+23,Chocolate eggs were hidden from each other by the children.,0.0,1.0,0.5,1.0,0.9345452058315276,1.0,0.9983912110328674,0.0,0.8,out
+24,Books were taken from no student and given to Mary.,1.0,1.0,0.5,1.0,0.5981491535902024,0.0,0.9927022457122804,0.0,1.0,out
+25,"Bill ate the peaches, but Harry the grapes.",0.0,1.0,0.5,1.0,0.5148153045773506,1.0,0.9962015748023988,1.0,0.8,out
+26,Bill ate the peaches and Harry did the grapes.,0.0,1.0,0.5,1.0,0.9269220638275146,1.0,0.9953304529190063,0.0,0.8,out
+27,"Because Steve's of a spider's eye had been stolen, I borrowed Fred's diagram of a snake's fang.",0.0,1.0,0.5,0.0,0.6911087590456009,1.0,0.9426060914993286,0.0,1.0,out
+28,Jerry attempted to blow up the Pentagon.,1.0,1.0,0.5,1.0,0.9852299761772156,1.0,0.9993044137954712,1.0,1.0,out
+29,"Bill bought a red house, and Max bought one too.",1.0,1.0,0.5,1.0,0.929824281334877,1.0,0.9980448484420776,1.0,1.0,out
+30,I know the person whose mother died.,1.0,1.0,0.5,1.0,0.6240539392828941,1.0,0.99836927652359,1.0,1.0,out
+31,Bother you that Kim left!,0.0,0.0,0.5,0.0,0.8481574553251267,1.0,0.6374722123146057,0.0,1.0,out
+32,"Mary arranged for, in St. Louis, John to rent a house cheap.",0.0,1.0,0.5,0.0,0.8297113978862762,0.0,0.9991720914840698,0.0,0.6,out
+33,I wonder in whom them to place their trust.,0.0,1.0,0.5,0.0,0.8949854362010956,0.0,0.9988977909088136,0.0,1.0,out
+34,I wonder whom us to trust.,0.0,1.0,0.5,0.0,0.9156701278686524,0.0,0.9988645315170288,0.0,1.0,out
+35,"Jones, that we were talking to last night, always watches football games alone.",0.0,0.0,0.5,0.0,0.6075174185633659,0.0,0.9763739705085754,0.0,0.8,out
+36,A letter was received that Jones would be upset by.,1.0,1.0,0.5,1.0,0.7627543711662292,1.0,0.9985740184783936,1.0,1.0,out
+37,The only person whose kids Dana is willing to put up with was written by John.,0.0,1.0,0.5,0.0,0.897771487236023,0.0,0.9929516911506652,0.0,1.0,out
+38,The book that I like - everyone else in the class hates.,0.0,0.0,0.5,1.0,0.912551007270813,1.0,0.9979572296142578,1.0,0.8,out
+39,"Which book's, author did you meet who you liked?",0.0,0.0,0.5,0.0,0.8035933065414429,0.0,0.9989492297172546,0.0,0.6,out
+40,All who lost money in the scam are eligible for the program.,1.0,1.0,0.5,1.0,0.9421036124229432,1.0,0.9983024597167968,1.0,1.0,out
+41,Who for Sandy to talk to is still enrolled in the class?,0.0,1.0,0.5,0.0,0.8808241093158722,0.0,0.998865246772766,0.0,1.0,out
+42,The only people being added to our group who were at Harvard were students.,1.0,1.0,0.5,1.0,0.559518628641963,1.0,0.9969176054000854,1.0,1.0,out
+43,Leslie told ourselves about us.,0.0,1.0,0.5,0.0,0.9284284818172456,0.0,0.9992077946662904,0.0,1.0,out
+44,Those pictures of us offended us.,1.0,0.0,0.5,1.0,0.9403282356262208,1.0,0.999093532562256,1.0,1.0,out
+45,We admired the pictures of us in the album.,1.0,1.0,0.5,1.0,0.802302887737751,1.0,0.9975645542144777,1.0,1.0,out
+46,We admired the pictures of ourselves in the album.,1.0,1.0,0.5,1.0,0.8407651484012604,1.0,0.9973984956741332,1.0,1.0,out
+47,Max is on the phone now.,1.0,1.0,0.5,1.0,0.9866927254199982,1.0,0.9990360736846924,1.0,1.0,out
+48,They lost themselves' books.,0.0,1.0,0.5,0.0,0.8777524447441101,0.0,0.9993556141853333,0.0,1.0,out
+49,I noticed the.,0.0,1.0,0.5,0.0,0.6802465659379959,1.0,0.9910552501678468,0.0,1.0,out
+50,This is my favorite.,1.0,0.0,0.5,1.0,0.9506777119636536,1.0,0.9995248317718506,1.0,1.0,out
+51,Some people yell at the dogs.,1.0,1.0,0.5,1.0,0.9840105772018432,1.0,0.9995757937431335,1.0,1.0,out
+52,The teacher handed the student.,0.0,0.0,0.5,0.0,0.9097188234329224,0.0,0.9984769225120544,0.0,1.0,out
+53,The bird sing.,0.0,0.0,0.5,0.0,0.6043982166051864,1.0,0.7994620203971863,0.0,1.0,out
+54,I was already aware of fact.,0.0,1.0,0.5,0.0,0.5879393261671066,0.0,0.9957234859466552,0.0,1.0,out
+55,The guests dined.,1.0,0.0,0.5,1.0,0.9663792383670808,1.0,0.9996293783187866,1.0,1.0,out
+56,We relied on Leslie.,1.0,1.0,0.5,1.0,0.968799899816513,1.0,0.9993946552276612,1.0,1.0,out
+57,Newsweek appeared on the newsstands.,1.0,1.0,0.5,1.0,0.9472644877433776,1.0,0.999478042125702,1.0,1.0,out
+58,The book surprised many people.,1.0,1.0,0.5,1.0,0.9694834411144256,1.0,0.9993007183074952,1.0,1.0,out
+59,The storm arrived while we ate lunch.,1.0,0.0,0.5,1.0,0.8623130792379379,1.0,0.9985415935516356,1.0,0.8,out
+60,These dogs barked.,1.0,1.0,0.5,1.0,0.8701907539367676,1.0,0.9995111227035522,1.0,1.0,out
+61,The cat slept soundly and furry.,0.0,0.0,0.5,1.0,0.5660645580291748,0.0,0.9945318698883056,0.0,1.0,out
+62,"Chris walks, Pat eats broccoli, and Sandy plays squash.",1.0,1.0,0.5,1.0,0.9276316010951996,1.0,0.9978899359703064,1.0,1.0,out
+63,Nobody told Susan about herself.,1.0,0.0,0.5,0.0,0.8119720900058747,1.0,0.9991680383682252,1.0,0.8,out
+64,Protect yourself!,1.0,1.0,0.5,1.0,0.980706934928894,1.0,0.9996956586837769,1.0,1.0,out
+65,the putter of books left.,0.0,0.0,0.5,0.0,0.6312978434562683,0.0,0.998974084854126,0.0,0.6,out
+66,The cat was bitten the mouse.,0.0,1.0,0.5,0.0,0.8964509129524231,0.0,0.9991151690483092,0.0,0.8,out
+67,Chris was handed Sandy a note by Pat.,0.0,0.0,0.5,0.0,0.8545974487066269,0.0,0.9992141723632812,0.0,1.0,out
+68,The patient died.,1.0,1.0,0.5,1.0,0.9877631175518036,1.0,0.9994342923164368,1.0,1.0,out
+69,TV puts dumb ideas.,0.0,0.0,0.5,0.0,0.8122391521930694,0.0,0.998969554901123,0.0,1.0,out
+70,There is a monster in Loch Ness.,1.0,1.0,0.5,1.0,0.9768174397945404,1.0,0.999442994594574,1.0,1.0,out
+71,People are looking through the window.,1.0,0.0,0.5,1.0,0.9848578715324402,1.0,0.999107301235199,1.0,1.0,out
+72,It never occurred to Pat that Chris knew the answer.,1.0,0.0,0.5,1.0,0.9858181512355804,1.0,0.9992058873176576,1.0,1.0,out
+73,It loved Sandy.,0.0,1.0,0.5,0.0,0.698333798199892,0.0,0.9987144470214844,1.0,1.0,out
+74,We forgot our invitations.,1.0,0.0,0.5,1.0,0.9780780506134034,1.0,0.9993003606796264,1.0,1.0,out
+75,Advantage is taken of every opportunity for improvement.,1.0,1.0,0.5,0.0,0.735194776058197,1.0,0.9993071556091307,0.0,0.8,out
+76,The bucket was kicked by Pat.,1.0,0.0,0.5,1.0,0.92278963804245,1.0,0.9988962411880492,1.0,1.0,out
+77,John is sad.,1.0,0.0,0.5,1.0,0.9698111867904664,1.0,0.9994144439697266,1.0,1.0,out
+78,Of whom are you thinking?,1.0,1.0,0.5,1.0,0.7864299312233924,1.0,0.998930275440216,1.0,1.0,out
+79,John is sick.,1.0,1.0,0.5,1.0,0.9827346229553222,1.0,0.999479591846466,1.0,1.0,out
+80,John tried to leave.,1.0,0.0,0.5,1.0,0.9857321202754974,1.0,0.9992365837097168,1.0,1.0,out
+81,John was struck by Bill as pompous.,0.0,1.0,0.5,1.0,0.708404294848442,0.0,0.9991863369941713,0.0,0.8,out
+82,John was promised by Bill to leave.,0.0,0.0,0.5,1.0,0.5283221201598645,0.0,0.9432256817817688,0.0,0.6,out
+83,They make good cooks.,1.0,0.0,0.5,1.0,0.8895587903261185,1.0,0.9995829463005066,1.0,1.0,out
+84,I would prefer to leave.,1.0,0.0,0.5,1.0,0.978063461780548,1.0,0.9993337988853456,1.0,1.0,out
+85,I would hate for John to leave.,1.0,1.0,0.5,1.0,0.9423982220888136,1.0,0.9993696808815002,1.0,1.0,out
+86,It was hated for John to leave.,0.0,1.0,0.5,0.0,0.711892529129982,0.0,0.99839586019516,0.0,1.0,out
+87,to die is no fun.,1.0,1.0,0.5,1.0,0.738852014541626,1.0,0.9993489384651184,1.0,1.0,out
+88,That he is here is clear.,1.0,1.0,0.5,1.0,0.8895496237277984,1.0,0.998828947544098,1.0,1.0,out
+89,John believes it sincerely that Bill is here.,0.0,0.0,0.5,1.0,0.5142820450663567,1.0,0.9987298846244812,0.0,0.6,out
+90,John believed it that Bill was tardy.,0.0,0.0,0.5,0.0,0.8150327956676483,0.0,0.9990980625152588,0.0,0.8,out
+91,It is to give up to leave.,0.0,1.0,0.5,0.0,0.869676159620285,0.0,0.9989022016525269,0.0,1.0,out
+92,I bought it to read.,1.0,0.0,0.5,1.0,0.7834564524888993,1.0,0.9980642199516296,1.0,1.0,out
+93,I gave Pete the book to impress.,0.0,1.0,0.5,0.0,0.5166621811687946,0.0,0.9605160355567932,0.0,0.8,out
+94,I presented it to Bill to read.,1.0,0.0,0.5,1.0,0.8485770481824875,1.0,0.9984816908836364,1.0,1.0,out
+95,I gave a book to Bill to read.,1.0,0.0,0.5,1.0,0.7386043605208397,1.0,0.9991517066955566,1.0,1.0,out
+96,John made Bill mad at himself.,1.0,0.0,0.5,1.0,0.5254478579759598,1.0,0.9986326098442078,1.0,1.0,out
+97,The correspondence school made Bill a good typist.,1.0,1.0,0.5,1.0,0.8806373941898346,1.0,0.9989742040634156,1.0,1.0,out
+98,John bought a dog for himself to play with.,0.0,0.0,0.5,1.0,0.9460217148065568,1.0,0.9987642765045166,1.0,1.0,out
+99,John arranged for himself to get the prize.,1.0,0.0,0.5,0.0,0.7523047488927841,1.0,0.9990293979644777,1.0,1.0,out
+100,The weights made the rope stretch over the pulley.,1.0,1.0,0.5,1.0,0.9778603684902192,1.0,0.9992766976356506,1.0,1.0,in
+101,"The more you would want, the less you would eat.",0.0,1.0,0.5,1.0,0.9014344561100006,1.0,0.9989230036735536,1.0,0.8,in
+102,"I demand that the more John eat, the more he pays.",0.0,1.0,0.5,0.0,0.6138101637363433,0.0,0.9984068274497986,1.0,0.6,in
+103,"The higher the stakes, the lower his expectations are.",1.0,0.0,0.5,1.0,0.9260932850837708,1.0,0.9985942244529724,1.0,1.0,in
+104,The box contained the ball from the tree.,0.0,0.0,0.5,0.0,0.5033483871817589,1.0,0.9975082874298096,1.0,0.8,in
+105,"Most people probably consider, even though the courts didn't actually find, Klaus guilty of murder.",1.0,0.0,0.5,0.0,0.7461731004714965,1.0,0.5374006628990173,0.0,0.6,in
+106,The men will all leave.,1.0,1.0,0.5,1.0,0.9856079721450806,1.0,0.998713493347168,1.0,1.0,in
+107,They represented seriously to the dean Mary as a genuine linguist.,0.0,0.0,0.5,0.0,0.863825318813324,0.0,0.9993835687637328,0.0,0.8,in
+108,Mary intended John to go abroad.,0.0,0.0,0.5,0.0,0.563444234803319,1.0,0.9982849955558776,0.0,0.6,in
+109,"Mary will read Fred's story, and Joe will read Holly's.",1.0,1.0,0.5,1.0,0.9835142862796784,1.0,0.9978548884391784,1.0,1.0,in
+110,Mary saw the boy walking toward the railroad station.,1.0,1.0,0.5,1.0,0.9885123479366302,1.0,0.9989252686500548,1.0,1.0,in
+111,A proof that the claim had been. made was giver that John had lied.,1.0,0.0,0.5,0.0,0.9286397528648376,0.0,0.9990457892417908,0.0,1.0,in
+112,He attributed to a short circuit which was caused by an overloaded transducer the fire which destroyed most of my factory.,1.0,0.0,0.5,0.0,0.6033253812789917,1.0,0.9932244420051576,0.0,0.8,in
+113,I know a man who Tom drives as drives.,0.0,0.0,0.5,0.0,0.7960725009441376,0.0,0.9985515475273132,0.0,1.0,in
+114,How sane is Peter?,1.0,1.0,0.5,1.0,0.9699578022956848,1.0,0.9995908141136168,1.0,1.0,in
+115,Mike talked about politics yesterday to my friends.,1.0,1.0,0.5,1.0,0.9347836434841156,1.0,0.9982858300209044,1.0,1.0,in
+116,Here's a knife with which for you to cut up the onions.,0.0,1.0,0.5,0.0,0.819026939868927,1.0,0.9841850996017456,0.0,0.6,in
+117,"Sally is tall, and may be blond, and Sheila is short, and definitely is, blond.",1.0,1.0,0.5,0.0,0.5647552812099457,1.0,0.905838906764984,1.0,0.6,in
+118,Everybody around here who ever buys anything on credit talks in his sleep.,1.0,0.0,0.5,1.0,0.5796564784646034,1.0,0.9985740184783936,0.0,0.6,in
+119,"No writer, and no playwright, meets in Vienna.",0.0,0.0,0.5,1.0,0.784425927400589,0.0,0.9975358247756958,0.0,0.6,in
+120,"We launched the rocket to the moon, but it blew up before it got there.",1.0,1.0,0.5,1.0,0.9497907042503356,1.0,0.9968414306640624,1.0,1.0,in
+121,The farmer loaded the cart with apples.,1.0,0.0,0.5,1.0,0.9702533912658692,1.0,0.9993871450424194,1.0,1.0,in
+122,We pulled free.,1.0,0.0,0.5,1.0,0.765086171478033,1.0,0.9970868229866028,1.0,1.0,in
+123,Mira condemned Terry for the accident.,1.0,1.0,0.5,1.0,0.8387492883205414,1.0,0.9988279938697816,1.0,1.0,in
+124,We investigated the area for bombs.,1.0,1.0,0.5,0.0,0.6659224197268486,1.0,0.9667440056800842,1.0,0.8,in
+125,The books lifted onto the table.,0.0,1.0,0.5,0.0,0.5749261743575335,1.0,0.9823712110519408,0.0,1.0,in
+126,Lora buttered at the toast.,0.0,1.0,0.5,0.0,0.8779575049877166,0.0,0.9992259740829468,0.0,0.6,in
+127,Susan whispered the news.,1.0,1.0,0.5,1.0,0.6543541784584522,1.0,0.9988734126091005,1.0,1.0,in
+128,Cynthia chewed.,0.0,1.0,0.5,0.0,0.5506697291880847,1.0,0.9977681636810304,1.0,1.0,in
+129,Over the fire there bubbled a fragrant stew.,1.0,0.0,0.5,1.0,0.9181708300113678,1.0,0.9995952248573304,1.0,1.0,in
+130,Soaring temperatures are predicted for this weekend.,1.0,1.0,0.5,1.0,0.9690365052223204,1.0,0.9993610978126526,1.0,1.0,in
+131,A wonderful opportunity presented itself to him yesterday.,1.0,1.0,0.5,1.0,0.935066341161728,1.0,0.9992215633392334,1.0,1.0,in
+132,Out of the box jumped a little white rabbit.,1.0,1.0,0.5,1.0,0.9592441987991333,1.0,0.99942809343338,1.0,1.0,in
+133,did the policeman meet in the park?,1.0,1.0,0.5,0.0,0.6586598211526871,0.0,0.9990420937538148,0.0,0.8,in
+134,John put old books in the box.,1.0,1.0,0.5,1.0,0.9599928879737852,1.0,0.9990843534469604,1.0,1.0,in
+135,Sandy removed her ballet shoes.,1.0,0.0,0.5,1.0,0.9808743584156036,1.0,0.9993632435798644,1.0,1.0,in
+136,Everyone hoped that she would sing.,1.0,0.0,0.5,1.0,0.9829303669929504,1.0,0.9995903372764589,1.0,1.0,in
+137,This proved a decisive factor.,1.0,0.0,0.5,1.0,0.8398539447784423,1.0,0.9992152452468872,1.0,1.0,in
+138,John is afraid of Bill.,1.0,1.0,0.5,1.0,0.9853724241256714,1.0,0.9994396567344666,1.0,1.0,in
+139,That Fred was unpopular nominated Bill.,0.0,1.0,0.5,0.0,0.681392578035593,0.0,0.9986453652381896,0.0,1.0,in
+140,Most of the fruit is rotten.,1.0,0.0,0.5,1.0,0.9655675089359284,1.0,0.9995934367179872,1.0,1.0,in
+141,John is easy to please Kim.,0.0,0.0,0.5,0.0,0.8231623202562333,0.0,0.996862769126892,0.0,1.0,in
+142,It tries to leave the country.,0.0,0.0,0.5,0.0,0.6828252237290144,0.0,0.9980977177619934,1.0,0.8,in
+143,We expect there to will rain.,0.0,0.0,0.5,0.0,0.8661858034133911,0.0,0.9970911741256714,0.0,1.0,in
+144,We never found any of the unicorns.,1.0,1.0,0.5,1.0,0.9697689807415008,1.0,0.9992424249649048,1.0,1.0,in
+145,The bed was slept in.,1.0,0.0,0.5,0.0,0.789493248462677,1.0,0.998996913433075,1.0,0.8,in
+146,the baker from whom I bought these bagels left.,1.0,1.0,0.5,1.0,0.8333824294805526,1.0,0.9990593791007996,1.0,1.0,in
+147,Which topic did you choose without getting his approval?,1.0,1.0,0.5,1.0,0.936989541053772,1.0,0.9984279870986938,1.0,1.0,in
+148,To please John is easy.,1.0,1.0,0.5,1.0,0.8374530583620071,1.0,0.9994532465934752,1.0,1.0,in
+149,It annoys me that Fido barks.,1.0,0.0,0.5,1.0,0.9748045182228088,1.0,0.9993426203727722,1.0,1.0,in
+150,It was the peasant girl who got it.,1.0,1.0,0.5,1.0,0.9663018512725832,1.0,0.9989840388298036,1.0,1.0,in
+151,A sick owl doesn't hunt mice.,1.0,1.0,0.5,1.0,0.9863583290576936,1.0,0.9988744854927064,1.0,1.0,in
+152,1 gave Mary after the party a book.,1.0,0.0,0.5,0.0,0.8778088068962098,0.0,0.9989612102508544,0.0,0.8,in
+153,"Because she's so pleasant, as for Mary I really like her.",0.0,0.0,0.5,0.0,0.7905185520648956,0.0,0.9978575110435486,0.0,1.0,in
+154,I have much of the manuscript left to type.,1.0,0.0,0.5,1.0,0.8923766934871673,1.0,0.9992615580558776,1.0,1.0,in
+155,Any trouble is what I don't want.,0.0,1.0,0.5,1.0,0.6350788694620132,1.0,0.998703122138977,0.0,1.0,in
+156,They may grow as high as bamboo.,1.0,0.0,0.5,1.0,0.9688596880435943,1.0,0.7405229210853577,1.0,1.0,in
+157,They chased the man with the car.,1.0,0.0,0.5,1.0,0.8993948137760163,1.0,0.9988467693328856,1.0,1.0,in
+158,Heidi thinks that Andy should eat salmon flavored candy bars.,1.0,1.0,0.5,1.0,0.9858430218696594,1.0,0.9996047616004944,1.0,1.0,in
+159,The manager laughed.,1.0,0.0,0.5,1.0,0.9831815052032472,1.0,0.9993159770965576,1.0,1.0,in
+160,Who did you think kissed the gorilla?,1.0,1.0,0.5,1.0,0.953957679271698,1.0,0.9995064735412598,1.0,1.0,in
+161,There were four men arriving at the station when I pulled up.,1.0,1.0,0.5,1.0,0.9328934001922607,1.0,0.998601734638214,1.0,1.0,in
+162,Jean wants Bill to do the Macarena.,1.0,0.0,0.5,1.0,0.9675787270069124,1.0,0.9995348453521729,1.0,1.0,in
+163,John thinks that Mary loves himself.,0.0,1.0,0.5,0.0,0.7444767528772354,0.0,0.9993162155151368,0.0,1.0,in
+164,"You may pick every flower, but leave a few for Mary.",0.0,1.0,0.5,1.0,0.9693515157699584,1.0,0.9979211688041688,0.0,1.0,in
+165,The wealthy young man bought that piano for his secret fiancée.,1.0,1.0,0.5,1.0,0.9768481397628784,1.0,0.9992594122886658,1.0,1.0,in
+166,a tall building.,1.0,0.0,0.5,1.0,0.6726680862903595,1.0,0.999298334121704,0.0,0.8,in
+167,Captain Wentworth wrote a letter to Anne Elliott.,1.0,0.0,0.5,1.0,0.92679328083992,1.0,0.999165177345276,1.0,1.0,in
+168,They realised that never had Sir Thomas been so offended.,1.0,1.0,0.5,1.0,0.9529748427867888,1.0,0.9984238147735596,1.0,0.6,in
+169,Fanny regretted having to talk to Aunt Norris.,1.0,1.0,0.5,1.0,0.9837395799160004,1.0,0.9991242289543152,1.0,1.0,in
+170,The idea dismayed the Prime Minister that the Dome was dull.,1.0,1.0,0.5,0.0,0.5880913239717483,1.0,0.9908809661865234,0.0,0.8,in
+171,Harriet admired Mr Knightley.,1.0,1.0,0.5,1.0,0.98371351480484,1.0,0.9993698000907898,1.0,1.0,in
+172,Emma made Harriet some food.,1.0,1.0,0.5,1.0,0.9442001682519912,1.0,0.9993433356285096,1.0,1.0,in
+173,Emma and Harriet were attacked yesterday.,1.0,1.0,0.5,1.0,0.9819669318199158,1.0,0.9990087151527404,1.0,1.0,in
+174,I want to try and buy some whiskey.,1.0,0.0,0.5,1.0,0.7821468752622605,1.0,0.9993543028831482,1.0,1.0,in
+175,She goes and buying some whiskey.,0.0,1.0,0.5,0.0,0.9013863205909728,0.0,0.9990002512931824,0.0,1.0,in
+176,Ann bought a first edition of Richard III for $1000.,1.0,0.0,0.5,1.0,0.9391011536121368,1.0,0.9994763731956482,1.0,1.0,in
+177,Henri wants to buy which books about cooking?,1.0,0.0,0.5,1.0,0.7346615383028984,1.0,0.9993544220924376,1.0,1.0,in
+178,I will fix the computer for Carol.,1.0,1.0,0.5,1.0,0.9883542931079864,1.0,0.9991102814674376,1.0,1.0,in
+179,"Suddenly, there arrived two inspectors from the INS.",1.0,0.0,0.5,1.0,0.527168734818697,1.0,0.9993187189102172,1.0,1.0,in
+180,I gave money to the charity.,1.0,0.0,0.5,1.0,0.9782816755771636,1.0,0.9991870522499084,1.0,1.0,in
+181,I saw even the student.,1.0,1.0,0.5,0.0,0.7484543228149414,0.0,0.9992594122886658,1.0,0.6,in
+182,Each of the boys fought with some of the other boys.,1.0,0.0,0.5,1.0,0.9323490262031556,1.0,0.998728573322296,1.0,1.0,in
+183,Mary revealed himself to John.,0.0,0.0,0.5,0.0,0.9060091626644134,0.0,0.9992603659629822,0.0,1.0,in
+184,Henry found that Bill is sad.,1.0,0.0,0.5,0.0,0.778000971376896,1.0,0.9988069534301758,1.0,0.8,in
+185,John considers himself proud of Mary.,1.0,0.0,0.5,1.0,0.859444014430046,1.0,0.999117910861969,1.0,1.0,in
+186,Everyone hopes that he will sleep.,1.0,0.0,0.5,1.0,0.9057722115516662,1.0,0.999212384223938,1.0,1.0,in
+187,John convinced Bill that Mary should sleep.,1.0,1.0,0.5,1.0,0.9011598467826843,1.0,0.9990358352661132,1.0,1.0,in
+188,Anson demonized up the Khyber,0.0,1.0,0.5,0.0,0.8069614708423615,0.0,0.9895765781402588,0.0,1.0,in
+189,The Peter we all like was at the party,1.0,1.0,0.5,1.0,0.7274690818786621,1.0,0.9986708164215088,1.0,1.0,in
+190,What did you ask who Medea gave?,0.0,1.0,0.5,0.0,0.8469383323192596,0.0,0.9991662502288818,0.0,1.0,in
+191,It's Anson that I like,1.0,1.0,0.5,1.0,0.7277096769213677,0.0,0.9874935746192932,1.0,1.0,in
+192,Anson believed himself to be handsome.,1.0,1.0,0.5,1.0,0.9412102687358856,1.0,0.9994462132453918,1.0,1.0,in
+193,Anson thought that himself was happy.,0.0,0.0,0.5,0.0,0.8976383256912231,0.0,0.9991292357444764,0.0,1.0,in
+194,I might be not going to the party but washing my hair,1.0,1.0,0.5,0.0,0.6091051369905471,1.0,0.5126667618751526,0.0,0.8,in
+195,Jason happens to appear to seem to be sick.,1.0,1.0,0.5,0.0,0.7436115291714668,0.0,0.9523438811302184,1.0,0.8,in
+196,He can will go,0.0,1.0,0.5,0.0,0.9141233277320862,0.0,0.96132892370224,0.0,1.0,in
+197,I inquired when could we leave.,0.0,0.0,0.5,1.0,0.6419366443157196,1.0,0.9929270148277284,0.0,0.6,in
+198,The bookcase ran,0.0,1.0,0.5,0.0,0.569444803595543,1.0,0.9902327060699464,0.0,0.8,in
+199,Anson became a muscle bound.,0.0,1.0,0.5,1.0,0.6306339953094721,0.0,0.9972195625305176,0.0,1.0,in
