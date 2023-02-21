@@ -1,4 +1,4 @@
-sample_id,snli_id,sentence_1,sentence_2,label,item_difficulty,average_accuracy,flesch_score_textstat,mean_grade_level_textstat,number_of_words,number_of_characters,confidence,gold_conf,entropy,pred_label
+sample_id,snli_id,sentence_1,sentence_2,label,item_difficulty,average_accuracy,flesch_score_textstat,mean_grade_level_textstat,number_of_words,number_of_characters,confidence,gold_confidence,entropy,pred_label
 0,1947351225.jpg#0r1c,A little boy is opening gifts surrounded by a group of children and adults.,The boy is being punished,contradiction,-1.75982247491244,0.839139344262295,78.75,6,19,101,0.886620371759057,0.111263637018643,0.525204171581845,contradiction
 1,3626964430.jpg#0r1e,"People playing cricket in the park, pine trees in the back.","People are playing sports in the park, near the pine trees",entailment,-2.1790869834078,0.886270491803279,94.15,5,22,118,0.913627107583073,0.913627107583073,0.435065344856852,entailment
 2,4576144189.jpg#3r1e,Some people hanging out on a large backyard deck.,people hanging out on deck,entailment,-3.13717793250355,0.951844262295082,81.29,3,14,76,0.972121456973385,0.972121456973385,0.188578181512873,entailment

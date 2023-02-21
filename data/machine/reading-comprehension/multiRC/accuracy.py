@@ -5,12 +5,15 @@ def get_machine_acc(file):
     count = 0
     true = 0
     for idx, row in mdf.iterrows():
+        if row['sample_id'] >= 100:
+            break
         count+=1
         goldlabel = row['gold_label'] 
         predlabel = row['pred_label'] 
         if goldlabel == predlabel:
             true+=1
     acc = true/count
+    print("#instances:", count)
     return acc
 
 def get_human_acc(file):
@@ -18,6 +21,8 @@ def get_human_acc(file):
     count = 0
     true = 0
     for idx, row in mdf.iterrows():
+        if row['sample_id'] >= 100:
+            break
         count+=1
         goldlabel = row['gold_label'] 
         predlabel = row['agg_human_pred'] 
@@ -32,12 +37,14 @@ def get_human_f1_a(file):
     agreement_count = 0
     predict_count = 0
     for idx, row in mdf.iterrows():
-        if row['agg_human_pred'] == 1 or row['agg_human_conf'] == 0.5:
+        if row['sample_id'] >= 100:
+            break
+        if row['agg_human_pred'] == 1 or row['agg_human_score'] == 0.5:
             predict_count+=1
         goldlabel = row['gold_label'] 
         if goldlabel == 1:
             correct_count+=1
-            if row['agg_human_pred'] == goldlabel or row['agg_human_conf'] == 0.5:
+            if row['agg_human_pred'] == goldlabel or row['agg_human_score'] == 0.5:
                 agreement_count+=1
     recall = agreement_count/correct_count
     precision   = agreement_count/predict_count
@@ -50,6 +57,8 @@ def get_machine_f1_a(file):
     agreement_count = 0
     predict_count = 0
     for idx, row in mdf.iterrows():
+        if row['sample_id'] >= 100:
+            break
         goldlabel = row['gold_label'] 
         if row['pred_label'] == 1: #or row['pred_conf'] == 0.5:
             predict_count+=1
@@ -66,7 +75,10 @@ def get_machine_f1_a(file):
     return precision, recall,f1_a
 
 
-machinefile = 'data/machine/reading-comprehension/multiRC/random/multirc_random.csv'
+num_inst = 100
+machinefile = 'data/machine/reading-comprehension/multiRC/davinci-003-zeroshot/multirc_davinci-zeroshot_0-300.csv'
+#machinefile = "data/machine/reading-comprehension/multiRC/random/multirc_random.csv"
+machinefile = 'data/machine/reading-comprehension/multiRC/RoBERTa/multirc_roberta_calib.csv'
 
 print('---')
 print('Machine statistics:')

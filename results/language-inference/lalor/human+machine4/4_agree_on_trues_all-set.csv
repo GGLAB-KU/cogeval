@@ -1,0 +1,49 @@
+sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_4_pred,machine_4_confidence,confidence_diff
+37.0,A wielder works on wielding a beam into place while other workers set beams.,The wielder is working on a building.,neutral,neutral,0.5005117707267144,neutral,0.9993752726234596,0.4988635018967452
+48.0,People judge a gray and white dog in a show.,A dog is being judged for first place in a show.,neutral,neutral,0.5363357215967247,neutral,0.9992569577926846,0.46292123619595993
+4.0,A large brown and white dog is carrying a stick through a white and snowy area.,A puppy is playing fetch with a stick.,neutral,neutral,0.5649948822927329,neutral,0.9990661025239423,0.4340712202312095
+80.0,Two men fight in a ring while spectators look on.,Boxers fight as the crowd screams.,neutral,neutral,0.5854657113613101,neutral,0.9991873387881306,0.4137216274268205
+81.0,Girls playing soccer competitively in the grass.,Nobody is playing soccer.,contradiction,contradiction,0.9631525076765608,contradiction,0.5609779158054383,0.4021745918711225
+38.0,A man is popping balloons inside a cubicle using a handmade tool.,A man is popping balloons inside a cubicle using a handmade knife.,neutral,neutral,0.6274309109518935,neutral,0.997271517094208,0.3698406061423145
+74.0,A young boy asleep in a stroller.,A young boy is taking his afternoon nap.,neutral,neutral,0.6438075742067554,neutral,0.9981021134686038,0.3542945392618484
+85.0,"A group of asian women in sports attire, and one woman in the center is wearing a baseball cap.",Men are playing with a dog,contradiction,contradiction,0.6407369498464688,contradiction,0.9849695312791472,0.34423258143267843
+61.0,A black dog has just jumped into a swimming pool.,A dog jumped into a pool to cool off.,neutral,neutral,0.6693961105424769,neutral,0.9980230777899536,0.32862696724747664
+62.0,A ballerina in a black dress and tights dances in front of a concrete wall.,a man dancing,contradiction,contradiction,0.4974411463664278,contradiction,0.8243336961462792,0.3268925497798514
+75.0,"Neck and neck to the finish line, every competitor has been training for this race.",The competitors have trained very hard and are all very close to the finish line.,entailment,entailment,0.8311156601842374,entailment,0.5125875465610189,0.31852811362321853
+86.0,A snowboarder is jumping over a snow slope.,A girl jumps her green snowboard over a slope.,neutral,neutral,0.6949846468781986,neutral,0.9987875080630658,0.3038028611848672
+18.0,Five people standing by a gate.,Five fat people standing by a gate.,neutral,neutral,0.8751279426816786,neutral,0.5719536055901443,0.3031743370915343
+64.0,A couple is back to back in formal attire.,Two people are facing away from each other.,entailment,entailment,0.8781985670419652,entailment,0.5763903251246395,0.3018082419173257
+30.0,There are two people sweeping a sidewalk in this picture.,The man is clearing leaves from the sidewalk.,neutral,neutral,0.714431934493347,neutral,0.9993489855619152,0.28491705106856824
+8.0,a toddler playing with a toy car next to a dog.,A toddler plays with toy cars while his dog sleeps.,neutral,neutral,0.7492323439099283,neutral,0.9991661182727708,0.24993377436284248
+12.0,"Two men in front of a projector screen, one at a microphone.",Three men about to present their best idea yet in front of their company.,neutral,neutral,0.7533265097236438,neutral,0.9995746499669854,0.24624814024334163
+67.0,An infant napping in it's crib in pajamas.,A baby is sleeping in a crib with its blanket.,neutral,neutral,0.7512794268167861,neutral,0.9968255540420988,0.24554612722531277
+31.0,The dogs ran around the dirt racetrack.,Dogs are humping each other.,contradiction,contradiction,0.6980552712384852,contradiction,0.9330173848767288,0.2349621136382436
+10.0,Man and woman crossing the street at dusk.,A husband and a wife are enjoying a leisurely stroll in the evening.,neutral,neutral,0.7758444216990789,neutral,0.9994254002457036,0.22358097854662473
+5.0,A little girl in pink stands in a yellow hallway.,The girl is standing outside her apartment.,neutral,neutral,0.7881269191402251,neutral,0.9991202238301884,0.21099330468996325
+73.0,A boy in a gray hoodie and black cap holds up an American flag.,A person is holding an American flag.,entailment,entailment,0.9795291709314228,entailment,0.7698612077936183,0.20966796313780445
+79.0,A person wearing an orange shirt with a backpack on looking across a segment of lush green trees.,A person is meditating and looking at the peaceful lush green trees.,neutral,neutral,0.7952917093142272,neutral,0.9994097216828328,0.2041180123686056
+16.0,A girl is holding a camera and making a hand gesture.,A girl holds a camera.,entailment,entailment,0.977482088024565,entailment,0.7735952693290498,0.20388681869551528
+56.0,"Two cyclists, in yellow, are competing in a race.",A Mustang and a Corvette are competing in a drag race.,contradiction,contradiction,0.6888433981576254,contradiction,0.8926694530399711,0.20382605488234573
+27.0,A scene of snow and water.,a snow and water scene at sunset,neutral,neutral,0.797338792221085,neutral,0.9981770940150436,0.20083830179395867
+49.0,Eight people are sitting on a long boat on a sunny day.,Morning ride on boat,neutral,neutral,0.7993858751279427,neutral,0.9995080719363058,0.20012219680836307
+39.0,a man wearing a gray shirt waving in the middle of a plant nursery,The man does not have a way to get home.,neutral,neutral,0.8137154554759468,neutral,0.9984895437889764,0.18477408831302955
+15.0,A group of people in dark clothing are crossing a crosswalk.,A group of people in dark clothing are crossing a crosswalk to get to the store,neutral,neutral,0.8188331627430911,neutral,0.9993623376930776,0.18052917494998644
+87.0,a group of people on a dock lowering into the water a boat with teal and purple decorations.,The group was getting ready to go fishing on the boat.,neutral,neutral,0.8290685772773797,neutral,0.9992443208294298,0.17017574355205012
+89.0,Two people are sitting at a table outside of a building.,Two people are sitting eating lunch,neutral,neutral,0.8474923234390993,neutral,0.9994503158617116,0.15195799242261232
+17.0,A man posing with a antique sewing machine.,He is a sewer.,neutral,neutral,0.8536335721596725,neutral,0.9988869306217738,0.1452533584621013
+1.0,"People playing cricket in the park, pine trees in the back.","People are playing sports in the park, near the pine trees",entailment,entailment,0.8853633572159673,entailment,0.748391142425737,0.13697221479023025
+3.0,A group of dancers are performing.,The audience is silent.,neutral,neutral,0.8648925281473899,neutral,0.9993058910751288,0.13441336292773887
+78.0,One biker is running with their bike while another is riding around them.,The people are part of a club,neutral,neutral,0.8659160696008188,neutral,0.9991770848805182,0.13326101527969936
+45.0,A young woman with glasses sits at the end of a row of seats and speaks into a microphone.,A young woman wearing glasses,entailment,entailment,0.8628454452405322,entailment,0.9953264237046562,0.132480978464124
+57.0,The backside of a woman leaning against the guard rail of a passenger boat looking out at the open ocean.,The woman is driving her car on the highway.,contradiction,contradiction,0.8607983623336745,contradiction,0.9790521580565024,0.1182537957228279
+72.0,A man sleeping on a chair with a newspaper on his chest.,the man is a farmer,neutral,neutral,0.8802456499488229,neutral,0.9972989374515304,0.11705328750270749
+69.0,A group of people in blue pants and shirts in motion.,There are people moving.,entailment,entailment,0.9355168884339816,entailment,0.8200835694117011,0.11543331902228049
+0.0,A little boy is opening gifts surrounded by a group of children and adults.,The boy is being punished,contradiction,contradiction,0.8382804503582395,contradiction,0.9294169638714868,0.09113651351324725
+36.0,Two soccer players are playing soccer.,Two people play a game.,entailment,entailment,0.9385875127942682,entailment,0.9946438257284438,0.05605631293417557
+55.0,A bunch of happy children having fun swimming and one boy is showing off his talent with a back flip.,Kids are having fun,entailment,entailment,0.9437052200614124,entailment,0.9943649358722592,0.05065971581084672
+25.0,A boy does a skateboarding trick in the air while holding the board with his left hand.,A sad boy does a skateboarding trick in the air while holding the board with his left hand.,neutral,neutral,0.81985670419652,neutral,0.8699272861190039,0.050070581922483925
+47.0,Two men and one woman are dressed in costume hats.,the people are swingers,neutral,neutral,0.834186284544524,neutral,0.8814625609726998,0.04727627642817578
+2.0,Some people hanging out on a large backyard deck.,people hanging out on deck,entailment,entailment,0.9508700102354144,entailment,0.995143733975063,0.04427372373964855
+65.0,A biker pops a wheelie along side the colorful wall.,A person is riding a bike near a wall.,entailment,entailment,0.9273285568065508,entailment,0.9543541939062412,0.027025637099690414
+82.0,Two gray dogs running in green grass.,Two gray dogs are running.,entailment,entailment,0.977482088024565,entailment,0.995647754590203,0.018165666565638006
+7.0,A young girl in a white dress watches bubbles while a woman and girl toddler observe.,A girl is watching bubbles.,entailment,entailment,0.9723643807574208,entailment,0.9895595711175172,0.017195190360096424

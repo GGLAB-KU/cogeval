@@ -1,0 +1,20 @@
+data:
+  type: language-inference
+  human: results/language-inference/lalor/files/human.csv
+  machine: results/language-inference/lalor/files/lstm.csv
+
+correlation:
+  type: human+machine
+  method: spearman
+  columns:
+    human:
+      - agg_human_conf
+    machine:
+      - confidence
+  results:
+    dir: results/correlation/language-inference/lalor/human+machine_2/
+    heatmap:
+      name:  all_heatmap.png
+      title: human+LSTM correlations
+    excel:
+      name:  all_correlations.xlsx

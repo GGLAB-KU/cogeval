@@ -1,0 +1,811 @@
+sample_id,sentence_1,sentence_2,pred_label,gold_label,prompt_text,confidence,logprobs
+0.0,A little boy is opening gifts surrounded by a group of children and adults.,The boy is being punished,contradiction,contradiction,"A little boy is opening gifts surrounded by a group of children and adults.
+
+Can we infer that the boy is being punished by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.8744653132287217,"{
+  "" Maybe"": -2.087977,
+  "" No"": -0.13414265,
+  ""No"": -6.8652954
+}"
+1.0,"People playing cricket in the park, pine trees in the back.","People are playing sports in the park, near the pine trees",entailment,entailment,"People playing cricket in the park, pine trees in the back.
+
+Can we infer that people are playing sports in the park, near the pine trees by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.5372956915414814,"{
+  "" Maybe"": -0.7784887,
+  "" Yes"": -0.6212067,
+  ""Yes"": -5.940628
+}"
+2.0,Some people hanging out on a large backyard deck.,people hanging out on deck,neutral,entailment,"Some people hanging out on a large backyard deck.
+
+Can we infer that people hanging out on deck by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.988215005012374,"{
+  "" Maybe"": -0.0118549885,
+  "" No"": -4.549109,
+  "" Yes"": -7.74249
+}"
+3.0,A group of dancers are performing.,The audience is silent.,neutral,neutral,"A group of dancers are performing.
+
+Can we infer that the audience is silent by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9932983081739701,"{
+  "" Maybe"": -0.006724249,
+  "" No"": -5.3588915,
+  "" maybe"": -6.66347
+}"
+4.0,A large brown and white dog is carrying a stick through a white and snowy area.,A puppy is playing fetch with a stick.,neutral,neutral,"A large brown and white dog is carrying a stick through a white and snowy area.
+
+Can we infer that a puppy is playing fetch with a stick by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9975632833256466,"{
+  "" Maybe"": -0.0024396903,
+  "" No"": -6.738239,
+  ""Maybe"": -7.389364
+}"
+5.0,A little girl in pink stands in a yellow hallway.,The girl is standing outside her apartment.,neutral,neutral,"A little girl in pink stands in a yellow hallway.
+
+Can we infer that the girl is standing outside her apartment by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.998059494520007,"{
+  "" Maybe"": -0.0019423907,
+  "" No"": -7.1720924,
+  ""Maybe"": -7.391476
+}"
+6.0,A young boy in a sweatshirt is doodling on a piece of paper.,The class pictures are on display.,neutral,contradiction,"A young boy in a sweatshirt is doodling on a piece of paper.
+
+Can we infer that the class pictures are on display by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9802447878380617,"{
+  "" Maybe"": -0.019952955,
+  "" No"": -4.01556,
+  "" maybe"": -7.0526576
+}"
+7.0,A young girl in a white dress watches bubbles while a woman and girl toddler observe.,A girl is watching bubbles.,entailment,entailment,"A young girl in a white dress watches bubbles while a woman and girl toddler observe.
+
+Can we infer that a girl is watching bubbles by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.7498019304977932,"{
+  "" Maybe"": -1.3987573,
+  "" Yes"": -0.2879462,
+  ""Yes"": -5.9793158
+}"
+8.0,a toddler playing with a toy car next to a dog.,A toddler plays with toy cars while his dog sleeps.,neutral,neutral,"a toddler playing with a toy car next to a dog.
+
+Can we infer that a toddler plays with toy cars while his dog sleeps by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.957931311957367,"{
+  "" Maybe"": -0.042979203,
+  "" No"": -3.2025578,
+  ""Maybe"": -7.302903
+}"
+9.0,A man in and a woman are holding their towels at the beach.,People are at the beach,neutral,entailment,"A man in and a woman are holding their towels at the beach.
+
+Can we infer that people are at the beach by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9983879781053261,"{
+  "" Maybe"": -0.0016133226,
+  "" No"": -7.275298,
+  "" maybe"": -7.6774993
+}"
+10.0,Man and woman crossing the street at dusk.,A husband and a wife are enjoying a leisurely stroll in the evening.,neutral,neutral,"Man and woman crossing the street at dusk.
+
+Can we infer that a husband and a wife are enjoying a leisurely stroll in the evening by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9986672849545106,"{
+  "" Maybe"": -0.0013336039,
+  "" No"": -7.3228474,
+  ""Maybe"": -7.731699
+}"
+11.0,A woman singing into a microphone while a man plays drums in the background.,They are playing a PlayStation.,contradiction,contradiction,"A woman singing into a microphone while a man plays drums in the background.
+
+Can we infer that they are playing a PlayStation by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.8943304564685146,"{
+  "" Maybe"": -2.2710009,
+  "" No"": -0.111679934,
+  ""No"": -6.351139
+}"
+12.0,"Two men in front of a projector screen, one at a microphone.",Three men about to present their best idea yet in front of their company.,neutral,neutral,"Two men in front of a projector screen, one at a microphone.
+
+Can we infer that three men about to present their best idea yet in front of their company by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9975547632737846,"{
+  "" Maybe"": -0.0024482312,
+  "" No"": -6.2757063,
+  ""Maybe"": -7.972008
+}"
+13.0,A cyclist is optimistic as he rushes through the air while on his BMX bike at a bicycle event.,A snowboarder flies through the air,neutral,contradiction,"A cyclist is optimistic as he rushes through the air while on his BMX bike at a bicycle event.
+
+Can we infer that a snowboarder flies through the air by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.633209448032034,"{
+  "" Maybe"": -0.45695403,
+  "" No"": -1.0119753,
+  "" maybe"": -6.574877
+}"
+14.0,A boy in a blue and white shirt is pointing up and a second boy in a white shirt shields his eyes.,Two boys puch each other on swings.,neutral,contradiction,"A boy in a blue and white shirt is pointing up and a second boy in a white shirt shields his eyes.
+
+Can we infer that two boys puch each other on swings by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.7245883778868393,"{
+  "" Maybe"": -0.32215154,
+  "" No"": -1.3016589,
+  "" maybe"": -6.568138
+}"
+15.0,A group of people in dark clothing are crossing a crosswalk.,A group of people in dark clothing are crossing a crosswalk to get to the store,neutral,neutral,"A group of people in dark clothing are crossing a crosswalk.
+
+Can we infer that a group of people in dark clothing are crossing a crosswalk to get to the store by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9974961109726546,"{
+  "" Maybe"": -0.002507029,
+  "" No"": -6.4720974,
+  ""Maybe"": -7.679926
+}"
+16.0,A girl is holding a camera and making a hand gesture.,A girl holds a camera.,neutral,entailment,"A girl is holding a camera and making a hand gesture.
+
+Can we infer that a girl holds a camera by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9657004973445752,"{
+  "" Maybe"": -0.034901537,
+  "" No"": -3.3992584,
+  ""Maybe"": -7.811873
+}"
+17.0,A man posing with a antique sewing machine.,He is a sewer.,neutral,neutral,"A man posing with a antique sewing machine.
+
+Can we infer that he is a sewer by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9978850909783118,"{
+  "" Maybe"": -0.0021171486,
+  "" No"": -6.8802276,
+  ""Maybe"": -7.38796
+}"
+18.0,Five people standing by a gate.,Five fat people standing by a gate.,contradiction,neutral,"Five people standing by a gate.
+
+Can we infer that five fat people standing by a gate by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.6163226069235108,"{
+  "" Maybe"": -0.96331865,
+  "" No"": -0.48398474,
+  ""No"": -7.1497297
+}"
+19.0,Man sweeping trash outside a large statue.,A man is on vacation.,neutral,contradiction,"Man sweeping trash outside a large statue.
+
+Can we infer that a man is on vacation by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.7883804666098796,"{
+  "" Maybe"": -0.23777448,
+  "" No"": -1.56008,
+  "" maybe"": -7.5969124
+}"
+20.0,A man wearing an orange suit with his face painted white is holding a guitar above his shoulder.,There is one man in this picture.,entailment,entailment,"A man wearing an orange suit with his face painted white is holding a guitar above his shoulder.
+
+Can we infer that there is one man in this picture by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.991003256086629,"{
+  "" Maybe"": -5.693517,
+  "" Yes"": -0.009037459,
+  ""Yes"": -5.3049965
+}"
+21.0,Two men and a woman are inspecting the front tire of a bicycle.,There are a group of people near a bike.,neutral,entailment,"Two men and a woman are inspecting the front tire of a bicycle.
+
+Can we infer that there are a group of people near a bike by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.8948974842546823,"{
+  "" Maybe"": -0.11104611,
+  "" No"": -2.2635922,
+  ""Maybe"": -7.5317855
+}"
+22.0,This path leads up to the apple market entrance.,This road goes up to apple market entrance,entailment,entailment,"This path leads up to the apple market entrance.
+
+Can we infer that this road goes up to apple market entrance by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.6142509014621977,"{
+  "" Maybe"": -0.9594016,
+  "" Yes"": -0.4873518,
+  ""Yes"": -6.2776465
+}"
+23.0,A single runner is watched by onlookers in a race.,A man is running in a race.,neutral,entailment,"A single runner is watched by onlookers in a race.
+
+Can we infer that a man is running in a race by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9982226940820554,"{
+  "" Maybe"": -0.0017788872,
+  "" No"": -7.3935294,
+  "" maybe"": -7.216136
+}"
+24.0,Two rodeo clowns are on the dirt.,Two circus clowns were riding bicycles.,contradiction,contradiction,"Two rodeo clowns are on the dirt.
+
+Can we infer that two circus clowns were riding bicycles by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.8589235584126139,"{
+  "" Maybe"": -1.9715104,
+  "" No"": -0.15207535,
+  ""No"": -6.8470554
+}"
+25.0,A boy does a skateboarding trick in the air while holding the board with his left hand.,A sad boy does a skateboarding trick in the air while holding the board with his left hand.,neutral,neutral,"A boy does a skateboarding trick in the air while holding the board with his left hand.
+
+Can we infer that a sad boy does a skateboarding trick in the air while holding the board with his left hand by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.5875855655966805,"{
+  "" Maybe"": -0.5317334,
+  "" No"": -0.8928155,
+  ""No"": -6.9009943
+}"
+26.0,A young boy in a beige jacket laughs as he reaches for a teal balloon.,The boy plays with the balloon.,neutral,entailment,"A young boy in a beige jacket laughs as he reaches for a teal balloon.
+
+Can we infer that the boy plays with the balloon by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9984206424997817,"{
+  "" Maybe"": -0.001580606,
+  "" maybe"": -7.2860255,
+  ""Maybe"": -7.1597114
+}"
+27.0,A scene of snow and water.,a snow and water scene at sunset,neutral,neutral,"A scene of snow and water.
+
+Can we infer that a snow and water scene at sunset by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9909270211385531,"{
+  "" Maybe"": -0.009114389,
+  "" No"": -4.9287024,
+  ""Maybe"": -6.8295302
+}"
+28.0,"A group of people are gathered in a crowd, some of which are holding spears.",A crowd of people are holding swords,neutral,contradiction,"A group of people are gathered in a crowd, some of which are holding spears.
+
+Can we infer that a crowd of people are holding swords by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.6422147690530455,"{
+  "" Maybe"": -0.4428325,
+  "" No"": -1.0371872,
+  "" maybe"": -6.1794257
+}"
+29.0,A man prepares food in a shanty kitchen.,A man is fixing a meal.,neutral,entailment,"A man prepares food in a shanty kitchen.
+
+Can we infer that a man is fixing a meal by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9867109347874234,"{
+  "" Maybe"": -0.013378155,
+  "" Yes"": -4.3938103,
+  ""Maybe"": -7.751419
+}"
+30.0,There are two people sweeping a sidewalk in this picture.,The man is clearing leaves from the sidewalk.,neutral,neutral,"There are two people sweeping a sidewalk in this picture.
+
+Can we infer that the man is clearing leaves from the sidewalk by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9988292329830958,"{
+  "" Maybe"": -0.0011714529,
+  "" maybe"": -7.9234543,
+  ""Maybe"": -7.6442604
+}"
+31.0,The dogs ran around the dirt racetrack.,Dogs are humping each other.,contradiction,contradiction,"The dogs ran around the dirt racetrack.
+
+Can we infer that dogs are humping each other by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9962052408655366,"{
+  "" Maybe"": -6.2109833,
+  "" No"": -0.0038019775,
+  ""No"": -6.400345
+}"
+32.0,"A man is sitting in front of a harpsichord, and a woman is preparing to sing.",a boy covers his ears,neutral,contradiction,"A man is sitting in front of a harpsichord, and a woman is preparing to sing.
+
+Can we infer that a boy covers his ears by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9710938678936549,"{
+  "" Maybe"": -0.029332144,
+  "" No"": -3.6135242,
+  "" maybe"": -6.915198
+}"
+33.0,Two people dressed in red and white wait at the horse track with a horse.,The people at the track are outdoors.,neutral,entailment,"Two people dressed in red and white wait at the horse track with a horse.
+
+Can we infer that the people at the track are outdoors by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9989776518543235,"{
+  "" Maybe"": -0.0010228711,
+  "" maybe"": -7.8595905,
+  ""Maybe"": -7.708409
+}"
+34.0,A person is standing next to a wooden fence with flowering trees nearby.,The bare tree branches rattle in the wind.,neutral,contradiction,"A person is standing next to a wooden fence with flowering trees nearby.
+
+Can we infer that the bare tree branches rattle in the wind by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9981798373089207,"{
+  "" Maybe"": -0.0018218212,
+  "" maybe"": -7.5804315,
+  ""Maybe"": -7.217584
+}"
+35.0,An old woman in a cowboy hat smokes a cigarette.,The old lady is ten feet tall.,contradiction,contradiction,"An old woman in a cowboy hat smokes a cigarette.
+
+Can we infer that the old lady is ten feet tall by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9930295530501668,"{
+  "" Maybe"": -5.18644,
+  "" No"": -0.006994854,
+  ""No"": -6.6672726
+}"
+36.0,Two soccer players are playing soccer.,Two people play a game.,neutral,entailment,"Two soccer players are playing soccer.
+
+Can we infer that two people play a game by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.65862389380908,"{
+  "" Maybe"": -0.41760263,
+  "" Yes"": -1.0810033,
+  ""Yes"": -6.695526
+}"
+37.0,A wielder works on wielding a beam into place while other workers set beams.,The wielder is working on a building.,neutral,neutral,"A wielder works on wielding a beam into place while other workers set beams.
+
+Can we infer that the wielder is working on a building by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9990352258641172,"{
+  "" Maybe"": -0.00096523983,
+  "" maybe"": -7.68631,
+  ""Maybe"": -7.6998806
+}"
+38.0,A man is popping balloons inside a cubicle using a handmade tool.,A man is popping balloons inside a cubicle using a handmade knife.,neutral,neutral,"A man is popping balloons inside a cubicle using a handmade tool.
+
+Can we infer that a man is popping balloons inside a cubicle using a handmade knife by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9275988772343449,"{
+  "" Maybe"": -0.075155884,
+  "" No"": -2.6446805,
+  ""Maybe"": -7.5330853
+}"
+39.0,a man wearing a gray shirt waving in the middle of a plant nursery,The man does not have a way to get home.,neutral,neutral,"a man wearing a gray shirt waving in the middle of a plant nursery
+
+Can we infer that the man does not have a way to get home by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9730438208163817,"{
+  "" Maybe"": -0.027326161,
+  "" No"": -3.7269816,
+  "" maybe"": -6.3400335
+}"
+40.0,People were watching the tournament in the stadium.,The people are sitting outside on the grass.,neutral,contradiction,"People were watching the tournament in the stadium.
+
+Can we infer that the people are sitting outside on the grass by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.8349841469501126,"{
+  "" Maybe"": -0.18034254,
+  "" No"": -1.8134965,
+  "" maybe"": -7.154965
+}"
+41.0,Two soccer players on the field running into each other.,There are two people colliding and falling.,neutral,neutral,"Two soccer players on the field running into each other.
+
+Can we infer that there are two people colliding and falling by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9986952423374077,"{
+  "" Maybe"": -0.0013056096,
+  "" Yes"": -7.550368,
+  ""Maybe"": -7.907134
+}"
+42.0,Nine men wearing tuxedos sing.,Nine woman wearing dresses sing.,contradiction,contradiction,"Nine men wearing tuxedos sing.
+
+Can we infer that nine woman wearing dresses sing by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.6025446551091949,"{
+  "" Maybe"": -0.9289397,
+  "" No"": -0.5065935,
+  "" maybe"": -6.6280017
+}"
+43.0,A man and woman walking away from a crowded street fair.,There are a group of men walking together.,neutral,contradiction,"A man and woman walking away from a crowded street fair.
+
+Can we infer that there are a group of men walking together by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.8574057658785635,"{
+  "" Maybe"": -0.153844,
+  "" No"": -1.9619304,
+  "" maybe"": -7.1532755
+}"
+44.0,"A man on stilts in a purple, yellow and white costume.",A man is performing on stilts.,neutral,entailment,"A man on stilts in a purple, yellow and white costume.
+
+Can we infer that a man is performing on stilts by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.7878423126494953,"{
+  "" Maybe"": -0.23845732,
+  "" No"": -1.5615239,
+  ""Maybe"": -7.196621
+}"
+45.0,A young woman with glasses sits at the end of a row of seats and speaks into a microphone.,A young woman wearing glasses,entailment,entailment,"A young woman with glasses sits at the end of a row of seats and speaks into a microphone.
+
+Can we infer that a young woman wearing glasses by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9941740199264967,"{
+  "" Maybe"": -5.691581,
+  "" Yes"": -0.0058430173,
+  ""Yes"": -6.216868
+}"
+46.0,Two friends walk down the street with a stuffed animal.,Two friends are walking on the sidewalk.,neutral,entailment,"Two friends walk down the street with a stuffed animal.
+
+Can we infer that two friends are walking on the sidewalk by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9985091554145513,"{
+  "" Maybe"": -0.001491957,
+  "" No"": -7.211081,
+  "" maybe"": -7.837694
+}"
+47.0,Two men and one woman are dressed in costume hats.,the people are swingers,contradiction,neutral,"Two men and one woman are dressed in costume hats.
+
+Can we infer that the people are swingers by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.5831705481450709,"{
+  "" Maybe"": -0.8790012,
+  "" No"": -0.5392756,
+  ""No"": -7.1001234
+}"
+48.0,People judge a gray and white dog in a show.,A dog is being judged for first place in a show.,neutral,neutral,"People judge a gray and white dog in a show.
+
+Can we infer that a dog is being judged for first place in a show by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9801701048525533,"{
+  "" Maybe"": -0.020029146,
+  "" No"": -3.963997,
+  ""Maybe"": -7.7825446
+}"
+49.0,Eight people are sitting on a long boat on a sunny day.,Morning ride on boat,neutral,neutral,"Eight people are sitting on a long boat on a sunny day.
+
+Can we infer that morning ride on boat by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9988928918968751,"{
+  "" Maybe"": -0.0011077214,
+  "" maybe"": -7.9663763,
+  ""Maybe"": -7.72606
+}"
+50.0,A picture of two little boys holding books.,A picture of children with books.,neutral,entailment,"A picture of two little boys holding books.
+
+Can we infer that a picture of children with books by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9993012423449157,"{
+  "" Maybe"": -0.0006990019,
+  "" maybe"": -8.466813,
+  ""Maybe"": -8.122749
+}"
+51.0,"A woman in her early fifties walks by herself in the subway, another woman is not far behind.",back in the fifties a woman could walk by herself in the subway.,neutral,contradiction,"A woman in her early fifties walks by herself in the subway, another woman is not far behind.
+
+Can we infer that back in the fifties a woman could walk by herself in the subway by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9782684841023497,"{
+  "" Maybe"": -0.021971123,
+  "" No"": -3.8732035,
+  ""Maybe"": -7.6149654
+}"
+52.0,"A man is standing in what appears to be a parking lot and shaving his face, while his dog looks at the ground near his feet.",A women is walking with a man,neutral,contradiction,"A man is standing in what appears to be a parking lot and shaving his face, while his dog looks at the ground near his feet.
+
+Can we infer that a women is walking with a man by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.6145323542619993,"{
+  "" Maybe"": -0.4868937,
+  "" No"": -0.9600592,
+  ""No"": -7.0262427
+}"
+53.0,A white dog with a life vest accompanies a man in a boat.,man eats carrot,contradiction,contradiction,"A white dog with a life vest accompanies a man in a boat.
+
+Can we infer that man eats carrot by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9941395133416243,"{
+  "" Maybe"": -5.5297194,
+  "" No"": -0.0058777267,
+  ""No"": -6.3718514
+}"
+54.0,A young girl in a pink shirt sitting on a dock viewing a body of water.,An old woman viewing a body of water.,contradiction,contradiction,"A young girl in a pink shirt sitting on a dock viewing a body of water.
+
+Can we infer that an old woman viewing a body of water by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.6964454144825027,"{
+  "" Maybe"": -1.1990728,
+  "" No"": -0.36176586,
+  ""No"": -7.0351667
+}"
+55.0,A bunch of happy children having fun swimming and one boy is showing off his talent with a back flip.,Kids are having fun,entailment,entailment,"A bunch of happy children having fun swimming and one boy is showing off his talent with a back flip.
+
+Can we infer that kids are having fun by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.6999110524087871,"{
+  "" Maybe"": -1.2218534,
+  "" Yes"": -0.35680202,
+  ""Yes"": -5.4243145
+}"
+56.0,"Two cyclists, in yellow, are competing in a race.",A Mustang and a Corvette are competing in a drag race.,contradiction,contradiction,"Two cyclists, in yellow, are competing in a race.
+
+Can we infer that a Mustang and a Corvette are competing in a drag race by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9618775551175568,"{
+  "" Maybe"": -3.2902393,
+  "" No"": -0.038868118,
+  ""No"": -7.2986183
+}"
+57.0,The backside of a woman leaning against the guard rail of a passenger boat looking out at the open ocean.,The woman is driving her car on the highway.,contradiction,contradiction,"The backside of a woman leaning against the guard rail of a passenger boat looking out at the open ocean.
+
+Can we infer that the woman is driving her car on the highway by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.811292227443393,"{
+  "" Maybe"": -1.6748232,
+  "" No"": -0.20912696,
+  ""No"": -7.1282096
+}"
+58.0,A police vehicle in an urban area.,A cop car in a suburban area,neutral,contradiction,"A police vehicle in an urban area.
+
+Can we infer that a cop car in a suburban area by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9847708701570235,"{
+  "" Maybe"": -0.015346284,
+  "" No"": -4.277839,
+  "" maybe"": -7.142213
+}"
+59.0,6 men in work jumpsuits and 1 man in an orange jumpsuit are walking next to green and red loading docks.,All 7 men are best friends.,contradiction,neutral,"6 men in work jumpsuits and 1 man in an orange jumpsuit are walking next to green and red loading docks.
+
+Can we infer that all 7 men are best friends by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9558780995422651,"{
+  "" Maybe"": -3.1856792,
+  "" No"": -0.045124885,
+  ""No"": -6.0728555
+}"
+60.0,This man is walking past a wall that has art on it.,A man walks past a wall mural.,neutral,entailment,"This man is walking past a wall that has art on it.
+
+Can we infer that a man walks past a wall mural by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.997329512113717,"{
+  "" Maybe"": -0.00267406,
+  "" No"": -6.2825274,
+  "" maybe"": -7.896654
+}"
+61.0,A black dog has just jumped into a swimming pool.,A dog jumped into a pool to cool off.,neutral,neutral,"A black dog has just jumped into a swimming pool.
+
+Can we infer that a dog jumped into a pool to cool off by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9980708788507523,"{
+  "" Maybe"": -0.0019309843,
+  "" Yes"": -7.1424246,
+  ""Maybe"": -7.2262883
+}"
+62.0,A ballerina in a black dress and tights dances in front of a concrete wall.,a man dancing,contradiction,contradiction,"A ballerina in a black dress and tights dances in front of a concrete wall.
+
+Can we infer that a man dancing by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.8503796348258748,"{
+  "" Maybe"": -1.9157401,
+  "" No"": -0.1620724,
+  ""No"": -6.473609
+}"
+63.0,there is a lady standing and six people laying on a gym floor.,There are seven people in the gym.,neutral,entailment,"there is a lady standing and six people laying on a gym floor.
+
+Can we infer that there are seven people in the gym by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9971064106231802,"{
+  "" Maybe"": -0.0028977839,
+  "" No"": -6.5114083,
+  "" maybe"": -7.1341043
+}"
+64.0,A couple is back to back in formal attire.,Two people are facing away from each other.,neutral,entailment,"A couple is back to back in formal attire.
+
+Can we infer that two people are facing away from each other by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.8897291218980428,"{
+  "" Maybe"": -0.11683822,
+  "" No"": -2.2196424,
+  "" maybe"": -7.252876
+}"
+65.0,A biker pops a wheelie along side the colorful wall.,A person is riding a bike near a wall.,neutral,entailment,"A biker pops a wheelie along side the colorful wall.
+
+Can we infer that a person is riding a bike near a wall by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.7716367274527232,"{
+  "" Maybe"": -0.2592414,
+  "" Yes"": -1.4883102,
+  ""Yes"": -6.7679043
+}"
+66.0,A street vendor selling cupcakes.,There is a person outside in this picture,neutral,entailment,"A street vendor selling cupcakes.
+
+Can we infer that there is a person outside in this picture by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9977057385501249,"{
+  "" Maybe"": -0.0022968973,
+  "" No"": -6.9078426,
+  "" maybe"": -7.5558376
+}"
+67.0,An infant napping in it's crib in pajamas.,A baby is sleeping in a crib with its blanket.,neutral,neutral,"An infant napping in it's crib in pajamas.
+
+Can we infer that a baby is sleeping in a crib with its blanket by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9395818454096478,"{
+  "" Maybe"": -0.062320348,
+  "" No"": -2.849361,
+  "" maybe"": -6.926971
+}"
+68.0,A couple kissing in front of a black Mercedes Benz limousine,A couple kissing in front of a car,neutral,entailment,"A couple kissing in front of a black Mercedes Benz limousine
+
+Can we infer that a couple kissing in front of a car by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9865041665107529,"{
+  "" Maybe"": -0.01358773,
+  "" No"": -4.3859897,
+  ""Maybe"": -7.5332904
+}"
+69.0,A group of people in blue pants and shirts in motion.,There are people moving.,entailment,entailment,"A group of people in blue pants and shirts in motion.
+
+Can we infer that there are people moving by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9508300224556746,"{
+  "" Maybe"": -3.15553,
+  "" Yes"": -0.050419968,
+  ""Yes"": -5.148244
+}"
+70.0,A father and children ride bikes in city street.,A woman and her daughters ride their bikes.,neutral,contradiction,"A father and children ride bikes in city street.
+
+Can we infer that a woman and her daughters ride their bikes by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9924901928788392,"{
+  "" Maybe"": -0.0075381477,
+  "" No"": -5.10137,
+  "" maybe"": -7.215391
+}"
+71.0,a poor looking person with white cream smeared around his eyes sitting on a backpack.,A dirty man with some product under his eyes is sitting on a pillow.,neutral,contradiction,"a poor looking person with white cream smeared around his eyes sitting on a backpack.
+
+Can we infer that a dirty man with some product under his eyes is sitting on a pillow by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.7841015805474519,"{
+  "" Maybe"": -0.2432167,
+  "" No"": -1.5438054,
+  ""Maybe"": -7.111821
+}"
+72.0,A man sleeping on a chair with a newspaper on his chest.,the man is a farmer,neutral,neutral,"A man sleeping on a chair with a newspaper on his chest.
+
+Can we infer that the man is a farmer by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9474666097650696,"{
+  "" Maybe"": -0.053963583,
+  "" No"": -2.9826553,
+  "" maybe"": -7.2065854
+}"
+73.0,A boy in a gray hoodie and black cap holds up an American flag.,A person is holding an American flag.,neutral,entailment,"A boy in a gray hoodie and black cap holds up an American flag.
+
+Can we infer that a person is holding an American flag by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9938022063516598,"{
+  "" Maybe"": -0.0062170797,
+  "" Yes"": -5.2935743,
+  "" maybe"": -7.6774106
+}"
+74.0,A young boy asleep in a stroller.,A young boy is taking his afternoon nap.,neutral,neutral,"A young boy asleep in a stroller.
+
+Can we infer that a young boy is taking his afternoon nap by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9908827960615847,"{
+  "" Maybe"": -0.00915902,
+  "" Yes"": -4.875349,
+  "" maybe"": -7.534164
+}"
+75.0,"Neck and neck to the finish line, every competitor has been training for this race.",The competitors have trained very hard and are all very close to the finish line.,neutral,entailment,"Neck and neck to the finish line, every competitor has been training for this race.
+
+Can we infer that the competitors have trained very hard and are all very close to the finish line by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.7443189051744824,"{
+  "" Maybe"": -0.2952857,
+  "" Yes"": -1.373773,
+  ""Yes"": -6.547042
+}"
+76.0,A football team wearing purple and white trying to stop the runner with the ball.,Lacrosse players celebrate a victory.,contradiction,contradiction,"A football team wearing purple and white trying to stop the runner with the ball.
+
+Can we infer that lacrosse players celebrate a victory by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.8530039250803911,"{
+  "" Maybe"": -1.9290489,
+  "" No"": -0.15899113,
+  ""No"": -6.79743
+}"
+77.0,Many small sailboats sitting at a dock., Many small sailboats docked.,neutral,entailment,"Many small sailboats sitting at a dock.
+
+Can we infer that  Many small sailboats docked by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9050878845473587,"{
+  "" Maybe"": -0.09972323,
+  "" No"": -2.3726516,
+  "" maybe"": -7.1838007
+}"
+78.0,One biker is running with their bike while another is riding around them.,The people are part of a club,neutral,neutral,"One biker is running with their bike while another is riding around them.
+
+Can we infer that the people are part of a club by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.998367889942592,"{
+  "" Maybe"": -0.0016334434,
+  "" No"": -7.8631124,
+  ""Maybe"": -7.205254
+}"
+79.0,A person wearing an orange shirt with a backpack on looking across a segment of lush green trees.,A person is meditating and looking at the peaceful lush green trees.,neutral,neutral,"A person wearing an orange shirt with a backpack on looking across a segment of lush green trees.
+
+Can we infer that a person is meditating and looking at the peaceful lush green trees by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9993914843707792,"{
+  "" Maybe"": -0.00060870085,
+  "" maybe"": -8.948033,
+  ""Maybe"": -7.942556
+}"
+80.0,Two men fight in a ring while spectators look on.,Boxers fight as the crowd screams.,neutral,neutral,"Two men fight in a ring while spectators look on.
+
+Can we infer that boxers fight as the crowd screams by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9969012507648377,"{
+  "" Maybe"": -0.0031035603,
+  "" No"": -6.250107,
+  "" maybe"": -7.3314633
+}"
+81.0,Girls playing soccer competitively in the grass.,Nobody is playing soccer.,contradiction,contradiction,"Girls playing soccer competitively in the grass.
+
+Can we infer that nobody is playing soccer by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9969824330350032,"{
+  "" Maybe"": -6.4634023,
+  "" No"": -0.003022129,
+  ""No"": -6.5758634
+}"
+82.0,Two gray dogs running in green grass.,Two gray dogs are running.,neutral,entailment,"Two gray dogs running in green grass.
+
+Can we infer that two gray dogs are running by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9867127227092571,"{
+  "" Maybe"": -0.013376343,
+  "" No"": -4.4160748,
+  "" maybe"": -7.2093596
+}"
+83.0,"Five men in red shirts, in a line, on a basketball court, four with hands on their hearts, and same four looking upward.",A team of basketball players are on the court.,neutral,entailment,"Five men in red shirts, in a line, on a basketball court, four with hands on their hearts, and same four looking upward.
+
+Can we infer that a team of basketball players are on the court by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9992245914447113,"{
+  "" Maybe"": -0.00077570934,
+  "" maybe"": -8.31236,
+  ""Maybe"": -7.754834
+}"
+84.0,"A bride, a groom, 3 guys, and 3 women.",The unrelated people wander aimlessly.,contradiction,contradiction,"A bride, a groom, 3 guys, and 3 women.
+
+Can we infer that the unrelated people wander aimlessly by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9861749115805839,"{
+  "" Maybe"": -4.358936,
+  "" No"": -0.013921545,
+  ""No"": -6.984571
+}"
+85.0,"A group of asian women in sports attire, and one woman in the center is wearing a baseball cap.",Men are playing with a dog,contradiction,contradiction,"A group of asian women in sports attire, and one woman in the center is wearing a baseball cap.
+
+Can we infer that men are playing with a dog by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9714073263949047,"{
+  "" Maybe"": -3.6089365,
+  "" No"": -0.029009407,
+  ""No"": -6.596915
+}"
+86.0,A snowboarder is jumping over a snow slope.,A girl jumps her green snowboard over a slope.,neutral,neutral,"A snowboarder is jumping over a snow slope.
+
+Can we infer that a girl jumps her green snowboard over a slope by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9697328090664085,"{
+  "" Maybe"": -0.0307347,
+  "" No"": -3.5547998,
+  "" maybe"": -7.142621
+}"
+87.0,a group of people on a dock lowering into the water a boat with teal and purple decorations.,The group was getting ready to go fishing on the boat.,neutral,neutral,"a group of people on a dock lowering into the water a boat with teal and purple decorations.
+
+Can we infer that the group was getting ready to go fishing on the boat by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.999328604017216,"{
+  "" Maybe"": -0.00067162147,
+  "" maybe"": -8.554836,
+  ""Maybe"": -7.780886
+}"
+88.0,A young girl in a bathing suit drinking a beverage in a green bottle.,The girl is drinking milk from a sippy cup.,neutral,contradiction,"A young girl in a bathing suit drinking a beverage in a green bottle.
+
+Can we infer that the girl is drinking milk from a sippy cup by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9173845298482489,"{
+  "" Maybe"": -0.08622856,
+  "" No"": -2.5092306,
+  "" maybe"": -7.545092
+}"
+89.0,Two people are sitting at a table outside of a building.,Two people are sitting eating lunch,neutral,neutral,"Two people are sitting at a table outside of a building.
+
+Can we infer that two people are sitting eating lunch by evaluating the given sentence? Answer as yes, no or maybe.
+
+Answer:",0.9994504359956469,"{
+  "" Maybe"": -0.00054971507,
+  "" maybe"": -8.693775,
+  ""Maybe"": -8.046175
+}"

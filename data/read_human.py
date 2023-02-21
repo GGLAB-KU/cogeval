@@ -43,7 +43,7 @@ def get_user_data(filename, userid):
     
 
 if __name__=="__main__":
-    filename = 'data/human/linguistic-acceptability/human_judgments.csv'
+    filename = 'data/human/word-sense-disambiguation/ann3_4_wic.csv'
     dataframe = stamp_human_data(filename)
     dataframe.to_csv(filename, index=False)
     #dataframe = filter_true_false(filename)

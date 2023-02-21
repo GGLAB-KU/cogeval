@@ -7,18 +7,19 @@ def get_machine_acc(file):
     true = 0
     for idx, row in mdf.iterrows():
         count+=1
-        goldlabel = row['CoLA_label'] 
+        goldlabel = row['gold_label'] 
         predlabel = row['pred_label'] 
         if goldlabel == predlabel:
             true+=1
     acc = true/count
+    print('#instances: ', count)
     return acc
 
 def get_machine_mcc(file):
     tp, fp, fn, tn = 0, 0, 0, 0
     mdf = pd.read_csv(file)
     for idx, row in mdf.iterrows():
-        goldlabel = row['CoLA_label'] 
+        goldlabel = row['gold_label'] 
         predlabel = row['pred_label'] 
         if goldlabel == predlabel == 1:
             tp +=1
@@ -35,7 +36,7 @@ def get_machine_mcc(file):
         mcc = 0
     return mcc
 
-machinefile = 'data/machine/linguistic-acceptability/random/cola_random.csv'
+machinefile = 'data/machine/linguistic-acceptability/davinci003-zeroshot/cola_davinci-zeroshot_all.csv'
 print('---')
 print('Machine statistics:')
 acc = get_machine_acc(machinefile)

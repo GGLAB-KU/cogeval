@@ -1,0 +1,5 @@
+sample_id,content,gold_label,agg_human_label,agg_human_confidence,machine_2_pred,machine_2_confidence,confidence_diff
+55,It 's a worse sign when you begin to envy her condition .,0.0,-1.0,0.4224224224224224,-1.0,0.93708086,0.5146584375775776
+73,This ill-fitting Tuxedo is strictly off-the-rack .,0.0,-1.0,0.4644644644644645,-1.0,0.8106353,0.34617083553553546
+2,"Hip-hop has a history , and it 's a metaphor for this love story .",0.0,1.0,0.4234234234234234,1.0,0.7144263,0.2910028765765766
+58,"Literally nothing in The Pool is new , but if you grew up on the stalker flicks of the 1980 's this one should appease you for 90 minutes .",0.0,1.0,0.4154154154154154,1.0,0.5428906,0.12747518458458462

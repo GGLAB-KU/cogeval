@@ -1,7 +1,7 @@
 data:
   type: sentiment
   human: data/human/sentiment-analysis/lalor/sa_lalor_human.csv
-  machine: data/machine/sentiment-analysis/lalor/machine_4/sst-tfidf_lalor.csv
+  machine: data/machine/sentiment-analysis/lalor/openGPT-finetuned/classifier.csv
 
 correlation:
   type: human+machine
@@ -10,8 +10,7 @@ correlation:
     human:
       - average_accuracy
     machine:
-      - confidence
-      - uncertainty
+      - gold_confidence
   results:
     dir: results/correlation/sentiment-analysis/lalor/human+machine_4/
     heatmap:

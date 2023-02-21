@@ -1,0 +1,20 @@
+data:
+  type: language-inference
+  human: /kuacc/users/mugekural/workfolder/dev/git/cogeval/data/human/language-inference/lalor/snli_human_4gs.csv
+  machine: results/language-inference/lalor/files/human.csv
+
+correlation:
+  type: human+machine
+  method: spearman
+  columns:
+    human:
+      - average_accuracy
+    machine:
+      - agg_human_conf
+  results:
+    dir: results/correlation/language-inference/lalor/human+machine_9/
+    heatmap:
+      name:  all_heatmap.png
+      title: human+HUMAN correlations
+    excel:
+      name:  all_correlations.xlsx

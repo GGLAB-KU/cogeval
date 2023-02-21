@@ -1,0 +1,5 @@
+sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_1_pred,machine_1_confidence,confidence_diff
+40.0,People were watching the tournament in the stadium.,The people are sitting outside on the grass.,contradiction,neutral,0.5649948822927329,entailment,0.8710360667035044,1.4360309489962373
+32.0,"A man is sitting in front of a harpsichord, and a woman is preparing to sing.",a boy covers his ears,contradiction,neutral,0.7379733879222109,entailment,0.6648163042327481,1.402789692154959
+14.0,A boy in a blue and white shirt is pointing up and a second boy in a white shirt shields his eyes.,Two boys puch each other on swings.,contradiction,neutral,0.5087001023541453,entailment,0.5436144585025094,1.0523145608566549
+42.0,Nine men wearing tuxedos sing.,Nine woman wearing dresses sing.,contradiction,neutral,0.4882292732855681,entailment,0.4155646644101849,0.903793937695753

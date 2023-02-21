@@ -1,0 +1,9 @@
+sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_0_pred,machine_0_confidence,confidence_diff
+33.0,Two people dressed in red and white wait at the horse track with a horse.,The people at the track are outdoors.,entailment,neutral,0.5475946775844421,entailment,0.3333333333333333,0.8809280109177755
+42.0,Nine men wearing tuxedos sing.,Nine woman wearing dresses sing.,contradiction,neutral,0.4882292732855681,contradiction,0.3333333333333333,0.8451040600477652
+84.0,"A bride, a groom, 3 guys, and 3 women.",The unrelated people wander aimlessly.,contradiction,neutral,0.5312180143295804,contradiction,0.3333333333333333,0.8021153190037529
+11.0,A woman singing into a microphone while a man plays drums in the background.,They are playing a PlayStation.,contradiction,neutral,0.5578300921187308,contradiction,0.3333333333333333,0.7755032412146025
+40.0,People were watching the tournament in the stadium.,The people are sitting outside on the grass.,contradiction,neutral,0.5649948822927329,contradiction,0.3333333333333333,0.7683384510406004
+24.0,Two rodeo clowns are on the dirt.,Two circus clowns were riding bicycles.,contradiction,neutral,0.5987717502558854,contradiction,0.3333333333333333,0.7345615830774479
+53.0,A white dog with a life vest accompanies a man in a boat.,man eats carrot,contradiction,neutral,0.617195496417605,contradiction,0.3333333333333333,0.7161378369157283
+51.0,"A woman in her early fifties walks by herself in the subway, another woman is not far behind.",back in the fifties a woman could walk by herself in the subway.,contradiction,neutral,0.6704196519959058,contradiction,0.3333333333333333,0.6629136813374275

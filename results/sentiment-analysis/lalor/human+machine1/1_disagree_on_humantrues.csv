@@ -1,0 +1,54 @@
+sample_id,content,gold_label,agg_human_label,agg_human_confidence,machine_1_pred,machine_1_confidence,confidence_diff
+31,Skip work to see it at the first opportunity .,1.0,1.0,0.8158158158158159,-1.0,0.5944078213498689,2.410223637165685
+0,"A pleasant enough movie , held together by skilled ensemble actors .",1.0,1.0,0.7887887887887888,-1.0,0.446581992017106,2.2353707808058947
+11,This is such a dazzlingly self-assured directorial debut that it 's hard to know what to praise first .,1.0,1.0,0.7527527527527528,-1.0,0.479247488418924,2.2320002411716766
+14,"A stunning piece of visual poetry that will , hopefully , be remembered as one of the most important stories to be told in Australia 's film history .",1.0,1.0,0.8298298298298298,-1.0,0.3967962941719397,2.2266261240017693
+16,An excellent romp that boasts both a heart and a mind .,1.0,1.0,0.7107107107107107,-1.0,0.5075306397789799,2.2182413504896905
+32,"Sound the trumpets : For the first time since Desperately Seeking Susan , Madonna does n't suck as an actress .",1.0,1.0,0.7287287287287287,-1.0,0.4892938621019139,2.2180225908306426
+59,"Maybe it 's asking too much , but if a movie is truly going to inspire me , I want a little more than this .",-1.0,-1.0,0.7347347347347347,1.0,0.4737635530257768,2.2084982877605115
+65,"Splashes its drama all over the screen , subjecting its audience and characters to action that feels not only manufactured , but also so false you can see the filmmakers ' puppet strings .",-1.0,-1.0,0.6296296296296297,1.0,0.5192895447789997,2.1489191744086296
+77,"Truth to tell , if you 've seen more than half-a-dozen horror films , there 's nothing here you have n't seen before .",-1.0,-1.0,0.6366366366366366,1.0,0.4907272231820999,2.1273638598187365
+45,"All ends well , sort of , but the frenzied comic moments never click .",-1.0,-1.0,0.6496496496496497,1.0,0.4730688459640144,2.122718495613664
+52,I loved looking at this movie .,1.0,1.0,0.6426426426426426,-1.0,0.4653143263050822,2.107956968947725
+62,"Opens at a funeral , ends on the protagonist 's death bed and does n't get much livelier in the three hours in between .",-1.0,-1.0,0.6106106106106106,1.0,0.4954993990620245,2.1061100096726353
+79,A very bad sign .,-1.0,-1.0,0.6696696696696697,1.0,0.4352130948018906,2.10488276447156
+82,"Being author Wells ' great-grandson , you 'd think filmmaker Simon Wells would have more reverence for the material .",-1.0,-1.0,0.6186186186186187,1.0,0.4824224980552579,2.1010411166738767
+47,Aspires for the piquant but only really achieves a sort of ridiculous sourness .,-1.0,-1.0,0.6126126126126126,1.0,0.4761733514464468,2.0887859640590594
+19,"Compelling as it is exotic , Fast Runner has a plot that rivals Shakespeare for intrigue , treachery and murder .",1.0,1.0,0.6546546546546547,-1.0,0.4335861649936648,2.0882408196483193
+4,"The appearance of Treebeard and Gollum 's expanded role will either have you loving what you 're seeing , or rolling your eyes .",1.0,1.0,0.5485485485485485,-1.0,0.5143121678640099,2.0628607164125583
+50,Creepy but ultimately unsatisfying thriller .,-1.0,-1.0,0.6066066066066066,1.0,0.4518432568848568,2.058449863491463
+13,A refreshingly honest and ultimately touching tale of the sort of people usually ignored in contemporary American film .,1.0,1.0,0.5485485485485485,-1.0,0.506452829907525,2.0550013784560734
+18,Both deeply weird and charmingly dear .,1.0,1.0,0.6346346346346347,-1.0,0.4156023752664035,2.0502370099010383
+37,The way Coppola professes his love for movies -- both colorful pop junk and the classics that unequivocally qualify as art -- is giddily entertaining .,1.0,1.0,0.4664664664664664,-1.0,0.5667744904191422,2.0332409568856087
+8,"A deceivingly simple film , one that grows in power in retrospect .",1.0,1.0,0.5625625625625625,-1.0,0.4688405945390936,2.031403157101656
+42,has a plot full of twists upon knots ... and a nonstop parade of mock-Tarantino scuzbag types that starts out clever but veers into overkill .,-1.0,-1.0,0.5765765765765766,1.0,0.4451218109555222,2.0216983875320986
+66,"The Irwins emerge unscathed , but the fictional footage is unconvincing and criminally badly acted .",-1.0,-1.0,0.5645645645645646,1.0,0.4475118278772002,2.012076392441765
+72,This film 's relationship to actual tension is the same as what Christmas-tree flocking in a spray can is to actual snow : a poor -- if durable -- imitation .,-1.0,-1.0,0.5385385385385385,1.0,0.4645950544558517,2.0031335929943905
+56,It 's hard not to feel you 've just watched a feature-length video game with some really heavy back story .,-1.0,-1.0,0.4074074074074074,1.0,0.5900060502899634,1.997413457697371
+39,Vividly conveys both the pitfalls and the pleasures of over-the-top love .,1.0,1.0,0.5095095095095095,-1.0,0.463667013591748,1.9731765231012575
+46,An Afterschool Special without the courage of its convictions .,-1.0,-1.0,0.4874874874874875,1.0,0.4753274065925381,1.9628148940800256
+98,"despite the long running time , the pace never feels slack -- there 's no scene that screams `` bathroom break ! ''",1.0,1.0,0.4934934934934935,-1.0,0.4417976606158991,1.9352911541093927
+68,The problem with this film is that it 's forced to make its characters idiots in order to advance the plot .,-1.0,-1.0,0.5225225225225225,1.0,0.4120922756224486,1.934614798144971
+9,An unabashedly schmaltzy and thoroughly enjoyable true story .,1.0,1.0,0.4874874874874875,-1.0,0.4446526991050342,1.9321401865925216
+76,"Trivial where it should be profound , and hyper-cliched where it should be sincere .",-1.0,-1.0,0.4214214214214214,1.0,0.4999840676290901,1.9214054890505115
+38,Two generations within one family test boundaries in this intelligent and restrained coming-of-age drama .,1.0,1.0,0.4214214214214214,-1.0,0.4980445831214549,1.9194660045428762
+93,Remember when Bond had more glamour than clamor ?,-1.0,-1.0,0.5015015015015015,1.0,0.4155159225179035,1.917017424019405
+53,I was perplexed to watch it unfold with an astonishing lack of passion or uniqueness .,-1.0,-1.0,0.4744744744744745,1.0,0.4385011220874044,1.9129755965618789
+96,"Unless you are in dire need of a Diesel fix , there is no real reason to see it .",-1.0,-1.0,0.4834834834834834,1.0,0.4280101720042997,1.911493655487783
+85,"Good for a few unintentional laughs , `` Extreme Ops '' was obviously made for the `` XXX '' crowd , people who enjoy mindless action without the benefit of decent acting , writing , and direction .",-1.0,-1.0,0.4144144144144144,1.0,0.4964065116762813,1.9108209260906956
+22,Do we really need a 77-minute film to tell us exactly why a romantic relationship between a 15-year-old boy and a 40-year-old woman does n't work ?,-1.0,-1.0,0.5185185185185185,1.0,0.3900863663984457,1.9086048849169643
+28,One scarcely needs the subtitles to enjoy this colorful action farce .,1.0,1.0,0.4494494494494494,-1.0,0.4397666540211048,1.8892161034705544
+89,It 's laughing at us .,-1.0,-1.0,0.3953953953953954,1.0,0.489362199788926,1.8847575951843214
+12,"A bowel-curdling , heart-stopping recipe for terror .",1.0,1.0,0.3843843843843844,-1.0,0.4967554908609481,1.8811398752453325
+81,"As if to prove a female director can make a movie with no soft edges , Kathryn Bigelow offers no sugar-coating or interludes of lightness .",1.0,1.0,0.3973973973973974,-1.0,0.4807473444423908,1.8781447418397883
+57,All this turns out to be neither funny nor provocative - only dull .,-1.0,-1.0,0.4444444444444444,1.0,0.396074230197747,1.8405186746421913
+36,"The film delivers not just the full assault of Reno 's immense wit and insight , but a time travel back to what it felt like during those unforgettably uncertain days .",1.0,1.0,0.4024024024024024,-1.0,0.4259349975480637,1.8283373999504662
+84,Could The Country Bears really be as bad as its trailers ?,-1.0,-1.0,0.3933933933933934,1.0,0.4222788347196397,1.815672228113033
+94,The film is directed by Wally Wolodarsky from a script by Joe Jarvis and Greg Coolidge .,0.0,0.0,0.925925925925926,1.0,0.5137494997245426,1.4396754256504687
+90,No question .,0.0,0.0,0.8868868868868869,1.0,0.454423161948238,1.3413100488351248
+78,"When Perry fists a bull at the Moore Farm , it 's only a matter of time before he gets the upper hand in matters of the heart .",0.0,0.0,0.5475475475475475,1.0,0.4939864191400487,1.0415339666875962
+69,"The rest of the plot is impossible to explain without blowing whatever tension there is , although it 's more comedy than suspense De Palma creates .",0.0,0.0,0.3723723723723723,1.0,0.6651110265271037,1.037483398899476
+21,"Despite what anyone believes about the goal of its makers , the show ... represents a spectacular piece of theater , and there 's no denying the talent of the creative forces behind it .",1.0,1.0,0.6086086086086087,0.0,0.4278116671313065,1.036420275739915
+92,Only two words will tell you what you know when deciding to see it : Anthony .,0.0,0.0,0.6786786786786787,-1.0,0.5157182941362947,0.8370396154576158
+97,`` its successes are also tempered with elements which prove the direct antithesis of what it gets right . '',0.0,0.0,0.3733733733733734,1.0,0.3806269015551758,0.7540002749285493
+74,This one does .,0.0,0.0,0.8028028028028028,-1.0,0.5169813924168458,0.714178589614043

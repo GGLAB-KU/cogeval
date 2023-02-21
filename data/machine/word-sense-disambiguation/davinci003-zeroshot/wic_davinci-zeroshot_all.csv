@@ -1,0 +1,551 @@
+sample_id,word,sentence_1,sentence_2,pred_label,gold_label,prompt_text,confidence,logprobs
+0,tune,To tune a piano or a violin,My piano needs to be tuned,1.0,1.0,"Sentence: To tune a piano or a violin
+
+Another sentence: My piano needs to be tuned
+
+Does the word ""tune"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9982638219039276,"{
+  "" Yes"": -0.001737687,
+  "" yes"": -7.8555083,
+  ""Yes"": -6.6766357
+}"
+1,segregate,We do n't segregate in this county,This neighborhood is segregated,0.0,1.0,"Sentence: We do n't segregate in this county
+
+Another sentence: This neighborhood is segregated
+
+Does the word ""segregate"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.998674260270389,"{
+  "" No"": -0.0013266193,
+  "" no"": -9.403104,
+  ""No"": -6.7401342
+}"
+2,bank,he sat on the bank of the river and watched the currents,that bank holds the mortgage on my home,0.0,0.0,"Sentence: he sat on the bank of the river and watched the currents
+
+Another sentence: that bank holds the mortgage on my home
+
+Does the word ""bank"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9987608671598968,"{
+  "" No"": -0.0012399012,
+  "" no"": -8.480656,
+  ""No"": -6.931591
+}"
+3,elaborate,elaborate a plan,Could you elaborate on the plot for your novel for me ?,0.0,1.0,"Sentence: elaborate a plan
+
+Another sentence: Could you elaborate on the plot for your novel for me ?
+
+Does the word ""elaborate"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9950362065431613,"{
+  "" No"": -0.004976154,
+  "" Yes"": -5.677135,
+  ""No"": -6.529096
+}"
+4,girlfriend,his girlfriend kicked him out,Marc went to the park with his girlfriend and watched the sunset with her .,1.0,1.0,"Sentence: his girlfriend kicked him out
+
+Another sentence: Marc went to the park with his girlfriend and watched the sunset with her .
+
+Does the word ""girlfriend"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9971714394370086,"{
+  "" Yes"": -0.0028325685,
+  "" yes"": -6.7574196,
+  ""Yes"": -6.4333477
+}"
+5,hand,Give me your hand .,hand the elderly lady into the taxi,0.0,0.0,"Sentence: Give me your hand .
+
+Another sentence: hand the elderly lady into the taxi
+
+Does the word ""hand"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9985096326021907,"{
+  "" No"": -0.0014914791,
+  "" Yes"": -8.514476,
+  ""No"": -6.7042274
+}"
+6,round,we enjoyed our round of the local bars,Hospital rounds,0.0,0.0,"Sentence: we enjoyed our round of the local bars
+
+Another sentence: Hospital rounds
+
+Does the word ""round"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9982440921132457,"{
+  "" No"": -0.0017574513,
+  "" no"": -8.677921,
+  ""No"": -6.486218
+}"
+7,divaricate,divaricate one 's fingers,The road divaricates here,0.0,0.0,"Sentence: divaricate one 's fingers
+
+Another sentence: The road divaricates here
+
+Does the word ""divaricate"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.969622126201663,"{
+  "" No"": -0.030848844,
+  "" Yes"": -3.5246155,
+  ""No"": -7.134034
+}"
+8,marmalade,Thick cut marmalade,Lime marmalade,1.0,1.0,"Sentence: Thick cut marmalade
+
+Another sentence: Lime marmalade
+
+Does the word ""marmalade"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9985321044141877,"{
+  "" Yes"": -0.001468974,
+  "" yes"": -8.272036,
+  ""Yes"": -6.7898865
+}"
+9,pump,pump the gas pedal,I 've pumped over 1000 gallons of water in the last ten minutes .,0.0,1.0,"Sentence: pump the gas pedal
+
+Another sentence: I 've pumped over 1000 gallons of water in the last ten minutes .
+
+Does the word ""pump"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9968129150719783,"{
+  "" No"": -0.0031921745,
+  "" no"": -8.767829,
+  ""No"": -5.836183
+}"
+10,part,The first violin part in this concerto is very challenging .,he tried to sing the tenor part,1.0,1.0,"Sentence: The first violin part in this concerto is very challenging .
+
+Another sentence: he tried to sing the tenor part
+
+Does the word ""part"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9080401439131884,"{
+  "" No"": -2.4090183,
+  "" Yes"": -0.09646669,
+  ""Yes"": -6.606226
+}"
+11,line,that salesman must have practiced his fast line of talk,` let me show you my etchings ' is a rather worn line,0.0,1.0,"Sentence: that salesman must have practiced his fast line of talk
+
+Another sentence: ` let me show you my etchings ' is a rather worn line
+
+Does the word ""line"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.621475742104917,"{
+  "" No"": -0.4756584,
+  "" Yes"": -0.98313904,
+  ""No"": -6.503402
+}"
+12,yesterday,yesterday 's solutions are not good enough,Yesterday 's technology,0.0,1.0,"Sentence: yesterday 's solutions are not good enough
+
+Another sentence: Yesterday 's technology
+
+Does the word ""yesterday"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9983595467168342,"{
+  "" No"": -0.0016418003,
+  "" Yes"": -7.5846505,
+  ""No"": -6.9012823
+}"
+13,pickup,his car has a lot of pickup,put out a pickup on that man,0.0,0.0,"Sentence: his car has a lot of pickup
+
+Another sentence: put out a pickup on that man
+
+Does the word ""pickup"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9987202738487845,"{
+  "" No"": -0.0012805457,
+  "" no"": -8.213249,
+  ""No"": -6.9562116
+}"
+14,work,work equals force times distance,Work is done against friction to drag a bag along the ground .,0.0,1.0,"Sentence: work equals force times distance
+
+Another sentence: Work is done against friction to drag a bag along the ground .
+
+Does the word ""work"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.6971136538757438,"{
+  "" No"": -0.36080682,
+  "" Yes"": -1.1986804,
+  ""No"": -7.4810743
+}"
+15,sell,The French try to sell us their image as great lovers,The new idea sold well in certain circles,0.0,0.0,"Sentence: The French try to sell us their image as great lovers
+
+Another sentence: The new idea sold well in certain circles
+
+Does the word ""sell"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9978329979464793,"{
+  "" No"": -0.0021693534,
+  "" Yes"": -7.4398594,
+  ""No"": -6.505301
+}"
+16,fantasy,a schoolgirl fantasy,she made a lot of money writing romantic fantasies,0.0,0.0,"Sentence: a schoolgirl fantasy
+
+Another sentence: she made a lot of money writing romantic fantasies
+
+Does the word ""fantasy"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9920391199910237,"{
+  "" No"": -0.007992737,
+  "" Yes"": -4.993272,
+  ""No"": -6.908723
+}"
+17,zap,zap the enemy,"If it 's not warm in the middle , zap it some more .",1.0,0.0,"Sentence: zap the enemy
+
+Another sentence: If it 's not warm in the middle , zap it some more .
+
+Does the word ""zap"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9971511733300505,"{
+  "" Yes"": -0.0028528923,
+  "" yes"": -7.2479086,
+  ""Yes"": -6.2013726
+}"
+18,moderate,moderate your alcohol intake,moderate your speed,1.0,0.0,"Sentence: moderate your alcohol intake
+
+Another sentence: moderate your speed
+
+Does the word ""moderate"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.8533738251113949,"{
+  "" No"": -1.9365709,
+  "" Yes"": -0.15855758,
+  "" yes"": -6.7839236
+}"
+19,mold,mold public opinion,The furniture molded in the old house,0.0,0.0,"Sentence: mold public opinion
+
+Another sentence: The furniture molded in the old house
+
+Does the word ""mold"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9985278117338979,"{
+  "" No"": -0.001473273,
+  "" no"": -8.502676,
+  ""No"": -6.706814
+}"
+20,vegetation,Pleistocene vegetation,their holiday was spent in sleep and vegetation,0.0,0.0,"Sentence: Pleistocene vegetation
+
+Another sentence: their holiday was spent in sleep and vegetation
+
+Does the word ""vegetation"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9982251984262919,"{
+  "" No"": -0.0017763784,
+  "" no"": -8.522565,
+  ""No"": -6.539545
+}"
+21,harness,harness natural forces and resources,harness the horse,1.0,0.0,"Sentence: harness natural forces and resources
+
+Another sentence: harness the horse
+
+Does the word ""harness"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.6329982762407762,"{
+  "" No"": -1.0102395,
+  "" Yes"": -0.45728758,
+  ""Yes"": -6.766747
+}"
+22,erupt,erupt in anger,Unrest erupted in the country,0.0,0.0,"Sentence: erupt in anger
+
+Another sentence: Unrest erupted in the country
+
+Does the word ""erupt"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9939809610323472,"{
+  "" No"": -0.0060372264,
+  "" Yes"": -5.36044,
+  ""No"": -6.7267203
+}"
+23,flare,the skirt had a wide flare,she could not control her flare of rage,0.0,0.0,"Sentence: the skirt had a wide flare
+
+Another sentence: she could not control her flare of rage
+
+Does the word ""flare"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9982297288816356,"{
+  "" No"": -0.0017718399,
+  "" no"": -7.685016,
+  ""No"": -6.6906924
+}"
+24,capacity,the capacity of a hard disk drive is usually expressed in megabytes,the plant is working at 80 per cent capacity,0.0,0.0,"Sentence: the capacity of a hard disk drive is usually expressed in megabytes
+
+Another sentence: the plant is working at 80 per cent capacity
+
+Does the word ""capacity"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9991025807817046,"{
+  "" No"": -0.00089782214,
+  "" no"": -9.166219,
+  ""No"": -7.2134237
+}"
+25,center,Convention center,they received messages from several centers,0.0,1.0,"Sentence: Convention center
+
+Another sentence: they received messages from several centers
+
+Does the word ""center"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9980268342560855,"{
+  "" No"": -0.001975115,
+  "" no"": -8.353586,
+  ""No"": -6.386433
+}"
+26.0,program,working mothers rely on the day care program,you ca n't tell the players without a program,0.0,0.0,"Sentence: working mothers rely on the day care program
+
+Another sentence: you ca n't tell the players without a program
+
+Does the word ""program"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9977684438319429,"{
+  "" No"": -0.0022340498,
+  "" no"": -8.00124,
+  ""No"": -6.3122544
+}"
+27.0,baseline,The ref missed the call . The ball hit the baseline .,the established a baseline for the budget,0.0,0.0,"Sentence: The ref missed the call . The ball hit the baseline .
+
+Another sentence: the established a baseline for the budget
+
+Does the word ""baseline"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9988103369108768,"{
+  "" No"": -0.0011903713,
+  "" no"": -9.149199,
+  ""No"": -6.919729
+}"
+28.0,pride,"I pride myself on being a good judge of character , but pride goes before the fall and I 'm not a good judge of my own character so I 'm often wrong without knowing it .",He prides himself on making it into law school,0.0,1.0,"Sentence: I pride myself on being a good judge of character , but pride goes before the fall and I 'm not a good judge of my own character so I 'm often wrong without knowing it .
+
+Another sentence: He prides himself on making it into law school
+
+Does the word ""pride"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.7493661598254115,"{
+  "" No"": -0.28852755,
+  "" Yes"": -1.386779,
+  ""No"": -7.9026113
+}"
+29.0,effect,the magnetic effect was greater when the rod was lengthwise,The effect of the hurricane was a devastated landscape .,0.0,1.0,"Sentence: the magnetic effect was greater when the rod was lengthwise
+
+Another sentence: The effect of the hurricane was a devastated landscape .
+
+Does the word ""effect"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9798416225702065,"{
+  "" No"": -0.02036433,
+  "" Yes"": -3.9781375,
+  ""No"": -6.7146254
+}"
+30.0,celebrate,celebrate Christmas,To celebrate a birthday,1.0,1.0,"Sentence: celebrate Christmas
+
+Another sentence: To celebrate a birthday
+
+Does the word ""celebrate"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.965021363062104,"{
+  "" No"": -3.4175837,
+  "" Yes"": -0.03560504,
+  ""Yes"": -6.5765653
+}"
+31.0,hedge,To hedge a field or garden,hedge the property,1.0,1.0,"Sentence: To hedge a field or garden
+
+Another sentence: hedge the property
+
+Does the word ""hedge"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9977977714712674,"{
+  "" Yes"": -0.002204657,
+  "" yes"": -7.3854136,
+  ""Yes"": -6.5241127
+}"
+32.0,grab,This story will grab you,Grab power,0.0,0.0,"Sentence: This story will grab you
+
+Another sentence: Grab power
+
+Does the word ""grab"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9983337972596371,"{
+  "" No"": -0.0016675924,
+  "" no"": -9.481554,
+  ""No"": -6.476202
+}"
+33.0,blood,the ancients believed that blood was the seat of the emotions,blood carries oxygen and nutrients to the tissues and carries away waste products,0.0,0.0,"Sentence: the ancients believed that blood was the seat of the emotions
+
+Another sentence: blood carries oxygen and nutrients to the tissues and carries away waste products
+
+Does the word ""blood"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9938264667509539,"{
+  "" No"": -0.0061926683,
+  "" Yes"": -5.350023,
+  ""No"": -6.751949
+}"
+34.0,interest,He has a lot of interest in vintage cars .,how much interest do you pay on your mortgage ?,0.0,0.0,"Sentence: He has a lot of interest in vintage cars .
+
+Another sentence: how much interest do you pay on your mortgage ?
+
+Does the word ""interest"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9982544028300729,"{
+  "" No"": -0.0017471225,
+  "" Yes"": -7.870327,
+  ""No"": -6.6902905
+}"
+35.0,concord,Both philosophers concord on this point,Their ideas concorded,1.0,0.0,"Sentence: Both philosophers concord on this point
+
+Another sentence: Their ideas concorded
+
+Does the word ""concord"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9971196437090087,"{
+  "" Yes"": -0.0028845125,
+  "" yes"": -7.2174497,
+  ""Yes"": -6.3028965
+}"
+36.0,mound,they have a southpaw on the mound,they built small mounds to hide behind,0.0,0.0,"Sentence: they have a southpaw on the mound
+
+Another sentence: they built small mounds to hide behind
+
+Does the word ""mound"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9984658834616845,"{
+  "" No"": -0.0015352945,
+  "" no"": -8.215268,
+  ""No"": -6.7098856
+}"
+37.0,suspect,I suspect him of being the thief .,The U.S. suspected Bin Laden as the mastermind behind the terrorist attacks,1.0,1.0,"Sentence: I suspect him of being the thief .
+
+Another sentence: The U.S. suspected Bin Laden as the mastermind behind the terrorist attacks
+
+Does the word ""suspect"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9967644575855062,"{
+  "" No"": -6.922912,
+  "" Yes"": -0.0032407881,
+  ""Yes"": -6.325681
+}"
+38.0,agony,an agony of doubt,Being in an agony he prayed more earnestly . —Luke xxii . 44 .,1.0,0.0,"Sentence: an agony of doubt
+
+Another sentence: Being in an agony he prayed more earnestly . —Luke xxii . 44 .
+
+Does the word ""agony"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.8865460934075384,"{
+  "" No"": -2.1956515,
+  "" Yes"": -0.12042216,
+  ""Yes"": -6.5871286
+}"
+39.0,devour,She intended to devour the book .,She devoured his novels,1.0,1.0,"Sentence: She intended to devour the book .
+
+Another sentence: She devoured his novels
+
+Does the word ""devour"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9976990043584283,"{
+  "" Yes"": -0.002303647,
+  "" yes"": -8.14787,
+  ""Yes"": -6.265691
+}"
+40.0,comply,You must comply or else !,He complied with my instructions,1.0,1.0,"Sentence: You must comply or else !
+
+Another sentence: He complied with my instructions
+
+Does the word ""comply"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9977152759641769,"{
+  "" No"": -7.9577827,
+  "" Yes"": -0.002287338,
+  ""Yes"": -6.4805603
+}"
+41.0,baste,baste a roast,baste a hem,0.0,0.0,"Sentence: baste a roast
+
+Another sentence: baste a hem
+
+Does the word ""baste"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9667379142453261,"{
+  "" No"": -0.03382785,
+  "" Yes"": -3.4460955,
+  ""No"": -6.8015733
+}"
+42.0,stun,stun fish,The news stunned her,0.0,0.0,"Sentence: stun fish
+
+Another sentence: The news stunned her
+
+Does the word ""stun"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9986308678178355,"{
+  "" No"": -0.0013700703,
+  "" no"": -9.262983,
+  ""No"": -6.7295284
+}"
+43.0,correction,market runups are invariably followed by a correction,the correction of his vision with eye glasses,0.0,0.0,"Sentence: market runups are invariably followed by a correction
+
+Another sentence: the correction of his vision with eye glasses
+
+Does the word ""correction"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.99875061483234,"{
+  "" No"": -0.0012501663,
+  "" no"": -8.280644,
+  ""No"": -6.9691153
+}"
+44.0,restore,restore the emperor to the throne,To restore harmony among those who are at variance,1.0,1.0,"Sentence: restore the emperor to the throne
+
+Another sentence: To restore harmony among those who are at variance
+
+Does the word ""restore"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9010172105021647,"{
+  "" No"": -2.3438072,
+  "" Yes"": -0.10423092,
+  ""Yes"": -6.3023415
+}"
+45.0,scare,a bomb scare led them to evacuate the building,a war scare,1.0,1.0,"Sentence: a bomb scare led them to evacuate the building
+
+Another sentence: a war scare
+
+Does the word ""scare"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9582104391984961,"{
+  "" No"": -3.2694163,
+  "" Yes"": -0.04268786,
+  "" yes"": -6.219945
+}"
+46.0,feeling,I had a strange feeling in my leg,he had a queasy feeling,0.0,1.0,"Sentence: I had a strange feeling in my leg
+
+Another sentence: he had a queasy feeling
+
+Does the word ""feeling"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.6909734075249029,"{
+  "" No"": -0.36965394,
+  "" Yes"": -1.1825602,
+  ""No"": -6.8547854
+}"
+47.0,inspire,The lung cancer patient can not inspire air very well,The patient has trouble inspiring,1.0,1.0,"Sentence: The lung cancer patient can not inspire air very well
+
+Another sentence: The patient has trouble inspiring
+
+Does the word ""inspire"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9881639813301897,"{
+  "" No"": -4.69123,
+  "" Yes"": -0.011906622,
+  ""Yes"": -6.361926
+}"
+48.0,start,To start a stream of water ;   to start a rumour ;   to start a business,We simply could not start the engine,0.0,1.0,"Sentence: To start a stream of water ;   to start a rumour ;   to start a business
+
+Another sentence: We simply could not start the engine
+
+Does the word ""start"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9988534924425757,"{
+  "" NO"": -10.734315,
+  "" No"": -0.0011471653,
+  ""No"": -6.823493
+}"
+49.0,account,Passing grades account for half of the grades given in this exam,I ca n't account for the missing money,0.0,0.0,"Sentence: Passing grades account for half of the grades given in this exam
+
+Another sentence: I ca n't account for the missing money
+
+Does the word ""account"" have the same lexical meaning in these sentences? Answer as yes or no.
+
+Answer:",0.9984137262642621,"{
+  "" No"": -0.0015875332,
+  "" no"": -9.765499,
+  ""No"": -6.5167165
+}"

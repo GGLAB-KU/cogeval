@@ -1,0 +1,5 @@
+sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_0_pred,machine_0_confidence,confidence_diff
+42.0,Nine men wearing tuxedos sing.,Nine woman wearing dresses sing.,contradiction,neutral,0.4882292732855681,contradiction,0.3333333333333333,0.8451040600477652
+84.0,"A bride, a groom, 3 guys, and 3 women.",The unrelated people wander aimlessly.,contradiction,neutral,0.5312180143295804,contradiction,0.3333333333333333,0.8021153190037529
+53.0,A white dog with a life vest accompanies a man in a boat.,man eats carrot,contradiction,neutral,0.617195496417605,contradiction,0.3333333333333333,0.7161378369157283
+51.0,"A woman in her early fifties walks by herself in the subway, another woman is not far behind.",back in the fifties a woman could walk by herself in the subway.,contradiction,neutral,0.6704196519959058,contradiction,0.3333333333333333,0.6629136813374275

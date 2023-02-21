@@ -27,7 +27,7 @@ def get_machine_acc(file):
 
 
 
-acc = get_machine_acc('prompt_out_tweet_preprocessed.csv')
+acc = get_machine_acc('data/machine/sentiment-analysis/lalor/davinci003-zeroshot/sentana_davinci-zeroshot_all.csv')
 print("acc: %.3f" % acc)
 
 

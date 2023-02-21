@@ -1,0 +1,51 @@
+sample_id,sentence,gold_label,machine_0_pred,machine_0_confidence,machine_1_pred,machine_1_confidence,agg_human_label,agg_human_confidence,sentence_1,sentence_2,word
+0,,1.0,1.0,0.5,1.0,0.9982638219039276,1.0,1.0,To tune a piano or a violin,My piano needs to be tuned,tune
+1,,1.0,0.0,0.5,0.0,0.998674260270389,1.0,1.0,We do n't segregate in this county,This neighborhood is segregated,segregate
+2,,0.0,1.0,0.5,0.0,0.9987608671598968,0.0,1.0,he sat on the bank of the river and watched the currents,that bank holds the mortgage on my home,bank
+3,,1.0,1.0,0.5,0.0,0.9950362065431612,1.0,0.5,elaborate a plan,Could you elaborate on the plot for your novel for me ?,elaborate
+4,,1.0,0.0,0.5,1.0,0.9971714394370086,1.0,1.0,his girlfriend kicked him out,Marc went to the park with his girlfriend and watched the sunset with her .,girlfriend
+5,,0.0,0.0,0.5,0.0,0.9985096326021908,0.0,1.0,Give me your hand .,hand the elderly lady into the taxi,hand
+6,,0.0,1.0,0.5,0.0,0.9982440921132456,0.0,1.0,we enjoyed our round of the local bars,Hospital rounds,round
+7,,0.0,1.0,0.5,0.0,0.969622126201663,0.0,0.5,divaricate one 's fingers,The road divaricates here,divaricate
+8,,1.0,0.0,0.5,1.0,0.9985321044141876,1.0,1.0,Thick cut marmalade,Lime marmalade,marmalade
+9,,1.0,1.0,0.5,0.0,0.9968129150719784,1.0,1.0,pump the gas pedal,I 've pumped over 1000 gallons of water in the last ten minutes .,pump
+10,,1.0,1.0,0.5,1.0,0.9080401439131884,1.0,1.0,The first violin part in this concerto is very challenging .,he tried to sing the tenor part,part
+11,,1.0,1.0,0.5,0.0,0.621475742104917,1.0,0.5,that salesman must have practiced his fast line of talk,` let me show you my etchings ' is a rather worn line,line
+12,,1.0,1.0,0.5,0.0,0.9983595467168342,1.0,1.0,yesterday 's solutions are not good enough,Yesterday 's technology,yesterday
+13,,0.0,1.0,0.5,0.0,0.9987202738487844,0.0,1.0,his car has a lot of pickup,put out a pickup on that man,pickup
+14,,1.0,0.0,0.5,0.0,0.6971136538757438,1.0,0.5,work equals force times distance,Work is done against friction to drag a bag along the ground .,work
+15,,0.0,0.0,0.5,0.0,0.9978329979464792,0.0,0.5,The French try to sell us their image as great lovers,The new idea sold well in certain circles,sell
+16,,0.0,0.0,0.5,0.0,0.9920391199910236,0.0,1.0,a schoolgirl fantasy,she made a lot of money writing romantic fantasies,fantasy
+17,,0.0,0.0,0.5,1.0,0.9971511733300504,0.0,1.0,zap the enemy,"If it 's not warm in the middle , zap it some more .",zap
+18,,0.0,1.0,0.5,1.0,0.8533738251113949,0.0,0.5,moderate your alcohol intake,moderate your speed,moderate
+19,,0.0,0.0,0.5,0.0,0.998527811733898,0.0,1.0,mold public opinion,The furniture molded in the old house,mold
+20,,0.0,0.0,0.5,0.0,0.998225198426292,0.0,1.0,Pleistocene vegetation,their holiday was spent in sleep and vegetation,vegetation
+21,,0.0,0.0,0.5,1.0,0.6329982762407762,0.0,1.0,harness natural forces and resources,harness the horse,harness
+22,,0.0,1.0,0.5,0.0,0.9939809610323472,0.0,1.0,erupt in anger,Unrest erupted in the country,erupt
+23,,0.0,0.0,0.5,0.0,0.9982297288816356,0.0,1.0,the skirt had a wide flare,she could not control her flare of rage,flare
+24,,0.0,1.0,0.5,0.0,0.9991025807817046,0.0,1.0,the capacity of a hard disk drive is usually expressed in megabytes,the plant is working at 80 per cent capacity,capacity
+25,,1.0,1.0,0.5,0.0,0.9980268342560856,1.0,1.0,Convention center,they received messages from several centers,center
+26,,0.0,0.0,0.5,0.0,0.9977684438319429,0.0,1.0,working mothers rely on the day care program,you ca n't tell the players without a program,program
+27,,0.0,1.0,0.5,0.0,0.9988103369108768,0.0,1.0,The ref missed the call . The ball hit the baseline .,the established a baseline for the budget,baseline
+28,,1.0,0.0,0.5,0.0,0.7493661598254115,1.0,1.0,"I pride myself on being a good judge of character , but pride goes before the fall and I 'm not a good judge of my own character so I 'm often wrong without knowing it .",He prides himself on making it into law school,pride
+29,,1.0,0.0,0.5,0.0,0.9798416225702063,1.0,0.5,the magnetic effect was greater when the rod was lengthwise,The effect of the hurricane was a devastated landscape .,effect
+30,,1.0,1.0,0.5,1.0,0.965021363062104,1.0,1.0,celebrate Christmas,To celebrate a birthday,celebrate
+31,,1.0,0.0,0.5,1.0,0.9977977714712674,1.0,1.0,To hedge a field or garden,hedge the property,hedge
+32,,0.0,0.0,0.5,0.0,0.9983337972596372,0.0,1.0,This story will grab you,Grab power,grab
+33,,0.0,1.0,0.5,0.0,0.993826466750954,0.0,1.0,the ancients believed that blood was the seat of the emotions,blood carries oxygen and nutrients to the tissues and carries away waste products,blood
+34,,0.0,1.0,0.5,0.0,0.9982544028300728,0.0,1.0,He has a lot of interest in vintage cars .,how much interest do you pay on your mortgage ?,interest
+35,,0.0,0.0,0.5,1.0,0.9971196437090089,0.0,0.5,Both philosophers concord on this point,Their ideas concorded,concord
+36,,0.0,0.0,0.5,0.0,0.9984658834616844,0.0,1.0,they have a southpaw on the mound,they built small mounds to hide behind,mound
+37,,1.0,0.0,0.5,1.0,0.9967644575855062,1.0,1.0,I suspect him of being the thief .,The U.S. suspected Bin Laden as the mastermind behind the terrorist attacks,suspect
+38,,0.0,0.0,0.5,1.0,0.8865460934075384,0.0,1.0,an agony of doubt,Being in an agony he prayed more earnestly . —Luke xxii . 44 .,agony
+39,,1.0,0.0,0.5,1.0,0.9976990043584284,1.0,1.0,She intended to devour the book .,She devoured his novels,devour
+40,,1.0,1.0,0.5,1.0,0.9977152759641768,1.0,1.0,You must comply or else !,He complied with my instructions,comply
+41,,0.0,1.0,0.5,0.0,0.966737914245326,0.0,1.0,baste a roast,baste a hem,baste
+42,,0.0,1.0,0.5,0.0,0.9986308678178356,0.0,1.0,stun fish,The news stunned her,stun
+43,,0.0,1.0,0.5,0.0,0.99875061483234,0.0,1.0,market runups are invariably followed by a correction,the correction of his vision with eye glasses,correction
+44,,1.0,1.0,0.5,1.0,0.9010172105021648,1.0,1.0,restore the emperor to the throne,To restore harmony among those who are at variance,restore
+45,,1.0,1.0,0.5,1.0,0.958210439198496,1.0,1.0,a bomb scare led them to evacuate the building,a war scare,scare
+46,,1.0,0.0,0.5,0.0,0.6909734075249029,1.0,0.5,I had a strange feeling in my leg,he had a queasy feeling,feeling
+47,,1.0,0.0,0.5,1.0,0.9881639813301896,1.0,1.0,The lung cancer patient can not inspire air very well,The patient has trouble inspiring,inspire
+48,,1.0,1.0,0.5,0.0,0.9988534924425756,1.0,0.5,To start a stream of water ;   to start a rumour ;   to start a business,We simply could not start the engine,start
+49,,0.0,0.0,0.5,0.0,0.998413726264262,0.0,1.0,Passing grades account for half of the grades given in this exam,I ca n't account for the missing money,account

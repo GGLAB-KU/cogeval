@@ -1,0 +1,26 @@
+sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_0_pred,machine_0_confidence,confidence_diff
+82.0,Two gray dogs running in green grass.,Two gray dogs are running.,entailment,entailment,0.977482088024565,contradiction,0.3333333333333333,2.310815421357898
+63.0,there is a lady standing and six people laying on a gym floor.,There are seven people in the gym.,entailment,entailment,0.7922210849539406,contradiction,0.3333333333333333,2.125554418287274
+54.0,A young girl in a pink shirt sitting on a dock viewing a body of water.,An old woman viewing a body of water.,contradiction,contradiction,0.6939611054247697,entailment,0.3333333333333333,2.027294438758103
+56.0,"Two cyclists, in yellow, are competing in a race.",A Mustang and a Corvette are competing in a drag race.,contradiction,contradiction,0.6888433981576254,entailment,0.3333333333333333,2.022176731490959
+85.0,"A group of asian women in sports attire, and one woman in the center is wearing a baseball cap.",Men are playing with a dog,contradiction,contradiction,0.6407369498464688,entailment,0.3333333333333333,1.974070283179802
+60.0,This man is walking past a wall that has art on it.,A man walks past a wall mural.,entailment,entailment,0.5844421699078812,contradiction,0.3333333333333333,1.9177755032412145
+43.0,A man and woman walking away from a crowded street fair.,There are a group of men walking together.,contradiction,contradiction,0.5414534288638689,entailment,0.3333333333333333,1.8747867621972023
+81.0,Girls playing soccer competitively in the grass.,Nobody is playing soccer.,contradiction,contradiction,0.9631525076765608,neutral,0.3333333333333333,1.6298191743432275
+57.0,The backside of a woman leaning against the guard rail of a passenger boat looking out at the open ocean.,The woman is driving her car on the highway.,contradiction,contradiction,0.8607983623336745,neutral,0.3333333333333333,1.5274650290003413
+76.0,A football team wearing purple and white trying to stop the runner with the ball.,Lacrosse players celebrate a victory.,contradiction,contradiction,0.646878198567042,neutral,0.3333333333333333,1.3135448652337087
+73.0,A boy in a gray hoodie and black cap holds up an American flag.,A person is holding an American flag.,entailment,entailment,0.9795291709314228,neutral,0.3333333333333333,1.3128625042647561
+55.0,A bunch of happy children having fun swimming and one boy is showing off his talent with a back flip.,Kids are having fun,entailment,entailment,0.9437052200614124,neutral,0.3333333333333333,1.2770385533947457
+69.0,A group of people in blue pants and shirts in motion.,There are people moving.,entailment,entailment,0.9355168884339816,neutral,0.3333333333333333,1.268850221767315
+77.0,Many small sailboats sitting at a dock., Many small sailboats docked.,entailment,entailment,0.9119754350051176,neutral,0.3333333333333333,1.245308768338451
+52.0,"A man is standing in what appears to be a parking lot and shaving his face, while his dog looks at the ground near his feet.",A women is walking with a man,contradiction,contradiction,0.5721596724667349,neutral,0.3333333333333333,1.2388263391334016
+71.0,a poor looking person with white cream smeared around his eyes sitting on a backpack.,A dirty man with some product under his eyes is sitting on a pillow.,contradiction,contradiction,0.5670419651995906,neutral,0.3333333333333333,1.2337086318662573
+64.0,A couple is back to back in formal attire.,Two people are facing away from each other.,entailment,entailment,0.8781985670419652,neutral,0.3333333333333333,1.2115319003752985
+23.0,A single runner is watched by onlookers in a race.,A man is running in a race.,entailment,entailment,0.6192425793244627,neutral,0.3333333333333333,0.952575912657796
+66.0,A street vendor selling cupcakes.,There is a person outside in this picture,entailment,entailment,0.4923234390992835,neutral,0.3333333333333333,0.8256567724326168
+80.0,Two men fight in a ring while spectators look on.,Boxers fight as the crowd screams.,neutral,neutral,0.5854657113613101,contradiction,0.3333333333333333,0.7478676219720232
+74.0,A young boy asleep in a stroller.,A young boy is taking his afternoon nap.,neutral,neutral,0.6438075742067554,contradiction,0.3333333333333333,0.6895257591265779
+61.0,A black dog has just jumped into a swimming pool.,A dog jumped into a pool to cool off.,neutral,neutral,0.6693961105424769,contradiction,0.3333333333333333,0.6639372227908563
+67.0,An infant napping in it's crib in pajamas.,A baby is sleeping in a crib with its blanket.,neutral,neutral,0.7512794268167861,contradiction,0.3333333333333333,0.5820539065165472
+89.0,Two people are sitting at a table outside of a building.,Two people are sitting eating lunch,neutral,neutral,0.8474923234390993,contradiction,0.3333333333333333,0.48584100989423396
+72.0,A man sleeping on a chair with a newspaper on his chest.,the man is a farmer,neutral,neutral,0.8802456499488229,contradiction,0.3333333333333333,0.45308768338451033

@@ -45,6 +45,19 @@ def stamp_snli_data(machinefile, humanfile):
     df.set_index(df.columns[-1], inplace=True)
     df.to_csv(machinefile)
 
+
+def stamp_wic_data(machinefile, humanfile):
+    humandf = pd.read_csv(humanfile)
+    df = pd.read_csv(machinefile)
+    for i, row in humandf.iterrows():
+        df.at[i, 'sample_id']= row['sample_id']
+    df[['sample_id']] = df[['sample_id']].astype(int)
+    df.set_index(df.columns[-1], inplace=True)
+    df.to_csv(machinefile)
+
+
+
+
 def randomize_multirc(file):
     df = pd.read_csv(file)
     random_df = pd.DataFrame({'sample_id':[], 'confidence':[], 'pred_label':[], 'gold_label': []})
@@ -76,6 +89,24 @@ def randomize_cola(file):
     random_df.to_csv('cola_random.csv',index=False)
 
 
+def randomize_wic(file):
+    df = pd.read_csv(file)
+    random_df = pd.DataFrame({'sample_id':[], 'confidence':[], 'pred_label':[], 'gold_label': []})
+    for i,row in df.iterrows():
+        random_df.at[i, 'sample_id'] = row['sample_id']
+        random_df.at[i, 'confidence'] = 1/2
+        ri = random.randint(0,1)
+        random_df.at[i, 'pred_label'] = ri
+        if row['gold_label'] == 'T':
+            random_df.at[i, 'gold_label'] = 1
+        else:
+            random_df.at[i, 'gold_label'] = 0
+
+    random_df[['sample_id']] = random_df[['sample_id']].astype(int)
+    #random_df[['pred_label']] = random_df[['pred_label']].astype(int)
+    #random_df[['gold_label']] = random_df[['gold_label']].astype(int)
+    random_df.to_csv('wic_random.csv',index=False)
+
 def randomize_snli(file):
     df = pd.read_csv(file)
     random_df = pd.DataFrame({'sample_id':[], 'confidence':[], 'pred_label':[]})
@@ -95,5 +126,6 @@ def randomize_snli(file):
 
 if __name__ == '__main__':
     #stamp_cola_data('data/machine/linguistic-acceptability/DeBERTa/cola_deberta.csv')
-    randomize_cola('data/machine/linguistic-acceptability/RoBERTa/cola_roberta.csv')
+    stamp_snli_data('/kuacc/users/mugekural/workfolder/dev/git/cogeval/user-study/lstm.csv', '/kuacc/users/mugekural/workfolder/dev/git/cogeval/data/human/language-inference/lalor/snli_human_4gs.csv')
+    #randomize_wic('data/human/word-sense-disambiguation/ann3_4_wic.csv')
     #randomize_multirc('data/machine/reading-comprehension/multiRC/RoBERTa/multirc_roberta_calib.csv')

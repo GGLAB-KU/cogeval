@@ -1,0 +1,11 @@
+sample_id,content,gold_label,agg_human_label,agg_human_confidence,machine_2_pred,machine_2_confidence,confidence_diff
+88,In a word -- yes .,0.0,1.0,0.3533533533533533,0.0,0.9121607,1.2655140533533533
+71,"There 's no mistaking the fact that this hybrid misses the impact of the Disney classic , and even that of the excellent 1934 MGM version .",0.0,-1.0,0.6156156156156156,0.0,0.4448907,1.1707249156156156
+63,"Part comedy , part drama , the movie winds up accomplishing neither in full , and leaves us feeling touched and amused by several moments and ideas , but nevertheless dissatisfied with the movie as a whole .",0.0,-1.0,0.6816816816816816,0.0,0.5725532,1.1091284816816815
+95,"The story is less vibrant , the jokes are a little lukewarm , but will anyone really care ?",0.0,-1.0,0.5745745745745746,0.0,0.5448463,1.0297282745745746
+61,Morrissette 's script and direction show a fair amount of intelligence and wit -- but it does n't signify a whole lot either .,0.0,-1.0,0.4044044044044044,0.0,0.45880273,0.9456016744044045
+41,"You wo n't believe much of it , but you will laugh at the audacity , at the who 's who casting and the sheer insanity of it all .",0.0,1.0,0.4934934934934935,0.0,0.41857257,0.9120660634934934
+54,"It 's a flashy , star-splashed reduction .",0.0,-1.0,0.4854854854854855,0.0,0.59728694,0.8881985454854855
+24,Ferrara directs the entire film with the kind of detachment that makes any given frame look like a family 's custom-made Christmas card .,0.0,-1.0,0.3943943943943944,0.0,0.53512913,0.8592652643943944
+67,The average local news columnist has a bigger rant on the war between modern landscape architecture and small-town America .,0.0,-1.0,0.4164164164164164,0.0,0.577163,0.8392534164164164
+30,Several degrees shy of the gross-out contests one expects from current teen fare .,0.0,-1.0,0.4574574574574575,0.0,0.66953546,0.7879219974574575

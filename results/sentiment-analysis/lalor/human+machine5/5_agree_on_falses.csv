@@ -1,0 +1,13 @@
+sample_id,content,gold_label,agg_human_label,agg_human_confidence,machine_5_pred,machine_5_confidence,confidence_diff
+2,"Hip-hop has a history , and it 's a metaphor for this love story .",0.0,1.0,0.4234234234234234,1.0,0.76,0.33657657657657664
+61,Morrissette 's script and direction show a fair amount of intelligence and wit -- but it does n't signify a whole lot either .,0.0,-1.0,0.4044044044044044,-1.0,0.62,0.2155955955955956
+55,It 's a worse sign when you begin to envy her condition .,0.0,-1.0,0.4224224224224224,-1.0,0.63,0.2075775775775776
+95,"The story is less vibrant , the jokes are a little lukewarm , but will anyone really care ?",0.0,-1.0,0.5745745745745746,-1.0,0.73,0.15542542542542537
+63,"Part comedy , part drama , the movie winds up accomplishing neither in full , and leaves us feeling touched and amused by several moments and ideas , but nevertheless dissatisfied with the movie as a whole .",0.0,-1.0,0.6816816816816816,-1.0,0.54,0.1416816816816816
+88,In a word -- yes .,0.0,1.0,0.3533533533533533,1.0,0.48,0.12664664664664665
+71,"There 's no mistaking the fact that this hybrid misses the impact of the Disney classic , and even that of the excellent 1934 MGM version .",0.0,-1.0,0.6156156156156156,-1.0,0.73,0.11438438438438436
+30,Several degrees shy of the gross-out contests one expects from current teen fare .,0.0,-1.0,0.4574574574574575,-1.0,0.56,0.10254254254254258
+73,This ill-fitting Tuxedo is strictly off-the-rack .,0.0,-1.0,0.4644644644644645,-1.0,0.52,0.05553553553553553
+67,The average local news columnist has a bigger rant on the war between modern landscape architecture and small-town America .,0.0,-1.0,0.4164164164164164,-1.0,0.47,0.05358358358358356
+58,"Literally nothing in The Pool is new , but if you grew up on the stalker flicks of the 1980 's this one should appease you for 90 minutes .",0.0,1.0,0.4154154154154154,1.0,0.45,0.03458458458458463
+33,"Still , it gets the job done -- a sleepy afternoon rental .",-1.0,1.0,0.4314314314314314,1.0,0.4,0.0314314314314314

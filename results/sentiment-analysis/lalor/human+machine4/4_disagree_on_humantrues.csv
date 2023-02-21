@@ -1,0 +1,12 @@
+sample_id,content,gold_label,agg_human_label,agg_human_confidence,machine_4_pred,machine_4_confidence,confidence_diff
+80,"As adapted by Kevin Molony from Simon Leys ' novel `` The Death of Napoleon '' and directed by Alan Taylor , Napoleon 's journey is interesting but his Parisian rebirth is stillborn",-1.0,-1.0,0.4904904904904905,1.0,0.433611770819784,1.9241022613102745
+81,"As if to prove a female director can make a movie with no soft edges , Kathryn Bigelow offers no sugar-coating or interludes of lightness .",1.0,1.0,0.3973973973973974,-1.0,0.465766110294175,1.8631635076915725
+89,It 's laughing at us .,-1.0,-1.0,0.3953953953953954,1.0,0.41319627833984,1.8085916737352354
+10,"If no one singles out any of these performances as award-worthy , it 's only because we would expect nothing less from this bunch .",1.0,1.0,0.3293293293293293,-1.0,0.363817964018731,1.6931472933480605
+94,The film is directed by Wally Wolodarsky from a script by Joe Jarvis and Greg Coolidge .,0.0,0.0,0.925925925925926,1.0,0.451781161146578,1.377707087072504
+74,This one does .,0.0,0.0,0.8028028028028028,1.0,0.4125166523288,1.2153194551316029
+69,"The rest of the plot is impossible to explain without blowing whatever tension there is , although it 's more comedy than suspense De Palma creates .",0.0,0.0,0.3723723723723723,-1.0,0.458639266087892,1.0862668937155195
+97,`` its successes are also tempered with elements which prove the direct antithesis of what it gets right . '',0.0,0.0,0.3733733733733734,-1.0,0.3358211674213,0.9624477940479267
+78,"When Perry fists a bull at the Moore Farm , it 's only a matter of time before he gets the upper hand in matters of the heart .",0.0,0.0,0.5475475475475475,1.0,0.391752224001255,0.9392997715488025
+92,Only two words will tell you what you know when deciding to see it : Anthony .,0.0,0.0,0.6786786786786787,-1.0,0.372068392932125,0.6933897142534464
+90,No question .,0.0,0.0,0.8868868868868869,-1.0,0.404117704615824,0.5172308177289371

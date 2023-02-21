@@ -1,0 +1,25 @@
+sample_id,sentence,domain,gold_label,agg_human_label,agg_human_confidence,machine_3_pred,machine_3_confidence,confidence_diff
+122,We pulled free.,in,1.0,1.0,1.0,0.0,0.9994067432963888,1.999406743296389
+174,I want to try and buy some whiskey.,in,1.0,1.0,1.0,0.0,0.9994005443853536,1.9994005443853538
+177,Henri wants to buy which books about cooking?,in,1.0,1.0,1.0,0.0,0.999391721716291,1.9993917217162909
+115,Mike talked about politics yesterday to my friends.,in,1.0,1.0,1.0,0.0,0.9992189873492744,1.9992189873492743
+155,Any trouble is what I don't want.,in,0.0,0.0,1.0,1.0,0.9991361379438534,1.9991361379438533
+36,A letter was received that Jones would be upset by.,out,1.0,1.0,1.0,0.0,0.999045836503762,1.999045836503762
+13,What did you leave before they started playing?,out,0.0,0.0,1.0,1.0,0.9990115650239914,1.9990115650239915
+164,"You may pick every flower, but leave a few for Mary.",in,0.0,0.0,1.0,1.0,0.9989483831369798,1.9989483831369799
+191,It's Anson that I like,in,1.0,1.0,1.0,0.0,0.9989248378014974,1.9989248378014974
+67,Chris was handed Sandy a note by Pat.,out,0.0,0.0,1.0,1.0,0.9988801367154196,1.9988801367154196
+96,John made Bill mad at himself.,out,1.0,1.0,1.0,0.0,0.9988514663702064,1.9988514663702064
+87,to die is no fun.,out,1.0,1.0,1.0,0.0,0.9885078431573088,1.9885078431573087
+27,"Because Steve's of a spider's eye had been stolen, I borrowed Fred's diagram of a snake's fang.",out,0.0,0.0,1.0,1.0,0.8929423838071077,1.8929423838071076
+63,Nobody told Susan about herself.,out,1.0,1.0,0.8,0.0,0.9991823313733296,1.7991823313733297
+26,Bill ate the peaches and Harry did the grapes.,out,0.0,0.0,0.8,1.0,0.99905763820203,1.79905763820203
+195,Jason happens to appear to seem to be sick.,in,1.0,1.0,0.8,0.0,0.9987271895112644,1.7987271895112644
+23,Chocolate eggs were hidden from each other by the children.,out,0.0,0.0,0.8,1.0,0.9987164012185588,1.7987164012185588
+35,"Jones, that we were talking to last night, always watches football games alone.",out,0.0,0.0,0.8,1.0,0.998700188287973,1.798700188287973
+114,How sane is Peter?,in,1.0,1.0,1.0,0.0,0.7591876112374114,1.7591876112374114
+9,"He announced he had eaten the asparagus, but we didn't know what.",out,0.0,0.0,1.0,1.0,0.7163657417082967,1.7163657417082967
+181,I saw even the student.,in,1.0,1.0,0.6,0.0,0.999356019944221,1.599356019944221
+108,Mary intended John to go abroad.,in,0.0,0.0,0.6,1.0,0.9987978216960024,1.5987978216960024
+117,"Sally is tall, and may be blond, and Sheila is short, and definitely is, blond.",in,1.0,1.0,0.6,0.0,0.9939298800729676,1.5939298800729675
+81,John was struck by Bill as pompous.,out,0.0,0.0,0.8,1.0,0.5444741567969748,1.344474156796975

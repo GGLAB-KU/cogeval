@@ -1,0 +1,26 @@
+sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_4_pred,machine_4_confidence,confidence_diff
+37.0,A wielder works on wielding a beam into place while other workers set beams.,The wielder is working on a building.,neutral,neutral,0.5005117707267144,neutral,0.9993780145631876,0.49886624383647327
+81.0,Girls playing soccer competitively in the grass.,Nobody is playing soccer.,contradiction,contradiction,0.9631525076765608,contradiction,0.5369329245516169,0.4262195831249439
+80.0,Two men fight in a ring while spectators look on.,Boxers fight as the crowd screams.,neutral,neutral,0.5854657113613101,neutral,0.9991843581567934,0.4137186467954833
+74.0,A young boy asleep in a stroller.,A young boy is taking his afternoon nap.,neutral,neutral,0.6438075742067554,neutral,0.9981030672554392,0.3542954930486838
+85.0,"A group of asian women in sports attire, and one woman in the center is wearing a baseball cap.",Men are playing with a dog,contradiction,contradiction,0.6407369498464688,contradiction,0.9843358029365564,0.34359885309008764
+61.0,A black dog has just jumped into a swimming pool.,A dog jumped into a pool to cool off.,neutral,neutral,0.6693961105424769,neutral,0.9980013198266046,0.3286052092841276
+64.0,A couple is back to back in formal attire.,Two people are facing away from each other.,entailment,entailment,0.8781985670419652,entailment,0.5728392171411424,0.3053593499008228
+86.0,A snowboarder is jumping over a snow slope.,A girl jumps her green snowboard over a slope.,neutral,neutral,0.6949846468781986,neutral,0.9987380377449137,0.30375339086671505
+75.0,"Neck and neck to the finish line, every competitor has been training for this race.",The competitors have trained very hard and are all very close to the finish line.,entailment,entailment,0.8311156601842374,entailment,0.5275971605377653,0.30351849964647215
+67.0,An infant napping in it's crib in pajamas.,A baby is sleeping in a crib with its blanket.,neutral,neutral,0.7512794268167861,neutral,0.9971195238552348,0.24584009703844878
+31.0,The dogs ran around the dirt racetrack.,Dogs are humping each other.,contradiction,contradiction,0.6980552712384852,contradiction,0.9432991730340892,0.24524390179560396
+73.0,A boy in a gray hoodie and black cap holds up an American flag.,A person is holding an American flag.,entailment,entailment,0.9795291709314228,entailment,0.7642856746555124,0.21524349627591033
+79.0,A person wearing an orange shirt with a backpack on looking across a segment of lush green trees.,A person is meditating and looking at the peaceful lush green trees.,neutral,neutral,0.7952917093142272,neutral,0.999424446234649,0.20413273692042178
+49.0,Eight people are sitting on a long boat on a sunny day.,Morning ride on boat,neutral,neutral,0.7993858751279427,neutral,0.9995096228242089,0.20012374769626617
+56.0,"Two cyclists, in yellow, are competing in a race.",A Mustang and a Corvette are competing in a drag race.,contradiction,contradiction,0.6888433981576254,contradiction,0.8818513011404434,0.193007902982818
+87.0,a group of people on a dock lowering into the water a boat with teal and purple decorations.,The group was getting ready to go fishing on the boat.,neutral,neutral,0.8290685772773797,neutral,0.9992623228876418,0.17019374561026213
+89.0,Two people are sitting at a table outside of a building.,Two people are sitting eating lunch,neutral,neutral,0.8474923234390993,neutral,0.999459372691636,0.15196704925253668
+69.0,A group of people in blue pants and shirts in motion.,There are people moving.,entailment,entailment,0.9355168884339816,entailment,0.7893710656680126,0.146145822765969
+78.0,One biker is running with their bike while another is riding around them.,The people are part of a club,neutral,neutral,0.8659160696008188,neutral,0.9991947294045334,0.13327865980371456
+45.0,A young woman with glasses sits at the end of a row of seats and speaks into a microphone.,A young woman wearing glasses,entailment,entailment,0.8628454452405322,entailment,0.9955808781809822,0.13273543294044998
+57.0,The backside of a woman leaning against the guard rail of a passenger boat looking out at the open ocean.,The woman is driving her car on the highway.,contradiction,contradiction,0.8607983623336745,contradiction,0.9808360664447364,0.12003770411106196
+72.0,A man sleeping on a chair with a newspaper on his chest.,the man is a farmer,neutral,neutral,0.8802456499488229,neutral,0.9972986984987336,0.11705304854991072
+55.0,A bunch of happy children having fun swimming and one boy is showing off his talent with a back flip.,Kids are having fun,entailment,entailment,0.9437052200614124,entailment,0.994332569820357,0.05062734975894456
+82.0,Two gray dogs running in green grass.,Two gray dogs are running.,entailment,entailment,0.977482088024565,entailment,0.9954815165019798,0.01799942847741476
+65.0,A biker pops a wheelie along side the colorful wall.,A person is riding a bike near a wall.,entailment,entailment,0.9273285568065508,entailment,0.9387590495033034,0.011430492696752559

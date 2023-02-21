@@ -1,9 +1,0 @@
-sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_0_pred,machine_0_confidence,confidence_diff
-51.0,"A woman in her early fifties walks by herself in the subway, another woman is not far behind.",back in the fifties a woman could walk by herself in the subway.,contradiction,neutral,0.6704196519959058,contradiction,0.3333333333333333,0.3370863186625725
-53.0,A white dog with a life vest accompanies a man in a boat.,man eats carrot,contradiction,neutral,0.617195496417605,contradiction,0.3333333333333333,0.28386216308427165
-24.0,Two rodeo clowns are on the dirt.,Two circus clowns were riding bicycles.,contradiction,neutral,0.5987717502558854,contradiction,0.3333333333333333,0.26543841692255205
-40.0,People were watching the tournament in the stadium.,The people are sitting outside on the grass.,contradiction,neutral,0.5649948822927329,contradiction,0.3333333333333333,0.23166154895939955
-11.0,A woman singing into a microphone while a man plays drums in the background.,They are playing a PlayStation.,contradiction,neutral,0.5578300921187308,contradiction,0.3333333333333333,0.2244967587853975
-33.0,Two people dressed in red and white wait at the horse track with a horse.,The people at the track are outdoors.,entailment,neutral,0.5475946775844421,entailment,0.3333333333333333,0.21426134425110882
-84.0,"A bride, a groom, 3 guys, and 3 women.",The unrelated people wander aimlessly.,contradiction,neutral,0.5312180143295804,contradiction,0.3333333333333333,0.19788468099624706
-42.0,Nine men wearing tuxedos sing.,Nine woman wearing dresses sing.,contradiction,neutral,0.4882292732855681,contradiction,0.3333333333333333,0.15489593995223477

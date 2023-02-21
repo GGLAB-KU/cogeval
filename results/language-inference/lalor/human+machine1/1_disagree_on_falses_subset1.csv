@@ -1,0 +1,3 @@
+sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_1_pred,machine_1_confidence,confidence_diff
+32.0,"A man is sitting in front of a harpsichord, and a woman is preparing to sing.",a boy covers his ears,contradiction,neutral,0.7379733879222109,entailment,0.6648163042327481,1.402789692154959
+42.0,Nine men wearing tuxedos sing.,Nine woman wearing dresses sing.,contradiction,neutral,0.4882292732855681,entailment,0.4155646644101849,0.903793937695753

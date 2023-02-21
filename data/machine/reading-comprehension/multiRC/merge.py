@@ -4,8 +4,9 @@ import random
 machines =[]
 machine_0 = pd.read_csv('data/machine/reading-comprehension/multiRC/random/multirc_random.csv')
 machine_1 = pd.read_csv('data/machine/reading-comprehension/multiRC/RoBERTa/with_meta.csv') # RoBERTa + human data
+machine_2 = pd.read_csv('data/machine/reading-comprehension/multiRC/davinci-003-zeroshot/multirc_davinci-zeroshot_0-300.csv') # text-davinci-003
 
-machines = [machine_0, machine_1]
+machines = [machine_0, machine_1, machine_2]
 
 human = "data/machine/reading-comprehension/multiRC/RoBERTa/with_meta.csv"
 human = pd.read_csv(human)
@@ -21,6 +22,8 @@ out_df =  pd.DataFrame({
 'machine_0_confidence': [], 
 'machine_1_pred': [], 
 'machine_1_confidence': [], 
+'machine_2_pred': [], 
+'machine_2_confidence': [], 
 'agg_human_label': [],
 'agg_human_confidence': []
 })
@@ -46,9 +49,11 @@ for i, hrow in human.iterrows():
     out_df[['sample_id']] = out_df[['sample_id']].astype(int)
     for j, machine in enumerate(machines):
         mrow = machine.loc[machine['sample_id'] == hrow['sample_id']]
+        if len(mrow)==0:
+            continue
         out_df.at[i, 'machine_'+str(j)+'_pred'] = mrow['pred_label'].values[0]
         out_df.at[i, 'machine_'+str(j)+'_confidence'] = mrow['confidence']
   
 
 print('#total:', total)
-out_df.to_csv('MultiRC_results.csv', index=False)
+out_df.to_csv('MultiRC_results_with_davinci003.csv', index=False)

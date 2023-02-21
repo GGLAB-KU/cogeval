@@ -1,0 +1,19 @@
+sample_id,content,gold_label,agg_human_label,agg_human_confidence,machine_3_pred,machine_3_confidence,confidence_diff
+93,Remember when Bond had more glamour than clamor ?,-1.0,-1.0,0.5015015015015015,1.0,0.9947403874539996,2.496241888955501
+86,Happily for Mr. Chin -- though unhappily for his subjects -- the invisible hand of the marketplace wrote a script that no human screenwriter could have hoped to match .,1.0,1.0,0.3413413413413413,-1.0,0.9938823753356968,2.335223716677038
+4,"The appearance of Treebeard and Gollum 's expanded role will either have you loving what you 're seeing , or rolling your eyes .",1.0,1.0,0.5485485485485485,0.0,0.999314593898148,1.5478631424466966
+7,"With the film 's striking ending , one realizes that we have a long way to go before we fully understand all the sexual permutations involved .",1.0,1.0,0.4014014014014014,0.0,0.969272494063606,1.3706738954650075
+78,"When Perry fists a bull at the Moore Farm , it 's only a matter of time before he gets the upper hand in matters of the heart .",0.0,0.0,0.5475475475475475,1.0,0.8173209676591572,1.3648685152067048
+3,Perhaps no picture ever made has more literally showed that the road to hell is paved with good intentions .,1.0,1.0,0.3073073073073073,0.0,0.9613744910529388,1.268681798360246
+27,"Its direction , its script , and Weaver 's performance as a vaguely discontented woman of substance make for a mildly entertaining 77 minutes , if that 's what you 're in the mood for .",1.0,1.0,0.4094094094094094,0.0,0.5838818956978107,0.9932913051072201
+64,"Plays as hollow catharsis , with lots of tears but very little in the way of insights .",-1.0,-1.0,0.5835835835835835,0.0,0.6193162698676211,0.9642673137159625
+77,"Truth to tell , if you 've seen more than half-a-dozen horror films , there 's nothing here you have n't seen before .",-1.0,-1.0,0.6366366366366366,0.0,0.7410506518124625,0.895585984824174
+60,"Meandering , sub-aquatic mess : It 's so bad it 's good , but only if you slide in on a freebie .",-1.0,-1.0,0.4194194194194194,0.0,0.7309594446838846,0.6884599747355348
+45,"All ends well , sort of , but the frenzied comic moments never click .",-1.0,-1.0,0.6496496496496497,0.0,0.9846082713226454,0.6650413783270044
+51,"Helmer DeVito ... attempts to do too many things in this story about ethics , payola , vice , murder , kids ' TV and revenge .",-1.0,-1.0,0.5815815815815816,0.0,0.9916380452696376,0.5899435363119439
+89,It 's laughing at us .,-1.0,-1.0,0.3953953953953954,0.0,0.8319277840041784,0.563467611391217
+80,"As adapted by Kevin Molony from Simon Leys ' novel `` The Death of Napoleon '' and directed by Alan Taylor , Napoleon 's journey is interesting but his Parisian rebirth is stillborn",-1.0,-1.0,0.4904904904904905,0.0,0.9761683340782976,0.5143221564121929
+96,"Unless you are in dire need of a Diesel fix , there is no real reason to see it .",-1.0,-1.0,0.4834834834834834,0.0,0.9958733003232708,0.48761018316021254
+44,"After seeing SWEPT AWAY , I feel sorry for Madonna .",-1.0,-1.0,0.4234234234234234,0.0,0.9842115255910504,0.4392118978323729
+56,It 's hard not to feel you 've just watched a feature-length video game with some really heavy back story .,-1.0,-1.0,0.4074074074074074,0.0,0.9876147810369847,0.4197926263704227
+84,Could The Country Bears really be as bad as its trailers ?,-1.0,-1.0,0.3933933933933934,0.0,0.9758335979582664,0.4175597954351271

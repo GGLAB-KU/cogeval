@@ -1,20 +1,20 @@
 sample_id,sentence,domain,gold_label,agg_human_label,agg_human_confidence,machine_2_pred,machine_2_confidence,confidence_diff
-181,I saw even the student.,in,1.0,1.0,0.6,0.0,0.9992594122886658,0.3992594122886658
-89,John believes it sincerely that Bill is here.,out,0.0,0.0,0.6,1.0,0.9987298846244812,0.3987298846244812
-108,Mary intended John to go abroad.,in,0.0,0.0,0.6,1.0,0.9982849955558776,0.3982849955558776
-197,I inquired when could we leave.,in,0.0,0.0,0.6,1.0,0.9929270148277284,0.3929270148277284
-116,Here's a knife with which for you to cut up the onions.,in,0.0,0.0,0.6,1.0,0.9841850996017456,0.3841850996017456
-31,Bother you that Kim left!,out,0.0,0.0,1.0,1.0,0.6374722123146057,0.3625277876853943
-53,The bird sing.,out,0.0,0.0,1.0,1.0,0.7994620203971863,0.20053797960281372
-23,Chocolate eggs were hidden from each other by the children.,out,0.0,0.0,0.8,1.0,0.9983912110328674,0.1983912110328674
-26,Bill ate the peaches and Harry did the grapes.,out,0.0,0.0,0.8,1.0,0.9953304529190063,0.1953304529190063
-198,The bookcase ran,in,0.0,0.0,0.8,1.0,0.9902327060699464,0.19023270606994636
-195,Jason happens to appear to seem to be sick.,in,1.0,1.0,0.8,0.0,0.9523438811302184,0.15234388113021835
-27,"Because Steve's of a spider's eye had been stolen, I borrowed Fred's diagram of a snake's fang.",out,0.0,0.0,1.0,1.0,0.9426060914993286,0.05739390850067139
-9,"He announced he had eaten the asparagus, but we didn't know what.",out,0.0,0.0,1.0,1.0,0.9793197512626648,0.020680248737335205
-125,The books lifted onto the table.,in,0.0,0.0,1.0,1.0,0.9823712110519408,0.017628788948059193
-191,It's Anson that I like,in,1.0,1.0,1.0,0.0,0.9874935746192932,0.012506425380706787
-49,I noticed the.,out,0.0,0.0,1.0,1.0,0.9910552501678468,0.00894474983215321
-4,"John was tall, but I don't know on what occasions.",out,0.0,0.0,1.0,1.0,0.997516393661499,0.0024836063385009766
-164,"You may pick every flower, but leave a few for Mary.",in,0.0,0.0,1.0,1.0,0.9979211688041688,0.002078831195831188
-155,Any trouble is what I don't want.,in,0.0,0.0,1.0,1.0,0.998703122138977,0.0012968778610229492
+155,Any trouble is what I don't want.,in,0.0,0.0,1.0,1.0,0.998703122138977,1.998703122138977
+164,"You may pick every flower, but leave a few for Mary.",in,0.0,0.0,1.0,1.0,0.9979211688041688,1.9979211688041687
+4,"John was tall, but I don't know on what occasions.",out,0.0,0.0,1.0,1.0,0.997516393661499,1.997516393661499
+49,I noticed the.,out,0.0,0.0,1.0,1.0,0.9910552501678468,1.9910552501678467
+191,It's Anson that I like,in,1.0,1.0,1.0,0.0,0.9874935746192932,1.9874935746192932
+125,The books lifted onto the table.,in,0.0,0.0,1.0,1.0,0.9823712110519408,1.982371211051941
+9,"He announced he had eaten the asparagus, but we didn't know what.",out,0.0,0.0,1.0,1.0,0.9793197512626648,1.9793197512626648
+27,"Because Steve's of a spider's eye had been stolen, I borrowed Fred's diagram of a snake's fang.",out,0.0,0.0,1.0,1.0,0.9426060914993286,1.9426060914993286
+53,The bird sing.,out,0.0,0.0,1.0,1.0,0.7994620203971863,1.7994620203971863
+23,Chocolate eggs were hidden from each other by the children.,out,0.0,0.0,0.8,1.0,0.9983912110328674,1.7983912110328675
+26,Bill ate the peaches and Harry did the grapes.,out,0.0,0.0,0.8,1.0,0.9953304529190063,1.7953304529190064
+198,The bookcase ran,in,0.0,0.0,0.8,1.0,0.9902327060699464,1.7902327060699466
+195,Jason happens to appear to seem to be sick.,in,1.0,1.0,0.8,0.0,0.9523438811302184,1.7523438811302183
+31,Bother you that Kim left!,out,0.0,0.0,1.0,1.0,0.6374722123146057,1.6374722123146057
+181,I saw even the student.,in,1.0,1.0,0.6,0.0,0.9992594122886658,1.5992594122886659
+89,John believes it sincerely that Bill is here.,out,0.0,0.0,0.6,1.0,0.9987298846244812,1.5987298846244813
+108,Mary intended John to go abroad.,in,0.0,0.0,0.6,1.0,0.9982849955558776,1.5982849955558776
+197,I inquired when could we leave.,in,0.0,0.0,0.6,1.0,0.9929270148277284,1.5929270148277284
+116,Here's a knife with which for you to cut up the onions.,in,0.0,0.0,0.6,1.0,0.9841850996017456,1.5841850996017457

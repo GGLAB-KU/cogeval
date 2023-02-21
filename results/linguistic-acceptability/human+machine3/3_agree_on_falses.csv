@@ -1,0 +1,13 @@
+sample_id,sentence,domain,gold_label,agg_human_label,agg_human_confidence,machine_3_pred,machine_3_confidence,confidence_diff
+12,"Meg is attracted to Harry, but they don't know who she is attracted to.",out,1.0,0.0,0.6,0.0,0.9991909149859346,0.3991909149859346
+166,a tall building.,in,1.0,0.0,0.8,0.0,0.9994720705438211,0.1994720705438211
+170,The idea dismayed the Prime Minister that the Dome was dull.,in,1.0,0.0,0.8,0.0,0.9993591211206532,0.19935912112065313
+152,1 gave Mary after the party a book.,in,1.0,0.0,0.8,0.0,0.9992248287505876,0.19922482875058756
+194,I might be not going to the party but washing my hair,in,1.0,0.0,0.8,0.0,0.9991348268782732,0.1991348268782731
+104,The box contained the ball from the tree.,in,0.0,1.0,0.8,1.0,0.9990016102230478,0.19900161022304774
+112,He attributed to a short circuit which was caused by an overloaded transducer the fire which destroyed most of my factory.,in,1.0,0.0,0.8,0.0,0.9986194835906952,0.19861948359069515
+101,"The more you would want, the less you would eat.",in,0.0,1.0,0.8,1.0,0.9882261496699348,0.18822614966993478
+133,did the policeman meet in the park?,in,1.0,0.0,0.8,0.0,0.965238802043133,0.1652388020431329
+128,Cynthia chewed.,in,0.0,1.0,1.0,1.0,0.9987572907035108,0.001242709296489175
+98,John bought a dog for himself to play with.,out,0.0,1.0,1.0,1.0,0.9989072553807038,0.0010927446192962043
+111,A proof that the claim had been. made was giver that John had lied.,in,1.0,0.0,1.0,0.0,0.9991867422734674,0.0008132577265326235

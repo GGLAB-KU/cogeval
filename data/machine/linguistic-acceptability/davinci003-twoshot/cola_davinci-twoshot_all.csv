@@ -1,0 +1,2801 @@
+sample_id,sentence,pred_label,gold_label,prompt_text,confidence,logprobs
+0,"If Sam was going, Sally would know where.",1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: If Sam was going, Sally would know where.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9987128249214009,"{
+  "" Yes"": -0.0012880042,
+  "" yes"": -8.769932,
+  ""Yes"": -6.799843
+}"
+1,"She mailed John a letter, but I don't know to whom.",0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: She mailed John a letter, but I don't know to whom.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9992169624340482,"{
+  "" "": -13.3593,
+  "" No"": -0.0007833443,
+  ""No"": -7.158839
+}"
+2,I served my guests.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: I served my guests.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988098596794118,"{
+  "" Yes"": -0.0011908491,
+  "" yes"": -8.561777,
+  ""Yes"": -6.927475
+}"
+3,"She was bathing, but I couldn't make out who.",0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: She was bathing, but I couldn't make out who.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9924890006010867,"{
+  "" No"": -0.007539349,
+  "" Yes"": -5.0101256,
+  ""No"": -7.126579
+}"
+4,"John was tall, but I don't know on what occasions.",0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: John was tall, but I don't know on what occasions.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9992410418045787,"{
+  "" "": -12.528687,
+  "" No"": -0.00075924635,
+  ""No"": -7.1949096
+}"
+5,"I know that Meg's attracted to Harry, but they don't know who.",0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: I know that Meg's attracted to Harry, but they don't know who.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.999265899323844,"{
+  "" No"": -0.00073437026,
+  "" Yes"": -9.867443,
+  ""No"": -7.302323
+}"
+6,Everyone relies on someone. It's unclear who.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Everyone relies on someone. It's unclear who.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988092660868887,"{
+  "" Yes"": -0.0011914434,
+  "" yes"": -8.965241,
+  ""Yes"": -6.857499
+}"
+7,"The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.",1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9986602526638498,"{
+  "" Yes"": -0.0013406456,
+  "" yes"": -8.295516,
+  ""Yes"": -6.838569
+}"
+8,"Everybody gets on well with a certain relative, but often only his therapist knows which one.",1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Everybody gets on well with a certain relative, but often only his therapist knows which one.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.998719320570738,"{
+  "" Yes"": -0.0012815002,
+  "" yes"": -8.790904,
+  ""Yes"": -6.797385
+}"
+9,"He announced he had eaten the asparagus, but we didn't know what.",1.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: He announced he had eaten the asparagus, but we didn't know what.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.7163657417082967,"{
+  "" No"": -1.2670076,
+  "" Yes"": -0.33356443,
+  ""Yes"": -6.5841327
+}"
+10,She talked to John or Mary but I don't know which.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: She talked to John or Mary but I don't know which.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9990662216825635,"{
+  "" Yes"": -0.00093421456,
+  "" yes"": -8.96545,
+  ""Yes"": -7.1321692
+}"
+11,She talked to John or Mary but I don't know which one.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: She talked to John or Mary but I don't know which one.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989808681679491,"{
+  "" Yes"": -0.0010196515,
+  "" yes"": -9.00302,
+  ""Yes"": -7.0248876
+}"
+12,"Meg is attracted to Harry, but they don't know who she is attracted to.",0.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Meg is attracted to Harry, but they don't know who she is attracted to.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9991909149859346,"{
+  "" No"": -0.0008094125,
+  "" Yes"": -11.961756,
+  ""No"": -7.138451
+}"
+13,What did you leave before they started playing?,1.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: What did you leave before they started playing?
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9990115650239914,"{
+  "" Yes"": -0.0009889238,
+  "" yes"": -9.243247,
+  ""Yes"": -7.0296483
+}"
+14,"I think Agnes said that Bill would speak, but I don't remember what about.",1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: I think Agnes said that Bill would speak, but I don't remember what about.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9981833537030453,"{
+  "" Yes"": -0.0018182984,
+  "" yes"": -8.70163,
+  ""Yes"": -6.411473
+}"
+15,"Tony sent Mo a picture that he painted, but it's not clear with what.",0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Tony sent Mo a picture that he painted, but it's not clear with what.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9991769677070284,"{
+  "" No"": -0.00082337117,
+  "" Yes"": -8.888053,
+  ""No"": -7.296668
+}"
+16,Who did they see someone?,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Who did they see someone?
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9993088720390273,"{
+  "" No"": -0.0006913669,
+  "" no"": -12.561556,
+  ""No"": -7.293711
+}"
+17,The book was by John written.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The book was by John written.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9990159750703779,"{
+  "" "": -11.955406,
+  "" No"": -0.0009845094,
+  ""No"": -6.9446716
+}"
+18,The book was seen by Mary.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The book was seen by Mary.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9987162840691318,"{
+  "" Yes"": -0.0012845406,
+  "" yes"": -8.585574,
+  ""Yes"": -6.8311105
+}"
+19,Mary was given by John the book.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Mary was given by John the book.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989725827548858,"{
+  "" "": -12.083768,
+  "" No"": -0.0010279454,
+  ""No"": -6.893217
+}"
+20,John was believed to be telling the truth by Mary.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: John was believed to be telling the truth by Mary.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988561129381505,"{
+  "" Yes"": -0.0011445418,
+  "" yes"": -9.061697,
+  ""Yes"": -6.8913174
+}"
+21,John was believed by Mary to be telling the truth.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: John was believed by Mary to be telling the truth.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988185037169844,"{
+  "" Yes"": -0.0011821948,
+  "" yes"": -9.009286,
+  ""Yes"": -6.860898
+}"
+22,The car was driven by John to Maine.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The car was driven by John to Maine.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989977955426823,"{
+  "" Yes"": -0.001002707,
+  "" yes"": -8.955245,
+  ""Yes"": -7.056996
+}"
+23,Chocolate eggs were hidden from each other by the children.,1.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Chocolate eggs were hidden from each other by the children.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9987164012185589,"{
+  "" Yes"": -0.0012844233,
+  "" yes"": -8.627273,
+  ""Yes"": -6.9224057
+}"
+24,Books were taken from no student and given to Mary.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Books were taken from no student and given to Mary.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988734601230113,"{
+  "" Yes"": -0.0011271749,
+  "" yes"": -8.900385,
+  ""Yes"": -6.9288726
+}"
+25,"Bill ate the peaches, but Harry the grapes.",0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Bill ate the peaches, but Harry the grapes.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9994053117971653,"{
+  "" NO"": -12.33793,
+  "" No"": -0.0005948651,
+  ""No"": -7.44818
+}"
+26,Bill ate the peaches and Harry did the grapes.,1.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Bill ate the peaches and Harry did the grapes.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.99905763820203,"{
+  "" Yes"": -0.0009428061,
+  "" yes"": -8.923313,
+  ""Yes"": -7.1292195
+}"
+27,"Because Steve's of a spider's eye had been stolen, I borrowed Fred's diagram of a snake's fang.",1.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Because Steve's of a spider's eye had been stolen, I borrowed Fred's diagram of a snake's fang.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.8929423838071077,"{
+  "" No"": -2.2506006,
+  "" Yes"": -0.11323322,
+  ""Yes"": -6.625522
+}"
+28,Jerry attempted to blow up the Pentagon.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Jerry attempted to blow up the Pentagon.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989465368822842,"{
+  "" Yes"": -0.0010540184,
+  "" yes"": -8.112517,
+  ""Yes"": -7.2143636
+}"
+29,"Bill bought a red house, and Max bought one too.",1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Bill bought a red house, and Max bought one too.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988499146556588,"{
+  "" Yes"": -0.0011507472,
+  "" yes"": -8.706533,
+  ""Yes"": -6.9359913
+}"
+30,I know the person whose mother died.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: I know the person whose mother died.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989408134344974,"{
+  "" Yes"": -0.0010597479,
+  "" yes"": -9.10127,
+  ""Yes"": -6.973214
+}"
+31,Bother you that Kim left!,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Bother you that Kim left!
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9993060102623496,"{
+  "" No"": -0.00069423066,
+  "" no"": -12.108175,
+  ""No"": -7.2973475
+}"
+32,"Mary arranged for, in St. Louis, John to rent a house cheap.",0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Mary arranged for, in St. Louis, John to rent a house cheap.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989529129785885,"{
+  "" No"": -0.0010476356,
+  "" Yes"": -12.307484,
+  ""No"": -6.874401
+}"
+33,I wonder in whom them to place their trust.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: I wonder in whom them to place their trust.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9993398078228187,"{
+  "" NO"": -11.981567,
+  "" No"": -0.0006604102,
+  ""No"": -7.348908
+}"
+34,I wonder whom us to trust.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: I wonder whom us to trust.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9992185108618217,"{
+  "" No"": -0.00078179466,
+  "" no"": -11.946966,
+  ""No"": -7.1838846
+}"
+35,"Jones, that we were talking to last night, always watches football games alone.",1.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Jones, that we were talking to last night, always watches football games alone.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.998700188287973,"{
+  "" Yes"": -0.0013006572,
+  "" yes"": -8.926885,
+  ""Yes"": -6.7611136
+}"
+36,A letter was received that Jones would be upset by.,0.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: A letter was received that Jones would be upset by.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.999045836503762,"{
+  "" "": -12.687978,
+  "" No"": -0.000954619,
+  ""No"": -6.9641824
+}"
+37,The only person whose kids Dana is willing to put up with was written by John.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The only person whose kids Dana is willing to put up with was written by John.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.999131965520088,"{
+  "" "": -12.725136,
+  "" No"": -0.00086841144,
+  ""No"": -7.0604463
+}"
+38,The book that I like - everyone else in the class hates.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The book that I like - everyone else in the class hates.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.999185311978637,"{
+  "" "": -12.830606,
+  "" No"": -0.00081502006,
+  ""No"": -7.1252675
+}"
+39,"Which book's, author did you meet who you liked?",0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Which book's, author did you meet who you liked?
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989760999437468,"{
+  "" NO"": -12.514668,
+  "" No"": -0.0010244246,
+  ""No"": -6.8964725
+}"
+40,All who lost money in the scam are eligible for the program.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: All who lost money in the scam are eligible for the program.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989972000402738,"{
+  "" Yes"": -0.0010033031,
+  "" yes"": -8.979072,
+  ""Yes"": -7.0570574
+}"
+41,Who for Sandy to talk to is still enrolled in the class?,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Who for Sandy to talk to is still enrolled in the class?
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9993201975304716,"{
+  "" "": -12.939987,
+  "" No"": -0.00068003364,
+  ""No"": -7.303513
+}"
+42,The only people being added to our group who were at Harvard were students.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The only people being added to our group who were at Harvard were students.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988232720879033,"{
+  "" Yes"": -0.0011774208,
+  "" yes"": -9.21281,
+  ""Yes"": -6.8441663
+}"
+43,Leslie told ourselves about us.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Leslie told ourselves about us.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9991266611325722,"{
+  "" No"": -0.00087372045,
+  "" no"": -12.014951,
+  ""No"": -7.0643897
+}"
+44,Those pictures of us offended us.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Those pictures of us offended us.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988450280940593,"{
+  "" Yes"": -0.0011556394,
+  "" yes"": -8.514206,
+  ""Yes"": -6.965126
+}"
+45,We admired the pictures of us in the album.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: We admired the pictures of us in the album.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989048717910549,"{
+  "" Yes"": -0.0010957283,
+  "" yes"": -8.808593,
+  ""Yes"": -6.97753
+}"
+46,We admired the pictures of ourselves in the album.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: We admired the pictures of ourselves in the album.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989672171876561,"{
+  "" Yes"": -0.0010333165,
+  "" yes"": -8.9200945,
+  ""Yes"": -7.025745
+}"
+47,Max is on the phone now.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Max is on the phone now.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9986135219500353,"{
+  "" Yes"": -0.0013874401,
+  "" yes"": -8.381609,
+  ""Yes"": -6.7775984
+}"
+48,They lost themselves' books.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: They lost themselves' books.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9992906318206558,"{
+  "" "": -12.100539,
+  "" No"": -0.0007096199,
+  ""No"": -7.276085
+}"
+49,I noticed the.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: I noticed the.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9994074580723472,"{
+  "" NO"": -11.993331,
+  "" No"": -0.00059271755,
+  ""No"": -7.462842
+}"
+50,This is my favorite.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: This is my favorite.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9986607298238326,"{
+  "" Yes"": -0.0013401678,
+  "" yes"": -8.3527,
+  ""Yes"": -6.8893023
+}"
+51.0,Some people yell at the dogs.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Some people yell at the dogs.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989206662001928,"{
+  "" Yes"": -0.0010799167,
+  "" yes"": -8.506849,
+  ""Yes"": -7.055893
+}"
+52.0,The teacher handed the student.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The teacher handed the student.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9993116138165615,"{
+  "" "": -12.285534,
+  "" No"": -0.00068862323,
+  ""No"": -7.296491
+}"
+53.0,The bird sing.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The bird sing.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9992199412441437,"{
+  "" "": -11.982507,
+  "" No"": -0.00078036316,
+  ""No"": -7.1740093
+}"
+54.0,I was already aware of fact.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: I was already aware of fact.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9992601759648548,"{
+  "" "": -12.181376,
+  "" No"": -0.00074009784,
+  ""No"": -7.233528
+}"
+55.0,The guests dined.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The guests dined.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989043946143116,"{
+  "" Yes"": -0.001096206,
+  "" yes"": -8.586719,
+  ""Yes"": -7.0246305
+}"
+56.0,We relied on Leslie.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: We relied on Leslie.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988927738277423,"{
+  "" Yes"": -0.0011078396,
+  "" yes"": -8.774129,
+  ""Yes"": -6.9740534
+}"
+57.0,Newsweek appeared on the newsstands.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Newsweek appeared on the newsstands.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988750089773993,"{
+  "" Yes"": -0.0011256243,
+  "" yes"": -8.6959305,
+  ""Yes"": -6.9694953
+}"
+58.0,The book surprised many people.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The book surprised many people.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9987659342861339,"{
+  "" Yes"": -0.0012348278,
+  "" yes"": -8.366948,
+  ""Yes"": -6.927853
+}"
+59.0,The storm arrived while we ate lunch.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The storm arrived while we ate lunch.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9990463138479767,"{
+  "" Yes"": -0.0009541412,
+  "" yes"": -8.630558,
+  ""Yes"": -7.18347
+}"
+60.0,These dogs barked.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: These dogs barked.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9990907175480565,"{
+  "" Yes"": -0.0009096961,
+  "" yes"": -8.587946,
+  ""Yes"": -7.253887
+}"
+61.0,The cat slept soundly and furry.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The cat slept soundly and furry.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.999178992541205,"{
+  "" "": -11.710148,
+  "" No"": -0.00082134467,
+  ""No"": -7.125462
+}"
+62.0,"Chris walks, Pat eats broccoli, and Sandy plays squash.",1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Chris walks, Pat eats broccoli, and Sandy plays squash.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9984809025983095,"{
+  "" Yes"": -0.0015202524,
+  "" yes"": -8.55823,
+  ""Yes"": -6.639936
+}"
+63.0,Nobody told Susan about herself.,0.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Nobody told Susan about herself.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9991823313733296,"{
+  "" "": -12.200317,
+  "" No"": -0.0008180031,
+  ""No"": -7.124248
+}"
+64.0,Protect yourself!,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Protect yourself!
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988206506796656,"{
+  "" Yes"": -0.0011800453,
+  "" yes"": -8.70124,
+  ""Yes"": -6.9205084
+}"
+65.0,the putter of books left.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: the putter of books left.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.999402569732573,"{
+  "" "": -12.385681,
+  "" No"": -0.0005976088,
+  ""No"": -7.442036
+}"
+66.0,The cat was bitten the mouse.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The cat was bitten the mouse.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.999236631614011,"{
+  "" "": -12.110542,
+  "" No"": -0.0007636599,
+  ""No"": -7.19793
+}"
+67.0,Chris was handed Sandy a note by Pat.,1.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Chris was handed Sandy a note by Pat.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988801367154195,"{
+  "" Yes"": -0.0011204908,
+  "" yes"": -8.681148,
+  ""Yes"": -6.9690576
+}"
+68.0,The patient died.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The patient died.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988998667907335,"{
+  "" Yes"": -0.0011007388,
+  "" yes"": -8.455906,
+  ""Yes"": -7.0551815
+}"
+69.0,TV puts dumb ideas.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: TV puts dumb ideas.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9994036438410621,"{
+  "" NO"": -12.32489,
+  "" No"": -0.00059653405,
+  ""No"": -7.449872
+}"
+70.0,There is a monster in Loch Ness.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: There is a monster in Loch Ness.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989464178078641,"{
+  "" Yes"": -0.0010541376,
+  "" yes"": -8.429162,
+  ""Yes"": -7.1071596
+}"
+71.0,People are looking through the window.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: People are looking through the window.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988116502474523,"{
+  "" Yes"": -0.0011890564,
+  "" yes"": -8.650759,
+  ""Yes"": -6.908959
+}"
+72.0,It never occurred to Pat that Chris knew the answer.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: It never occurred to Pat that Chris knew the answer.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988141516744815,"{
+  "" Yes"": -0.001186552,
+  "" yes"": -8.762112,
+  ""Yes"": -6.8933043
+}"
+73.0,It loved Sandy.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: It loved Sandy.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9992763867344462,"{
+  "" "": -12.18272,
+  "" No"": -0.0007238752,
+  ""No"": -7.2489367
+}"
+74.0,We forgot our invitations.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: We forgot our invitations.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989163166094057,"{
+  "" Yes"": -0.001084271,
+  "" yes"": -8.444486,
+  ""Yes"": -7.067235
+}"
+75.0,Advantage is taken of every opportunity for improvement.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Advantage is taken of every opportunity for improvement.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989525566521479,"{
+  "" Yes"": -0.0010479923,
+  "" yes"": -8.929048,
+  ""Yes"": -7.017373
+}"
+76.0,The bucket was kicked by Pat.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The bucket was kicked by Pat.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.999035584078252,"{
+  "" Yes"": -0.00096488127,
+  "" yes"": -8.748946,
+  ""Yes"": -7.1399264
+}"
+77.0,John is sad.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: John is sad.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.998912620326198,"{
+  "" Yes"": -0.0010879713,
+  "" yes"": -8.317339,
+  ""Yes"": -7.104908
+}"
+78.0,Of whom are you thinking?,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Of whom are you thinking?
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988355530950628,"{
+  "" Yes"": -0.0011651254,
+  "" yes"": -9.06164,
+  ""Yes"": -6.871331
+}"
+79.0,John is sick.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: John is sick.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988841909783461,"{
+  "" Yes"": -0.001116432,
+  "" yes"": -8.256102,
+  ""Yes"": -7.091608
+}"
+80.0,John tried to leave.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: John tried to leave.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988824001803739,"{
+  "" Yes"": -0.0011182248,
+  "" yes"": -8.433067,
+  ""Yes"": -7.036917
+}"
+81.0,John was struck by Bill as pompous.,1.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: John was struck by Bill as pompous.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.5444741567969748,"{
+  "" No"": -0.78985584,
+  "" Yes"": -0.6079348,
+  ""Yes"": -6.962365
+}"
+82.0,John was promised by Bill to leave.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: John was promised by Bill to leave.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9992554074167397,"{
+  "" "": -12.318745,
+  "" No"": -0.00074486993,
+  ""No"": -7.2179685
+}"
+83.0,They make good cooks.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: They make good cooks.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989954109377903,"{
+  "" Yes"": -0.001005094,
+  "" yes"": -8.876154,
+  ""Yes"": -7.0708404
+}"
+84.0,I would prefer to leave.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: I would prefer to leave.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9986749746223428,"{
+  "" Yes"": -0.001325904,
+  "" yes"": -8.305847,
+  ""Yes"": -6.8493743
+}"
+85.0,I would hate for John to leave.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: I would hate for John to leave.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989165556501088,"{
+  "" Yes"": -0.0010840317,
+  "" yes"": -8.627356,
+  ""Yes"": -7.0307055
+}"
+86.0,It was hated for John to leave.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: It was hated for John to leave.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989237679535691,"{
+  "" No"": -0.0010768116,
+  "" Yes"": -8.350871,
+  ""No"": -7.100688
+}"
+87.0,to die is no fun.,0.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: to die is no fun.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9885078431573089,"{
+  "" No"": -0.011558702,
+  "" Yes"": -4.532852,
+  ""No"": -7.293512
+}"
+88.0,That he is here is clear.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: That he is here is clear.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988576636634696,"{
+  "" Yes"": -0.0011429893,
+  "" yes"": -8.797401,
+  ""Yes"": -6.936148
+}"
+89.0,John believes it sincerely that Bill is here.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: John believes it sincerely that Bill is here.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9990620494508644,"{
+  "" "": -12.162027,
+  "" No"": -0.0009383907,
+  ""No"": -6.9852962
+}"
+90.0,John believed it that Bill was tardy.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: John believed it that Bill was tardy.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9990871417088684,"{
+  "" "": -12.315905,
+  "" No"": -0.0009132752,
+  ""No"": -7.0123973
+}"
+91.0,It is to give up to leave.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: It is to give up to leave.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9993994702901896,"{
+  "" "": -11.947114,
+  "" No"": -0.0006007101,
+  ""No"": -7.445411
+}"
+92.0,I bought it to read.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: I bought it to read.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989261514884155,"{
+  "" Yes"": -0.0010744255,
+  "" yes"": -8.771109,
+  ""Yes"": -7.0050716
+}"
+93.0,I gave Pete the book to impress.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: I gave Pete the book to impress.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.992218873426091,"{
+  "" No"": -0.0078115575,
+  "" Yes"": -4.9352407,
+  ""No"": -7.489085
+}"
+94.0,I presented it to Bill to read.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: I presented it to Bill to read.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989900481450197,"{
+  "" Yes"": -0.0010104622,
+  "" yes"": -8.967933,
+  ""Yes"": -7.042985
+}"
+95.0,I gave a book to Bill to read.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: I gave a book to Bill to read.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.999000062970552,"{
+  "" Yes"": -0.0010004373,
+  "" yes"": -8.930913,
+  ""Yes"": -7.0606694
+}"
+96.0,John made Bill mad at himself.,0.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: John made Bill mad at himself.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988514663702064,"{
+  "" No"": -0.0011491937,
+  "" Yes"": -9.008683,
+  ""No"": -6.8942556
+}"
+97.0,The correspondence school made Bill a good typist.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The correspondence school made Bill a good typist.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989294895056204,"{
+  "" Yes"": -0.0010710839,
+  "" yes"": -8.938331,
+  ""Yes"": -6.9815373
+}"
+98.0,John bought a dog for himself to play with.,1.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: John bought a dog for himself to play with.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989072553807038,"{
+  "" Yes"": -0.0010933421,
+  "" yes"": -8.78986,
+  ""Yes"": -6.9830213
+}"
+99.0,John arranged for himself to get the prize.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: John arranged for himself to get the prize.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988845472804007,"{
+  "" Yes"": -0.0011160753,
+  "" yes"": -8.954035,
+  ""Yes"": -6.9327044
+}"
+100.0,The weights made the rope stretch over the pulley.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The weights made the rope stretch over the pulley.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988251790431147,"{
+  "" Yes"": -0.0011755116,
+  "" yes"": -8.466796,
+  ""Yes"": -6.969971
+}"
+101.0,"The more you would want, the less you would eat.",1.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The more you would want, the less you would eat.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9882261496699348,"{
+  "" No"": -4.6291375,
+  "" Yes"": -0.011843711,
+  ""Yes"": -6.4196386
+}"
+102.0,"I demand that the more John eat, the more he pays.",0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: I demand that the more John eat, the more he pays.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9992408044948519,"{
+  "" "": -12.327023,
+  "" No"": -0.00075948384,
+  ""No"": -7.202415
+}"
+103.0,"The higher the stakes, the lower his expectations are.",1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The higher the stakes, the lower his expectations are.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9987608671598968,"{
+  "" Yes"": -0.0012399012,
+  "" yes"": -8.733302,
+  ""Yes"": -6.8487697
+}"
+104.0,The box contained the ball from the tree.,1.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The box contained the ball from the tree.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9990016102230478,"{
+  "" Yes"": -0.0009988885,
+  "" yes"": -8.84698,
+  ""Yes"": -7.0814867
+}"
+105.0,"Most people probably consider, even though the courts didn't actually find, Klaus guilty of murder.",1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Most people probably consider, even though the courts didn't actually find, Klaus guilty of murder.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.5921364978398749,"{
+  "" No"": -0.90144247,
+  "" Yes"": -0.5240181,
+  ""Yes"": -6.663651
+}"
+106.0,The men will all leave.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The men will all leave.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9987547867222463,"{
+  "" Yes"": -0.0012459892,
+  "" yes"": -8.235786,
+  ""Yes"": -6.955254
+}"
+107.0,They represented seriously to the dean Mary as a genuine linguist.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: They represented seriously to the dean Mary as a genuine linguist.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9990998366902887,"{
+  "" No"": -0.0009005687,
+  "" Yes"": -12.19092,
+  ""No"": -7.0278835
+}"
+108.0,Mary intended John to go abroad.,1.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Mary intended John to go abroad.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9987978216960025,"{
+  "" Yes"": -0.0012029015,
+  "" yes"": -8.729935,
+  ""Yes"": -6.8775854
+}"
+109.0,"Mary will read Fred's story, and Joe will read Holly's.",1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Mary will read Fred's story, and Joe will read Holly's.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9986254441684576,"{
+  "" Yes"": -0.0013755014,
+  "" yes"": -8.611749,
+  ""Yes"": -6.7428455
+}"
+110.0,Mary saw the boy walking toward the railroad station.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Mary saw the boy walking toward the railroad station.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.998855994873365,"{
+  "" Yes"": -0.00114466,
+  "" yes"": -8.478032,
+  ""Yes"": -6.9903393
+}"
+111.0,A proof that the claim had been. made was giver that John had lied.,0.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: A proof that the claim had been. made was giver that John had lied.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9991867422734674,"{
+  "" NO"": -12.053183,
+  "" No"": -0.0008135886,
+  ""No"": -7.134551
+}"
+112.0,He attributed to a short circuit which was caused by an overloaded transducer the fire which destroyed most of my factory.,0.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: He attributed to a short circuit which was caused by an overloaded transducer the fire which destroyed most of my factory.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9986194835906952,"{
+  "" No"": -0.0013814702,
+  "" Yes"": -8.338932,
+  ""No"": -6.786356
+}"
+113.0,I know a man who Tom drives as drives.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: I know a man who Tom drives as drives.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9992274530681629,"{
+  "" NO"": -11.40841,
+  "" No"": -0.0007728455,
+  ""No"": -7.2019653
+}"
+114.0,How sane is Peter?,0.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: How sane is Peter?
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.7591876112374114,"{
+  "" No"": -0.27550635,
+  "" Yes"": -1.427707,
+  ""No"": -7.6866336
+}"
+115.0,Mike talked about politics yesterday to my friends.,0.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Mike talked about politics yesterday to my friends.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9992189873492744,"{
+  "" No"": -0.0007813178,
+  "" Yes"": -10.445176,
+  ""No"": -7.201358
+}"
+116.0,Here's a knife with which for you to cut up the onions.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Here's a knife with which for you to cut up the onions.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9991248726974494,"{
+  "" "": -12.076165,
+  "" No"": -0.00087551045,
+  ""No"": -7.057384
+}"
+117.0,"Sally is tall, and may be blond, and Sheila is short, and definitely is, blond.",0.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Sally is tall, and may be blond, and Sheila is short, and definitely is, blond.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9939298800729676,"{
+  "" No"": -0.006088618,
+  "" Yes"": -5.2204494,
+  ""No"": -7.3515677
+}"
+118.0,Everybody around here who ever buys anything on credit talks in his sleep.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Everybody around here who ever buys anything on credit talks in his sleep.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989917172589865,"{
+  "" Yes"": -0.0010087914,
+  "" yes"": -8.675095,
+  ""Yes"": -7.101072
+}"
+119.0,"No writer, and no playwright, meets in Vienna.",0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: No writer, and no playwright, meets in Vienna.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9975413511404008,"{
+  "" No"": -0.0024616763,
+  "" Yes"": -6.3926616,
+  ""No"": -7.1747394
+}"
+120.0,"We launched the rocket to the moon, but it blew up before it got there.",1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: We launched the rocket to the moon, but it blew up before it got there.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9990006556774652,"{
+  "" Yes"": -0.000999844,
+  "" yes"": -8.4874,
+  ""Yes"": -7.1519604
+}"
+121.0,The farmer loaded the cart with apples.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The farmer loaded the cart with apples.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988028271838284,"{
+  "" Yes"": -0.00119789,
+  "" yes"": -8.281059,
+  ""Yes"": -6.9907475
+}"
+122.0,We pulled free.,0.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: We pulled free.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9994067432963888,"{
+  "" No"": -0.00059343275,
+  "" Yes"": -10.103851,
+  ""No"": -7.5183773
+}"
+123.0,Mira condemned Terry for the accident.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Mira condemned Terry for the accident.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989241251687724,"{
+  "" Yes"": -0.001076454,
+  "" yes"": -8.713785,
+  ""Yes"": -7.0149693
+}"
+124.0,We investigated the area for bombs.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: We investigated the area for bombs.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9986074432083057,"{
+  "" Yes"": -0.0013935273,
+  "" yes"": -7.893586,
+  ""Yes"": -6.9137774
+}"
+125.0,The books lifted onto the table.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The books lifted onto the table.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9994024514632799,"{
+  "" "": -12.130962,
+  "" No"": -0.00059772714,
+  ""No"": -7.445241
+}"
+126.0,Lora buttered at the toast.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Lora buttered at the toast.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9994698030041281,"{
+  "" "": -11.742664,
+  "" No"": -0.0005303376,
+  ""No"": -7.5749664
+}"
+127.0,Susan whispered the news.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Susan whispered the news.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988179084213337,"{
+  "" Yes"": -0.0011827908,
+  "" yes"": -8.6802845,
+  ""Yes"": -6.9117126
+}"
+128.0,Cynthia chewed.,1.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Cynthia chewed.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9987572907035109,"{
+  "" Yes"": -0.0012434821,
+  "" yes"": -8.418415,
+  ""Yes"": -6.906145
+}"
+129.0,Over the fire there bubbled a fragrant stew.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Over the fire there bubbled a fragrant stew.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989353300636339,"{
+  "" Yes"": -0.0010652371,
+  "" yes"": -8.617612,
+  ""Yes"": -7.0640683
+}"
+130.0,Soaring temperatures are predicted for this weekend.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Soaring temperatures are predicted for this weekend.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.998986828105587,"{
+  "" Yes"": -0.0010136855,
+  "" yes"": -8.330156,
+  ""Yes"": -7.2187443
+}"
+131.0,A wonderful opportunity presented itself to him yesterday.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: A wonderful opportunity presented itself to him yesterday.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988939045750023,"{
+  "" Yes"": -0.0011067076,
+  "" yes"": -8.858959,
+  ""Yes"": -6.9624825
+}"
+132.0,Out of the box jumped a little white rabbit.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Out of the box jumped a little white rabbit.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989668599570432,"{
+  "" Yes"": -0.0010336741,
+  "" yes"": -8.389655,
+  ""Yes"": -7.1388774
+}"
+133.0,did the policeman meet in the park?,0.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: did the policeman meet in the park?
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.965238802043133,"{
+  "" No"": -0.035379745,
+  "" Yes"": -3.3751032,
+  ""No"": -7.6981196
+}"
+134.0,John put old books in the box.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: John put old books in the box.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9987878671272395,"{
+  "" Yes"": -0.0012128681,
+  "" yes"": -8.208436,
+  ""Yes"": -6.993243
+}"
+135.0,Sandy removed her ballet shoes.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Sandy removed her ballet shoes.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989599484289385,"{
+  "" Yes"": -0.0010405928,
+  "" yes"": -8.468385,
+  ""Yes"": -7.119626
+}"
+136.0,Everyone hoped that she would sing.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Everyone hoped that she would sing.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989895708276887,"{
+  "" Yes"": -0.00101094,
+  "" yes"": -8.545975,
+  ""Yes"": -7.1344604
+}"
+137.0,This proved a decisive factor.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: This proved a decisive factor.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988146888368766,"{
+  "" Yes"": -0.0011860142,
+  "" yes"": -8.867486,
+  ""Yes"": -6.890937
+}"
+138.0,John is afraid of Bill.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: John is afraid of Bill.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9987397073366868,"{
+  "" Yes"": -0.0012610875,
+  "" yes"": -8.062954,
+  ""Yes"": -6.9815063
+}"
+139.0,That Fred was unpopular nominated Bill.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: That Fred was unpopular nominated Bill.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9992537387915057,"{
+  "" NO"": -12.276505,
+  "" No"": -0.0007465398,
+  ""No"": -7.221139
+}"
+140.0,Most of the fruit is rotten.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Most of the fruit is rotten.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989547039029761,"{
+  "" Yes"": -0.0010458428,
+  "" yes"": -8.4148445,
+  ""Yes"": -7.136265
+}"
+141.0,John is easy to please Kim.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: John is easy to please Kim.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9992223244464988,"{
+  "" "": -12.190557,
+  "" No"": -0.0007779781,
+  ""No"": -7.182361
+}"
+142.0,It tries to leave the country.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: It tries to leave the country.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9994110351079522,"{
+  "" "": -12.513583,
+  "" No"": -0.0005891384,
+  ""No"": -7.454717
+}"
+143.0,We expect there to will rain.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: We expect there to will rain.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9992586264033089,"{
+  "" No"": -0.00074164855,
+  "" no"": -11.841389,
+  ""No"": -7.239419
+}"
+144.0,We never found any of the unicorns.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: We never found any of the unicorns.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9990269409293137,"{
+  "" Yes"": -0.0009735328,
+  "" yes"": -8.531345,
+  ""Yes"": -7.184578
+}"
+145.0,The bed was slept in.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The bed was slept in.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9779852997409593,"{
+  "" No"": -3.8731153,
+  "" Yes"": -0.02226064,
+  ""Yes"": -7.0312157
+}"
+146.0,the baker from whom I bought these bagels left.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: the baker from whom I bought these bagels left.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9990366568532285,"{
+  "" Yes"": -0.00096380746,
+  "" yes"": -8.9460125,
+  ""Yes"": -7.101019
+}"
+147.0,Which topic did you choose without getting his approval?,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Which topic did you choose without getting his approval?
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9987003082318728,"{
+  "" Yes"": -0.0013005371,
+  "" yes"": -8.894616,
+  ""Yes"": -6.765363
+}"
+148.0,To please John is easy.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: To please John is easy.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.998826730619353,"{
+  "" Yes"": -0.0011739582,
+  "" yes"": -9.095048,
+  ""Yes"": -6.8594723
+}"
+149.0,It annoys me that Fido barks.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: It annoys me that Fido barks.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.999078797267999,"{
+  "" Yes"": -0.0009216273,
+  "" yes"": -8.768944,
+  ""Yes"": -7.1927814
+}"
+150.0,It was the peasant girl who got it.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: It was the peasant girl who got it.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9990246753785469,"{
+  "" Yes"": -0.00097580056,
+  "" yes"": -9.123691,
+  ""Yes"": -7.065995
+}"
+151.0,A sick owl doesn't hunt mice.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: A sick owl doesn't hunt mice.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9991235625458629,"{
+  "" Yes"": -0.00087682175,
+  "" yes"": -8.680442,
+  ""Yes"": -7.27909
+}"
+152.0,1 gave Mary after the party a book.,0.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: 1 gave Mary after the party a book.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9992248287505877,"{
+  "" "": -12.108181,
+  "" No"": -0.00077547185,
+  ""No"": -7.179895
+}"
+153.0,"Because she's so pleasant, as for Mary I really like her.",0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Because she's so pleasant, as for Mary I really like her.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9990954862194317,"{
+  "" "": -12.264965,
+  "" No"": -0.0009049231,
+  ""No"": -7.0227537
+}"
+154.0,I have much of the manuscript left to type.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: I have much of the manuscript left to type.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989316357079342,"{
+  "" Yes"": -0.0010689354,
+  "" yes"": -8.826264,
+  ""Yes"": -7.0049143
+}"
+155.0,Any trouble is what I don't want.,1.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Any trouble is what I don't want.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9991361379438534,"{
+  "" Yes"": -0.0008642354,
+  "" yes"": -9.118441,
+  ""Yes"": -7.2058773
+}"
+156.0,They may grow as high as bamboo.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: They may grow as high as bamboo.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9990137114026445,"{
+  "" Yes"": -0.0009867753,
+  "" yes"": -8.726418,
+  ""Yes"": -7.119257
+}"
+157.0,They chased the man with the car.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: They chased the man with the car.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988320954320133,"{
+  "" Yes"": -0.0011685871,
+  "" yes"": -8.365569,
+  ""Yes"": -6.9884043
+}"
+158.0,Heidi thinks that Andy should eat salmon flavored candy bars.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Heidi thinks that Andy should eat salmon flavored candy bars.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9990558508495517,"{
+  "" Yes"": -0.00094459514,
+  "" yes"": -8.762516,
+  ""Yes"": -7.1622357
+}"
+159.0,The manager laughed.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The manager laughed.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988384144633702,"{
+  "" Yes"": -0.0011622607,
+  "" yes"": -8.211067,
+  ""Yes"": -7.0556035
+}"
+160.0,Who did you think kissed the gorilla?,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Who did you think kissed the gorilla?
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9991316081706131,"{
+  "" Yes"": -0.0008687691,
+  "" yes"": -9.134963,
+  ""Yes"": -7.191962
+}"
+161.0,There were four men arriving at the station when I pulled up.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: There were four men arriving at the station when I pulled up.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9990520360320025,"{
+  "" Yes"": -0.00094841357,
+  "" yes"": -8.7206955,
+  ""Yes"": -7.167455
+}"
+162.0,Jean wants Bill to do the Macarena.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Jean wants Bill to do the Macarena.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9990517969289073,"{
+  "" Yes"": -0.0009486529,
+  "" yes"": -8.638418,
+  ""Yes"": -7.180737
+}"
+163.0,John thinks that Mary loves himself.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: John thinks that Mary loves himself.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9987129448668184,"{
+  "" "": -11.677,
+  "" No"": -0.0012878841,
+  ""No"": -6.675368
+}"
+164.0,"You may pick every flower, but leave a few for Mary.",1.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: You may pick every flower, but leave a few for Mary.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989483831369798,"{
+  "" Yes"": -0.0010521702,
+  "" yes"": -8.817132,
+  ""Yes"": -7.0201783
+}"
+165.0,The wealthy young man bought that piano for his secret fiancée.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The wealthy young man bought that piano for his secret fiancée.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989983929435426,"{
+  "" Yes"": -0.001002109,
+  "" yes"": -8.829187,
+  ""Yes"": -7.0769825
+}"
+166.0,a tall building.,0.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: a tall building.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9994720705438211,"{
+  "" "": -11.825282,
+  "" No"": -0.00052806886,
+  ""No"": -7.5862803
+}"
+167.0,Captain Wentworth wrote a letter to Anne Elliott.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Captain Wentworth wrote a letter to Anne Elliott.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989315157362519,"{
+  "" Yes"": -0.0010690555,
+  "" yes"": -8.67969,
+  ""Yes"": -7.0409384
+}"
+168.0,They realised that never had Sir Thomas been so offended.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: They realised that never had Sir Thomas been so offended.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989040364072599,"{
+  "" Yes"": -0.0010965646,
+  "" yes"": -9.135093,
+  ""Yes"": -6.9321756
+}"
+169.0,Fanny regretted having to talk to Aunt Norris.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Fanny regretted having to talk to Aunt Norris.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9990166915648921,"{
+  "" Yes"": -0.0009837922,
+  "" yes"": -9.0087805,
+  ""Yes"": -7.070707
+}"
+170.0,The idea dismayed the Prime Minister that the Dome was dull.,0.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The idea dismayed the Prime Minister that the Dome was dull.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9993591211206531,"{
+  "" "": -12.457542,
+  "" No"": -0.00064108433,
+  ""No"": -7.368599
+}"
+171.0,Harriet admired Mr Knightley.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Harriet admired Mr Knightley.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9987819065787917,"{
+  "" Yes"": -0.0012188359,
+  "" yes"": -8.345162,
+  ""Yes"": -6.9487605
+}"
+172.0,Emma made Harriet some food.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Emma made Harriet some food.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9986888032705906,"{
+  "" Yes"": -0.0013120571,
+  "" yes"": -8.390989,
+  ""Yes"": -6.842407
+}"
+173.0,Emma and Harriet were attacked yesterday.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Emma and Harriet were attacked yesterday.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9987526398012643,"{
+  "" Yes"": -0.0012481388,
+  "" yes"": -8.433129,
+  ""Yes"": -6.898339
+}"
+174.0,I want to try and buy some whiskey.,0.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: I want to try and buy some whiskey.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9994005443853535,"{
+  "" No"": -0.00059963536,
+  "" Yes"": -11.947242,
+  ""No"": -7.444442
+}"
+175.0,She goes and buying some whiskey.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: She goes and buying some whiskey.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9993277673196993,"{
+  "" "": -11.714682,
+  "" No"": -0.00067245873,
+  ""No"": -7.342938
+}"
+176.0,Ann bought a first edition of Richard III for $1000.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Ann bought a first edition of Richard III for $1000.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989201909138529,"{
+  "" Yes"": -0.0010803925,
+  "" yes"": -8.710428,
+  ""Yes"": -7.015019
+}"
+177.0,Henri wants to buy which books about cooking?,0.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Henri wants to buy which books about cooking?
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.999391721716291,"{
+  "" "": -12.754658,
+  "" No"": -0.00060846336,
+  ""No"": -7.4172916
+}"
+178.0,I will fix the computer for Carol.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: I will fix the computer for Carol.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988825201461573,"{
+  "" Yes"": -0.0011181047,
+  "" yes"": -8.687286,
+  ""Yes"": -6.97472
+}"
+179.0,"Suddenly, there arrived two inspectors from the INS.",1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Suddenly, there arrived two inspectors from the INS.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.998961974721353,"{
+  "" Yes"": -0.0010385644,
+  "" yes"": -9.104146,
+  ""Yes"": -7.0007463
+}"
+180.0,I gave money to the charity.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: I gave money to the charity.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9986801031311082,"{
+  "" Yes"": -0.0013207687,
+  "" yes"": -8.430472,
+  ""Yes"": -6.827698
+}"
+181.0,I saw even the student.,0.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: I saw even the student.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.999356019944221,"{
+  "" "": -12.427989,
+  "" No"": -0.0006441875,
+  ""No"": -7.3642926
+}"
+182.0,Each of the boys fought with some of the other boys.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Each of the boys fought with some of the other boys.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9987513291390351,"{
+  "" Yes"": -0.0012494511,
+  "" yes"": -8.564926,
+  ""Yes"": -6.8631716
+}"
+183.0,Mary revealed himself to John.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Mary revealed himself to John.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9991628395844748,"{
+  "" "": -11.894535,
+  "" No"": -0.00083751103,
+  ""No"": -7.1132755
+}"
+184.0,Henry found that Bill is sad.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Henry found that Bill is sad.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.998514758364695,"{
+  "" Yes"": -0.0014863457,
+  "" yes"": -8.321535,
+  ""Yes"": -6.7006435
+}"
+185.0,John considers himself proud of Mary.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: John considers himself proud of Mary.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9987794014371554,"{
+  "" Yes"": -0.0012213441,
+  "" yes"": -8.704327,
+  ""Yes"": -6.868832
+}"
+186.0,Everyone hopes that he will sleep.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Everyone hopes that he will sleep.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9988452661188578,"{
+  "" Yes"": -0.0011554011,
+  "" yes"": -8.706145,
+  ""Yes"": -6.9302974
+}"
+187.0,John convinced Bill that Mary should sleep.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: John convinced Bill that Mary should sleep.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9986812936583688,"{
+  "" Yes"": -0.0013195766,
+  "" yes"": -8.387856,
+  ""Yes"": -6.8378673
+}"
+188.0,Anson demonized up the Khyber,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Anson demonized up the Khyber
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.999220777851382,"{
+  "" NO"": -12.059449,
+  "" No"": -0.0007795259,
+  ""No"": -7.181716
+}"
+189.0,The Peter we all like was at the party,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The Peter we all like was at the party
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9987143763231081,"{
+  "" Yes"": -0.0012864508,
+  "" yes"": -9.3572035,
+  ""Yes"": -6.734765
+}"
+190.0,What did you ask who Medea gave?,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: What did you ask who Medea gave?
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9990677118009351,"{
+  "" No"": -0.00093272305,
+  "" no"": -12.502284,
+  ""No"": -6.9910297
+}"
+191.0,It's Anson that I like,0.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: It's Anson that I like
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9989248378014974,"{
+  "" No"": -0.0010757406,
+  "" Yes"": -10.364433,
+  ""No"": -6.8769336
+}"
+192.0,Anson believed himself to be handsome.,1.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Anson believed himself to be handsome.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9991893665409735,"{
+  "" Yes"": -0.0008109622,
+  "" yes"": -8.892975,
+  ""Yes"": -7.323797
+}"
+193.0,Anson thought that himself was happy.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Anson thought that himself was happy.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9990690228284,"{
+  "" "": -11.886496,
+  "" No"": -0.0009314108,
+  ""No"": -7.0020647
+}"
+194.0,I might be not going to the party but washing my hair,0.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: I might be not going to the party but washing my hair
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9991348268782733,"{
+  "" "": -12.783174,
+  "" No"": -0.0008655476,
+  ""No"": -7.0615897
+}"
+195.0,Jason happens to appear to seem to be sick.,0.0,1.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Jason happens to appear to seem to be sick.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9987271895112644,"{
+  "" No"": -0.0012736212,
+  "" Yes"": -10.934636,
+  ""No"": -6.693206
+}"
+196.0,He can will go,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: He can will go
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9991699325967079,"{
+  "" "": -12.319945,
+  "" No"": -0.0008304121,
+  ""No"": -7.1096005
+}"
+197.0,I inquired when could we leave.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: I inquired when could we leave.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9991065129674608,"{
+  "" "": -12.135853,
+  "" No"": -0.00089388643,
+  ""No"": -7.035247
+}"
+198.0,The bookcase ran,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: The bookcase ran
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.999332057842746,"{
+  "" "": -12.033474,
+  "" No"": -0.00066816533,
+  ""No"": -7.333391
+}"
+199.0,Anson became a muscle bound.,0.0,0.0,"Sentence: She mailed John a letter, but I don't know to whom.
+The sentence is not grammatical.
+
+Sentence: The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.
+The sentence is grammatical.
+
+Sentence: Anson became a muscle bound.
+Is the sentence grammatical? Answer as yes or no.
+
+Answer:",0.9993850482104055,"{
+  "" "": -12.011586,
+  "" No"": -0.00061514095,
+  ""No"": -7.4236608
+}"

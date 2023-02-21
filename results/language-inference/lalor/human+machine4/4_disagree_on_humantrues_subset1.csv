@@ -1,0 +1,16 @@
+sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_4_pred,machine_4_confidence,confidence_diff
+68.0,A couple kissing in front of a black Mercedes Benz limousine,A couple kissing in front of a car,entailment,entailment,0.9611054247697032,neutral,0.9707925104327944,1.9318979352024974
+77.0,Many small sailboats sitting at a dock., Many small sailboats docked.,entailment,entailment,0.9119754350051176,neutral,0.9922723982316362,1.9042478332367536
+50.0,A picture of two little boys holding books.,A picture of children with books.,entailment,entailment,0.9672466734902764,neutral,0.934278504978356,1.9015251784686322
+63.0,there is a lady standing and six people laying on a gym floor.,There are seven people in the gym.,entailment,entailment,0.7922210849539406,neutral,0.9922341327782592,1.7844552177321997
+23.0,A single runner is watched by onlookers in a race.,A man is running in a race.,entailment,entailment,0.6192425793244627,neutral,0.9995293493507806,1.6187719286752433
+60.0,This man is walking past a wall that has art on it.,A man walks past a wall mural.,entailment,entailment,0.5844421699078812,neutral,0.999423253842042,1.5838654237499232
+66.0,A street vendor selling cupcakes.,There is a person outside in this picture,entailment,entailment,0.4923234390992835,neutral,0.9469897097607756,1.439313148860059
+59.0,6 men in work jumpsuits and 1 man in an orange jumpsuit are walking next to green and red loading docks.,All 7 men are best friends.,neutral,neutral,0.924257932446264,contradiction,0.7169675768333841,0.7927096443871201
+54.0,A young girl in a pink shirt sitting on a dock viewing a body of water.,An old woman viewing a body of water.,contradiction,contradiction,0.6939611054247697,neutral,0.9822189560310016,0.711742149393768
+76.0,A football team wearing purple and white trying to stop the runner with the ball.,Lacrosse players celebrate a victory.,contradiction,contradiction,0.646878198567042,neutral,0.9989381908187284,0.6479400077483136
+52.0,"A man is standing in what appears to be a parking lot and shaving his face, while his dog looks at the ground near his feet.",A women is walking with a man,contradiction,contradiction,0.5721596724667349,neutral,0.942988160095134,0.6291715123716008
+58.0,A police vehicle in an urban area.,A cop car in a suburban area,contradiction,contradiction,0.6141248720573184,neutral,0.99910162697889,0.6150232450784282
+70.0,A father and children ride bikes in city street.,A woman and her daughters ride their bikes.,contradiction,contradiction,0.6008188331627431,neutral,0.9988659500212468,0.6019528831414963
+71.0,a poor looking person with white cream smeared around his eyes sitting on a backpack.,A dirty man with some product under his eyes is sitting on a pillow.,contradiction,contradiction,0.5670419651995906,neutral,0.997703890800808,0.5693380743987826
+43.0,A man and woman walking away from a crowded street fair.,There are a group of men walking together.,contradiction,contradiction,0.5414534288638689,neutral,0.9989488604346312,0.5425045684292379

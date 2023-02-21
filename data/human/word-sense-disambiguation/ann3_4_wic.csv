@@ -1,0 +1,51 @@
+sample_id,gold_label,ann_3,ann_4,word,sentence_1,sentence_2
+0,T,T,T,tune,To tune a piano or a violin,My piano needs to be tuned
+1,T,T,T,segregate,We do n't segregate in this county,This neighborhood is segregated
+2,F,F,F,bank,he sat on the bank of the river and watched the currents,that bank holds the mortgage on my home
+3,T,F,T,elaborate,elaborate a plan,Could you elaborate on the plot for your novel for me ?
+4,T,T,T,girlfriend,his girlfriend kicked him out,Marc went to the park with his girlfriend and watched the sunset with her .
+5,F,F,F,hand,Give me your hand .,hand the elderly lady into the taxi
+6,F,F,F,round,we enjoyed our round of the local bars,Hospital rounds
+7,F,T,F,divaricate,divaricate one 's fingers,The road divaricates here
+8,T,T,T,marmalade,Thick cut marmalade,Lime marmalade
+9,T,T,F,pump,pump the gas pedal,I 've pumped over 1000 gallons of water in the last ten minutes .
+10,T,T,T,part,The first violin part in this concerto is very challenging .,he tried to sing the tenor part
+11,T,F,F,line,that salesman must have practiced his fast line of talk,` let me show you my etchings ' is a rather worn line
+12,T,T,T,yesterday,yesterday 's solutions are not good enough,Yesterday 's technology
+13,F,F,F,pickup,his car has a lot of pickup,put out a pickup on that man
+14,T,F,T,work,work equals force times distance,Work is done against friction to drag a bag along the ground .
+15,F,T,F,sell,The French try to sell us their image as great lovers,The new idea sold well in certain circles
+16,F,F,F,fantasy,a schoolgirl fantasy,she made a lot of money writing romantic fantasies
+17,F,F,F,zap,zap the enemy,"If it 's not warm in the middle , zap it some more ."
+18,F,T,T,moderate,moderate your alcohol intake,moderate your speed
+19,F,F,F,mold,mold public opinion,The furniture molded in the old house
+20,F,F,F,vegetation,Pleistocene vegetation,their holiday was spent in sleep and vegetation
+21,F,F,F,harness,harness natural forces and resources,harness the horse
+22,F,F,F,erupt,erupt in anger,Unrest erupted in the country
+23,F,F,F,flare,the skirt had a wide flare,she could not control her flare of rage
+24,F,F,F,capacity,the capacity of a hard disk drive is usually expressed in megabytes,the plant is working at 80 per cent capacity
+25,T,T,T,center,Convention center,they received messages from several centers
+26,F,F,F,program,working mothers rely on the day care program,you ca n't tell the players without a program
+27,F,F,F,baseline,The ref missed the call . The ball hit the baseline .,the established a baseline for the budget
+28,T,T,T,pride,"I pride myself on being a good judge of character , but pride goes before the fall and I 'm not a good judge of my own character so I 'm often wrong without knowing it .",He prides himself on making it into law school
+29,T,F,T,effect,the magnetic effect was greater when the rod was lengthwise,The effect of the hurricane was a devastated landscape .
+30,T,T,T,celebrate,celebrate Christmas,To celebrate a birthday
+31,T,T,F,hedge,To hedge a field or garden,hedge the property
+32,F,F,F,grab,This story will grab you,Grab power
+33,F,F,F,blood,the ancients believed that blood was the seat of the emotions,blood carries oxygen and nutrients to the tissues and carries away waste products
+34,F,F,F,interest,He has a lot of interest in vintage cars .,how much interest do you pay on your mortgage ?
+35,F,T,T,concord,Both philosophers concord on this point,Their ideas concorded
+36,F,F,F,mound,they have a southpaw on the mound,they built small mounds to hide behind
+37,T,T,T,suspect,I suspect him of being the thief .,The U.S. suspected Bin Laden as the mastermind behind the terrorist attacks
+38,F,F,T,agony,an agony of doubt,Being in an agony he prayed more earnestly . —Luke xxii . 44 .
+39,T,T,T,devour,She intended to devour the book .,She devoured his novels
+40,T,T,T,comply,You must comply or else !,He complied with my instructions
+41,F,F,T,baste,baste a roast,baste a hem
+42,F,F,F,stun,stun fish,The news stunned her
+43,F,F,F,correction,market runups are invariably followed by a correction,the correction of his vision with eye glasses
+44,T,T,F,restore,restore the emperor to the throne,To restore harmony among those who are at variance
+45,T,T,T,scare,a bomb scare led them to evacuate the building,a war scare
+46,T,F,F,feeling,I had a strange feeling in my leg,he had a queasy feeling
+47,T,T,F,inspire,The lung cancer patient can not inspire air very well,The patient has trouble inspiring
+48,T,F,F,start,To start a stream of water ;   to start a rumour ;   to start a business,We simply could not start the engine
+49,F,F,T,account,Passing grades account for half of the grades given in this exam,I ca n't account for the missing money

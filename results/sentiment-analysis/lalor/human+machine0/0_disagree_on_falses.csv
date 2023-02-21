@@ -1,0 +1,6 @@
+sample_id,content,gold_label,agg_human_label,agg_human_confidence,machine_0_pred,machine_0_confidence,confidence_diff
+95,"The story is less vibrant , the jokes are a little lukewarm , but will anyone really care ?",0.0,-1.0,0.5745745745745746,1.0,0.3333333333333333,1.907907907907908
+41,"You wo n't believe much of it , but you will laugh at the audacity , at the who 's who casting and the sheer insanity of it all .",0.0,1.0,0.4934934934934935,-1.0,0.3333333333333333,1.8268268268268266
+61,Morrissette 's script and direction show a fair amount of intelligence and wit -- but it does n't signify a whole lot either .,0.0,-1.0,0.4044044044044044,1.0,0.3333333333333333,1.7377377377377377
+40,What might have been a predictably heartwarming tale is suffused with complexity .,1.0,-1.0,0.3593593593593593,0.0,0.3333333333333333,1.026026026026026
+33,"Still , it gets the job done -- a sleepy afternoon rental .",-1.0,1.0,0.4314314314314314,0.0,0.3333333333333333,0.7647647647647647

@@ -15,20 +15,49 @@ def get_machine_acc(file):
     count = 0
     true = 0
     for idx, row in mdf.iterrows():
-        count+=1
-        sid = row['sample_id']
-        goldlabel = get_label(sid)
         predlabel = row['pred_label']
-        if goldlabel.values[0].strip() == predlabel.strip():
-            true+=1
-        else:
-            print(goldlabel, predlabel)
+        sid = row['sample_id']
+        if isinstance(predlabel, str):
+            count+=1
+            goldlabel = get_label(sid)
+            goldlabel = goldlabel.values[0].strip()
+            if goldlabel == predlabel.strip():
+                true+=1
+            else:
+                print(goldlabel, predlabel)
     
+    print('# instances:', count)
     return true/count
 
 
-acc = get_machine_acc('data/machine/language-inference/lalor/openGPT-davinci-oneshot/prompt_out_snli.csv')
+def get_machine_acc_on_subset(file, subsetfile):
+    mdf = pd.read_csv(file)
+    sdf = pd.read_csv(subsetfile)
+    
+    count = 0
+    true = 0
+    for idx, row in mdf.iterrows():
+        predlabel = row['pred_label']
+        sid = row['sample_id']
+        if int(sid) in list(sdf['sample_id']):
+            #print(sid)
+            if isinstance(predlabel, str):
+                count+=1
+                goldlabel = get_label(sid)
+                goldlabel = goldlabel.values[0].strip()
+                if goldlabel == predlabel.strip():
+                    true+=1
+                else:
+                    pass
+                    #print(goldlabel, predlabel)
+        
+    print('# instances:', count)
+    return true/count
 
-print("acc: %.3f" % acc)
+models = ['random', 'tfidf', 'lstm', 'roberta', 'davinci', 'human']
+subset_file = 'user-study/subsets/subset2.csv'
+for model in models:
+    acc = get_machine_acc_on_subset('results/language-inference/lalor/files/'+model+'.csv', subset_file)
+    print('model:', model, " acc: %.3f" % acc)
 
 

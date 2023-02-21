@@ -1,0 +1,11 @@
+sample_id,content,gold_label,agg_human_label,agg_human_confidence,machine_5_pred,machine_5_confidence,confidence_diff
+4,"The appearance of Treebeard and Gollum 's expanded role will either have you loving what you 're seeing , or rolling your eyes .",1.0,1.0,0.5485485485485485,-1.0,0.41,1.9585485485485483
+93,Remember when Bond had more glamour than clamor ?,-1.0,-1.0,0.5015015015015015,1.0,0.41,1.9115015015015013
+56,It 's hard not to feel you 've just watched a feature-length video game with some really heavy back story .,-1.0,-1.0,0.4074074074074074,1.0,0.49,1.8974074074074074
+12,"A bowel-curdling , heart-stopping recipe for terror .",1.0,1.0,0.3843843843843844,-1.0,0.44,1.8243843843843843
+94,The film is directed by Wally Wolodarsky from a script by Joe Jarvis and Greg Coolidge .,0.0,0.0,0.925925925925926,1.0,0.55,1.475925925925926
+74,This one does .,0.0,0.0,0.8028028028028028,1.0,0.46,1.2628028028028029
+69,"The rest of the plot is impossible to explain without blowing whatever tension there is , although it 's more comedy than suspense De Palma creates .",0.0,0.0,0.3723723723723723,-1.0,0.55,1.1776276276276278
+92,Only two words will tell you what you know when deciding to see it : Anthony .,0.0,0.0,0.6786786786786787,1.0,0.41,1.0886786786786786
+97,`` its successes are also tempered with elements which prove the direct antithesis of what it gets right . '',0.0,0.0,0.3733733733733734,-1.0,0.34,0.9666266266266267
+78,"When Perry fists a bull at the Moore Farm , it 's only a matter of time before he gets the upper hand in matters of the heart .",0.0,0.0,0.5475475475475475,-1.0,0.41,0.8624524524524524
