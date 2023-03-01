@@ -1,0 +1,3 @@
+sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_3_pred,machine_3_confidence,confidence_diff
+19.0,Man sweeping trash outside a large statue.,A man is on vacation.,contradiction,neutral,0.5015353121801432,neutral,0.973951177425102,0.4724158652449587
+35.0,An old woman in a cowboy hat smokes a cigarette.,The old lady is ten feet tall.,contradiction,neutral,0.6653019447287615,neutral,0.541163235830135,0.12413870889862644

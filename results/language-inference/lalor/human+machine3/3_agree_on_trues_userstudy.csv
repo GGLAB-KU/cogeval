@@ -1,0 +1,35 @@
+sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_3_pred,machine_3_confidence,confidence_diff
+28.0,"A group of people are gathered in a crowd, some of which are holding spears.",A crowd of people are holding swords,contradiction,contradiction,0.4882292732855681,contradiction,0.993729965146524,0.5055006918609559
+66.0,A street vendor selling cupcakes.,There is a person outside in this picture,entailment,entailment,0.4923234390992835,entailment,0.982730805900929,0.4904073668016455
+43.0,A man and woman walking away from a crowded street fair.,There are a group of men walking together.,contradiction,contradiction,0.5414534288638689,contradiction,0.998077722965512,0.45662429410164307
+70.0,A father and children ride bikes in city street.,A woman and her daughters ride their bikes.,contradiction,contradiction,0.6008188331627431,contradiction,0.999618185242149,0.39879935207940587
+80.0,Two men fight in a ring while spectators look on.,Boxers fight as the crowd screams.,neutral,neutral,0.5854657113613101,neutral,0.980938818043959,0.3954731066826489
+58.0,A police vehicle in an urban area.,A cop car in a suburban area,contradiction,contradiction,0.6141248720573184,contradiction,0.998343854426634,0.3842189823693156
+52.0,"A man is standing in what appears to be a parking lot and shaving his face, while his dog looks at the ground near his feet.",A women is walking with a man,contradiction,contradiction,0.5721596724667349,contradiction,0.942601953696052,0.3704422812293171
+76.0,A football team wearing purple and white trying to stop the runner with the ball.,Lacrosse players celebrate a victory.,contradiction,contradiction,0.646878198567042,contradiction,0.999737854725078,0.35285965615803605
+56.0,"Two cyclists, in yellow, are competing in a race.",A Mustang and a Corvette are competing in a drag race.,contradiction,contradiction,0.6888433981576254,contradiction,0.999735944637668,0.3108925464800426
+54.0,A young girl in a pink shirt sitting on a dock viewing a body of water.,An old woman viewing a body of water.,contradiction,contradiction,0.6939611054247697,contradiction,0.999584257227656,0.30562315180288624
+13.0,A cyclist is optimistic as he rushes through the air while on his BMX bike at a bicycle event.,A snowboarder flies through the air,contradiction,contradiction,0.7001023541453428,contradiction,0.999723475433857,0.29962112128851415
+61.0,A black dog has just jumped into a swimming pool.,A dog jumped into a pool to cool off.,neutral,neutral,0.6693961105424769,neutral,0.955984490922712,0.28658838038023504
+71.0,a poor looking person with white cream smeared around his eyes sitting on a backpack.,A dirty man with some product under his eyes is sitting on a pillow.,contradiction,contradiction,0.5670419651995906,contradiction,0.827305682277348,0.2602637170777574
+5.0,A little girl in pink stands in a yellow hallway.,The girl is standing outside her apartment.,neutral,neutral,0.7881269191402251,neutral,0.603338395003738,0.18478852413648716
+25.0,A boy does a skateboarding trick in the air while holding the board with his left hand.,A sad boy does a skateboarding trick in the air while holding the board with his left hand.,neutral,neutral,0.81985670419652,neutral,0.997636796148422,0.17778009195190203
+63.0,there is a lady standing and six people laying on a gym floor.,There are seven people in the gym.,entailment,entailment,0.7922210849539406,entailment,0.963695034082212,0.1714739491282714
+57.0,The backside of a woman leaning against the guard rail of a passenger boat looking out at the open ocean.,The woman is driving her car on the highway.,contradiction,contradiction,0.8607983623336745,contradiction,0.999734761175086,0.1389363988414115
+59.0,6 men in work jumpsuits and 1 man in an orange jumpsuit are walking next to green and red loading docks.,All 7 men are best friends.,neutral,neutral,0.924257932446264,neutral,0.815794965410334,0.10846296703592995
+49.0,Eight people are sitting on a long boat on a sunny day.,Morning ride on boat,neutral,neutral,0.7993858751279427,neutral,0.895158476871392,0.09577260174344937
+45.0,A young woman with glasses sits at the end of a row of seats and speaks into a microphone.,A young woman wearing glasses,entailment,entailment,0.8628454452405322,entailment,0.946422729947762,0.0835772847072298
+75.0,"Neck and neck to the finish line, every competitor has been training for this race.",The competitors have trained very hard and are all very close to the finish line.,entailment,entailment,0.8311156601842374,entailment,0.889421382380858,0.05830572219662056
+77.0,Many small sailboats sitting at a dock., Many small sailboats docked.,entailment,entailment,0.9119754350051176,entailment,0.969700393957279,0.057724958952161454
+64.0,A couple is back to back in formal attire.,Two people are facing away from each other.,entailment,entailment,0.8781985670419652,entailment,0.93248306657664,0.054284499534674846
+69.0,A group of people in blue pants and shirts in motion.,There are people moving.,entailment,entailment,0.9355168884339816,entailment,0.985389604037617,0.049872715603635376
+0.0,A little boy is opening gifts surrounded by a group of children and adults.,The boy is being punished,contradiction,contradiction,0.8382804503582395,contradiction,0.886620371759057,0.04833992140081744
+10.0,Man and woman crossing the street at dusk.,A husband and a wife are enjoying a leisurely stroll in the evening.,neutral,neutral,0.7758444216990789,neutral,0.733635465703,0.04220895599607888
+65.0,A biker pops a wheelie along side the colorful wall.,A person is riding a bike near a wall.,entailment,entailment,0.9273285568065508,entailment,0.96737084488955,0.040042288082999256
+17.0,A man posing with a antique sewing machine.,He is a sewer.,neutral,neutral,0.8536335721596725,neutral,0.816993144454664,0.03664042770500853
+81.0,Girls playing soccer competitively in the grass.,Nobody is playing soccer.,contradiction,contradiction,0.9631525076765608,contradiction,0.999724431813576,0.036571924137015155
+55.0,A bunch of happy children having fun swimming and one boy is showing off his talent with a back flip.,Kids are having fun,entailment,entailment,0.9437052200614124,entailment,0.971894755315145,0.02818953525373258
+50.0,A picture of two little boys holding books.,A picture of children with books.,entailment,entailment,0.9672466734902764,entailment,0.983341454493439,0.01609478100316264
+9.0,A man in and a woman are holding their towels at the beach.,People are at the beach,entailment,entailment,0.962128966223132,entailment,0.974619492827437,0.012490526604304941
+68.0,A couple kissing in front of a black Mercedes Benz limousine,A couple kissing in front of a car,entailment,entailment,0.9611054247697032,entailment,0.963511249839496,0.0024058250697928107
+73.0,A boy in a gray hoodie and black cap holds up an American flag.,A person is holding an American flag.,entailment,entailment,0.9795291709314228,entailment,0.977172646567694,0.002356524363728796

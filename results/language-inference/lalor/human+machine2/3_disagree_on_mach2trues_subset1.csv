@@ -1,0 +1,5 @@
+sample_id,sentence_1,sentence_2,gold_label,machine_2_pred,machine_2_confidence,machine_3_pred,machine_3_confidence,confidence_diff
+88.0,A young girl in a bathing suit drinking a beverage in a green bottle.,The girl is drinking milk from a sippy cup.,contradiction,neutral,0.47,contradiction,0.988366166911022,1.518366166911022
+75.0,"Neck and neck to the finish line, every competitor has been training for this race.",The competitors have trained very hard and are all very close to the finish line.,entailment,neutral,0.49,entailment,0.889421382380858,1.3794213823808579
+49.0,Eight people are sitting on a long boat on a sunny day.,Morning ride on boat,neutral,entailment,0.46,neutral,0.895158476871392,1.355158476871392
+41.0,Two soccer players on the field running into each other.,There are two people colliding and falling.,neutral,contradiction,0.39,neutral,0.741396481138377,0.6486035188616232

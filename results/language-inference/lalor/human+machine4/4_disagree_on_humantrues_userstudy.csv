@@ -1,0 +1,19 @@
+sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_4_pred,machine_4_confidence,confidence_diff
+68.0,A couple kissing in front of a black Mercedes Benz limousine,A couple kissing in front of a car,entailment,entailment,0.9611054247697032,neutral,0.9712630238702172,1.9323684486399204
+77.0,Many small sailboats sitting at a dock., Many small sailboats docked.,entailment,entailment,0.9119754350051176,neutral,0.9930949998264096,1.905070434831527
+50.0,A picture of two little boys holding books.,A picture of children with books.,entailment,entailment,0.9672466734902764,neutral,0.9351794387544976,1.902426112244774
+9.0,A man in and a woman are holding their towels at the beach.,People are at the beach,entailment,entailment,0.962128966223132,neutral,0.9399153386877512,1.9020443049108833
+63.0,there is a lady standing and six people laying on a gym floor.,There are seven people in the gym.,entailment,entailment,0.7922210849539406,neutral,0.994164721758622,1.7863858067125626
+23.0,A single runner is watched by onlookers in a race.,A man is running in a race.,entailment,entailment,0.6192425793244627,neutral,0.9995303035419344,1.6187728828663972
+60.0,This man is walking past a wall that has art on it.,A man walks past a wall mural.,entailment,entailment,0.5844421699078812,neutral,0.9994186045758562,1.5838607744837374
+66.0,A street vendor selling cupcakes.,There is a person outside in this picture,entailment,entailment,0.4923234390992835,neutral,0.9163383488838156,1.4086617879830992
+59.0,6 men in work jumpsuits and 1 man in an orange jumpsuit are walking next to green and red loading docks.,All 7 men are best friends.,neutral,neutral,0.924257932446264,contradiction,0.7228430369840693,0.7985851045378053
+54.0,A young girl in a pink shirt sitting on a dock viewing a body of water.,An old woman viewing a body of water.,contradiction,contradiction,0.6939611054247697,neutral,0.9841180073025187,0.7098430981222509
+13.0,A cyclist is optimistic as he rushes through the air while on his BMX bike at a bicycle event.,A snowboarder flies through the air,contradiction,contradiction,0.7001023541453428,neutral,0.9988544459485746,0.7012479081967682
+76.0,A football team wearing purple and white trying to stop the runner with the ball.,Lacrosse players celebrate a victory.,contradiction,contradiction,0.646878198567042,neutral,0.998957204789208,0.647920993777834
+52.0,"A man is standing in what appears to be a parking lot and shaving his face, while his dog looks at the ground near his feet.",A women is walking with a man,contradiction,contradiction,0.5721596724667349,neutral,0.9395249197493216,0.6326347527174132
+58.0,A police vehicle in an urban area.,A cop car in a suburban area,contradiction,contradiction,0.6141248720573184,neutral,0.9990945325832452,0.615030339474073
+70.0,A father and children ride bikes in city street.,A woman and her daughters ride their bikes.,contradiction,contradiction,0.6008188331627431,neutral,0.9988445508460188,0.6019742823167243
+71.0,a poor looking person with white cream smeared around his eyes sitting on a backpack.,A dirty man with some product under his eyes is sitting on a pillow.,contradiction,contradiction,0.5670419651995906,neutral,0.9977122959926408,0.5693296692069498
+43.0,A man and woman walking away from a crowded street fair.,There are a group of men walking together.,contradiction,contradiction,0.5414534288638689,neutral,0.9989242452394592,0.5425291836244098
+28.0,"A group of people are gathered in a crowd, some of which are holding spears.",A crowd of people are holding swords,contradiction,contradiction,0.4882292732855681,neutral,0.968946581560002,0.519282691725566

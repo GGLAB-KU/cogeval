@@ -1,0 +1,21 @@
+data:
+  type: language-inference
+  human: results/language-inference/lalor/files/human.csv
+  machine: data/human/language-inference/lalor/snli_human_4gs.csv
+
+correlation:
+  type: machine
+  method: spearman
+  columns:
+    human:
+      - agg_human_conf
+    machine:
+      - item_difficulty
+      - average_accuracy
+  results:
+    dir: results/correlation/language-inference/lalor/human+machine_lalor/
+    heatmap:
+      name:  all_heatmap.png
+      title: lalors avg acc.+item_difficulty score correlations
+    excel:
+      name:  all_correlations.xlsx

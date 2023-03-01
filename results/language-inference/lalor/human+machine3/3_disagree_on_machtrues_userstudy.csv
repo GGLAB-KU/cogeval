@@ -1,0 +1,9 @@
+sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_3_pred,machine_3_confidence,confidence_diff
+42.0,Nine men wearing tuxedos sing.,Nine woman wearing dresses sing.,contradiction,neutral,0.4882292732855681,contradiction,0.999734221322118,1.5115049480365501
+84.0,"A bride, a groom, 3 guys, and 3 women.",The unrelated people wander aimlessly.,contradiction,neutral,0.5312180143295804,contradiction,0.998897112663384,1.4676790983338035
+88.0,A young girl in a bathing suit drinking a beverage in a green bottle.,The girl is drinking milk from a sippy cup.,contradiction,neutral,0.5547594677584442,contradiction,0.988366166911022,1.4336066991525778
+40.0,People were watching the tournament in the stadium.,The people are sitting outside on the grass.,contradiction,neutral,0.5649948822927329,contradiction,0.98807199498147,1.4230771126887372
+53.0,A white dog with a life vest accompanies a man in a boat.,man eats carrot,contradiction,neutral,0.617195496417605,contradiction,0.999650557056595,1.38245506063899
+41.0,Two soccer players on the field running into each other.,There are two people colliding and falling.,neutral,entailment,0.5568065506653019,neutral,0.741396481138377,1.2982030318036788
+32.0,"A man is sitting in front of a harpsichord, and a woman is preparing to sing.",a boy covers his ears,contradiction,neutral,0.7379733879222109,contradiction,0.999171150807776,1.261197762885565
+6.0,A young boy in a sweatshirt is doodling on a piece of paper.,The class pictures are on display.,contradiction,neutral,0.6908904810644831,contradiction,0.854726845965051,1.1638363649005679

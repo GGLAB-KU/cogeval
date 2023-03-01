@@ -1,0 +1,21 @@
+data:
+  type: language-inference
+  human: results/language-inference/lalor/files/human.csv
+  machine: user-study/results/results_with_diff_scores.csv
+
+correlation:
+  type: machine
+  method: spearman
+  columns:
+    human:
+      - agg_human_conf
+    machine:
+      - diff_score
+      - agg_human_confidence
+  results:
+    dir: results/correlation/language-inference/lalor/human+machine_userstudy/
+    heatmap:
+      name:  all_heatmap.png
+      title: lalors human+user_study_difficulty correlations
+    excel:
+      name:  all_correlations.xlsx
