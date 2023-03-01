@@ -55,7 +55,7 @@ def get_machine_acc_on_subset(file, subsetfile):
     return true/count
 
 models = ['random', 'tfidf', 'lstm', 'roberta', 'davinci', 'human']
-subset_file = 'user-study/subsets/subset2.csv'
+subset_file = 'user-study/questions/userstudy.csv'
 for model in models:
     acc = get_machine_acc_on_subset('results/language-inference/lalor/files/'+model+'.csv', subset_file)
     print('model:', model, " acc: %.3f" % acc)

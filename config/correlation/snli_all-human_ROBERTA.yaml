@@ -1,7 +1,6 @@
 data:
   type: language-inference
-  human: results/language-inference/lalor/files/human.csv
-  human: /kuacc/users/mugekural/workfolder/dev/git/cogeval/data/human/language-inference/lalor/snli_human_4gs.csv
+  human: user-study/results/results_with_diff_scores.csv
   machine: results/language-inference/lalor/files/roberta.csv
 
 correlation:
@@ -9,9 +8,9 @@ correlation:
   method: spearman
   columns:
     human:
-      - average_accuracy
+      - diff_score
     machine:
-      - confidence
+      - entropy
   results:
     dir: results/correlation/language-inference/lalor/human+machine_3/
     heatmap:

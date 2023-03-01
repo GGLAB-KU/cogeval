@@ -2,7 +2,7 @@ from itertools import compress
 from sklearn.metrics import jaccard_score
 import pandas as pd
 
-SET_ID = "subset1"
+SET_ID = "userstudy"
 # read model probs and preds
 models = ['davinci', 'lstm', 'random','roberta', 'tfidf', 'human']
 model_probs = dict()

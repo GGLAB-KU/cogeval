@@ -149,8 +149,8 @@ def disagree_on_falses(ascending_diff=False):
 
 if __name__=="__main__":
     
-    SET_ID = "subset1"
-    machineID = 0
+    SET_ID = "userstudy"
+    machineID = 4
     
     cols = ['sentence_1', 'sentence_2']
     results = pd.read_csv('results/language-inference/lalor/SNLI_results_'+SET_ID+'.csv')

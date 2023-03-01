@@ -3,13 +3,17 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 plt.switch_backend('Agg')
+
 def save_heatmap(corr):
     heatmap = sns.heatmap(corr, vmin=-1, vmax=1, annot=True, cmap='RdBu_r')
     plt.xticks(rotation = 60)
     plt.savefig('snli_analysis.png', dpi=600, bbox_inches='tight')
 
 
-results = pd.read_csv('results/language-inference/lalor/SNLI_results.csv')
+SET_ID = "userstudy"
+results = pd.read_csv('results/language-inference/lalor/SNLI_results_'+SET_ID+'.csv')
+
+
 analysis_df = pd.DataFrame({'sample_id':[], 'sentence_1':[], 'sentence_2':[],'gold_label':[], 'agg_human_label':[], 'agg_human_confidence':[] })
 num_machines = 6
 
@@ -52,10 +56,6 @@ for idx, row in results.iterrows():
 
 #corr = analysis_df[['agg_human_confidence', 'agg_mach_confidence']].corr()
 #heatmap      = save_heatmap(corr)
+analysis_df.to_csv('results/language-inference/lalor/SNLI_analysis_true-false_'+SET_ID+'.csv', index=False)
 
-
-analysis_df.to_csv('results/language-inference/lalor/SNLI_analysis_true-false.csv', index=False)
-
-
-        
 

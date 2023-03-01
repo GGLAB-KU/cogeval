@@ -6,7 +6,7 @@ from scipy.spatial import distance
 from sklearn.metrics import mean_squared_error
 
 
-SET_ID = "subset1"
+SET_ID = "userstudy"
 df = pd.read_csv("results/language-inference/lalor/SNLI_results_"+SET_ID+".csv")
 subset_ids = (df.sample_id).tolist()
 
@@ -25,7 +25,7 @@ def calc_dist(p, q):
     return {"KL": kl, "JSD": jsd, "MSE": mse}
 
 
-models = ['davinci', 'lstm', 'random','roberta', 'tfidf', 'human']
+models = ['random', 'tfidf', 'lstm','roberta', 'davinci', 'human']
 model_probs = dict(); model_predictions = dict()
 dist_labels = ['KL', "JSD", 'MSE']
 subsets = ['ALL', 'AGREE', 'DISAGREE']
@@ -62,6 +62,7 @@ for i in range(len(models)):
             probs_model_1 = list(compress(model_probs[models[i]], disagreement_mask))
             probs_model_2 = list(compress(model_probs[models[j]], disagreement_mask))
             disagree_count.append(round(len(probs_model_1)/num_samples, 2))
+
             dist = calc_dist(probs_model_1, probs_model_2)           
             results['DISAGREE'][f"{models[i]}/{models[j]}"] = dist
 

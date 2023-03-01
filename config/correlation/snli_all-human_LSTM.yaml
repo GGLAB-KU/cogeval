@@ -1,6 +1,6 @@
 data:
   type: language-inference
-  human: results/language-inference/lalor/files/human.csv
+  human: user-study/results/results_with_diff_scores.csv
   machine: results/language-inference/lalor/files/lstm.csv
 
 correlation:
@@ -8,9 +8,9 @@ correlation:
   method: spearman
   columns:
     human:
-      - agg_human_conf
+      - diff_score
     machine:
-      - confidence
+      - Entropy
   results:
     dir: results/correlation/language-inference/lalor/human+machine_2/
     heatmap:

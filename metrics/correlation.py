@@ -40,7 +40,7 @@ def main():
         data_corr   = get_human_data(file_human)
     elif type_corr == 'machine':
         cols_corr =  cols_machine  
-        #data_corr = read_data(file_machine)
+        data_corr = read_data(file_machine)
     elif type_corr == 'human+machine':
         cols_corr =  cols_human + cols_machine
         data_human   = get_human_data(file_human)
