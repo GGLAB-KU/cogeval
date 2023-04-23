@@ -1,0 +1,100 @@
+response_id,sample_id,selectedmodel,participant_answ,avg_userstudy_accuracy,agg_userstudy_accuracy,agg_userstudy_label,gold_label,0,1,2,3,4,5
+R_3lLUGeuaiLrsoxQ,19,2.0,0.24 contradiction | 0.54 neutral | 0.22 entailment,0.0,False,neutral,contradiction,0.0,0.0,1.0,0.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,13,3.0,"0.99 contradiction | 0.01 neutral | 0.01 entailment
+",1.0,True,contradiction,contradiction,0.0,0.0,0.0,1.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,23,3.0,"0.01 contradiction | 0.69 neutral | 0.31 entailment
+",0.0,False,neutral,entailment,0.0,0.0,0.0,1.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,31,4.0,"0.95 contradiction | 0.05 neutral | 0.01 entailment
+",1.0,True,contradiction,contradiction,0.0,0.0,0.0,0.0,1.0,0.0
+R_3lLUGeuaiLrsoxQ,32,3.0,"0.99 contradiction | 0.01 neutral | 0.01 entailment
+",1.0,True,contradiction,contradiction,0.0,0.0,0.0,1.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,35,4.0,"0.99 contradiction | 0.01 neutral | 0.01 entailment
+",1.0,True,contradiction,contradiction,0.0,0.0,0.0,0.0,1.0,0.0
+R_3lLUGeuaiLrsoxQ,37,2.0,"0.26 contradiction | 0.35 neutral | 0.39 entailment
+",0.0,False,entailment,neutral,0.0,0.0,1.0,0.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,41,5.0,"0.04 contradiction | 0.41 neutral | 0.56 entailment
+",0.0,False,entailment,neutral,0.0,0.0,0.0,0.0,0.0,1.0
+R_3lLUGeuaiLrsoxQ,42,3.0,"0.99 contradiction | 0.01 neutral | 0.01 entailment
+",1.0,True,contradiction,contradiction,0.0,0.0,0.0,1.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,43,3.0,"0.99 contradiction | 0.01 neutral | 0.01 entailment
+",1.0,True,contradiction,contradiction,0.0,0.0,0.0,1.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,45,4.0,"0.01 contradiction | 0.01 neutral | 0.99 entailment
+",1.0,True,entailment,entailment,0.0,0.0,0.0,0.0,1.0,0.0
+R_3lLUGeuaiLrsoxQ,49,5.0,"0.05 contradiction | 0.8 neutral | 0.15 entailment
+",1.0,True,neutral,neutral,0.0,0.0,0.0,0.0,0.0,1.0
+R_3lLUGeuaiLrsoxQ,50,3.0,"0.01 contradiction | 0.02 neutral | 0.98 entailment
+",1.0,True,entailment,entailment,0.0,0.0,0.0,1.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,51,1.0,"0.36 contradiction | 0.48 neutral | 0.16 entailment
+",0.0,False,neutral,contradiction,0.0,1.0,0.0,0.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,52,3.0,"0.94 contradiction | 0.06 neutral | 0.01 entailment
+",1.0,True,contradiction,contradiction,0.0,0.0,0.0,1.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,53,1.0,"0.64 contradiction | 0.31 neutral | 0.05 entailment
+",1.0,True,contradiction,contradiction,0.0,1.0,0.0,0.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,54,5.0,"0.69 contradiction | 0.28 neutral | 0.02 entailment
+",1.0,True,contradiction,contradiction,0.0,0.0,0.0,0.0,0.0,1.0
+R_3lLUGeuaiLrsoxQ,55,4.0,"0.01 contradiction | 0.01 neutral | 0.99 entailment
+",1.0,True,entailment,entailment,0.0,0.0,0.0,0.0,1.0,0.0
+R_3lLUGeuaiLrsoxQ,56,3.0,"0.99 contradiction | 0.01 neutral | 0.01 entailment
+",1.0,True,contradiction,contradiction,0.0,0.0,0.0,1.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,57,4.0,"0.98 contradiction | 0.02 neutral | 0.01 entailment
+",1.0,True,contradiction,contradiction,0.0,0.0,0.0,0.0,1.0,0.0
+R_3lLUGeuaiLrsoxQ,58,2.0,"0.47 contradiction | 0.25 neutral | 0.28 entailment
+",1.0,True,contradiction,contradiction,0.0,0.0,1.0,0.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,59,1.0,"0.01 contradiction | 0.97 neutral | 0.02 entailment
+",1.0,True,neutral,neutral,0.0,1.0,0.0,0.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,60,1.0,"0.22 contradiction | 0.41 neutral | 0.37 entailment
+",0.0,False,neutral,entailment,0.0,1.0,0.0,0.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,61,3.0,"0.01 contradiction | 0.96 neutral | 0.04 entailment
+",1.0,True,neutral,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,63,4.0,"0.01 contradiction | 0.99 neutral | 0.01 entailment
+",0.0,False,neutral,entailment,0.0,0.0,0.0,0.0,1.0,0.0
+R_3lLUGeuaiLrsoxQ,64,3.0,"0.02 contradiction | 0.05 neutral | 0.93 entailment
+",1.0,True,entailment,entailment,0.0,0.0,0.0,1.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,65,3.0,"0.01 contradiction | 0.03 neutral | 0.97 entailment
+",1.0,True,entailment,entailment,0.0,0.0,0.0,1.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,66,3.0,"0.01 contradiction | 0.01 neutral | 0.98 entailment
+",1.0,True,entailment,entailment,0.0,0.0,0.0,1.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,10,4.0,"0.01 contradiction | 0.99 neutral | 0.01 entailment
+",1.0,True,neutral,neutral,0.0,0.0,0.0,0.0,1.0,0.0
+R_3lLUGeuaiLrsoxQ,68,5.0,"0.01 contradiction | 0.04 neutral | 0.96 entailment
+",1.0,True,entailment,entailment,0.0,0.0,0.0,0.0,0.0,1.0
+R_3lLUGeuaiLrsoxQ,69,4.0,"0.01 contradiction | 0.21 neutral | 0.79 entailment
+",1.0,True,entailment,entailment,0.0,0.0,0.0,0.0,1.0,0.0
+R_3lLUGeuaiLrsoxQ,70,5.0,"0.6 contradiction | 0.38 neutral | 0.02 entailment
+",1.0,True,contradiction,contradiction,0.0,0.0,0.0,0.0,0.0,1.0
+R_3lLUGeuaiLrsoxQ,71,2.0,"0.33 contradiction | 0.33 neutral | 0.33 entailment
+",1.0,True,contradiction,contradiction,0.0,0.0,1.0,0.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,17,4.0,"0.01 contradiction | 0.99 neutral | 0.01 entailment
+",1.0,True,neutral,neutral,0.0,0.0,0.0,0.0,1.0,0.0
+R_3lLUGeuaiLrsoxQ,73,4.0,"0.01 contradiction | 0.23 neutral | 0.77 entailment
+",1.0,True,entailment,entailment,0.0,0.0,0.0,0.0,1.0,0.0
+R_3lLUGeuaiLrsoxQ,6,3.0,"0.85 contradiction | 0.14 neutral | 0.01 entailment
+",1.0,True,contradiction,contradiction,0.0,0.0,0.0,1.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,75,4.0,"0.01 contradiction | 0.47 neutral | 0.53 entailment
+",1.0,True,entailment,entailment,0.0,0.0,0.0,0.0,1.0,0.0
+R_3lLUGeuaiLrsoxQ,76,3.0,"0.99 contradiction | 0.01 neutral | 0.01 entailment
+",1.0,True,contradiction,contradiction,0.0,0.0,0.0,1.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,77,5.0,"0.01 contradiction | 0.08 neutral | 0.91 entailment
+",1.0,True,entailment,entailment,0.0,0.0,0.0,0.0,0.0,1.0
+R_3lLUGeuaiLrsoxQ,40,3.0,"0.99 contradiction | 0.01 neutral | 0.01 entailment
+",1.0,True,contradiction,contradiction,0.0,0.0,0.0,1.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,28,3.0,"0.99 contradiction | 0.01 neutral | 0.01 entailment
+",1.0,True,contradiction,contradiction,0.0,0.0,0.0,1.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,80,3.0,"0.01 contradiction | 0.98 neutral | 0.01 entailment
+",1.0,True,neutral,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,81,3.0,"0.99 contradiction | 0.01 neutral | 0.01 entailment
+",1.0,True,contradiction,contradiction,0.0,0.0,0.0,1.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,12,1.0,"0.18 contradiction | 0.72 neutral | 0.01 entailment
+",1.0,True,neutral,neutral,0.0,1.0,0.0,0.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,84,1.0,"0.86 contradiction | 0.04 neutral | 0.11 entailment
+",1.0,True,contradiction,contradiction,0.0,1.0,0.0,0.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,25,2.0,"0.22 contradiction | 0.57 neutral | 0.22 entailment
+",1.0,True,neutral,neutral,0.0,0.0,1.0,0.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,5,2.0,"0.37 contradiction | 0.4 neutral | 0.23 entailment
+",1.0,True,neutral,neutral,0.0,0.0,1.0,0.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,0,4.0,"0.94 contradiction | 0.06 neutral | 0.01 entailment
+",1.0,True,contradiction,contradiction,0.0,0.0,0.0,0.0,1.0,0.0
+R_3lLUGeuaiLrsoxQ,88,3.0,"0.99 contradiction | 0.01 neutral | 0.01 entailment
+",1.0,True,contradiction,contradiction,0.0,0.0,0.0,1.0,0.0,0.0
+R_3lLUGeuaiLrsoxQ,9,3.0,"0.01 contradiction | 0.02 neutral | 0.97 entailment
+",1.0,True,entailment,entailment,0.0,0.0,0.0,1.0,0.0,0.0

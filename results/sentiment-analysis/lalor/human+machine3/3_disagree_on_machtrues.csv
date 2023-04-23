@@ -1,9 +1,0 @@
-sample_id,content,gold_label,agg_human_label,agg_human_confidence,machine_3_pred,machine_3_confidence,confidence_diff
-41,"You wo n't believe much of it , but you will laugh at the audacity , at the who 's who casting and the sheer insanity of it all .",0.0,1.0,0.4934934934934935,0.0,0.9913320942964596,1.484825587789953
-58,"Literally nothing in The Pool is new , but if you grew up on the stalker flicks of the 1980 's this one should appease you for 90 minutes .",0.0,1.0,0.4154154154154154,0.0,0.9966119260196316,1.412027341435047
-88,In a word -- yes .,0.0,1.0,0.3533533533533533,0.0,0.8363360775848742,1.1896894309382275
-63,"Part comedy , part drama , the movie winds up accomplishing neither in full , and leaves us feeling touched and amused by several moments and ideas , but nevertheless dissatisfied with the movie as a whole .",0.0,-1.0,0.6816816816816816,0.0,0.6473438000204874,1.0343378816611941
-95,"The story is less vibrant , the jokes are a little lukewarm , but will anyone really care ?",0.0,-1.0,0.5745745745745746,0.0,0.9995430585695488,0.5750315160050259
-73,This ill-fitting Tuxedo is strictly off-the-rack .,0.0,-1.0,0.4644644644644645,0.0,0.935174847034726,0.5292896174297385
-67,The average local news columnist has a bigger rant on the war between modern landscape architecture and small-town America .,0.0,-1.0,0.4164164164164164,0.0,0.9984814992906752,0.41793491712574116
-61,Morrissette 's script and direction show a fair amount of intelligence and wit -- but it does n't signify a whole lot either .,0.0,-1.0,0.4044044044044044,0.0,0.9991972334895824,0.40520717091482195

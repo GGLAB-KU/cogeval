@@ -1,3 +1,0 @@
-sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_2_pred,machine_2_confidence,confidence_diff
-41.0,Two soccer players on the field running into each other.,There are two people colliding and falling.,neutral,entailment,0.5568065506653019,contradiction,0.39,1.946806550665302
-51.0,"A woman in her early fifties walks by herself in the subway, another woman is not far behind.",back in the fifties a woman could walk by herself in the subway.,contradiction,neutral,0.6704196519959058,entailment,0.5,1.1704196519959058

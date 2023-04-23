@@ -1,4 +1,0 @@
-sample_id,sentence_1,sentence_2,gold_label,machine_2_pred,machine_2_confidence,machine_3_pred,machine_3_confidence,confidence_diff
-12.0,"Two men in front of a projector screen, one at a microphone.",Three men about to present their best idea yet in front of their company.,neutral,neutral,0.542780796934784,contradiction,0.653372398392704,1.11059160145792
-23.0,A single runner is watched by onlookers in a race.,A man is running in a race.,entailment,entailment,0.38344982634935,neutral,0.685270882318269,1.0687207086676191
-35.0,An old woman in a cowboy hat smokes a cigarette.,The old lady is ten feet tall.,contradiction,contradiction,0.461175388088878,neutral,0.541163235830135,0.920012152258743

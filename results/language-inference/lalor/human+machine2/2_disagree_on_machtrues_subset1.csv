@@ -1,7 +1,0 @@
-sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_2_pred,machine_2_confidence,confidence_diff
-20.0,A man wearing an orange suit with his face painted white is holding a guitar above his shoulder.,There is one man in this picture.,entailment,neutral,0.6264073694984647,entailment,0.57,1.1964073694984645
-42.0,Nine men wearing tuxedos sing.,Nine woman wearing dresses sing.,contradiction,neutral,0.4882292732855681,contradiction,0.57,1.0817707267144319
-84.0,"A bride, a groom, 3 guys, and 3 women.",The unrelated people wander aimlessly.,contradiction,neutral,0.5312180143295804,contradiction,0.57,1.0387819856704195
-53.0,A white dog with a life vest accompanies a man in a boat.,man eats carrot,contradiction,neutral,0.617195496417605,contradiction,0.57,0.9528045035823949
-35.0,An old woman in a cowboy hat smokes a cigarette.,The old lady is ten feet tall.,contradiction,neutral,0.6653019447287615,contradiction,0.46,0.7946980552712385
-32.0,"A man is sitting in front of a harpsichord, and a woman is preparing to sing.",a boy covers his ears,contradiction,neutral,0.7379733879222109,contradiction,0.53,0.7920266120777891

@@ -1,5 +1,0 @@
-sample_id,content,gold_label,agg_human_label,agg_human_confidence,machine_0_pred,machine_0_confidence,confidence_diff
-54,"It 's a flashy , star-splashed reduction .",0.0,-1.0,0.4854854854854855,0.0,0.3333333333333333,1.1521521521521523
-55,It 's a worse sign when you begin to envy her condition .,0.0,-1.0,0.4224224224224224,0.0,0.3333333333333333,1.0890890890890892
-24,Ferrara directs the entire film with the kind of detachment that makes any given frame look like a family 's custom-made Christmas card .,0.0,-1.0,0.3943943943943944,0.0,0.3333333333333333,1.0610610610610611
-58,"Literally nothing in The Pool is new , but if you grew up on the stalker flicks of the 1980 's this one should appease you for 90 minutes .",0.0,1.0,0.4154154154154154,0.0,0.3333333333333333,0.7487487487487487

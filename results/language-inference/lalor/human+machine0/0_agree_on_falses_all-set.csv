@@ -1,5 +1,0 @@
-sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_0_pred,machine_0_confidence,confidence_diff
-32.0,"A man is sitting in front of a harpsichord, and a woman is preparing to sing.",a boy covers his ears,contradiction,neutral,0.7379733879222109,neutral,0.3333333333333333,0.4046400545888776
-14.0,A boy in a blue and white shirt is pointing up and a second boy in a white shirt shields his eyes.,Two boys puch each other on swings.,contradiction,neutral,0.5087001023541453,neutral,0.3333333333333333,0.175366769020812
-19.0,Man sweeping trash outside a large statue.,A man is on vacation.,contradiction,neutral,0.5015353121801432,neutral,0.3333333333333333,0.16820197884680993
-46.0,Two friends walk down the street with a stuffed animal.,Two friends are walking on the sidewalk.,entailment,neutral,0.5015353121801432,neutral,0.3333333333333333,0.16820197884680993

@@ -1,0 +1,63 @@
+{
+    "dataset_reader": {
+        "type": "snli",
+        "token_indexers": {
+            "tokens": {
+                "type": "pretrained_transformer",
+                "max_length": 512,
+                "model_name": "roberta-large"
+            }
+        },
+        "tokenizer": {
+            "type": "pretrained_transformer",
+            "add_special_tokens": false,
+            "model_name": "roberta-large"
+        }
+    },
+    "model": {
+        "type": "basic_classifier",
+        "dropout": 0.1,
+        "feedforward": {
+            "activations": "tanh",
+            "hidden_dims": 1024,
+            "input_dim": 1024,
+            "num_layers": 1
+        },
+        "namespace": "tags",
+        "seq2vec_encoder": {
+            "type": "cls_pooler",
+            "embedding_dim": 1024
+        },
+        "text_field_embedder": {
+            "token_embedders": {
+                "tokens": {
+                    "type": "pretrained_transformer",
+                    "max_length": 512,
+                    "model_name": "roberta-large"
+                }
+            }
+        }
+    },
+    "train_data_path": "./data/snli_1.0_train_clean.jsonl",
+    "validation_data_path": "./data/snli_1.0_dev.jsonl",
+    "test_data_path": "./data/snli_1.0_test.jsonl",
+    "trainer": {
+        "learning_rate_scheduler": {
+            "type": "slanted_triangular",
+            "cut_frac": 0.06
+        },
+        "num_epochs": 10,
+        "optimizer": {
+            "type": "huggingface_adamw",
+            "lr": 2e-05,
+            "weight_decay": 0.1
+        },
+        "validation_metric": "+accuracy"
+    },
+    "data_loader": {
+        "batch_sampler": {
+            "type": "bucket",
+            "batch_size": 32
+        }
+    }
+}

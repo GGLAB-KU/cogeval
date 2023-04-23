@@ -1,0 +1,954 @@
+[[AdvancedFormat]]
+
+[[Block]]
+
+[[Question:MC]]
+[[ID:q1]]
+<b>Premise:&nbsp;</b>A little boy is opening gifts surrounded by a group of children and adults.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>The boy is being punished
+
+[[AdvancedChoices]]
+[[Choice]]
+0.25 contradiction | 0.33 neutral | 0.42 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/0.png"/>
+[[Choice]]
+0.44 contradiction | 0.48 neutral | 0.08 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/0.png"/>
+[[Choice]]
+0.23 contradiction | 0.76 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/0.png"/>
+[[Choice]]
+0.82 contradiction | 0.18 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/0.png"/>
+[[Choice]]
+0.94 contradiction | 0.06 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/0.png"/>
+[[Choice]]
+0.84 contradiction | 0.16 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/0.png"/>
+[[Question:MC]]
+[[ID:q2]]
+<b>Premise:&nbsp;</b>People playing cricket in the park, pine trees in the back.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>People are playing sports in the park, near the pine trees
+
+[[AdvancedChoices]]
+[[Choice]]
+0.32 contradiction | 0.38 neutral | 0.3 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/1.png"/>
+[[Choice]]
+0.1 contradiction | 0.6 neutral | 0.3 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/1.png"/>
+[[Choice]]
+0.01> contradiction | 0.07 neutral | 0.93 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/1.png"/>
+[[Choice]]
+0.01> contradiction | 0.1 neutral | 0.9 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/1.png"/>
+[[Choice]]
+0.01> contradiction | 0.27 neutral | 0.73 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/1.png"/>
+[[Choice]]
+0.01 contradiction | 0.1 neutral | 0.89 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/1.png"/>
+[[Question:MC]]
+[[ID:q3]]
+<b>Premise:&nbsp;</b>A group of dancers are performing.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>The audience is silent.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.36 contradiction | 0.3 neutral | 0.34 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/3.png"/>
+[[Choice]]
+0.89 contradiction | 0.09 neutral | 0.02 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/3.png"/>
+[[Choice]]
+0.99 contradiction | 0.01> neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/3.png"/>
+[[Choice]]
+0.36 contradiction | 0.64 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/3.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/3.png"/>
+[[Choice]]
+0.04 contradiction | 0.86 neutral | 0.09 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/3.png"/>
+[[Question:MC]]
+[[ID:q4]]
+<b>Premise:&nbsp;</b>A little girl in pink stands in a yellow hallway.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>The girl is standing outside her apartment.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.38 contradiction | 0.29 neutral | 0.33 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/5.png"/>
+[[Choice]]
+0.3 contradiction | 0.37 neutral | 0.33 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/5.png"/>
+[[Choice]]
+0.85 contradiction | 0.15 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/5.png"/>
+[[Choice]]
+0.58 contradiction | 0.36 neutral | 0.06 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/5.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/5.png"/>
+[[Choice]]
+0.14 contradiction | 0.79 neutral | 0.07 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/5.png"/>
+[[Question:MC]]
+[[ID:q5]]
+<b>Premise:&nbsp;</b>A young boy in a sweatshirt is doodling on a piece of paper.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>The class pictures are on display.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.43 contradiction | 0.32 neutral | 0.25 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/6.png"/>
+[[Choice]]
+0.19 contradiction | 0.45 neutral | 0.37 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/6.png"/>
+[[Choice]]
+0.69 contradiction | 0.3 neutral | 0.01 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/6.png"/>
+[[Choice]]
+0.2 contradiction | 0.77 neutral | 0.03 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/6.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/6.png"/>
+[[Choice]]
+0.29 contradiction | 0.69 neutral | 0.02 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/6.png"/>
+[[Question:MC]]
+[[ID:q6]]
+<b>Premise:&nbsp;</b>a toddler playing with a toy car next to a dog.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>A toddler plays with toy cars while his dog sleeps.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.34 contradiction | 0.29 neutral | 0.37 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/8.png"/>
+[[Choice]]
+0.66 contradiction | 0.16 neutral | 0.18 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/8.png"/>
+[[Choice]]
+0.24 contradiction | 0.75 neutral | 0.02 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/8.png"/>
+[[Choice]]
+0.06 contradiction | 0.92 neutral | 0.01 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/8.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/8.png"/>
+[[Choice]]
+0.02 contradiction | 0.75 neutral | 0.23 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/8.png"/>
+[[Question:MC]]
+[[ID:q7]]
+<b>Premise:&nbsp;</b>A man in and a woman are holding their towels at the beach.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>People are at the beach
+
+[[AdvancedChoices]]
+[[Choice]]
+0.43 contradiction | 0.32 neutral | 0.24 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/9.png"/>
+[[Choice]]
+0.22 contradiction | 0.23 neutral | 0.55 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/9.png"/>
+[[Choice]]
+0.01> contradiction | 0.06 neutral | 0.94 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/9.png"/>
+[[Choice]]
+0.01> contradiction | 0.03 neutral | 0.97 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/9.png"/>
+[[Choice]]
+0.01> contradiction | 0.94 neutral | 0.06 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/9.png"/>
+[[Choice]]
+0.01> contradiction | 0.03 neutral | 0.96 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/9.png"/>
+[[Question:MC]]
+[[ID:q8]]
+<b>Premise:&nbsp;</b>Two men in front of a projector screen, one at a microphone.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>Three men about to present their best idea yet in front of their company.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.3 contradiction | 0.31 neutral | 0.39 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/12.png"/>
+[[Choice]]
+0.18 contradiction | 0.72 neutral | 0.1 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/12.png"/>
+[[Choice]]
+0.06 contradiction | 0.92 neutral | 0.02 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/12.png"/>
+[[Choice]]
+0.6 contradiction | 0.39 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/12.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/12.png"/>
+[[Choice]]
+0.09 contradiction | 0.75 neutral | 0.16 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/12.png"/>
+[[Question:MC]]
+[[ID:q9]]
+<b>Premise:&nbsp;</b>A boy in a blue and white shirt is pointing up and a second boy in a white shirt shields his eyes.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>Two boys puch each other on swings.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.33 contradiction | 0.34 neutral | 0.34 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/14.png"/>
+[[Choice]]
+0.31 contradiction | 0.15 neutral | 0.54 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/14.png"/>
+[[Choice]]
+0.98 contradiction | 0.02 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/14.png"/>
+[[Choice]]
+0.94 contradiction | 0.06 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/14.png"/>
+[[Choice]]
+0.03 contradiction | 0.97 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/14.png"/>
+[[Choice]]
+0.47 contradiction | 0.51 neutral | 0.02 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/14.png"/>
+[[Question:MC]]
+[[ID:q10]]
+<b>Premise:&nbsp;</b>A man posing with a antique sewing machine.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>He is a sewer.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.32 contradiction | 0.33 neutral | 0.35 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/17.png"/>
+[[Choice]]
+0.85 contradiction | 0.09 neutral | 0.06 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/17.png"/>
+[[Choice]]
+0.36 contradiction | 0.62 neutral | 0.02 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/17.png"/>
+[[Choice]]
+0.15 contradiction | 0.77 neutral | 0.08 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/17.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/17.png"/>
+[[Choice]]
+0.06 contradiction | 0.85 neutral | 0.09 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/17.png"/>
+[[Question:MC]]
+[[ID:q11]]
+<b>Premise:&nbsp;</b>Man sweeping trash outside a large statue.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>A man is on vacation.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.34 contradiction | 0.32 neutral | 0.34 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/19.png"/>
+[[Choice]]
+0.06 contradiction | 0.93 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/19.png"/>
+[[Choice]]
+0.11 contradiction | 0.89 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/19.png"/>
+[[Choice]]
+0.32 contradiction | 0.68 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/19.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/19.png"/>
+[[Choice]]
+0.49 contradiction | 0.5 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/19.png"/>
+[[Question:MC]]
+[[ID:q12]]
+<b>Premise:&nbsp;</b>This path leads up to the apple market entrance.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>This road goes up to apple market entrance
+
+[[AdvancedChoices]]
+[[Choice]]
+0.39 contradiction | 0.29 neutral | 0.32 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/22.png"/>
+[[Choice]]
+0.26 contradiction | 0.55 neutral | 0.19 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/22.png"/>
+[[Choice]]
+0.01> contradiction | 0.08 neutral | 0.91 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/22.png"/>
+[[Choice]]
+0.01> contradiction | 0.06 neutral | 0.93 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/22.png"/>
+[[Choice]]
+0.01> contradiction | 0.8 neutral | 0.2 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/22.png"/>
+[[Choice]]
+0.04 contradiction | 0.22 neutral | 0.74 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/22.png"/>
+[[Question:MC]]
+[[ID:q13]]
+<b>Premise:&nbsp;</b>A single runner is watched by onlookers in a race.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>A man is running in a race.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.33 contradiction | 0.32 neutral | 0.35 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/23.png"/>
+[[Choice]]
+0.44 contradiction | 0.23 neutral | 0.33 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/23.png"/>
+[[Choice]]
+0.05 contradiction | 0.35 neutral | 0.6 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/23.png"/>
+[[Choice]]
+0.01 contradiction | 0.52 neutral | 0.47 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/23.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/23.png"/>
+[[Choice]]
+0.01 contradiction | 0.37 neutral | 0.62 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/23.png"/>
+[[Question:MC]]
+[[ID:q14]]
+<b>Premise:&nbsp;</b>A young boy in a beige jacket laughs as he reaches for a teal balloon.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>The boy plays with the balloon.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.36 contradiction | 0.31 neutral | 0.33 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/26.png"/>
+[[Choice]]
+0.31 contradiction | 0.15 neutral | 0.53 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/26.png"/>
+[[Choice]]
+0.01 contradiction | 0.09 neutral | 0.9 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/26.png"/>
+[[Choice]]
+0.01 contradiction | 0.21 neutral | 0.78 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/26.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/26.png"/>
+[[Choice]]
+0.03 contradiction | 0.32 neutral | 0.66 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/26.png"/>
+[[Question:MC]]
+[[ID:q15]]
+<b>Premise:&nbsp;</b>A group of people are gathered in a crowd, some of which are holding spears.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>A crowd of people are holding swords
+
+[[AdvancedChoices]]
+[[Choice]]
+0.29 contradiction | 0.41 neutral | 0.29 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/28.png"/>
+[[Choice]]
+0.2 contradiction | 0.3 neutral | 0.49 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/28.png"/>
+[[Choice]]
+0.21 contradiction | 0.23 neutral | 0.56 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/28.png"/>
+[[Choice]]
+0.81 contradiction | 0.1 neutral | 0.08 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/28.png"/>
+[[Choice]]
+0.03 contradiction | 0.97 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/28.png"/>
+[[Choice]]
+0.49 contradiction | 0.37 neutral | 0.14 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/28.png"/>
+[[Question:MC]]
+[[ID:q16]]
+<b>Premise:&nbsp;</b>A man prepares food in a shanty kitchen.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>A man is fixing a meal.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.31 contradiction | 0.34 neutral | 0.35 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/29.png"/>
+[[Choice]]
+0.16 contradiction | 0.48 neutral | 0.36 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/29.png"/>
+[[Choice]]
+0.01> contradiction | 0.09 neutral | 0.91 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/29.png"/>
+[[Choice]]
+0.01> contradiction | 0.28 neutral | 0.72 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/29.png"/>
+[[Choice]]
+0.01> contradiction | 0.93 neutral | 0.07 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/29.png"/>
+[[Choice]]
+0.01> contradiction | 0.11 neutral | 0.89 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/29.png"/>
+[[Question:MC]]
+[[ID:q17]]
+<b>Premise:&nbsp;</b>There are two people sweeping a sidewalk in this picture.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>The man is clearing leaves from the sidewalk.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.31 contradiction | 0.32 neutral | 0.37 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/30.png"/>
+[[Choice]]
+0.5 contradiction | 0.4 neutral | 0.1 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/30.png"/>
+[[Choice]]
+0.36 contradiction | 0.63 neutral | 0.01 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/30.png"/>
+[[Choice]]
+0.3 contradiction | 0.67 neutral | 0.04 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/30.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/30.png"/>
+[[Choice]]
+0.08 contradiction | 0.71 neutral | 0.21 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/30.png"/>
+[[Question:MC]]
+[[ID:q18]]
+<b>Premise:&nbsp;</b>The dogs ran around the dirt racetrack.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>Dogs are humping each other.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.39 contradiction | 0.32 neutral | 0.29 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/31.png"/>
+[[Choice]]
+0.24 contradiction | 0.44 neutral | 0.32 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/31.png"/>
+[[Choice]]
+0.24 contradiction | 0.75 neutral | 0.01 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/31.png"/>
+[[Choice]]
+0.73 contradiction | 0.24 neutral | 0.03 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/31.png"/>
+[[Choice]]
+0.95 contradiction | 0.05 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/31.png"/>
+[[Choice]]
+0.7 contradiction | 0.29 neutral | 0.01 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/31.png"/>
+[[Question:MC]]
+[[ID:q19]]
+<b>Premise:&nbsp;</b>Two people dressed in red and white wait at the horse track with a horse.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>The people at the track are outdoors.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.33 contradiction | 0.34 neutral | 0.33 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/33.png"/>
+[[Choice]]
+0.03 contradiction | 0.09 neutral | 0.88 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/33.png"/>
+[[Choice]]
+0.01> contradiction | 0.06 neutral | 0.94 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/33.png"/>
+[[Choice]]
+0.01> contradiction | 0.2 neutral | 0.8 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/33.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/33.png"/>
+[[Choice]]
+0.01 contradiction | 0.55 neutral | 0.44 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/33.png"/>
+[[Question:MC]]
+[[ID:q20]]
+<b>Premise:&nbsp;</b>A person is standing next to a wooden fence with flowering trees nearby.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>The bare tree branches rattle in the wind.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.28 contradiction | 0.37 neutral | 0.35 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/34.png"/>
+[[Choice]]
+0.48 contradiction | 0.33 neutral | 0.19 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/34.png"/>
+[[Choice]]
+0.87 contradiction | 0.12 neutral | 0.01 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/34.png"/>
+[[Choice]]
+0.9 contradiction | 0.09 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/34.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/34.png"/>
+[[Choice]]
+0.52 contradiction | 0.45 neutral | 0.03 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/34.png"/>
+[[Question:MC]]
+[[ID:q21]]
+<b>Premise:&nbsp;</b>An old woman in a cowboy hat smokes a cigarette.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>The old lady is ten feet tall.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.36 contradiction | 0.35 neutral | 0.29 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/35.png"/>
+[[Choice]]
+0.18 contradiction | 0.81 neutral | 0.01 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/35.png"/>
+[[Choice]]
+0.92 contradiction | 0.08 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/35.png"/>
+[[Choice]]
+0.81 contradiction | 0.16 neutral | 0.04 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/35.png"/>
+[[Choice]]
+0.99 contradiction | 0.01 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/35.png"/>
+[[Choice]]
+0.32 contradiction | 0.67 neutral | 0.02 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/35.png"/>
+[[Question:MC]]
+[[ID:q22]]
+<b>Premise:&nbsp;</b>A wielder works on wielding a beam into place while other workers set beams.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>The wielder is working on a building.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.27 contradiction | 0.39 neutral | 0.33 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/37.png"/>
+[[Choice]]
+0.43 contradiction | 0.08 neutral | 0.49 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/37.png"/>
+[[Choice]]
+0.11 contradiction | 0.57 neutral | 0.32 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/37.png"/>
+[[Choice]]
+0.01> contradiction | 0.23 neutral | 0.76 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/37.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/37.png"/>
+[[Choice]]
+0.01 contradiction | 0.5 neutral | 0.49 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/37.png"/>
+[[Question:MC]]
+[[ID:q23]]
+<b>Premise:&nbsp;</b>A man is popping balloons inside a cubicle using a handmade tool.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>A man is popping balloons inside a cubicle using a handmade knife.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.26 contradiction | 0.4 neutral | 0.34 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/38.png"/>
+[[Choice]]
+0.75 contradiction | 0.17 neutral | 0.08 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/38.png"/>
+[[Choice]]
+0.01 contradiction | 0.92 neutral | 0.07 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/38.png"/>
+[[Choice]]
+0.04 contradiction | 0.87 neutral | 0.1 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/38.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/38.png"/>
+[[Choice]]
+0.03 contradiction | 0.63 neutral | 0.34 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/38.png"/>
+[[Question:MC]]
+[[ID:q24]]
+<b>Premise:&nbsp;</b>a man wearing a gray shirt waving in the middle of a plant nursery<br>
+<br>
+<b>Hypothesis:&nbsp;</b>The man does not have a way to get home.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.36 contradiction | 0.34 neutral | 0.3 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/39.png"/>
+[[Choice]]
+0.1 contradiction | 0.88 neutral | 0.02 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/39.png"/>
+[[Choice]]
+0.47 contradiction | 0.44 neutral | 0.09 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/39.png"/>
+[[Choice]]
+0.18 contradiction | 0.81 neutral | 0.01 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/39.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/39.png"/>
+[[Choice]]
+0.17 contradiction | 0.81 neutral | 0.01 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/39.png"/>
+[[Question:MC]]
+[[ID:q25]]
+<b>Premise:&nbsp;</b>People were watching the tournament in the stadium.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>The people are sitting outside on the grass.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.36 contradiction | 0.37 neutral | 0.26 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/40.png"/>
+[[Choice]]
+0.12 contradiction | 0.01> neutral | 0.87 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/40.png"/>
+[[Choice]]
+0.98 contradiction | 0.02 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/40.png"/>
+[[Choice]]
+0.94 contradiction | 0.05 neutral | 0.01 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/40.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/40.png"/>
+[[Choice]]
+0.41 contradiction | 0.56 neutral | 0.03 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/40.png"/>
+[[Question:MC]]
+[[ID:q26]]
+<b>Premise:&nbsp;</b>Two soccer players on the field running into each other.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>There are two people colliding and falling.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.33 contradiction | 0.32 neutral | 0.36 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/41.png"/>
+[[Choice]]
+0.18 contradiction | 0.43 neutral | 0.38 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/41.png"/>
+[[Choice]]
+0.04 contradiction | 0.19 neutral | 0.78 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/41.png"/>
+[[Choice]]
+0.04 contradiction | 0.85 neutral | 0.11 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/41.png"/>
+[[Choice]]
+0.01> contradiction | 0.96 neutral | 0.04 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/41.png"/>
+[[Choice]]
+0.04 contradiction | 0.41 neutral | 0.56 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/41.png"/>
+[[Question:MC]]
+[[ID:q27]]
+<b>Premise:&nbsp;</b>A man on stilts in a purple, yellow and white costume.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>A man is performing on stilts.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.34 contradiction | 0.33 neutral | 0.33 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/44.png"/>
+[[Choice]]
+0.13 contradiction | 0.3 neutral | 0.57 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/44.png"/>
+[[Choice]]
+0.01> contradiction | 0.2 neutral | 0.8 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/44.png"/>
+[[Choice]]
+0.01> contradiction | 0.57 neutral | 0.42 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/44.png"/>
+[[Choice]]
+0.01> contradiction | 0.97 neutral | 0.03 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/44.png"/>
+[[Choice]]
+0.01 contradiction | 0.25 neutral | 0.74 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/44.png"/>
+[[Question:MC]]
+[[ID:q28]]
+<b>Premise:&nbsp;</b>Two friends walk down the street with a stuffed animal.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>Two friends are walking on the sidewalk.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.34 contradiction | 0.35 neutral | 0.31 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/46.png"/>
+[[Choice]]
+0.27 contradiction | 0.6 neutral | 0.13 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/46.png"/>
+[[Choice]]
+0.13 contradiction | 0.35 neutral | 0.52 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/46.png"/>
+[[Choice]]
+0.17 contradiction | 0.73 neutral | 0.1 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/46.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/46.png"/>
+[[Choice]]
+0.14 contradiction | 0.5 neutral | 0.36 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/46.png"/>
+[[Question:MC]]
+[[ID:q29]]
+<b>Premise:&nbsp;</b>Two men and one woman are dressed in costume hats.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>the people are swingers
+
+[[AdvancedChoices]]
+[[Choice]]
+0.4 contradiction | 0.31 neutral | 0.29 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/47.png"/>
+[[Choice]]
+0.41 contradiction | 0.34 neutral | 0.25 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/47.png"/>
+[[Choice]]
+0.04 contradiction | 0.93 neutral | 0.03 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/47.png"/>
+[[Choice]]
+0.35 contradiction | 0.64 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/47.png"/>
+[[Choice]]
+0.1 contradiction | 0.9 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/47.png"/>
+[[Choice]]
+0.15 contradiction | 0.83 neutral | 0.02 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/47.png"/>
+[[Question:MC]]
+[[ID:q30]]
+<b>Premise:&nbsp;</b>Eight people are sitting on a long boat on a sunny day.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>Morning ride on boat
+
+[[AdvancedChoices]]
+[[Choice]]
+0.35 contradiction | 0.35 neutral | 0.3 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/49.png"/>
+[[Choice]]
+0.53 contradiction | 0.42 neutral | 0.05 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/49.png"/>
+[[Choice]]
+0.02 contradiction | 0.41 neutral | 0.58 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/49.png"/>
+[[Choice]]
+0.03 contradiction | 0.67 neutral | 0.3 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/49.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/49.png"/>
+[[Choice]]
+0.05 contradiction | 0.8 neutral | 0.15 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/49.png"/>
+[[Question:MC]]
+[[ID:q31]]
+<b>Premise:&nbsp;</b>A woman in her early fifties walks by herself in the subway, another woman is not far behind.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>back in the fifties a woman could walk by herself in the subway.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.34 contradiction | 0.3 neutral | 0.36 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/51.png"/>
+[[Choice]]
+0.36 contradiction | 0.48 neutral | 0.16 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/51.png"/>
+[[Choice]]
+0.04 contradiction | 0.05 neutral | 0.9 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/51.png"/>
+[[Choice]]
+0.01> contradiction | 0.05 neutral | 0.94 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/51.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/51.png"/>
+[[Choice]]
+0.23 contradiction | 0.67 neutral | 0.1 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/51.png"/>
+[[Question:MC]]
+[[ID:q32]]
+<b>Premise:&nbsp;</b>A man is standing in what appears to be a parking lot and shaving his face, while his dog looks at the ground near his feet.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>A women is walking with a man
+
+[[AdvancedChoices]]
+[[Choice]]
+0.36 contradiction | 0.3 neutral | 0.34 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/52.png"/>
+[[Choice]]
+0.12 contradiction | 0.16 neutral | 0.72 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/52.png"/>
+[[Choice]]
+0.97 contradiction | 0.02 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/52.png"/>
+[[Choice]]
+0.92 contradiction | 0.06 neutral | 0.02 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/52.png"/>
+[[Choice]]
+0.06 contradiction | 0.94 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/52.png"/>
+[[Choice]]
+0.57 contradiction | 0.42 neutral | 0.01 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/52.png"/>
+[[Question:MC]]
+[[ID:q33]]
+<b>Premise:&nbsp;</b>A police vehicle in an urban area.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>A cop car in a suburban area
+
+[[AdvancedChoices]]
+[[Choice]]
+0.32 contradiction | 0.26 neutral | 0.43 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/58.png"/>
+[[Choice]]
+0.39 contradiction | 0.32 neutral | 0.3 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/58.png"/>
+[[Choice]]
+0.99 contradiction | 0.01> neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/58.png"/>
+[[Choice]]
+0.95 contradiction | 0.03 neutral | 0.03 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/58.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/58.png"/>
+[[Choice]]
+0.61 contradiction | 0.29 neutral | 0.1 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/58.png"/>
+[[Question:MC]]
+[[ID:q34]]
+<b>Premise:&nbsp;</b>6 men in work jumpsuits and 1 man in an orange jumpsuit are walking next to green and red loading docks.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>All 7 men are best friends.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.39 contradiction | 0.29 neutral | 0.31 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/59.png"/>
+[[Choice]]
+0.01 contradiction | 0.97 neutral | 0.02 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/59.png"/>
+[[Choice]]
+0.04 contradiction | 0.96 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/59.png"/>
+[[Choice]]
+0.31 contradiction | 0.69 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/59.png"/>
+[[Choice]]
+0.72 contradiction | 0.28 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/59.png"/>
+[[Choice]]
+0.06 contradiction | 0.92 neutral | 0.02 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/59.png"/>
+[[Question:MC]]
+[[ID:q35]]
+<b>Premise:&nbsp;</b>This man is walking past a wall that has art on it.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>A man walks past a wall mural.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.38 contradiction | 0.37 neutral | 0.25 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/60.png"/>
+[[Choice]]
+0.22 contradiction | 0.4 neutral | 0.37 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/60.png"/>
+[[Choice]]
+0.01 contradiction | 0.5 neutral | 0.49 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/60.png"/>
+[[Choice]]
+0.01> contradiction | 0.74 neutral | 0.26 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/60.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/60.png"/>
+[[Choice]]
+0.01> contradiction | 0.41 neutral | 0.58 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/60.png"/>
+[[Question:MC]]
+[[ID:q36]]
+<b>Premise:&nbsp;</b>A ballerina in a black dress and tights dances in front of a concrete wall.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>a man dancing
+
+[[AdvancedChoices]]
+[[Choice]]
+0.31 contradiction | 0.32 neutral | 0.37 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/62.png"/>
+[[Choice]]
+0.43 contradiction | 0.12 neutral | 0.45 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/62.png"/>
+[[Choice]]
+0.7 contradiction | 0.18 neutral | 0.12 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/62.png"/>
+[[Choice]]
+0.94 contradiction | 0.02 neutral | 0.04 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/62.png"/>
+[[Choice]]
+0.82 contradiction | 0.18 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/62.png"/>
+[[Choice]]
+0.5 contradiction | 0.47 neutral | 0.03 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/62.png"/>
+[[Question:MC]]
+[[ID:q37]]
+<b>Premise:&nbsp;</b>there is a lady standing and six people laying on a gym floor.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>There are seven people in the gym.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.36 contradiction | 0.33 neutral | 0.3 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/63.png"/>
+[[Choice]]
+0.4 contradiction | 0.33 neutral | 0.27 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/63.png"/>
+[[Choice]]
+0.03 contradiction | 0.05 neutral | 0.92 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/63.png"/>
+[[Choice]]
+0.03 contradiction | 0.06 neutral | 0.91 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/63.png"/>
+[[Choice]]
+0.01> contradiction | 0.99 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/63.png"/>
+[[Choice]]
+0.01 contradiction | 0.2 neutral | 0.79 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/63.png"/>
+[[Question:MC]]
+[[ID:q38]]
+<b>Premise:&nbsp;</b>A couple is back to back in formal attire.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>Two people are facing away from each other.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.33 contradiction | 0.26 neutral | 0.4 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/64.png"/>
+[[Choice]]
+0.48 contradiction | 0.12 neutral | 0.4 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/64.png"/>
+[[Choice]]
+0.02 contradiction | 0.06 neutral | 0.92 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/64.png"/>
+[[Choice]]
+0.91 contradiction | 0.05 neutral | 0.04 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/64.png"/>
+[[Choice]]
+0.01> contradiction | 0.42 neutral | 0.58 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/64.png"/>
+[[Choice]]
+0.04 contradiction | 0.08 neutral | 0.88 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/64.png"/>
+[[Question:MC]]
+[[ID:q39]]
+<b>Premise:&nbsp;</b>A couple kissing in front of a black Mercedes Benz limousine<br>
+<br>
+<b>Hypothesis:&nbsp;</b>A couple kissing in front of a car
+
+[[AdvancedChoices]]
+[[Choice]]
+0.31 contradiction | 0.35 neutral | 0.34 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/68.png"/>
+[[Choice]]
+0.42 contradiction | 0.23 neutral | 0.35 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/68.png"/>
+[[Choice]]
+0.01> contradiction | 0.04 neutral | 0.96 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/68.png"/>
+[[Choice]]
+0.23 contradiction | 0.07 neutral | 0.71 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/68.png"/>
+[[Choice]]
+0.01> contradiction | 0.97 neutral | 0.03 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/68.png"/>
+[[Choice]]
+0.01 contradiction | 0.02 neutral | 0.96 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/68.png"/>
+[[Question:MC]]
+[[ID:q40]]
+<b>Premise:&nbsp;</b>a poor looking person with white cream smeared around his eyes sitting on a backpack.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>A dirty man with some product under his eyes is sitting on a pillow.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.42 contradiction | 0.29 neutral | 0.29 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/71.png"/>
+[[Choice]]
+0.18 contradiction | 0.22 neutral | 0.6 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/71.png"/>
+[[Choice]]
+0.76 contradiction | 0.1 neutral | 0.14 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/71.png"/>
+[[Choice]]
+0.34 contradiction | 0.21 neutral | 0.45 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/71.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/71.png"/>
+[[Choice]]
+0.57 contradiction | 0.34 neutral | 0.09 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/71.png"/>
+[[Question:MC]]
+[[ID:q41]]
+<b>Premise:&nbsp;</b>Neck and neck to the finish line, every competitor has been training for this race.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>The competitors have trained very hard and are all very close to the finish line.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.39 contradiction | 0.32 neutral | 0.29 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/75.png"/>
+[[Choice]]
+0.2 contradiction | 0.62 neutral | 0.19 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/75.png"/>
+[[Choice]]
+0.01> contradiction | 0.93 neutral | 0.07 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/75.png"/>
+[[Choice]]
+0.01> contradiction | 0.66 neutral | 0.33 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/75.png"/>
+[[Choice]]
+0.01> contradiction | 0.47 neutral | 0.53 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/75.png"/>
+[[Choice]]
+0.01 contradiction | 0.15 neutral | 0.83 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/75.png"/>
+[[Question:MC]]
+[[ID:q42]]
+<b>Premise:&nbsp;</b>Many small sailboats sitting at a dock.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>Many small sailboats docked.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.31 contradiction | 0.37 neutral | 0.32 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/77.png"/>
+[[Choice]]
+0.31 contradiction | 0.41 neutral | 0.27 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/77.png"/>
+[[Choice]]
+0.01> contradiction | 0.02 neutral | 0.98 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/77.png"/>
+[[Choice]]
+0.01> contradiction | 0.07 neutral | 0.93 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/77.png"/>
+[[Choice]]
+0.01> contradiction | 0.99 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/77.png"/>
+[[Choice]]
+0.01> contradiction | 0.08 neutral | 0.91 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/77.png"/>
+[[Question:MC]]
+[[ID:q43]]
+<b>Premise:&nbsp;</b>Five men in red shirts, in a line, on a basketball court, four with hands on their hearts, and same four looking upward.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>A team of basketball players are on the court.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.4 contradiction | 0.34 neutral | 0.26 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/83.png"/>
+[[Choice]]
+0.31 contradiction | 0.46 neutral | 0.23 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/83.png"/>
+[[Choice]]
+0.01> contradiction | 0.27 neutral | 0.73 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/83.png"/>
+[[Choice]]
+0.01 contradiction | 0.7 neutral | 0.28 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/83.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/83.png"/>
+[[Choice]]
+0.02 contradiction | 0.43 neutral | 0.54 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/83.png"/>
+[[Question:MC]]
+[[ID:q44]]
+<b>Premise:&nbsp;</b>An infant napping in it's crib in pajamas.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>A baby is sleeping in a crib with its blanket.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.29 contradiction | 0.38 neutral | 0.33 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/67.png"/>
+[[Choice]]
+0.67 contradiction | 0.2 neutral | 0.13 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/67.png"/>
+[[Choice]]
+0.01> contradiction | 0.27 neutral | 0.73 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/67.png"/>
+[[Choice]]
+0.01> contradiction | 0.99 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/67.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/67.png"/>
+[[Choice]]
+0.06 contradiction | 0.75 neutral | 0.18 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/67.png"/>
+[[Question:MC]]
+[[ID:q45]]
+<b>Premise:&nbsp;</b>A young girl in a bathing suit drinking a beverage in a green bottle.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>The girl is drinking milk from a sippy cup.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.32 contradiction | 0.35 neutral | 0.33 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/88.png"/>
+[[Choice]]
+0.59 contradiction | 0.25 neutral | 0.16 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/88.png"/>
+[[Choice]]
+0.02 contradiction | 0.98 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/88.png"/>
+[[Choice]]
+0.88 contradiction | 0.12 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/88.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/88.png"/>
+[[Choice]]
+0.38 contradiction | 0.55 neutral | 0.06 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/88.png"/>
+[[Question:MC]]
+[[ID:q46]]
+<b>Premise:&nbsp;</b>A woman singing into a microphone while a man plays drums in the background.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>They are playing a PlayStation.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.35 contradiction | 0.38 neutral | 0.27 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/11.png"/>
+[[Choice]]
+0.94 contradiction | 0.03 neutral | 0.03 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/11.png"/>
+[[Choice]]
+0.99< contradiction | 0.01> neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/11.png"/>
+[[Choice]]
+0.99 contradiction | 0.01> neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/11.png"/>
+[[Choice]]
+0.24 contradiction | 0.76 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/11.png"/>
+[[Choice]]
+0.42 contradiction | 0.56 neutral | 0.02 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/11.png"/>
+[[Question:MC]]
+[[ID:q47]]
+<b>Premise:&nbsp;</b>Two rodeo clowns are on the dirt.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>Two circus clowns were riding bicycles.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.24 contradiction | 0.35 neutral | 0.41 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/24.png"/>
+[[Choice]]
+0.67 contradiction | 0.27 neutral | 0.06 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/24.png"/>
+[[Choice]]
+0.99< contradiction | 0.01> neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/24.png"/>
+[[Choice]]
+0.99 contradiction | 0.01 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/24.png"/>
+[[Choice]]
+0.73 contradiction | 0.27 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/24.png"/>
+[[Choice]]
+0.36 contradiction | 0.6 neutral | 0.04 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/24.png"/>
+[[Question:MC]]
+[[ID:q48]]
+<b>Premise:&nbsp;</b>A man is sitting in front of a harpsichord, and a woman is preparing to sing.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>a boy covers his ears
+
+[[AdvancedChoices]]
+[[Choice]]
+0.41 contradiction | 0.27 neutral | 0.32 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/32.png"/>
+[[Choice]]
+0.2 contradiction | 0.13 neutral | 0.67 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/32.png"/>
+[[Choice]]
+0.99< contradiction | 0.01> neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/32.png"/>
+[[Choice]]
+0.99 contradiction | 0.01> neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/32.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/32.png"/>
+[[Choice]]
+0.21 contradiction | 0.74 neutral | 0.05 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/32.png"/>
+[[Question:MC]]
+[[ID:q49]]
+<b>Premise:&nbsp;</b>Nine men wearing tuxedos sing.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>Nine woman wearing dresses sing.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.29 contradiction | 0.37 neutral | 0.34 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/42.png"/>
+[[Choice]]
+0.31 contradiction | 0.28 neutral | 0.42 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/42.png"/>
+[[Choice]]
+0.99< contradiction | 0.01> neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/42.png"/>
+[[Choice]]
+0.99< contradiction | 0.01> neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/42.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/42.png"/>
+[[Choice]]
+0.49 contradiction | 0.49 neutral | 0.02 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/42.png"/>
+[[Question:MC]]
+[[ID:q50]]
+<b>Premise:&nbsp;</b>A man and woman walking away from a crowded street fair.<br>
+<br>
+<b>Hypothesis:&nbsp;</b>There are a group of men walking together.
+
+[[AdvancedChoices]]
+[[Choice]]
+0.34 contradiction | 0.34 neutral | 0.32 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m0/43.png"/>
+[[Choice]]
+0.21 contradiction | 0.09 neutral | 0.7 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m1/43.png"/>
+[[Choice]]
+0.98 contradiction | 0.01> neutral | 0.01 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m2/43.png"/>
+[[Choice]]
+0.98 contradiction | 0.02 neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m3/43.png"/>
+[[Choice]]
+0.01> contradiction | 0.99< neutral | 0.01> entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m4/43.png"/>
+[[Choice]]
+0.54 contradiction | 0.41 neutral | 0.05 entailment<br><img src="https://storage.googleapis.com/cogeval-bucket1/m5/43.png"/>

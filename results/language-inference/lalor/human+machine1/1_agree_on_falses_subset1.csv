@@ -1,4 +1,0 @@
-sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_1_pred,machine_1_confidence,confidence_diff
-19.0,Man sweeping trash outside a large statue.,A man is on vacation.,contradiction,neutral,0.5015353121801432,neutral,0.9319464664552076,0.4304111542750644
-51.0,"A woman in her early fifties walks by herself in the subway, another woman is not far behind.",back in the fifties a woman could walk by herself in the subway.,contradiction,neutral,0.6704196519959058,neutral,0.4827965279908501,0.1876231240050557
-35.0,An old woman in a cowboy hat smokes a cigarette.,The old lady is ten feet tall.,contradiction,neutral,0.6653019447287615,neutral,0.8096989096906817,0.14439696496192023

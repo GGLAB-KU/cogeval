@@ -1,0 +1,2 @@
+response_ID,model0_score,model1_score,model2_score,model3_score,model4_score,human_score,instead_of_you,cooperation,it_is_a_human,it_is_a_machine,opinions,user_accuracy
+R_1DBeH3MvXbosQjs,0.0,3.0,0.0,18.0,21.0,8.0,Probably not,Probably yes,Probably not,Definitely yes,I think humans would be more inclined give answers with more contradiction or entailment fractions,0.72

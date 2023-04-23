@@ -1,0 +1,3 @@
+response_ID,model0_score,model1_score,model2_score,model3_score,model4_score,human_score,instead_of_you,cooperation,it_is_a_human,it_is_a_machine,opinions,user_accuracy
+R_O3YkqkEOLsYCKsN,3.0,5.0,4.0,14.0,8.0,16.0,Probably not,Probably yes,Definitely not,Definitely yes,Because based on the BMX bike question I think that the agent cannot perform abstract thinking ,0.76
+R_27fA8iI6l44eGzX,0.0,3.0,7.0,13.0,9.0,18.0,Probably yes,Definitely yes,Probably yes,Probably not,"I thought the agent was a human because it gave similar answers to many questions, and even in questions where we had different thoughts, it gave answers that could naturally be thought of as a human.",0.76

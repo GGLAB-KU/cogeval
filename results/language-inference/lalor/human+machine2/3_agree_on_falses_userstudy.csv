@@ -1,6 +1,0 @@
-sample_id,sentence_1,sentence_2,gold_label,machine_2_pred,machine_2_confidence,machine_3_pred,machine_3_confidence,confidence_diff
-19.0,Man sweeping trash outside a large statue.,A man is on vacation.,contradiction,neutral,0.540013113941414,neutral,0.973951177425102,0.4339380634836879
-60.0,This man is walking past a wall that has art on it.,A man walks past a wall mural.,entailment,neutral,0.459613702440794,neutral,0.890540175949434,0.43092647350864
-31.0,The dogs ran around the dirt racetrack.,Dogs are humping each other.,contradiction,neutral,0.44844330463986,neutral,0.874641512823065,0.42619820818320503
-51.0,"A woman in her early fifties walks by herself in the subway, another woman is not far behind.",back in the fifties a woman could walk by herself in the subway.,contradiction,entailment,0.498658471532358,entailment,0.919464490693714,0.42080601916135607
-37.0,A wielder works on wielding a beam into place while other workers set beams.,The wielder is working on a building.,neutral,entailment,0.390189655339647,entailment,0.78995088747597,0.399761232136323

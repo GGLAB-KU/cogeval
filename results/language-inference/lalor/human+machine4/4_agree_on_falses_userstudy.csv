@@ -1,9 +1,0 @@
-sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_4_pred,machine_4_confidence,confidence_diff
-42.0,Nine men wearing tuxedos sing.,Nine woman wearing dresses sing.,contradiction,neutral,0.4882292732855681,neutral,0.9944567866202146,0.5062275133346466
-19.0,Man sweeping trash outside a large statue.,A man is on vacation.,contradiction,neutral,0.5015353121801432,neutral,0.9979889828101433,0.49645367063
-84.0,"A bride, a groom, 3 guys, and 3 women.",The unrelated people wander aimlessly.,contradiction,neutral,0.5312180143295804,neutral,0.9941156105385262,0.46289759620894577
-88.0,A young girl in a bathing suit drinking a beverage in a green bottle.,The girl is drinking milk from a sippy cup.,contradiction,neutral,0.5547594677584442,neutral,0.9942805934381208,0.4395211256796766
-40.0,People were watching the tournament in the stadium.,The people are sitting outside on the grass.,contradiction,neutral,0.5649948822927329,neutral,0.9983299822341536,0.4333350999414207
-51.0,"A woman in her early fifties walks by herself in the subway, another woman is not far behind.",back in the fifties a woman could walk by herself in the subway.,contradiction,neutral,0.6704196519959058,neutral,0.9967381709608224,0.3263185189649166
-6.0,A young boy in a sweatshirt is doodling on a piece of paper.,The class pictures are on display.,contradiction,neutral,0.6908904810644831,neutral,0.999085591526462,0.3081951104619789
-32.0,"A man is sitting in front of a harpsichord, and a woman is preparing to sing.",a boy covers his ears,contradiction,neutral,0.7379733879222109,neutral,0.9977477609051364,0.2597743729829255

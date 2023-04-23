@@ -1,21 +1,25 @@
 data:
   type: language-inference
-  human: results/language-inference/lalor/files/human.csv
-  machine: data/human/language-inference/lalor/snli_human_4gs.csv
+  human: data/human/SNLI-lalor/snli_human_4gs.csv
+  machine: results/SNLI-lalor/v2_tilek_merged_results_all.csv
 
 correlation:
-  type: machine
+  type: human+machine
   method: spearman
   columns:
     human:
-      - agg_human_conf
-    machine:
       - item_difficulty
-      - average_accuracy
+    machine:
+      #- machine_0_confidence
+      - machine_1_confidence
+      - machine_2_confidence
+      - machine_3_confidence
+      - machine_4_confidence
+      - agg_human_confidence
   results:
-    dir: results/correlation/language-inference/lalor/human+machine_lalor/
+    dir: results/SNLI-lalor/correlation/
     heatmap:
-      name:  all_heatmap.png
-      title: lalors avg acc.+item_difficulty score correlations
+      name:  heatmap.png
+      title: mix-of-humans vs. machines
     excel:
-      name:  all_correlations.xlsx
+      name:  correlations.xlsx

@@ -1,8 +1,0 @@
-sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_2_pred,machine_2_confidence,confidence_diff
-28.0,"A group of people are gathered in a crowd, some of which are holding spears.",A crowd of people are holding swords,contradiction,contradiction,0.4882292732855681,entailment,0.436441551121564,1.924670824407132
-75.0,"Neck and neck to the finish line, every competitor has been training for this race.",The competitors have trained very hard and are all very close to the finish line.,entailment,entailment,0.8311156601842374,neutral,0.492876274653182,1.3239919348374194
-0.0,A little boy is opening gifts surrounded by a group of children and adults.,The boy is being punished,contradiction,contradiction,0.8382804503582395,neutral,0.516510349155313,1.3217701012029264
-49.0,Eight people are sitting on a long boat on a sunny day.,Morning ride on boat,neutral,neutral,0.7993858751279427,entailment,0.462527778889723,1.2619136540176656
-31.0,The dogs ran around the dirt racetrack.,Dogs are humping each other.,contradiction,contradiction,0.6980552712384852,neutral,0.44844330463986,1.2496119665986252
-60.0,This man is walking past a wall that has art on it.,A man walks past a wall mural.,entailment,entailment,0.5844421699078812,neutral,0.459613702440794,1.0440558723486753
-37.0,A wielder works on wielding a beam into place while other workers set beams.,The wielder is working on a building.,neutral,neutral,0.5005117707267144,entailment,0.390189655339647,0.8907014260663614

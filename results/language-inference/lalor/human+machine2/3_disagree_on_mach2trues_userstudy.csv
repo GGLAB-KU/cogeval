@@ -1,8 +1,0 @@
-sample_id,sentence_1,sentence_2,gold_label,machine_2_pred,machine_2_confidence,machine_3_pred,machine_3_confidence,confidence_diff
-28.0,"A group of people are gathered in a crowd, some of which are holding spears.",A crowd of people are holding swords,contradiction,entailment,0.436441551121564,contradiction,0.993729965146524,2.4301715162680884
-88.0,A young girl in a bathing suit drinking a beverage in a green bottle.,The girl is drinking milk from a sippy cup.,contradiction,neutral,0.46957641770245,contradiction,0.988366166911022,1.518789749208572
-6.0,A young boy in a sweatshirt is doodling on a piece of paper.,The class pictures are on display.,contradiction,neutral,0.409944721384554,contradiction,0.854726845965051,1.444782124580497
-75.0,"Neck and neck to the finish line, every competitor has been training for this race.",The competitors have trained very hard and are all very close to the finish line.,entailment,neutral,0.492876274653182,entailment,0.889421382380858,1.38229765703404
-0.0,A little boy is opening gifts surrounded by a group of children and adults.,The boy is being punished,contradiction,neutral,0.516510349155313,contradiction,0.886620371759057,1.3701100226037441
-49.0,Eight people are sitting on a long boat on a sunny day.,Morning ride on boat,neutral,entailment,0.462527778889723,neutral,0.895158476871392,1.3576862557611151
-41.0,Two soccer players on the field running into each other.,There are two people colliding and falling.,neutral,contradiction,0.388629365375602,neutral,0.741396481138377,0.6472328842372251

@@ -1,0 +1,1252 @@
+[[AdvancedFormat]]
+[[Block]]
+[[Question:MC]]
+[[ID:r1]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID252/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID252/ChoiceDescription/2}
+[[Choice]]
+${q://QID252/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer1">${q://QID252/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer1">${q://QID252/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy1">${gr://SC_3epLBHXgGnvDIlE/Score}</div>
+<div style="display:none" id="modelaccuracy1">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r2]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID253/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID253/ChoiceDescription/2}
+[[Choice]]
+${q://QID253/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer2">${q://QID253/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer2">${q://QID253/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy2">${gr://SC_5uq0xiQqli9k49o/Score}</div>
+<div style="display:none" id="modelaccuracy2">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r3]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID254/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID254/ChoiceDescription/2}
+[[Choice]]
+${q://QID254/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer3">${q://QID254/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer3">${q://QID254/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy3">${gr://SC_3xY02ELPs1SprAG/Score}</div>
+<div style="display:none" id="modelaccuracy3">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r4]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID255/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID255/ChoiceDescription/2}
+[[Choice]]
+${q://QID255/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer4">${q://QID255/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer4">${q://QID255/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy4">${gr://SC_bP21YEgYKrBejky/Score}</div>
+<div style="display:none" id="modelaccuracy4">1</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r5]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID256/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID256/ChoiceDescription/2}
+[[Choice]]
+${q://QID256/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer5">${q://QID256/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer5">${q://QID256/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy5">${gr://SC_dd69PUGMNC8TpeS/Score}</div>
+<div style="display:none" id="modelaccuracy5">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r6]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID257/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID257/ChoiceDescription/2}
+[[Choice]]
+${q://QID257/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer6">${q://QID257/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer6">${q://QID257/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy6">${gr://SC_03exKOaEYSwPOEC/Score}</div>
+<div style="display:none" id="modelaccuracy6">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r7]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID258/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID258/ChoiceDescription/2}
+[[Choice]]
+${q://QID258/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer7">${q://QID258/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer7">${q://QID258/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy7">${gr://SC_0qrQvaasEtVcQES/Score}</div>
+<div style="display:none" id="modelaccuracy7">1</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r8]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID259/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID259/ChoiceDescription/2}
+[[Choice]]
+${q://QID259/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer8">${q://QID259/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer8">${q://QID259/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy8">${gr://SC_0PTKT5LqVSj71fE/Score}</div>
+<div style="display:none" id="modelaccuracy8">1</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r9]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID260/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID260/ChoiceDescription/2}
+[[Choice]]
+${q://QID260/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer9">${q://QID260/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer9">${q://QID260/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy9">${gr://SC_cAcihoLn7OdizTE/Score}</div>
+<div style="display:none" id="modelaccuracy9">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r10]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID261/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID261/ChoiceDescription/2}
+[[Choice]]
+${q://QID261/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer10">${q://QID261/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer10">${q://QID261/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy10">${gr://SC_4SbRIOs0cuPZS7Q/Score}</div>
+<div style="display:none" id="modelaccuracy10">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r11]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID262/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID262/ChoiceDescription/2}
+[[Choice]]
+${q://QID262/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer11">${q://QID262/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer11">${q://QID262/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy11">${gr://SC_9Y7IaeDcxdAPCyG/Score}</div>
+<div style="display:none" id="modelaccuracy11">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r12]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID263/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID263/ChoiceDescription/2}
+[[Choice]]
+${q://QID263/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer12">${q://QID263/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer12">${q://QID263/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy12">${gr://SC_e9EwsZ50fsgsnLE/Score}</div>
+<div style="display:none" id="modelaccuracy12">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r13]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID264/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID264/ChoiceDescription/2}
+[[Choice]]
+${q://QID264/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer13">${q://QID264/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer13">${q://QID264/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy13">${gr://SC_d6Wij0Z5AZBgnlA/Score}</div>
+<div style="display:none" id="modelaccuracy13">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r14]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID265/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID265/ChoiceDescription/2}
+[[Choice]]
+${q://QID265/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer14">${q://QID265/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer14">${q://QID265/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy14">${gr://SC_etGR2afrfSXZSpo/Score}</div>
+<div style="display:none" id="modelaccuracy14">1</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r15]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID266/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID266/ChoiceDescription/2}
+[[Choice]]
+${q://QID266/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer15">${q://QID266/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer15">${q://QID266/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy15">${gr://SC_dbSuSRm0tic3Zno/Score}</div>
+<div style="display:none" id="modelaccuracy15">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r16]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID267/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID267/ChoiceDescription/2}
+[[Choice]]
+${q://QID267/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer16">${q://QID267/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer16">${q://QID267/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy16">${gr://SC_8qyAoFd0UVandpY/Score}</div>
+<div style="display:none" id="modelaccuracy16">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r17]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID268/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID268/ChoiceDescription/2}
+[[Choice]]
+${q://QID268/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer17">${q://QID268/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer17">${q://QID268/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy17">${gr://SC_ekRsGPC4CAsrvoi/Score}</div>
+<div style="display:none" id="modelaccuracy17">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r18]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID269/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID269/ChoiceDescription/2}
+[[Choice]]
+${q://QID269/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer18">${q://QID269/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer18">${q://QID269/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy18">${gr://SC_9yMN1FBbZehPK8C/Score}</div>
+<div style="display:none" id="modelaccuracy18">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r19]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID270/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID270/ChoiceDescription/2}
+[[Choice]]
+${q://QID270/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer19">${q://QID270/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer19">${q://QID270/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy19">${gr://SC_bPeBb0s4OtHwZMy/Score}</div>
+<div style="display:none" id="modelaccuracy19">1</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r20]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID271/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID271/ChoiceDescription/2}
+[[Choice]]
+${q://QID271/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer20">${q://QID271/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer20">${q://QID271/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy20">${gr://SC_2aVoKoZTfe3an6m/Score}</div>
+<div style="display:none" id="modelaccuracy20">1</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r21]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID272/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID272/ChoiceDescription/2}
+[[Choice]]
+${q://QID272/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer21">${q://QID272/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer21">${q://QID272/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy21">${gr://SC_eVf8L6pnuc9NQF0/Score}</div>
+<div style="display:none" id="modelaccuracy21">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r22]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID273/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID273/ChoiceDescription/2}
+[[Choice]]
+${q://QID273/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer22">${q://QID273/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer22">${q://QID273/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy22">${gr://SC_2sZgjvhxIe7QEBw/Score}</div>
+<div style="display:none" id="modelaccuracy22">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r23]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID274/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID274/ChoiceDescription/2}
+[[Choice]]
+${q://QID274/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer23">${q://QID274/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer23">${q://QID274/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy23">${gr://SC_5cMymKs8GfaOr4O/Score}</div>
+<div style="display:none" id="modelaccuracy23">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r24]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID275/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID275/ChoiceDescription/2}
+[[Choice]]
+${q://QID275/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer24">${q://QID275/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer24">${q://QID275/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy24">${gr://SC_dpryQaTBgTjPBXM/Score}</div>
+<div style="display:none" id="modelaccuracy24">1</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r25]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID276/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID276/ChoiceDescription/2}
+[[Choice]]
+${q://QID276/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer25">${q://QID276/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer25">${q://QID276/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy25">${gr://SC_6m3FYcEXdB1RBps/Score}</div>
+<div style="display:none" id="modelaccuracy25">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r26]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID277/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID277/ChoiceDescription/2}
+[[Choice]]
+${q://QID277/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer26">${q://QID277/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer26">${q://QID277/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy26">${gr://SC_8qviyxdN0Zl3boO/Score}</div>
+<div style="display:none" id="modelaccuracy26">1</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r27]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID278/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID278/ChoiceDescription/2}
+[[Choice]]
+${q://QID278/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer27">${q://QID278/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer27">${q://QID278/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy27">${gr://SC_0eLB2nsrfkY3wma/Score}</div>
+<div style="display:none" id="modelaccuracy27">1</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r28]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID279/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID279/ChoiceDescription/2}
+[[Choice]]
+${q://QID279/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer28">${q://QID279/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer28">${q://QID279/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy28">${gr://SC_6lrzxkdNSEHwo50/Score}</div>
+<div style="display:none" id="modelaccuracy28">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r29]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID280/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID280/ChoiceDescription/2}
+[[Choice]]
+${q://QID280/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer29">${q://QID280/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer29">${q://QID280/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy29">${gr://SC_9z2MgQhxlHIyKmG/Score}</div>
+<div style="display:none" id="modelaccuracy29">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r30]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID281/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID281/ChoiceDescription/2}
+[[Choice]]
+${q://QID281/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer30">${q://QID281/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer30">${q://QID281/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy30">${gr://SC_018QpqS2qxtWWNw/Score}</div>
+<div style="display:none" id="modelaccuracy30">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r31]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID282/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID282/ChoiceDescription/2}
+[[Choice]]
+${q://QID282/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer31">${q://QID282/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer31">${q://QID282/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy31">${gr://SC_1X5LMsb2gZe3dRk/Score}</div>
+<div style="display:none" id="modelaccuracy31">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r32]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID283/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID283/ChoiceDescription/2}
+[[Choice]]
+${q://QID283/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer32">${q://QID283/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer32">${q://QID283/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy32">${gr://SC_cuyrRhQe4jdgFb8/Score}</div>
+<div style="display:none" id="modelaccuracy32">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r33]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID284/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID284/ChoiceDescription/2}
+[[Choice]]
+${q://QID284/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer33">${q://QID284/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer33">${q://QID284/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy33">${gr://SC_bx4YRU3qf14j3Rs/Score}</div>
+<div style="display:none" id="modelaccuracy33">1</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r34]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID285/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID285/ChoiceDescription/2}
+[[Choice]]
+${q://QID285/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer34">${q://QID285/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer34">${q://QID285/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy34">${gr://SC_egMpMlAmCqxuFhA/Score}</div>
+<div style="display:none" id="modelaccuracy34">1</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r35]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID286/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID286/ChoiceDescription/2}
+[[Choice]]
+${q://QID286/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer35">${q://QID286/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer35">${q://QID286/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy35">${gr://SC_2fwHHws4hnJ9Bwa/Score}</div>
+<div style="display:none" id="modelaccuracy35">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r36]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID287/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID287/ChoiceDescription/2}
+[[Choice]]
+${q://QID287/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer36">${q://QID287/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer36">${q://QID287/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy36">${gr://SC_0pMpVL6yRyF5Mpg/Score}</div>
+<div style="display:none" id="modelaccuracy36">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r37]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID288/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID288/ChoiceDescription/2}
+[[Choice]]
+${q://QID288/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer37">${q://QID288/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer37">${q://QID288/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy37">${gr://SC_6ilwV5gBZtWBtxY/Score}</div>
+<div style="display:none" id="modelaccuracy37">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r38]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID289/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID289/ChoiceDescription/2}
+[[Choice]]
+${q://QID289/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer38">${q://QID289/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer38">${q://QID289/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy38">${gr://SC_ekvuY66qauv3Hx4/Score}</div>
+<div style="display:none" id="modelaccuracy38">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r39]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID290/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID290/ChoiceDescription/2}
+[[Choice]]
+${q://QID290/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer39">${q://QID290/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer39">${q://QID290/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy39">${gr://SC_0SV1FzX6dUWp7cG/Score}</div>
+<div style="display:none" id="modelaccuracy39">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r40]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID291/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID291/ChoiceDescription/2}
+[[Choice]]
+${q://QID291/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer40">${q://QID291/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer40">${q://QID291/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy40">${gr://SC_a2zVLaW7zmsPmOG/Score}</div>
+<div style="display:none" id="modelaccuracy40">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r41]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID292/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID292/ChoiceDescription/2}
+[[Choice]]
+${q://QID292/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer41">${q://QID292/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer41">${q://QID292/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy41">${gr://SC_54izeNUa5rY5lLo/Score}</div>
+<div style="display:none" id="modelaccuracy41">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r42]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID293/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID293/ChoiceDescription/2}
+[[Choice]]
+${q://QID293/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer42">${q://QID293/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer42">${q://QID293/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy42">${gr://SC_eOJaDrgn4O1VmL4/Score}</div>
+<div style="display:none" id="modelaccuracy42">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r43]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID294/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID294/ChoiceDescription/2}
+[[Choice]]
+${q://QID294/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer43">${q://QID294/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer43">${q://QID294/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy43">${gr://SC_82Dn6puxjnDMyea/Score}</div>
+<div style="display:none" id="modelaccuracy43">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r44]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID295/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID295/ChoiceDescription/2}
+[[Choice]]
+${q://QID295/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer44">${q://QID295/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer44">${q://QID295/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy44">${gr://SC_3UfKAdyvZa57o1g/Score}</div>
+<div style="display:none" id="modelaccuracy44">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r45]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID296/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID296/ChoiceDescription/2}
+[[Choice]]
+${q://QID296/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer45">${q://QID296/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer45">${q://QID296/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy45">​​​​​​​${gr://SC_bJDMAN2GJFeCMQu/Score}</div>
+<div style="display:none" id="modelaccuracy45">1</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r46]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID297/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID297/ChoiceDescription/2}
+[[Choice]]
+${q://QID297/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer46">${q://QID297/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer46">${q://QID297/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy46">${gr://SC_3z9cipEdSILx1Ay/Score}</div>
+<div style="display:none" id="modelaccuracy46">1</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r47]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID298/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID298/ChoiceDescription/2}
+[[Choice]]
+${q://QID298/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer47">${q://QID298/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer47">${q://QID298/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy47">${gr://SC_a4OXM5kGr3AoT6m/Score}</div>
+<div style="display:none" id="modelaccuracy47">1</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r48]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID299/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID299/ChoiceDescription/2}
+[[Choice]]
+${q://QID299/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer48">${q://QID299/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer48">${q://QID299/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy48">${gr://SC_3sMePbdBpyPfmvQ/Score}</div>
+<div style="display:none" id="modelaccuracy48">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r49]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID300/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID300/ChoiceDescription/2}
+[[Choice]]
+${q://QID300/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer49">${q://QID300/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer49">${q://QID300/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy49">${gr://SC_emLbBVolU4BuNO6/Score}</div>
+<div style="display:none" id="modelaccuracy49">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+
+[[Question:MC]]
+[[ID:r50]]
+
+[[AdvancedChoices]]
+[[Choice]]
+${q://QID301/QuestionText}<br />
+<br />
+<strong>You &amp; Agent</strong><br />
+<br />
+${q://QID301/ChoiceDescription/2}
+[[Choice]]
+${q://QID301/QuestionText}<br />
+<br />
+<strong>You</strong>
+<div id="useranswer50">${q://QID301/ChoiceGroup/SelectedChoices}</div>
+<strong>Agent</strong>
+
+<div id="agentanswer50">${q://QID301/ChoiceDescription/2}<br />
+&nbsp;<div style="display:none" id="useraccuracy50">${gr://SC_1FeZIYfRYm2AEwC/Score}</div>
+<div style="display:none" id="modelaccuracy50">0</div>
+<br />
+&nbsp;</div>
+<br />
+
+

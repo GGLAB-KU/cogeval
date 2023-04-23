@@ -1,4 +1,0 @@
-sample_id,content,gold_label,agg_human_label,agg_human_confidence,machine_3_pred,machine_3_confidence,confidence_diff
-55,It 's a worse sign when you begin to envy her condition .,0.0,-1.0,0.4224224224224224,-1.0,0.8498135725203367,0.42739115009791434
-71,"There 's no mistaking the fact that this hybrid misses the impact of the Disney classic , and even that of the excellent 1934 MGM version .",0.0,-1.0,0.6156156156156156,-1.0,0.9993743204191532,0.3837587048035376
-2,"Hip-hop has a history , and it 's a metaphor for this love story .",0.0,1.0,0.4234234234234234,1.0,0.6597846863435296,0.23636126292010623

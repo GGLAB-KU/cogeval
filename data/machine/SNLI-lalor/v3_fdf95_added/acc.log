@@ -1,0 +1,18 @@
+root - INFO - # instances: 50
+root - INFO - model: random_noisy, acc: 0.260 
+
+root - INFO - # instances: 50
+root - INFO - model: tfidf, acc: 0.280 
+
+root - INFO - # instances: 50
+root - INFO - model: lstm, acc: 0.720 
+
+root - INFO - # instances: 50
+root - INFO - model: roberta_calibrated, acc: 0.720 
+
+root - INFO - # instances: 50
+root - INFO - model: davinci, acc: 0.420 
+
+root - INFO - # instances: 50
+root - INFO - model: human, acc: 0.720 
+

@@ -1,3 +1,0 @@
-sample_id,content,gold_label,agg_human_label,agg_human_confidence,machine_2_pred,machine_2_confidence,confidence_diff
-33,"Still , it gets the job done -- a sleepy afternoon rental .",-1.0,1.0,0.4314314314314314,0.0,0.576348,1.0077794314314314
-40,What might have been a predictably heartwarming tale is suffused with complexity .,1.0,-1.0,0.3593593593593593,0.0,0.43617988,0.9231794793593593

@@ -1,6 +1,0 @@
-sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_2_pred,machine_2_confidence,confidence_diff
-75.0,"Neck and neck to the finish line, every competitor has been training for this race.",The competitors have trained very hard and are all very close to the finish line.,entailment,entailment,0.8311156601842374,neutral,0.49,1.3211156601842373
-49.0,Eight people are sitting on a long boat on a sunny day.,Morning ride on boat,neutral,neutral,0.7993858751279427,entailment,0.46,1.2593858751279428
-31.0,The dogs ran around the dirt racetrack.,Dogs are humping each other.,contradiction,contradiction,0.6980552712384852,neutral,0.45,1.2480552712384851
-60.0,This man is walking past a wall that has art on it.,A man walks past a wall mural.,entailment,entailment,0.5844421699078812,neutral,0.46,1.0444421699078812
-37.0,A wielder works on wielding a beam into place while other workers set beams.,The wielder is working on a building.,neutral,neutral,0.5005117707267144,entailment,0.39,0.8905117707267144

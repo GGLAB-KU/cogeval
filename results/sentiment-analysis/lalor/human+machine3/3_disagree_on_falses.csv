@@ -1,6 +1,0 @@
-sample_id,content,gold_label,agg_human_label,agg_human_confidence,machine_3_pred,machine_3_confidence,confidence_diff
-24,Ferrara directs the entire film with the kind of detachment that makes any given frame look like a family 's custom-made Christmas card .,0.0,-1.0,0.3943943943943944,1.0,0.99912511090883,2.3935195053032245
-30,Several degrees shy of the gross-out contests one expects from current teen fare .,0.0,-1.0,0.4574574574574575,1.0,0.889695570845465,2.3471530283029223
-54,"It 's a flashy , star-splashed reduction .",0.0,-1.0,0.4854854854854855,1.0,0.775935655815746,2.2614211413012315
-33,"Still , it gets the job done -- a sleepy afternoon rental .",-1.0,1.0,0.4314314314314314,0.0,0.9993351580054444,1.4307665894368757
-40,What might have been a predictably heartwarming tale is suffused with complexity .,1.0,-1.0,0.3593593593593593,0.0,0.9985834822097578,0.3607758771496016

@@ -1,2 +1,0 @@
-sample_id,content,gold_label,agg_human_label,agg_human_confidence,machine_4_pred,machine_4_confidence,confidence_diff
-40,What might have been a predictably heartwarming tale is suffused with complexity .,1.0,-1.0,0.3593593593593593,1.0,0.556275090098397,1.9156344494577564

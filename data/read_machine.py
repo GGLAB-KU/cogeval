@@ -1,5 +1,6 @@
 from collections import Counter
 import pandas as pd
+import numpy as np
 from data.read_human import *
 import random
 
@@ -112,8 +113,16 @@ def randomize_snli(file):
     random_df = pd.DataFrame({'sample_id':[], 'confidence':[], 'pred_label':[]})
     for i,row in df.iterrows():
         random_df.at[i, 'sample_id'] = row['sample_id']
-        random_df.at[i, 'confidence'] = 1/3
-        ri = random.randint(-1,1)
+        noise =  np.random.normal(0, 0.05, 3)
+        ps = [1/3, 1/3, 1/3]
+        ps += noise
+        ps /=ps.sum(); 
+        random_df.at[i, 'confidence'] = max(ps)
+        random_df.at[i, 'c'] = ps[0]
+        random_df.at[i, 'n'] = ps[1]
+        random_df.at[i, 'e'] = ps[2]
+
+        ri = np.argmax(ps) -1
         if ri == -1:
             random_df.at[i, 'pred_label'] = 'contradiction'
         if ri == 0:
@@ -121,11 +130,15 @@ def randomize_snli(file):
         if ri == 1:
             random_df.at[i, 'pred_label'] = 'entailment'
     random_df[['sample_id']] = random_df[['sample_id']].astype(int)
-    random_df.to_csv('snli_random.csv',index=False)
+    random_df.to_csv('random_noisy.csv',index=False)
+
+
+
 
 
 if __name__ == '__main__':
     #stamp_cola_data('data/machine/linguistic-acceptability/DeBERTa/cola_deberta.csv')
-    stamp_snli_data('/kuacc/users/mugekural/workfolder/dev/git/cogeval/user-study/lstm.csv', '/kuacc/users/mugekural/workfolder/dev/git/cogeval/data/human/language-inference/lalor/snli_human_4gs.csv')
+    #stamp_snli_data('user-study/lstm.csv', 'data/human/language-inference/lalor/snli_human_4gs.csv')
     #randomize_wic('data/human/word-sense-disambiguation/ann3_4_wic.csv')
     #randomize_multirc('data/machine/reading-comprehension/multiRC/RoBERTa/multirc_roberta_calib.csv')
+    randomize_snli('data/human/SNLI-lalor/snli_human_4gs.csv')

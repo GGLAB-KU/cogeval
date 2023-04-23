@@ -1,7 +1,7 @@
 import pandas as pd
 from itertools import combinations
-
-
+import random
+from collections import defaultdict
 def calculate_inst_affect(inst_results, result, mach):
     new_total_acc = inst_results+[result]
     new_acc_score = sum(new_total_acc)/len(new_total_acc)
@@ -52,11 +52,14 @@ def get_best_subset(set,N):
         res[idx] = nodes_for_comb(comb)
     temp = min(res.values())
     MIN_COMB_IDX = [key for key in res if res[key] == temp][0]
-    print('N:', N, ' len_combs:', len(combs), ' len(set):', len(set))
+    #print('N:', N, ' len_combs:', len(combs), ' len(set):', len(set))
     return list(combs[MIN_COMB_IDX]), temp
 
+SET_ID = "v3_all"
+SETSIZE = 90
+GREEDY_SIZE = 60
 
-df = pd.read_csv('results/language-inference/lalor/SNLI_analysis_true-false_all-set.csv')
+df = pd.read_csv('results/SNLI-lalor/'+SET_ID+'_truefalse.csv')
 overall_accuracies = {'m0': 0, 'm1': 0, 'm2':0, 'm3':0, 'm4':0, 'm5':0}
 meta_instance_accs = dict()
 for idx, row in df.iterrows():
@@ -75,20 +78,29 @@ for idx, row in df.iterrows():
 
 
 for k,v in overall_accuracies.items():
-    overall_accuracies[k] /= 90 
+    overall_accuracies[k] /= SETSIZE 
 
 
-lm = [*range(0,90,1)]
-lm.reverse()
-i = 89
-while i>=50:
+
+lm = [*range(0,SETSIZE,1)]
+random.shuffle(lm)
+
+i = SETSIZE -1
+while i>=GREEDY_SIZE:
     lm, temp = get_best_subset(lm,i)
     i = i-1
-out_df = pd.DataFrame({'sample_id':[]})
+out_df = pd.DataFrame({'idx':[]})
 for sid in lm:
     out_df.loc[len(out_df.index)] = sid
 
-out_df.to_csv('user-study/questions/greedy.csv')
+
+df = pd.read_csv("results/SNLI-lalor/"+SET_ID+".csv")
+gdf = pd.DataFrame({})
+sids = defaultdict(lambda:0)
+for idx, row in out_df.iterrows():
+    sids[row.idx] +=1
+    gdf = gdf.append(df.loc[row.idx])
+gdf.to_csv("results/SNLI-lalor/"+SET_ID+"_greedy.csv", index=False)
 
 
 '''lm = [*range(0,90,1)]
@@ -117,3 +129,5 @@ for comb in combs:
         acc += meta_instance_accs[inst]['m0']
     all_accs.append(abs(overall_accuracies['m0']- (acc/len(comb))))
 breakpoint()'''
+
+

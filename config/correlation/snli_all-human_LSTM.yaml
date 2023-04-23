@@ -10,11 +10,11 @@ correlation:
     human:
       - diff_score
     machine:
-      - Entropy
+      - confidence
   results:
     dir: results/correlation/language-inference/lalor/human+machine_2/
     heatmap:
-      name:  all_heatmap.png
+      name:  all_heatmap_confidence.png
       title: human+LSTM correlations
     excel:
       name:  all_correlations.xlsx

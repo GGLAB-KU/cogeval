@@ -1,9 +1,0 @@
-sample_id,sentence_1,sentence_2,gold_label,agg_human_label,agg_human_confidence,machine_1_pred,machine_1_confidence,confidence_diff
-33.0,Two people dressed in red and white wait at the horse track with a horse.,The people at the track are outdoors.,entailment,neutral,0.5475946775844421,entailment,0.878999850328786,1.4265945279132282
-11.0,A woman singing into a microphone while a man plays drums in the background.,They are playing a PlayStation.,contradiction,neutral,0.5578300921187308,contradiction,0.9428972550442616,1.3850671629255307
-84.0,"A bride, a groom, 3 guys, and 3 women.",The unrelated people wander aimlessly.,contradiction,neutral,0.5312180143295804,contradiction,0.8572950032067732,1.3260769888771928
-20.0,A man wearing an orange suit with his face painted white is holding a guitar above his shoulder.,There is one man in this picture.,entailment,neutral,0.6264073694984647,entailment,0.5977637279413535,1.2241710974398181
-24.0,Two rodeo clowns are on the dirt.,Two circus clowns were riding bicycles.,contradiction,neutral,0.5987717502558854,contradiction,0.6711024126415652,1.0723306623856799
-88.0,A young girl in a bathing suit drinking a beverage in a green bottle.,The girl is drinking milk from a sippy cup.,contradiction,neutral,0.5547594677584442,contradiction,0.5920534325902251,1.037293964831781
-53.0,A white dog with a life vest accompanies a man in a boat.,man eats carrot,contradiction,neutral,0.617195496417605,contradiction,0.6412951128939768,1.0240996164763718
-41.0,Two soccer players on the field running into each other.,There are two people colliding and falling.,neutral,entailment,0.5568065506653019,neutral,0.4327643727554425,0.9895709234207444

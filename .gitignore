@@ -3,3 +3,7 @@ __pycache__
 **.code-workspace
 settings.json
 **/*embeddings*.csv
+junk/
+**/*tar.gz
+**/*.th
+**/*.lock

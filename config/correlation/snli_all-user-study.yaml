@@ -4,18 +4,22 @@ data:
   machine: user-study/results/results_with_diff_scores.csv
 
 correlation:
-  type: machine
+  type: human+machine
   method: spearman
   columns:
     human:
       - agg_human_conf
     machine:
       - diff_score
-      - agg_human_confidence
+      - avg_userstudy_accuracy
+      - avg_userstudy_confidence
+      - agg_userstudy_accuracy
+      - agg_userstudy_confidence
+
   results:
     dir: results/correlation/language-inference/lalor/human+machine_userstudy/
     heatmap:
-      name:  all_heatmap.png
-      title: lalors human+user_study_difficulty correlations
+      name:  userstudy-diffscore_userstudy-aggacc.png
+      title: user_study difficulty-acc correlations
     excel:
-      name:  all_correlations.xlsx
+      name:  userstudy-diffscore_userstudy-avgacc.xlsx

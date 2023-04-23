@@ -1,5 +1,0 @@
-sample_id,content,gold_label,agg_human_label,agg_human_confidence,machine_1_pred,machine_1_confidence,confidence_diff
-71,"There 's no mistaking the fact that this hybrid misses the impact of the Disney classic , and even that of the excellent 1934 MGM version .",0.0,-1.0,0.6156156156156156,1.0,0.4890240703154964,2.104639685931112
-2,"Hip-hop has a history , and it 's a metaphor for this love story .",0.0,1.0,0.4234234234234234,-1.0,0.5417453191012649,1.9651687425246882
-58,"Literally nothing in The Pool is new , but if you grew up on the stalker flicks of the 1980 's this one should appease you for 90 minutes .",0.0,1.0,0.4154154154154154,-1.0,0.545734481376665,1.9611498967920804
-24,Ferrara directs the entire film with the kind of detachment that makes any given frame look like a family 's custom-made Christmas card .,0.0,-1.0,0.3943943943943944,1.0,0.396550833823506,1.7909452282179004

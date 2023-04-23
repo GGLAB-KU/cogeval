@@ -1,0 +1,993 @@
+sample_id,sentence_1,sentence_2,pred_label,gold_label,prompt_text,confidence,logprobs,c,n,e
+0,A little boy is opening gifts surrounded by a group of children and adults.,The boy is being punished,contradiction,contradiction,"A little boy is opening gifts surrounded by a group of children and adults.
+
+Can we infer that the boy is being punished? Answer as yes, no or maybe.
+
+Answer:",0.935590769670521,"{
+  "" "": -9.074048,
+  "" Maybe"": -2.764636,
+  "" No"": -0.06657711,
+  "" maybe"": -9.078366,
+  ""No"": -6.8622327
+}",0.9366373443054582,0.06311313472825374,0.00024952096628805265
+1,"People playing cricket in the park, pine trees in the back.","People are playing sports in the park, near the pine trees",entailment,entailment,"People playing cricket in the park, pine trees in the back.
+
+Can we infer that people are playing sports in the park, near the pine trees? Answer as yes, no or maybe.
+
+Answer:",0.7310358777992743,"{
+  "" Maybe"": -1.3285724,
+  "" Yes"": -0.31329274,
+  "" maybe"": -8.501864,
+  "" yes"": -7.930966,
+  ""Yes"": -5.712661
+}",0.0002426258009786686,0.265058188131429,0.7346991860675923
+2,Some people hanging out on a large backyard deck.,people hanging out on deck,entailment,entailment,"Some people hanging out on a large backyard deck.
+
+Can we infer that people hanging out on deck? Answer as yes, no or maybe.
+
+Answer:",0.9949186668737672,"{
+  "" Maybe"": -6.0771937,
+  "" YES"": -10.25314,
+  "" Yes"": -0.005094287,
+  "" yes"": -8.484103,
+  ""Yes"": -5.98653
+}",3.23838849964897e-05,0.0022946069815588184,0.9976730091334447
+3,A group of dancers are performing.,The audience is silent.,neutral,neutral,"A group of dancers are performing.
+
+Can we infer that the audience is silent? Answer as yes, no or maybe.
+
+Answer:",0.9993030302363397,"{
+  "" Maybe"": -0.00069721276,
+  "" No"": -9.796519,
+  "" maybe"": -8.1856365,
+  ""Maybe"": -7.957291,
+  ""maybe"": -11.910729
+}",5.564496280349373e-05,0.9999384754564695,5.879580726952938e-06
+4,A large brown and white dog is carrying a stick through a white and snowy area.,A puppy is playing fetch with a stick.,neutral,neutral,"A large brown and white dog is carrying a stick through a white and snowy area.
+
+Can we infer that a puppy is playing fetch with a stick? Answer as yes, no or maybe.
+
+Answer:",0.9990665189048086,"{
+  ""\n"": -11.536362,
+  "" Maybe"": -0.00093391706,
+  "" maybe"": -8.218642,
+  ""Maybe"": -7.3703656,
+  ""maybe"": -11.682341
+}",1.2910332981508343e-05,0.999974179334037,6.455166490781927e-06
+5,A little girl in pink stands in a yellow hallway.,The girl is standing outside her apartment.,neutral,neutral,"A little girl in pink stands in a yellow hallway.
+
+Can we infer that the girl is standing outside her apartment? Answer as yes, no or maybe.
+
+Answer:",0.9991195083604523,"{
+  ""\n"": -11.527454,
+  "" "": -10.497001,
+  "" Maybe"": -0.0008808795,
+  "" maybe"": -8.065923,
+  ""Maybe"": -7.577153
+}",2.7206838021431867e-05,0.9999455863239571,1.3603419010688178e-05
+6,A young boy in a sweatshirt is doodling on a piece of paper.,The class pictures are on display.,neutral,contradiction,"A young boy in a sweatshirt is doodling on a piece of paper.
+
+Can we infer that the class pictures are on display? Answer as yes, no or maybe.
+
+Answer:",0.9990945325832451,"{
+  "" "": -10.245214,
+  "" Maybe"": -0.0009058776,
+  "" No"": -9.486136,
+  "" maybe"": -8.195994,
+  ""Maybe"": -7.6086
+}",7.589680267075467e-05,0.9998664546270579,5.7648570271351396e-05
+7,A young girl in a white dress watches bubbles while a woman and girl toddler observe.,A girl is watching bubbles.,entailment,entailment,"A young girl in a white dress watches bubbles while a woman and girl toddler observe.
+
+Can we infer that a girl is watching bubbles? Answer as yes, no or maybe.
+
+Answer:",0.9912875681284332,"{
+  "" Maybe"": -5.064195,
+  "" YES"": -10.140477,
+  "" Yes"": -0.008750607,
+  "" yes"": -7.6333036,
+  ""Yes"": -6.3128824
+}",5.7126681776042965e-05,0.006318995647416285,0.9936238776708076
+8,a toddler playing with a toy car next to a dog.,A toddler plays with toy cars while his dog sleeps.,neutral,neutral,"a toddler playing with a toy car next to a dog.
+
+Can we infer that a toddler plays with toy cars while his dog sleeps? Answer as yes, no or maybe.
+
+Answer:",0.9991682651233655,"{
+  "" "": -10.911268,
+  "" Maybe"": -0.00083208096,
+  "" No"": -10.17598,
+  "" maybe"": -8.37727,
+  ""Maybe"": -7.5407143
+}",3.8073959012625395e-05,0.999929320393646,3.260564734131055e-05
+9,A man in and a woman are holding their towels at the beach.,People are at the beach,neutral,entailment,"A man in and a woman are holding their towels at the beach.
+
+Can we infer that people are at the beach? Answer as yes, no or maybe.
+
+Answer:",0.9405866712950384,"{
+  "" Maybe"": -0.06125148,
+  "" Yes"": -2.839312,
+  "" maybe"": -8.042282,
+  ""Maybe"": -8.122532,
+  ""Yes"": -8.301672
+}",8.099984675880023e-05,0.9412050218455116,0.05871397830772965
+10,Man and woman crossing the street at dusk.,A husband and a wife are enjoying a leisurely stroll in the evening.,neutral,neutral,"Man and woman crossing the street at dusk.
+
+Can we infer that a husband and a wife are enjoying a leisurely stroll in the evening? Answer as yes, no or maybe.
+
+Answer:",0.9994123465359728,"{
+  "" "": -12.179785,
+  "" Maybe"": -0.0005878262,
+  "" maybe"": -9.321724,
+  ""Maybe"": -7.6320267,
+  ""maybe"": -12.621398
+}",5.107860659381291e-06,0.9999897842786812,2.55393032966289e-06
+11,A woman singing into a microphone while a man plays drums in the background.,They are playing a PlayStation.,neutral,contradiction,"A woman singing into a microphone while a man plays drums in the background.
+
+Can we infer that they are playing a PlayStation? Answer as yes, no or maybe.
+
+Answer:",0.7598706177475927,"{
+  "" Maybe"": -0.2746071,
+  "" No"": -1.4402814,
+  "" maybe"": -6.3535876,
+  ""Maybe"": -7.0900116,
+  ""No"": -7.7071533
+}",0.23731069612276443,0.7624444971797313,0.00024480669750426287
+12,"Two men in front of a projector screen, one at a microphone.",Three men about to present their best idea yet in front of their company.,neutral,neutral,"Two men in front of a projector screen, one at a microphone.
+
+Can we infer that three men about to present their best idea yet in front of their company? Answer as yes, no or maybe.
+
+Answer:",0.9995785812418398,"{
+  "" Maybe"": -0.00042150758,
+  "" Possibly"": -12.669288,
+  "" maybe"": -9.036336,
+  ""Maybe"": -8.149167,
+  ""maybe"": -12.764755
+}",5.288446923379375e-06,0.9999894231061532,2.6442234616896876e-06
+13,A cyclist is optimistic as he rushes through the air while on his BMX bike at a bicycle event.,A snowboarder flies through the air,neutral,contradiction,"A cyclist is optimistic as he rushes through the air while on his BMX bike at a bicycle event.
+
+Can we infer that a snowboarder flies through the air? Answer as yes, no or maybe.
+
+Answer:",0.9988643401502924,"{
+  ""\n"": -11.390758,
+  "" "": -10.559802,
+  "" Maybe"": -0.0011363052,
+  "" maybe"": -7.623615,
+  ""Maybe"": -7.425237
+}",2.5434261309686956e-05,0.9999491314773806,1.2717130654871234e-05
+14,A boy in a blue and white shirt is pointing up and a second boy in a white shirt shields his eyes.,Two boys puch each other on swings.,neutral,contradiction,"A boy in a blue and white shirt is pointing up and a second boy in a white shirt shields his eyes.
+
+Can we infer that two boys puch each other on swings? Answer as yes, no or maybe.
+
+Answer:",0.9640914053874179,"{
+  "" Maybe"": -0.03656917,
+  "" No"": -3.3960814,
+  "" maybe"": -6.714148,
+  ""Maybe"": -6.874704,
+  ""No"": -9.261368
+}",0.03359932826305418,0.9663386285028785,6.204323406722168e-05
+15,A group of people in dark clothing are crossing a crosswalk.,A group of people in dark clothing are crossing a crosswalk to get to the store,neutral,neutral,"A group of people in dark clothing are crossing a crosswalk.
+
+Can we infer that a group of people in dark clothing are crossing a crosswalk to get to the store? Answer as yes, no or maybe.
+
+Answer:",0.9993701460913036,"{
+  ""\n"": -10.695786,
+  "" Maybe"": -0.00063005235,
+  "" No"": -11.713686,
+  "" maybe"": -8.591292,
+  ""Maybe"": -7.820138
+}",8.18108316382773e-06,0.9999574283416667,3.439057516951838e-05
+16,A girl is holding a camera and making a hand gesture.,A girl holds a camera.,entailment,entailment,"A girl is holding a camera and making a hand gesture.
+
+Can we infer that a girl holds a camera? Answer as yes, no or maybe.
+
+Answer:",0.7946662609616286,"{
+  "" Maybe"": -1.5970758,
+  "" Yes"": -0.22983305,
+  "" maybe"": -8.90953,
+  "" yes"": -7.7298536,
+  ""Yes"": -6.1788545
+}",0.00019856654177163868,0.2026228631515261,0.7971785703067022
+17,A man posing with a antique sewing machine.,He is a sewer.,neutral,neutral,"A man posing with a antique sewing machine.
+
+Can we infer that he is a sewer? Answer as yes, no or maybe.
+
+Answer:",0.9988765608308187,"{
+  "" "": -10.761705,
+  "" Maybe"": -0.0011240707,
+  "" No"": -9.325087,
+  "" maybe"": -7.809611,
+  ""Maybe"": -7.4453106
+}",8.91592019722308e-05,0.9998665513378985,4.4289460129243174e-05
+18,Five people standing by a gate.,Five fat people standing by a gate.,neutral,neutral,"Five people standing by a gate.
+
+Can we infer that five fat people standing by a gate? Answer as yes, no or maybe.
+
+Answer:",0.5634290854531003,"{
+  "" Maybe"": -0.5737138,
+  "" No"": -0.8334108,
+  "" maybe"": -6.9744153,
+  ""Maybe"": -7.8868146,
+  ""No"": -7.6302266
+}",0.43505009375658016,0.5647402629674215,0.0002096432759983724
+19,Man sweeping trash outside a large statue.,A man is on vacation.,neutral,contradiction,"Man sweeping trash outside a large statue.
+
+Can we infer that a man is on vacation? Answer as yes, no or maybe.
+
+Answer:",0.9980680778685681,"{
+  "" "": -10.147262,
+  "" Maybe"": -0.0019337907,
+  "" No"": -6.7863307,
+  "" maybe"": -8.2541895,
+  ""Maybe"": -7.632478
+}",0.00112910420452534,0.9988127030533377,5.819274213691994e-05
+20,A man wearing an orange suit with his face painted white is holding a guitar above his shoulder.,There is one man in this picture.,entailment,entailment,"A man wearing an orange suit with his face painted white is holding a guitar above his shoulder.
+
+Can we infer that there is one man in this picture? Answer as yes, no or maybe.
+
+Answer:",0.995233977103308,"{
+  "" Maybe"": -8.907723,
+  "" YES"": -9.750543,
+  "" Yes"": -0.0047774166,
+  "" yes"": -7.472736,
+  ""Yes"": -5.532472
+}",4.7851850574986976e-05,0.00013533965179230857,0.9998168084976327
+21,Two men and a woman are inspecting the front tire of a bicycle.,There are a group of people near a bike.,neutral,entailment,"Two men and a woman are inspecting the front tire of a bicycle.
+
+Can we infer that there are a group of people near a bike? Answer as yes, no or maybe.
+
+Answer:",0.9976602016056343,"{
+  "" Maybe"": -0.00234254,
+  "" No"": -6.369535,
+  "" Yes"": -10.596928,
+  "" maybe"": -8.313763,
+  ""Maybe"": -7.9989886
+}",0.0017129555647399201,0.9982411236115304,2.4992669402365208e-05
+22,This path leads up to the apple market entrance.,This road goes up to apple market entrance,neutral,entailment,"This path leads up to the apple market entrance.
+
+Can we infer that this road goes up to apple market entrance? Answer as yes, no or maybe.
+
+Answer:",0.795457037163213,"{
+  "" Maybe"": -0.22883844,
+  "" Yes"": -1.5917993,
+  "" maybe"": -8.401236,
+  ""Maybe"": -8.835009,
+  ""Yes"": -7.6342187
+}",0.00013019131085478808,0.7958271740868621,0.20404263460228309
+23,A single runner is watched by onlookers in a race.,A man is running in a race.,neutral,entailment,"A single runner is watched by onlookers in a race.
+
+Can we infer that a man is running in a race? Answer as yes, no or maybe.
+
+Answer:",0.9995293493507806,"{
+  "" "": -11.243497,
+  "" Maybe"": -0.00047076144,
+  "" No"": -11.158357,
+  "" maybe"": -8.462246,
+  ""Maybe"": -8.429584
+}",1.4255653401447253e-05,0.9999589586045429,2.6785742055723816e-05
+24,Two rodeo clowns are on the dirt.,Two circus clowns were riding bicycles.,contradiction,contradiction,"Two rodeo clowns are on the dirt.
+
+Can we infer that two circus clowns were riding bicycles? Answer as yes, no or maybe.
+
+Answer:",0.7250593249194819,"{
+  "" Maybe"": -1.2990962,
+  "" No"": -0.3215018,
+  "" maybe"": -7.0526457,
+  ""Maybe"": -8.204621,
+  ""No"": -7.0613832
+}",0.7259169159727432,0.273916723021808,0.00016636100544875632
+25,A boy does a skateboarding trick in the air while holding the board with his left hand.,A sad boy does a skateboarding trick in the air while holding the board with his left hand.,neutral,neutral,"A boy does a skateboarding trick in the air while holding the board with his left hand.
+
+Can we infer that a sad boy does a skateboarding trick in the air while holding the board with his left hand? Answer as yes, no or maybe.
+
+Answer:",0.8724853900274196,"{
+  "" Maybe"": -0.13640937,
+  "" No"": -2.079265,
+  "" maybe"": -6.9431353,
+  ""Maybe"": -6.989611,
+  ""No"": -7.9942603
+}",0.12535946327713116,0.8743720334515057,0.0002685032713631852
+26,A young boy in a beige jacket laughs as he reaches for a teal balloon.,The boy plays with the balloon.,neutral,entailment,"A young boy in a beige jacket laughs as he reaches for a teal balloon.
+
+Can we infer that the boy plays with the balloon? Answer as yes, no or maybe.
+
+Answer:",0.9988217232138561,"{
+  "" "": -10.775196,
+  "" Maybe"": -0.0011789715,
+  "" Yes"": -10.470995,
+  "" maybe"": -7.6043735,
+  ""Maybe"": -7.416551
+}",5.044327924808023e-05,0.9999212098808129,2.83468399389938e-05
+27,A scene of snow and water.,a snow and water scene at sunset,neutral,neutral,"A scene of snow and water.
+
+Can we infer that a snow and water scene at sunset? Answer as yes, no or maybe.
+
+Answer:",0.9981686335018503,"{
+  "" "": -10.283651,
+  "" Maybe"": -0.0018330455,
+  "" maybe"": -7.1445074,
+  ""Maybe"": -6.9301867,
+  ""maybe"": -11.28781
+}",2.591832280834927e-05,0.9999481633543833,1.295916140420239e-05
+28,"A group of people are gathered in a crowd, some of which are holding spears.",A crowd of people are holding swords,neutral,contradiction,"A group of people are gathered in a crowd, some of which are holding spears.
+
+Can we infer that a crowd of people are holding swords? Answer as yes, no or maybe.
+
+Answer:",0.9697847852286466,"{
+  "" Maybe"": -0.030681103,
+  "" No"": -3.565414,
+  "" maybe"": -6.62877,
+  ""Maybe"": -7.5890036,
+  ""No"": -9.929954
+}",0.028333966992829612,0.9716125580806036,5.3474926566710046e-05
+29,A man prepares food in a shanty kitchen.,A man is fixing a meal.,neutral,entailment,"A man prepares food in a shanty kitchen.
+
+Can we infer that a man is fixing a meal? Answer as yes, no or maybe.
+
+Answer:",0.9331250379676274,"{
+  "" Maybe"": -0.06921607,
+  "" Yes"": -2.7220366,
+  "" maybe"": -8.334595,
+  ""Maybe"": -7.90263,
+  ""Yes"": -7.831188
+}",0.00012724205865188853,0.9337348741351431,0.06613788380620503
+30,There are two people sweeping a sidewalk in this picture.,The man is clearing leaves from the sidewalk.,neutral,neutral,"There are two people sweeping a sidewalk in this picture.
+
+Can we infer that the man is clearing leaves from the sidewalk? Answer as yes, no or maybe.
+
+Answer:",0.9993436228098169,"{
+  ""\n"": -11.655483,
+  "" "": -11.826521,
+  "" Maybe"": -0.0006565927,
+  "" maybe"": -8.454211,
+  ""Maybe"": -7.780934
+}",1.2876841058051536e-05,0.9999742463178839,6.4384205290535235e-06
+31,The dogs ran around the dirt racetrack.,Dogs are humping each other.,contradiction,contradiction,"The dogs ran around the dirt racetrack.
+
+Can we infer that dogs are humping each other? Answer as yes, no or maybe.
+
+Answer:",0.9432991730340892,"{
+  "" Maybe"": -2.9097703,
+  "" No"": -0.05837179,
+  "" maybe"": -8.417626,
+  ""Maybe"": -9.7443285,
+  ""No"": -6.3248205
+}",0.9450904607919268,0.05476780914164183,0.00014173006643136699
+32,"A man is sitting in front of a harpsichord, and a woman is preparing to sing.",a boy covers his ears,neutral,contradiction,"A man is sitting in front of a harpsichord, and a woman is preparing to sing.
+
+Can we infer that a boy covers his ears? Answer as yes, no or maybe.
+
+Answer:",0.9977339949744695,"{
+  ""\n"": -9.583605,
+  "" Maybe"": -0.0022685763,
+  "" No"": -7.6464505,
+  "" maybe"": -7.2254353,
+  ""Maybe"": -6.9778576
+}",0.00047773685003764735,0.999394129039038,0.00012813411092438276
+33,Two people dressed in red and white wait at the horse track with a horse.,The people at the track are outdoors.,neutral,entailment,"Two people dressed in red and white wait at the horse track with a horse.
+
+Can we infer that the people at the track are outdoors? Answer as yes, no or maybe.
+
+Answer:",0.9995942577356647,"{
+  ""\n"": -12.000936,
+  "" "": -12.158405,
+  "" Maybe"": -0.0004058246,
+  "" maybe"": -8.780638,
+  ""Maybe"": -8.363773
+}",9.449654993609613e-06,0.9999811006900128,4.7248274968048065e-06
+34,A person is standing next to a wooden fence with flowering trees nearby.,The bare tree branches rattle in the wind.,neutral,contradiction,"A person is standing next to a wooden fence with flowering trees nearby.
+
+Can we infer that the bare tree branches rattle in the wind? Answer as yes, no or maybe.
+
+Answer:",0.9991344695377663,"{
+  ""\n"": -11.658971,
+  "" "": -11.286844,
+  "" Maybe"": -0.00086590525,
+  "" maybe"": -8.51212,
+  ""Maybe"": -7.3623734
+}",1.4911474652934409e-05,0.9999701770506941,7.4557373264672044e-06
+35,An old woman in a cowboy hat smokes a cigarette.,The old lady is ten feet tall.,contradiction,contradiction,"An old woman in a cowboy hat smokes a cigarette.
+
+Can we infer that the old lady is ten feet tall? Answer as yes, no or maybe.
+
+Answer:",0.9831534974409967,"{
+  "" "": -9.712451,
+  "" Maybe"": -4.2264013,
+  "" No"": -0.016990019,
+  "" maybe"": -10.058865,
+  ""No"": -6.182607
+}",0.9852185347198884,0.014647659180156413,0.00013380609995516934
+36,Two soccer players are playing soccer.,Two people play a game.,entailment,entailment,"Two soccer players are playing soccer.
+
+Can we infer that two people play a game? Answer as yes, no or maybe.
+
+Answer:",0.9946310698015676,"{
+  "" Maybe"": -6.2869554,
+  "" YES"": -9.496241,
+  "" Yes"": -0.0053833947,
+  "" yes"": -8.047306,
+  ""Yes"": -5.778532
+}",2.016520259284782e-05,0.0018604155541519245,0.9981194192432552
+37,A wielder works on wielding a beam into place while other workers set beams.,The wielder is working on a building.,neutral,neutral,"A wielder works on wielding a beam into place while other workers set beams.
+
+Can we infer that the wielder is working on a building? Answer as yes, no or maybe.
+
+Answer:",0.9993780145631875,"{
+  "" "": -11.458983,
+  "" Maybe"": -0.00062217895,
+  "" maybe"": -8.06955,
+  ""Maybe"": -8.157028,
+  ""maybe"": -12.083656
+}",8.348502747612674e-06,0.9999833029945048,4.174251373778581e-06
+38,A man is popping balloons inside a cubicle using a handmade tool.,A man is popping balloons inside a cubicle using a handmade knife.,neutral,neutral,"A man is popping balloons inside a cubicle using a handmade tool.
+
+Can we infer that a man is popping balloons inside a cubicle using a handmade knife? Answer as yes, no or maybe.
+
+Answer:",0.9972570923641254,"{
+  ""\n"": -10.661564,
+  "" Maybe"": -0.0027466763,
+  "" No"": -6.3080916,
+  "" maybe"": -7.81279,
+  ""Maybe"": -7.701229
+}",0.0018215060865809359,0.9981138912034896,6.460270992947326e-05
+39,a man wearing a gray shirt waving in the middle of a plant nursery,The man does not have a way to get home.,neutral,neutral,"a man wearing a gray shirt waving in the middle of a plant nursery
+
+Can we infer that the man does not have a way to get home? Answer as yes, no or maybe.
+
+Answer:",0.9984999159525313,"{
+  "" "": -10.2335,
+  "" Maybe"": -0.0015012103,
+  "" No"": -9.172817,
+  "" maybe"": -7.231859,
+  ""Maybe"": -7.391444
+}",0.00010382362624314568,0.9998395962596703,5.6580114086490774e-05
+40,People were watching the tournament in the stadium.,The people are sitting outside on the grass.,neutral,contradiction,"People were watching the tournament in the stadium.
+
+Can we infer that the people are sitting outside on the grass? Answer as yes, no or maybe.
+
+Answer:",0.9983021465866578,"{
+  "" Maybe"": -0.0016992964,
+  "" No"": -10.104945,
+  "" maybe"": -7.16092,
+  ""Maybe"": -7.092897,
+  ""maybe"": -10.791125
+}",4.0876918257538095e-05,0.9999300544404638,2.9068641278717777e-05
+41,Two soccer players on the field running into each other.,There are two people colliding and falling.,neutral,neutral,"Two soccer players on the field running into each other.
+
+Can we infer that there are two people colliding and falling? Answer as yes, no or maybe.
+
+Answer:",0.964053734251757,"{
+  "" Maybe"": -0.036608245,
+  "" Yes"": -3.3586125,
+  "" maybe"": -7.853659,
+  ""Maybe"": -7.705591,
+  ""Yes"": -8.401968
+}",9.972199825369898e-05,0.9648923652138947,0.03500791278785167
+42,Nine men wearing tuxedos sing.,Nine woman wearing dresses sing.,neutral,contradiction,"Nine men wearing tuxedos sing.
+
+Can we infer that nine woman wearing dresses sing? Answer as yes, no or maybe.
+
+Answer:",0.9952705735247195,"{
+  "" "": -11.139456,
+  "" Maybe"": -0.0047406456,
+  "" No"": -5.6610665,
+  "" maybe"": -7.1686506,
+  ""Maybe"": -7.7223077
+}",0.0034788047737819294,0.9964837725685415,3.742265767658903e-05
+43,A man and woman walking away from a crowded street fair.,There are a group of men walking together.,neutral,contradiction,"A man and woman walking away from a crowded street fair.
+
+Can we infer that there are a group of men walking together? Answer as yes, no or maybe.
+
+Answer:",0.9989488604346312,"{
+  "" Maybe"": -0.0010516924,
+  "" No"": -9.928856,
+  "" maybe"": -8.034645,
+  ""Maybe"": -7.3262205,
+  ""maybe"": -11.765846
+}",4.8747531387875535e-05,0.9999387212902832,1.2531178329000525e-05
+44,"A man on stilts in a purple, yellow and white costume.",A man is performing on stilts.,neutral,entailment,"A man on stilts in a purple, yellow and white costume.
+
+Can we infer that a man is performing on stilts? Answer as yes, no or maybe.
+
+Answer:",0.966032141064144,"{
+  "" Maybe"": -0.034558173,
+  "" Yes"": -3.4194722,
+  "" maybe"": -7.7412763,
+  ""Maybe"": -7.7571983,
+  ""Yes"": -8.561733
+}",0.00018469660467101967,0.9668943107709662,0.0329209926243628
+45,A young woman with glasses sits at the end of a row of seats and speaks into a microphone.,A young woman wearing glasses,entailment,entailment,"A young woman with glasses sits at the end of a row of seats and speaks into a microphone.
+
+Can we infer that a young woman wearing glasses? Answer as yes, no or maybe.
+
+Answer:",0.9955808781809822,"{
+  "" Maybe"": -6.1980257,
+  "" YES"": -9.507788,
+  "" Yes"": -0.004428915,
+  "" yes"": -7.698524,
+  ""Yes"": -6.3018146
+}",2.4937682915893156e-05,0.002033441299023936,0.9979416210180602
+46,Two friends walk down the street with a stuffed animal.,Two friends are walking on the sidewalk.,neutral,entailment,"Two friends walk down the street with a stuffed animal.
+
+Can we infer that two friends are walking on the sidewalk? Answer as yes, no or maybe.
+
+Answer:",0.9994531743636642,"{
+  ""\n"": -12.152945,
+  "" Maybe"": -0.0005469752,
+  "" Yes"": -11.433462,
+  "" maybe"": -8.297545,
+  ""Maybe"": -8.2213545
+}",1.8020230925230862e-05,0.9999711527090537,1.082706002110806e-05
+47,Two men and one woman are dressed in costume hats.,the people are swingers,neutral,neutral,"Two men and one woman are dressed in costume hats.
+
+Can we infer that the people are swingers? Answer as yes, no or maybe.
+
+Answer:",0.8972765670276627,"{
+  "" Maybe"": -0.10839114,
+  "" No"": -2.2902453,
+  "" maybe"": -7.7302647,
+  ""Maybe"": -7.350055,
+  ""No"": -8.53405
+}",0.10143828113173907,0.8983584518580481,0.00020326701021289306
+48,People judge a gray and white dog in a show.,A dog is being judged for first place in a show.,neutral,neutral,"People judge a gray and white dog in a show.
+
+Can we infer that a dog is being judged for first place in a show? Answer as yes, no or maybe.
+
+Answer:",0.9992757902065924,"{
+  "" "": -11.114418,
+  "" Maybe"": -0.00072447216,
+  "" No"": -9.507524,
+  "" maybe"": -8.832784,
+  ""Maybe"": -7.649736
+}",7.429075811850175e-05,0.9998978315950715,2.787764681000393e-05
+49,Eight people are sitting on a long boat on a sunny day.,Morning ride on boat,neutral,neutral,"Eight people are sitting on a long boat on a sunny day.
+
+Can we infer that morning ride on boat? Answer as yes, no or maybe.
+
+Answer:",0.9995096228242087,"{
+  "" "": -11.362558,
+  "" Maybe"": -0.00049049745,
+  "" maybe"": -8.784084,
+  ""Maybe"": -8.060923,
+  ""maybe"": -12.224694
+}",8.341372724263163e-06,0.9999833172545515,4.170686362159337e-06
+50,A picture of two little boys holding books.,A picture of children with books.,neutral,entailment,"A picture of two little boys holding books.
+
+Can we infer that a picture of children with books? Answer as yes, no or maybe.
+
+Answer:",0.9342785049783561,"{
+  "" Maybe"": -0.0679807,
+  "" Yes"": -2.738282,
+  "" maybe"": -7.851593,
+  ""Maybe"": -8.122946,
+  ""Yes"": -8.174204
+}",7.250520279167283e-05,0.9349642899968419,0.06496320480036638
+
+
+51.0,"A woman in her early fifties walks by herself in the subway, another woman is not far behind.",back in the fifties a woman could walk by herself in the subway.,neutral,contradiction,"A woman in her early fifties walks by herself in the subway, another woman is not far behind.
+
+Can we infer that back in the fifties a woman could walk by herself in the subway? Answer as yes, no or maybe.
+
+Answer:",0.9968868271037462,"{
+  "" Maybe"": -0.0031180289,
+  "" No"": -6.145234,
+  "" Yes"": -8.133297,
+  "" maybe"": -8.099986,
+  ""Maybe"": -8.072174
+}",0.0021436742134531353,0.9975024745202301,0.00029359860869863734
+52.0,"A man is standing in what appears to be a parking lot and shaving his face, while his dog looks at the ground near his feet.",A women is walking with a man,neutral,contradiction,"A man is standing in what appears to be a parking lot and shaving his face, while his dog looks at the ground near his feet.
+
+Can we infer that a women is walking with a man? Answer as yes, no or maybe.
+
+Answer:",0.9429881600951339,"{
+  "" Maybe"": -0.058701552,
+  "" No"": -2.8950698,
+  "" maybe"": -7.204198,
+  ""Maybe"": -7.2008867,
+  ""No"": -8.894847
+}",0.055432258909976176,0.9444775424098583,9.01986801655763e-05
+53.0,A white dog with a life vest accompanies a man in a boat.,man eats carrot,contradiction,contradiction,"A white dog with a life vest accompanies a man in a boat.
+
+Can we infer that man eats carrot? Answer as yes, no or maybe.
+
+Answer:",0.5383904384517353,"{
+  "" Maybe"": -0.77927035,
+  "" No"": -0.61917126,
+  "" maybe"": -6.725832,
+  ""Maybe"": -7.6555424,
+  ""No"": -7.0147915
+}",0.5392889315798005,0.46041354446819294,0.0002975239520065509
+54.0,A young girl in a pink shirt sitting on a dock viewing a body of water.,An old woman viewing a body of water.,neutral,contradiction,"A young girl in a pink shirt sitting on a dock viewing a body of water.
+
+Can we infer that an old woman viewing a body of water? Answer as yes, no or maybe.
+
+Answer:",0.9822189560310016,"{
+  "" "": -9.56678,
+  "" Maybe"": -0.017941026,
+  "" No"": -4.268942,
+  "" maybe"": -5.8150616,
+  ""Maybe"": -7.2980213
+}",0.013996583708027364,0.9858781294304374,0.00012528686153523427
+55.0,A bunch of happy children having fun swimming and one boy is showing off his talent with a back flip.,Kids are having fun,entailment,entailment,"A bunch of happy children having fun swimming and one boy is showing off his talent with a back flip.
+
+Can we infer that kids are having fun? Answer as yes, no or maybe.
+
+Answer:",0.994332569820357,"{
+  "" Maybe"": -7.8741603,
+  "" YES"": -8.820506,
+  "" Yes"": -0.005683551,
+  "" yes"": -7.2834125,
+  ""Yes"": -5.420404
+}",2.7112106902871247e-05,0.00038044828620662597,0.9995924396068905
+56.0,"Two cyclists, in yellow, are competing in a race.",A Mustang and a Corvette are competing in a drag race.,contradiction,contradiction,"Two cyclists, in yellow, are competing in a race.
+
+Can we infer that a Mustang and a Corvette are competing in a drag race? Answer as yes, no or maybe.
+
+Answer:",0.8818513011404434,"{
+  "" Maybe"": -2.14788,
+  "" No"": -0.12573183,
+  "" maybe"": -7.8339877,
+  ""Maybe"": -9.071493,
+  ""No"": -7.111282
+}",0.882667149544175,0.11724230403517263,9.054642065231544e-05
+57.0,The backside of a woman leaning against the guard rail of a passenger boat looking out at the open ocean.,The woman is driving her car on the highway.,contradiction,contradiction,"The backside of a woman leaning against the guard rail of a passenger boat looking out at the open ocean.
+
+Can we infer that the woman is driving her car on the highway? Answer as yes, no or maybe.
+
+Answer:",0.9808360664447365,"{
+  "" "": -10.558391,
+  "" Maybe"": -4.006428,
+  "" No"": -0.019349942,
+  "" maybe"": -9.749714,
+  ""No"": -7.085056
+}",0.9816735943291477,0.018256594884502948,6.981078634937798e-05
+58.0,A police vehicle in an urban area.,A cop car in a suburban area,neutral,contradiction,"A police vehicle in an urban area.
+
+Can we infer that a cop car in a suburban area? Answer as yes, no or maybe.
+
+Answer:",0.99910162697889,"{
+  "" "": -10.932999,
+  "" Maybe"": -0.0008987768,
+  "" No"": -10.089033,
+  "" maybe"": -7.710367,
+  ""Maybe"": -7.8990607
+}",4.153255418689737e-05,0.9999208758956989,3.759155011417992e-05
+59.0,6 men in work jumpsuits and 1 man in an orange jumpsuit are walking next to green and red loading docks.,All 7 men are best friends.,contradiction,neutral,"6 men in work jumpsuits and 1 man in an orange jumpsuit are walking next to green and red loading docks.
+
+Can we infer that all 7 men are best friends? Answer as yes, no or maybe.
+
+Answer:",0.7169675768333841,"{
+  "" Maybe"": -1.2775203,
+  "" No"": -0.33272466,
+  "" maybe"": -6.650294,
+  ""Maybe"": -7.9092164,
+  ""No"": -6.084172
+}",0.7192462270991715,0.28038858910375697,0.00036518379707151105
+60.0,This man is walking past a wall that has art on it.,A man walks past a wall mural.,neutral,entailment,"This man is walking past a wall that has art on it.
+
+Can we infer that a man walks past a wall mural? Answer as yes, no or maybe.
+
+Answer:",0.999423253842042,"{
+  "" "": -11.250738,
+  "" Maybe"": -0.00057691254,
+  "" Yes"": -10.571752,
+  "" maybe"": -8.724657,
+  ""Maybe"": -7.9361515
+}",3.100777506637176e-05,0.9999433623526325,2.5629872301106108e-05
+61.0,A black dog has just jumped into a swimming pool.,A dog jumped into a pool to cool off.,neutral,neutral,"A black dog has just jumped into a swimming pool.
+
+Can we infer that a dog jumped into a pool to cool off? Answer as yes, no or maybe.
+
+Answer:",0.9980013198266046,"{
+  "" "": -10.766143,
+  "" Maybe"": -0.0020006802,
+  "" Yes"": -6.755004,
+  "" maybe"": -8.367266,
+  ""Maybe"": -7.5376277
+}",6.863531550427293e-05,0.9987663295103262,0.0011650351741695976
+62.0,A ballerina in a black dress and tights dances in front of a concrete wall.,a man dancing,contradiction,contradiction,"A ballerina in a black dress and tights dances in front of a concrete wall.
+
+Can we infer that a man dancing? Answer as yes, no or maybe.
+
+Answer:",0.8214619420227962,"{
+  "" Maybe"": -1.7410631,
+  "" No"": -0.19666967,
+  "" maybe"": -7.000966,
+  ""Maybe"": -8.443822,
+  ""No"": -6.369155
+}",0.8231755486343418,0.1764601315244246,0.0003643198412335291
+63.0,there is a lady standing and six people laying on a gym floor.,There are seven people in the gym.,neutral,entailment,"there is a lady standing and six people laying on a gym floor.
+
+Can we infer that there are seven people in the gym? Answer as yes, no or maybe.
+
+Answer:",0.9922341327782593,"{
+  "" Maybe"": -0.0077961786,
+  "" Yes"": -4.997338,
+  "" maybe"": -7.455309,
+  ""Maybe"": -7.9455113,
+  ""Yes"": -10.410617
+}",4.723718700883062e-05,0.9931667444139606,0.006786018399030587
+64.0,A couple is back to back in formal attire.,Two people are facing away from each other.,entailment,entailment,"A couple is back to back in formal attire.
+
+Can we infer that two people are facing away from each other? Answer as yes, no or maybe.
+
+Answer:",0.5728392171411424,"{
+  "" Maybe"": -0.85880315,
+  "" Yes"": -0.5571502,
+  "" maybe"": -7.875242,
+  "" yes"": -7.732756,
+  ""Yes"": -6.0874653
+}",0.00040250581817535824,0.4240488840339582,0.5755486101478664
+65.0,A biker pops a wheelie along side the colorful wall.,A person is riding a bike near a wall.,entailment,entailment,"A biker pops a wheelie along side the colorful wall.
+
+Can we infer that a person is riding a bike near a wall? Answer as yes, no or maybe.
+
+Answer:",0.9387590495033034,"{
+  "" "": -9.500086,
+  "" Maybe"": -2.8524268,
+  "" Yes"": -0.063196436,
+  "" yes"": -7.308712,
+  ""Yes"": -5.9448166
+}",0.00024777428195887907,0.05770411447219884,0.9420481112458423
+66.0,A street vendor selling cupcakes.,There is a person outside in this picture,neutral,entailment,"A street vendor selling cupcakes.
+
+Can we infer that there is a person outside in this picture? Answer as yes, no or maybe.
+
+Answer:",0.9469897097607757,"{
+  "" Maybe"": -0.054467052,
+  "" Yes"": -2.955441,
+  "" maybe"": -7.836737,
+  ""Maybe"": -8.044539,
+  ""Yes"": -8.709375
+}",7.375493659889099e-05,0.9477055147464872,0.052220730316913926
+67.0,An infant napping in it's crib in pajamas.,A baby is sleeping in a crib with its blanket.,neutral,neutral,"An infant napping in it's crib in pajamas.
+
+Can we infer that a baby is sleeping in a crib with its blanket? Answer as yes, no or maybe.
+
+Answer:",0.9971195238552347,"{
+  "" "": -10.374863,
+  "" Maybe"": -0.0028846327,
+  "" Yes"": -6.3604684,
+  "" maybe"": -7.818579,
+  ""Maybe"": -7.3118896
+}",8.217203704941056e-05,0.9981892710967806,0.0017285568661699884
+68.0,A couple kissing in front of a black Mercedes Benz limousine,A couple kissing in front of a car,neutral,entailment,"A couple kissing in front of a black Mercedes Benz limousine
+
+Can we infer that a couple kissing in front of a car? Answer as yes, no or maybe.
+
+Answer:",0.9707925104327944,"{
+  "" Maybe"": -0.02964252,
+  "" Yes"": -3.5797446,
+  "" maybe"": -7.3641667,
+  ""Maybe"": -7.902821,
+  ""Yes"": -8.994001
+}",0.00019726631166738784,0.9717957627059349,0.02800697098239767
+69.0,A group of people in blue pants and shirts in motion.,There are people moving.,entailment,entailment,"A group of people in blue pants and shirts in motion.
+
+Can we infer that there are people moving? Answer as yes, no or maybe.
+
+Answer:",0.7893710656680126,"{
+  "" Maybe"": -1.5847547,
+  "" Yes"": -0.23651877,
+  "" maybe"": -8.487401,
+  "" yes"": -7.385959,
+  ""Yes"": -5.406013
+}",0.0003154131437643759,0.2052041210608025,0.7944804657954332
+70.0,A father and children ride bikes in city street.,A woman and her daughters ride their bikes.,neutral,contradiction,"A father and children ride bikes in city street.
+
+Can we infer that a woman and her daughters ride their bikes? Answer as yes, no or maybe.
+
+Answer:",0.9988659500212468,"{
+  "" "": -11.389001,
+  "" Maybe"": -0.0011346935,
+  "" No"": -10.669498,
+  "" maybe"": -7.390226,
+  ""Maybe"": -7.665113
+}",2.3243198647891757e-05,0.9999521102251951,2.464657615697252e-05
+71.0,a poor looking person with white cream smeared around his eyes sitting on a backpack.,A dirty man with some product under his eyes is sitting on a pillow.,neutral,contradiction,"a poor looking person with white cream smeared around his eyes sitting on a backpack.
+
+Can we infer that a dirty man with some product under his eyes is sitting on a pillow? Answer as yes, no or maybe.
+
+Answer:",0.9977038908008081,"{
+  "" "": -11.333988,
+  "" Maybe"": -0.0022987493,
+  "" No"": -6.7548103,
+  "" maybe"": -7.9456067,
+  ""Maybe"": -7.218361
+}",0.0011652608633401244,0.9987911085510053,4.36305856545971e-05
+72.0,A man sleeping on a chair with a newspaper on his chest.,the man is a farmer,neutral,neutral,"A man sleeping on a chair with a newspaper on his chest.
+
+Can we infer that the man is a farmer? Answer as yes, no or maybe.
+
+Answer:",0.9972986984987335,"{
+  "" "": -9.431786,
+  "" Maybe"": -0.0027049566,
+  "" No"": -6.545445,
+  "" maybe"": -7.553186,
+  ""Maybe"": -7.3678203
+}",0.0014366446334469847,0.998454377706453,0.0001089776601000958
+73.0,A boy in a gray hoodie and black cap holds up an American flag.,A person is holding an American flag.,entailment,entailment,"A boy in a gray hoodie and black cap holds up an American flag.
+
+Can we infer that a person is holding an American flag? Answer as yes, no or maybe.
+
+Answer:",0.7642856746555124,"{
+  "" Maybe"": -1.4597907,
+  "" Yes"": -0.26881364,
+  "" maybe"": -8.828719,
+  "" yes"": -7.77736,
+  ""Yes"": -5.961137
+}",0.0002868752695441845,0.2324313526111216,0.7672817721193342
+74.0,A young boy asleep in a stroller.,A young boy is taking his afternoon nap.,neutral,neutral,"A young boy asleep in a stroller.
+
+Can we infer that a young boy is taking his afternoon nap? Answer as yes, no or maybe.
+
+Answer:",0.9981030672554392,"{
+  "" "": -11.041239,
+  "" Maybe"": -0.0018987342,
+  "" Yes"": -6.644284,
+  "" maybe"": -8.3026285,
+  ""Maybe"": -8.121793
+}",5.0632700933306296e-05,0.9986479273833408,0.001301439915725795
+75.0,"Neck and neck to the finish line, every competitor has been training for this race.",The competitors have trained very hard and are all very close to the finish line.,entailment,entailment,"Neck and neck to the finish line, every competitor has been training for this race.
+
+Can we infer that the competitors have trained very hard and are all very close to the finish line? Answer as yes, no or maybe.
+
+Answer:",0.5275971605377653,"{
+  "" Maybe"": -0.75850934,
+  "" Yes"": -0.63942224,
+  "" maybe"": -8.048301,
+  "" yes"": -7.9191976,
+  ""Yes"": -5.8633695
+}",0.0005137698050650119,0.46868372303486167,0.5308025071600734
+76.0,A football team wearing purple and white trying to stop the runner with the ball.,Lacrosse players celebrate a victory.,neutral,contradiction,"A football team wearing purple and white trying to stop the runner with the ball.
+
+Can we infer that lacrosse players celebrate a victory? Answer as yes, no or maybe.
+
+Answer:",0.9989381908187285,"{
+  "" "": -12.129352,
+  "" Maybe"": -0.0010623733,
+  "" maybe"": -7.9267254,
+  ""Maybe"": -7.290016,
+  ""maybe"": -11.759252
+}",5.354437819626856e-06,0.9999892911243607,2.6772189097856725e-06
+77.0,Many small sailboats sitting at a dock., Many small sailboats docked.,neutral,entailment,"Many small sailboats sitting at a dock.
+
+Can we infer that  Many small sailboats docked? Answer as yes, no or maybe.
+
+Answer:",0.9922723982316362,"{
+  "" Maybe"": -0.0077576144,
+  "" No"": -5.1231923,
+  "" Yes"": -7.1603127,
+  "" maybe"": -7.501316,
+  ""Maybe"": -7.8478513
+}",0.0059569760549072134,0.993215345550151,0.0007768116062455289
+78.0,One biker is running with their bike while another is riding around them.,The people are part of a club,neutral,neutral,"One biker is running with their bike while another is riding around them.
+
+Can we infer that the people are part of a club? Answer as yes, no or maybe.
+
+Answer:",0.9991947294045334,"{
+  ""\n"": -9.821215,
+  "" "": -10.186708,
+  "" Maybe"": -0.000805595,
+  "" maybe"": -8.634266,
+  ""Maybe"": -7.5495663
+}",5.0514079842578496e-05,0.9998989718403148,2.5257039921289248e-05
+79.0,A person wearing an orange shirt with a backpack on looking across a segment of lush green trees.,A person is meditating and looking at the peaceful lush green trees.,neutral,neutral,"A person wearing an orange shirt with a backpack on looking across a segment of lush green trees.
+
+Can we infer that a person is meditating and looking at the peaceful lush green trees? Answer as yes, no or maybe.
+
+Answer:",0.999424446234649,"{
+  ""\n"": -11.39931,
+  "" "": -11.912781,
+  "" Maybe"": -0.00057571946,
+  "" maybe"": -8.79601,
+  ""Maybe"": -7.830097
+}",1.331557567857411e-05,0.9999733688486429,6.657787839259299e-06
+80.0,Two men fight in a ring while spectators look on.,Boxers fight as the crowd screams.,neutral,neutral,"Two men fight in a ring while spectators look on.
+
+Can we infer that boxers fight as the crowd screams? Answer as yes, no or maybe.
+
+Answer:",0.9991843581567934,"{
+  ""\n"": -10.754495,
+  "" "": -11.240869,
+  "" Maybe"": -0.00081597466,
+  "" maybe"": -8.105382,
+  ""Maybe"": -7.6797
+}",2.5809226228468152e-05,0.9999483815475431,1.290461311420632e-05
+81.0,Girls playing soccer competitively in the grass.,Nobody is playing soccer.,contradiction,contradiction,"Girls playing soccer competitively in the grass.
+
+Can we infer that nobody is playing soccer? Answer as yes, no or maybe.
+
+Answer:",0.5369329245516169,"{
+  "" Maybe"": -0.7753112,
+  "" No"": -0.6218821,
+  "" maybe"": -7.229307,
+  ""Maybe"": -7.6822295,
+  ""No"": -6.774058
+}",0.5380759712946084,0.46174640149171303,0.00017762721367864387
+82.0,Two gray dogs running in green grass.,Two gray dogs are running.,entailment,entailment,"Two gray dogs running in green grass.
+
+Can we infer that two gray dogs are running? Answer as yes, no or maybe.
+
+Answer:",0.9954815165019798,"{
+  "" Maybe"": -6.693886,
+  "" YES"": -8.677199,
+  "" Yes"": -0.0045287227,
+  "" yes"": -7.7167788,
+  ""Yes"": -5.937544
+}",2.5800445423995733e-05,0.0012384607513615908,0.9987357388032144
+83.0,"Five men in red shirts, in a line, on a basketball court, four with hands on their hearts, and same four looking upward.",A team of basketball players are on the court.,neutral,entailment,"Five men in red shirts, in a line, on a basketball court, four with hands on their hearts, and same four looking upward.
+
+Can we infer that a team of basketball players are on the court? Answer as yes, no or maybe.
+
+Answer:",0.9982920723712074,"{
+  "" Maybe"": -0.0017093878,
+  "" No"": -8.687424,
+  "" Yes"": -7.1575694,
+  "" maybe"": -8.238976,
+  ""Maybe"": -7.708533
+}",0.0001686940227970552,0.9990052066239231,0.0007789455592232548
+84.0,"A bride, a groom, 3 guys, and 3 women.",The unrelated people wander aimlessly.,neutral,contradiction,"A bride, a groom, 3 guys, and 3 women.
+
+Can we infer that the unrelated people wander aimlessly? Answer as yes, no or maybe.
+
+Answer:",0.9944639984469813,"{
+  "" "": -10.079801,
+  "" Maybe"": -0.005551382,
+  "" No"": -5.4682984,
+  "" maybe"": -7.264466,
+  ""Maybe"": -7.5158963
+}",0.004218404090787005,0.9957083352898327,7.326061938028872e-05
+85.0,"A group of asian women in sports attire, and one woman in the center is wearing a baseball cap.",Men are playing with a dog,contradiction,contradiction,"A group of asian women in sports attire, and one woman in the center is wearing a baseball cap.
+
+Can we infer that men are playing with a dog? Answer as yes, no or maybe.
+
+Answer:",0.9843358029365564,"{
+  "" Maybe"": -4.2218328,
+  "" No"": -0.015788177,
+  "" maybe"": -9.693306,
+  "" no"": -10.550714,
+  ""No"": -7.0541773
+}",0.9852257708093682,0.014733424604579964,4.080458605182358e-05
+86.0,A snowboarder is jumping over a snow slope.,A girl jumps her green snowboard over a slope.,neutral,neutral,"A snowboarder is jumping over a snow slope.
+
+Can we infer that a girl jumps her green snowboard over a slope? Answer as yes, no or maybe.
+
+Answer:",0.9987380377449135,"{
+  ""\n"": -10.855326,
+  "" Maybe"": -0.0012627592,
+  "" No"": -8.116652,
+  "" maybe"": -7.953012,
+  ""Maybe"": -7.4723563
+}",0.0002985264557740936,0.9996582262449514,4.324729927451809e-05
+87.0,a group of people on a dock lowering into the water a boat with teal and purple decorations.,The group was getting ready to go fishing on the boat.,neutral,neutral,"a group of people on a dock lowering into the water a boat with teal and purple decorations.
+
+Can we infer that the group was getting ready to go fishing on the boat? Answer as yes, no or maybe.
+
+Answer:",0.9992623228876418,"{
+  ""\n"": -11.695846,
+  "" "": -11.920918,
+  "" Maybe"": -0.00073794933,
+  "" maybe"": -8.474071,
+  ""Maybe"": -7.5886474
+}",1.1349394768711552e-05,0.9999773012104626,5.67469738432802e-06
+88.0,A young girl in a bathing suit drinking a beverage in a green bottle.,The girl is drinking milk from a sippy cup.,neutral,contradiction,"A young girl in a bathing suit drinking a beverage in a green bottle.
+
+Can we infer that the girl is drinking milk from a sippy cup? Answer as yes, no or maybe.
+
+Answer:",0.9945120991487746,"{
+  "" "": -9.595673,
+  "" Maybe"": -0.0055030147,
+  "" No"": -5.5933623,
+  "" maybe"": -7.300083,
+  ""Maybe"": -6.969627
+}",0.0037224906692159393,0.9961275853183215,0.00014992401246261
+89.0,Two people are sitting at a table outside of a building.,Two people are sitting eating lunch,neutral,neutral,"Two people are sitting at a table outside of a building.
+
+Can we infer that two people are sitting eating lunch? Answer as yes, no or maybe.
+
+Answer:",0.9994593726916359,"{
+  ""\n"": -11.8392935,
+  "" "": -11.487574,
+  "" Maybe"": -0.0005407735,
+  "" maybe"": -8.7839,
+  ""Maybe"": -7.9161386
+}",1.1319754383121161e-05,0.9999773604912338,5.659877191588336e-06
