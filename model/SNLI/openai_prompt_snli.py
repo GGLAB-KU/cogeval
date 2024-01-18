@@ -2,10 +2,8 @@ import openai, time
 import pandas as pd
 import numpy as np
 from collections import defaultdict
-#muge
-#openai.api_key = "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" 
-#sadra
-openai.api_key = "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" 
+
+openai.api_key = <OPEN_AI_KEY> 
 
 def calc_dist(logprobs):
     dists = defaultdict(lambda:0)
